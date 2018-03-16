@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:52:47">
+<tblStatesALA>
+<ID>31</ID>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<LegislatureHyperlink>#http://www.njleg.state.nj.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).</Citation>
+<Description>Smoking is prohibited in almost all indoor public places and workplaces, including restaurants and bars.  &quot;Indoor public place&quot; is defined as a structurally enclosed place of business, commerce or other service-related activity, whether publicly or privately owned or operated on a for-profit or nonprofit basis, which is generally accessible to the public (see statute cited for list of specific places covered).  The definiton of smoking includes the inhaling or exhaling of smoke or vapor from an electronic smoking device as defined.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).</Citation>
+<Description>Exceptions to the law include: 1) cigar bars and cigar lounges as defined; 2) tobacco retail establishments that make 51 percent or more of their sales from tobacco products; 3) tobacco businesses as specified; 4) private homes, private residences, and private automobiles; 5) the floors of casinos and casino simulcasting facilities; and 6) up to 20 percent of rooms in hotels/motels.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 26:3D-63 (2006).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+The provisions of this act shall supersede any other statute, municipal ordinance and rule or regulation adopted pursuant to law concerning smoking in an indoor public place or workplace, except where smoking is prohibited by municipal ordinance or by any other statute or regulation adopted pursuant to law for purposes of protecting life and property from fire or protecting public health, and except for those provisions of a municipal ordinance which provide restrictions on or prohibitions against smoking equivalent to, or greater than, those provided under this act.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).</Citation>
+<Description>Smoking is prohibited in &quot;indoor public places,&quot; the definition of which includes an office or building owned, leased or rented by the state or by a county or municipal government.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).</Citation>
+<Description>Smoking is prohibited in &quot;workplaces,&quot; which are defined as structurally enclosed locations or portions thereof at which a person performs any type of service or labor.  Smoking is also prohibited in &quot;indoor public places,&quot; the definition of which includes all private workplaces that are open to the public.   Tobacco businesses when the testing of a cigar or pipe tobacco by heating, burning or smoking is a necessary and integral part of the process of making, manufacturing, importing or distributing cigars or pipe tobacco are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).</Citation>
+<Description>Smoking is prohibited in any area of any building of, or on the grounds of, any public or nonpublic elementary or secondary school, regardless of whether the area is an indoor public place or is outdoors.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.J. ADMIN. CODE § 10:122C-7.2(a)3 (2007).</Citation>
+<Description>Smoking is prohibited in &quot;indoor public places,&quot; the definition of which includes licensed child care centers.  Smoking is also prohibited in &quot;workplaces,&quot; that are defined as structurally enclosed locations or portions thereof at which a person performs any type of service or labor.
+N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).
+
+A resource (a.k.a. foster) family parent shall maintain a smokefree environment in all indoor areas of the home, and in all vehicles used to transport a child in placement.  Smoking may be permitted outdoors when no child in placement is present.  The resource family parent shall also prohibit smoking and the use of smokeless tobacco by children in placement.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).</Citation>
+<Description>Smoking is prohibited in &quot;indoor public places&quot; the definition of which includes health care facilities and the patient waiting rooms of health care providers.  Smoking is also prohibited in &quot;workplaces,&quot; that are defined as structurally enclosed locations or portions thereof at which a person performs any type of service or labor.  Smoking may be prohibited on the grounds of a state psychiatric hospital, if the hospital offers a smoking cessation program for employees, patients and residents.  The cessation program must be in place for one year before the policy prohibiting smoking on the grounds takes effect, and the cessation program must continue to be provided unless the policy prohibiting smoking on the grounds is rescinded.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).</Citation>
+<Description>Smoking is prohibited in &quot;indoor public places,&quot; the definition of which includes restaurants or other establishments where the principal business is the sale of food for consumption on the premises, including the bar area of the establishment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).</Citation>
+<Description>Smoking is prohibited in &quot;indoor public places,&quot; the definition of which includes bars.  Cigar bars and cigar lounges are exempt if in the calendar year ending December 31, 2004, the cigar bar or cigar lounge generated 15 percent or more of its total annual gross income from the on-site sale of tobacco products and the rental of on-site humidors, not including any sales from vending machines, and is registered with the local board of health in the municipality in which the bar or lounge is located.  The registration shall remain in effect for one year and shall be renewable only if in the preceding calendar year, the cigar bar or lounge generated 15 percent or more of its total annual gross income from the on-site sale of tobacco products and the rental of on-site humidors, and the cigar bar or cigar lounge has not expanded its size or changed its location since December 31, 2004.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:3D-55 to 26:3D-64 (2010).</Citation>
+<Description>The person having control of an indoor public place or workplace shall place in every public entrance a sign, which shall be located so as to be clearly visible to the public indicating that smoking is prohibited or permitted in establishments allowed to do so.  The person having control of an indoor public place or workplace shall order any person smoking in violation of this law to comply.  A person, after being so ordered, who continues to smoke is subject to a fine of not less than $250 for the first offense, $500 for the second offense and $1,000 for each subsequent offense.  The Department of Health and Senior Services or the local board of health or the board, body or officers exercising the functions of the local board of health, upon written complaint or having reason to suspect that an indoor public place or workplace may be in violation, shall, by written notification, advise the person having control of the place accordingly and order appropriate action to be taken.  A person receiving that notice that fails or refuses to comply is subject to a fine of not less than $250 for the first offense, $500 for the second offense and $1,000 for each subsequent offense.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 54:40A-8 (2009).</Citation>
+<Description>Tax rate per pack of 20: $2.70
+Date last changed:  July 1, 2009 -- from $2.575 to $2.70
+Year first enacted: 1948</Description>
+<NumericValue>2.7</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:2H-18.58g (2009), 54:40A-37.1 (1990) &amp; 34:1B-21.20 (2009).</Citation>
+<Description>The first $1 million of cigarette tax revenue is placed in the Cancer Research Fund, and the rest of revenue goes to the Dedicated Cigarette Tax Revenue Fund and the Health Care Subsidy Fund as specified.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>752009000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 3000, sect. 67 enacted 6/28/13 and effective 7/1/13.</Citation>
+<Description>The first $1 million in cigarette tax revenue is deposited annually in the Cancer Research Fund, to be appropriated toward funding of the New Jersey State Commission on Cancer Research or to projects authorized and approved by the commission.  After the above deposit, beginning July 1, 2009 and each fiscal year thereafter, the next $150 million of cigarette tax revenue collected is dedicated to the Health Care Subsidy Fund.  After that, the remaining revenue is deposited to the Dedicated Cigarette Tax Revenue Fund and the Health Care Subsidy Fund as specified in section 34:1B-21.20 New Jersey Statutes.   
+N.J. STAT. ANN. §§ 26:2H-18.58g (2009), 54:40A-37.1 (1990) &amp; 34:1B-21.20 (2009). 
+
+In 2004, the New Jersey Economic Development Authority (NJEDA) was authorized to issue &quot;bonds&quot; primarily for the purpose of providing revenue for the state in any fiscal year starting with FY2005.  NJEDA then will establish and maintain a Cigarette Tax Securitization Proceeds Fund where proceeds from these sales minus required costs will be deposited.  These bonds are payable solely by revenue from the cigarette tax starting in FY2007.  The required revenue from the cigarette tax will be set aside in a Dedicated Cigarette Tax Revenue Fund in the Department of Treasury.
+N.J. STAT. ANN. §§ 34:1B-21.16 to 34:1B-21.22 (2009).
+
+Notwithstanding any other laws/regulations to the contrary, funds remaining in the Dedicated Cigarette Tax Revenue Fund at the end of FY2013 are appropriated from such fund for transfer to the General Fund as State revenue.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 54:40B-3 &amp; 54:40B-3.1 (2006).</Citation>
+<Description>Moist snuff: 75 cents/oz. and a proportionate rate on all fractional parts of an ounce;
+All other tobacco products: 30% of the wholesale price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 26:2H-18.58g (2009).</Citation>
+<Description>Beginning July 1, 2006 and each fiscal year thereafter, the first $5 million of other tobacco products tax revenue collected in a fiscal year is dedicated to the Health Care Subsidy Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 26:2F-7 (1995) &amp; 26:3A2-20.1 (2000).</Citation>
+<Description>The Commissioner of Health and Senior Services is authorized to enforce the prohibition on the sale and commercial distribution of tobacco products to persons less than 19 years of age.  The commissioner may delegate the enforcement authority to local health agencies, subject to the availability of sufficient funding.  Grants from the Special Projects and Development Fund shall be made on an annual basis to local health agencies for local enforcement efforts in an amount based on the number of cigarette retail dealer and vending machine licenses issued within their jurisdiction in order to ensure statewide coverage and statewide consistency.  Each grant recipient shall report quarterly to the commissioner on the number of compliance check inspections it has completed and the results of those compliance checks.  The commissioner reports to the legislature on a quarterly basis on enforcement efforts.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 2C: 33-13.1 (2010).</Citation>
+<Description>No person either directly or indirectly, by an agent or employee, including through vending machines, shall sell, offer for sale, distribute for commercial purpose at no cost or minimal cost or with coupons or rebate offers, give or furnish, to a person under 19 years of age, any cigarettes made of tobacco, or of any other matter or substance which can be smoked; any cigarette paper; tobacco in any form, including smokeless tobacco; or any electronic smoking device that can be used to deliver nicotine or other substances to the person inhaling from the device, including, but not limited to, an electronic cigarette, cigar, cigarillo, or pipe, or any cartridge or other component of the device or related product.  A person, including an employee of a retail dealer licensee that makes the sale, is liable for a civil penalty of $250 for the first violation, $500 for the second violation and $1,000 for each subsequent violation.  In addition, upon the recommendation of the municipality, following a hearing by the municipality, the Division of Taxation in the Department of Treasury may suspend or, after a second or subsequent violation, revoke the license of a retail dealer.  The licensee shall be subject to administrative charges based on a schedule issued by the director of the division, which may provide for a fine in lieu of the suspension.  The establishment of all of the following shall constitute a defense to any prosecution: 1) that the purchaser of the tobacco product or electronic smoking device or person receiving a promotional sample falsely represented that they were of legal age by producing photo identification; 2) that the appearance of the purchaser or recipient was such that an ordinary prudent person would believe them to be of legal age; and 3) that the sale or distribution was made in good faith, relying upon the identification, the minor&apos;s appearance, and in the reasonable belief that the purchaser or recipient was actually of legal age to make the purchase or receive the sample.    
+N.J. STAT. ANN. § 2A:170-51.4 (2010).
+
+A person who sells or gives to a person under 19 years of age any cigarettes made of tobacco or of any other matter or substance which can be smoked; any cigarette paper; tobacco in any form, including smokeless tobacco; or any electronic smoking device that can be used to deliver nicotine or other substances to the person inhaling from the device, including, but not limited to, an electronic cigarette, cigar, cigarillo, or pipe, or any cartridge or other component of the device or related product shall be punished by a fine as provided for a petty disorderly persons&apos; offense.  Subsequent offenses are subject to twice the amount of the fine provided for a petty disorderly persons&apos; offense.  The same defense to prosecution is available for an offense, see paragraph above.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 54:40A-4.1 (1995).</Citation>
+<Description>A person to whom a license is issued shall, as a condition of the license, conspicuously post a legible sign at the point of display and at the point of sale, stating &quot;A PERSON WHO SELLS OR OFFERS TO SELL A TOBACCO PRODUCT TO A PERSON UNDER 19 YEARS OF AGE SHALL PAY A PENALTY OF UP TO $1,000 AND MAY BE SUBJECT TO A LICENSE SUSPENSION OR REVOCATION.  PROOF OF AGE MAY BE REQUIRED FOR PURCHASE.&quot;</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The laws prohibiting the sale, giving or furnishing of tobacco products to minors includes bidi cigarettes as well.  Violation is subject to the same penalties as selling or furnishing tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A person may only engage in a non-face-to-face sale of cigarettes to a person in this state if: 1) the seller has complied with all requirements of the federal Jenkins Act; 2) the seller has verified payment of, paid, or collected all applicable state taxes; 3) the seller has, before mailing or shipping the cigarettes, obtained from the purchaser reliable confirmation that the purchaser is at least 19 years old and a statement by the purchaser certifying the purchaser&apos;s date of birth and address, made a good faith effort to verify the information in the certification against a commercially available database or has obtained a photocopy or other image of a government-issued identification bearing the purchaser&apos;s image and stating the date of birth or age of the purchaser; and 4) received payment for the sale from the prospective purchaser by a credit or debit card that has been issued in the purchaser&apos;s name or by check, and verified that a credit or debit card used for payment has been issued in the purchaser&apos;s name, and the address to which the cigarettes are being shipped matches the credit or debit card company&apos;s address for the cardholder.  In addition to any other remedies provided by law, the Director of the Division of Taxation in the Department of the Treasury shall assess a penalty of not less than $1,000 and not more than $2,000 for the first violation, a penalty of not less than $2,500 and not more than $3,500 for the second violation within a five-year period,  penalty of not less than $4,000 and not more than $5,000 for the third violation within a five-year period, a penalty of not less than $5,500 and not more than $6,500 for a fourth violation within a five-year period, and a penalty of $10,000 for a fifth or subsequent violation within a five-year period.
+N.J. STAT. ANN. §§ 54:40A-46 to 54:40A-53 (2005).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Flavored Cigarettes/Tobacco Products: No person, either directly or indirectly by an agent or employee, or by a vending machine owned by the person or located in the person&apos;s establishment, shall sell, offer for sale, distribute for commercial purpose at no cost or minimal cost or with coupons or rebate offers, give or furnish, to a person a cigarette, or any component part thereof, which contains a natural or artificial constituent or additive that causes the cigarette or any smoke emanating from that product to have a characterizing flavor other than tobacco, clove or menthol.  &quot;Characterizing flavor other than tobacco, clove or menthol&quot; means that: the cigarette, or any smoke emanating from that product, imparts a distinguishable flavor, taste or aroma other than tobacco, clove or menthol prior to or during consumption, including, but not limited to, any fruit, chocolate, vanilla, honey, candy, cocoa, dessert, alcoholic beverage, herb or spice flavoring; or the cigarette or any component part thereof is advertised or marketed as having or producing any such flavor, taste or aroma.  Violation is subject to a civil penalty of not less than $250 for a first violation, not less than $500 for a second violation and $1,000 for subsequent violations.  A retailer&apos;s license to sell tobacco products may also be suspended after the first violation or revoked after the second or subsequent violations.
+N.J. STAT. ANN. § 2A:170-51.5 (2008).
+
+Note: Recent federal legislation enacted giving the U.S. Food and Drug Administration the authority to regulate tobacco products preempts the ability of states to regulate flavored cigarettes.  So, the law above is null and void.  However, a federal regulation prohibits the sale of almost all flavored cigarettes anyway.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 2A:170-51.4 (2003).</Citation>
+<Description>Any person who directly or indirectly, acting as an agent or otherwise, distributes any tobacco product for commercial purposes at no cost or at minimal cost or with coupons or rebate offers to a minor under the age of 19 is liable for a civil penalty of $250 for the first violation, $500 for the second violation and $1,000 for each subsequent violation.  A defense to such action may be established if the conditions listed under the &quot;Penalties for Sales to Minors&quot; section are met.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 54:40A-4.2 (2004).</Citation>
+<Description>A person shall not sell, offer for sale, give away or deliver single cigarettes, or cigarettes in packs of less than 20 cigarettes from a vending machine or in a retail establishment.  A person owning a vending machine that is in violation of this section shall be fined not less than $100 but no more than $500 for each day the violation continues.  A person who violates this law in a retail establishment shall be fined $250 for a first offense and $500 for the second and subsequent offenses.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling or minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>N/A</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Not applicable</HasLawOrRestrictionDescription>
+<Description>N/A</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 54:40A-4.1 (1995).</Citation>
+<Description>A legible sign shall be posted conspicuously on any licensed cigarette vending machine stating &quot;A PERSON WHO SELLS OR OFFERS TO SELL A TOBACCO PRODUCT TO A PERSON UNDER 19 YEARS OF AGE SHALL PAY A PENALTY OF UP TO $1,000 AND MAY BE SUBJECT TO A LICENSE SUSPENSION OR REVOCATION.  PROOF OF AGE MAY BE REQUIRED FOR PURCHASE.&quot;</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances restricting the placement of and/or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 54:40A-3 (1952) &amp; 54-40A-4 (1997).</Citation>
+<Description>Wholesalers, distributors, manufacturers, manufacturer&apos;s representatives and retailers must obtain the appropriate license from the Commissioner of Taxation to sell or distribute tobacco products.  Each vending machine must also be licensed.  Wholesalers, distributors and retailers must obtain a license for each place of business.  Licenses expire on March 31st of each year and must be renewed annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 54:40A-4 (1997).</Citation>
+<Description>Retail dealer or vending machine license: $50 annually; 
+Wholesale dealer license: $250 annually; 
+Distributor license: $350 annually; 
+Manufacturers&apos; license: $10 and $5 annually for each manufacturer&apos;s representative license.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 2A:170-51.4 (2003).</Citation>
+<Description>Upon the recommendation of a municipality, following a hearing by a municipality, the Division of Taxation may suspend, or, after a second or subsequent violation, revoke the license of a retail dealer that sells or distributes tobacco products to minors.  The licensee shall be subject to administrative charges based on a schedule issued by the Director of the Division, which may provide for a fine in lieu of the suspension.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 34:6B-1 et seq. (1991).</Citation>
+<Description>No employer shall refuse to hire or employ any person or shall discharge from employment or take any adverse action against any employee with respect to compensation, terms, conditions or other privileges of employment because that person does or does not smoke or use other tobacco products, unless the employer has a rational basis for doing so which is reasonably related to employment, including the responsibilities of the employee or prospective employee.  An aggrieved person may institute a civil action within one year from the date of the alleged violation.  The Commissioner of Labor may collect a civil penalty imposed against the employer of an amount up to $2,000 for the first violation and $5,000 for each subsequent violation.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 18A:39-31 &amp; 18A:39-32 (2011).</Citation>
+<Description>The board of education of any school district may enter into a contract for the sale of advertising space on the exterior sides of school buses owned or leased by the school district.  However, advertisements for tobacco shall be prohibited.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. § 52:4D-13 (2003).</Citation>
+<Description>The appeal bond required to appeal a lawsuit judgment for a signatory, a successor of a signatory, or any affiliate of a signatory to the Master Settlement Agreement is limited to $50 million regardless of the value of the judgment.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating assets outside the ordinary course of business to avoid payment of a judgment, a court may enter orders that: are necessary to protect the appellee; and require the appellant to post a bond in an amount up to the total amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The rights to almost all of New Jersey&apos;s Master Settlement Agreement payments have been sold to the Tobacco Settlement Financing Corporation to obtain a smaller lump sum payments up front; see Securitization section below for additional details.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>231300000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<Citation>S.B. 3000, sect. 76 enacted 6/28/13 and effective 7/1/13.</Citation>
+<Description>The Tobacco Settlement Fund, created and established in the Department of the Treasury as a separate non-lapsing fund pursuant to section 53 of Public Law 1999, chap.138, is reestablished and continued. The unexpended balances at the end of the preceding fiscal year in the Tobacco Settlement Fund are appropriated. The Tobacco Settlement Fund shall be the repository for payments made by the tobacco manufacturers pursuant to the settlement agreement entered into by the tobacco manufacturers and the State on November 23, 1998 that resolved the State&apos;s pending claims against the tobacco industry and all other monies, including interest earnings on balances in the fund, credited or transferred thereto from any other fund or source.
+S.B. 3000, sect. 46 enacted 6/28/13 and effective 7/1/13.
+
+Notwithstanding other laws/regulations to the contrary, funds may be transferred from the Tobacco Settlement Fund to the General Fund during FY2014, which transfer amount shall be based upon the available balances in the Tobacco Settlement Fund, subject to the approval of the Director of the Division of Budget and Accounting.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>New Jersey provides no state funding to tobacco control programs.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2015 Annual Budget (S.B. 2015) enacted 6/30/14 and effective 7/1/14.</Citation>
+<Description>New Jersey allocated no state dollars to tobacco prevention and cessation programs in FY2015 (July 1, 2014 to June 30, 2015).  In FY2014, no state dollars were allocated either.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>0</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 54:40A-54 to 54:40A-66 (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection g of section 54:40A-57 New Jersey Statutes, no cigarettes may be sold or offered for sale in New Jersey or offered for sale or sold to persons located in New Jersey unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 54:40A-57 New Jersey Statutes; 2) a written certification has been filed by the manufacturer with the Director of the Division of Fire Safety in the Department of Consumer Affairs in accordance with section 54:40A-58 New Jersey statutes; and 3) the cigarettes have been marked in accordance with section 54:40A-59 New Jersey Statutes.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 54:40A-54 to 54:40A-66 (2008).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale in violation of the above shall be subject to a civil penalty not to exceed $10,000 for each sale for a first offense and not to exceed $25,000 for subsequent offenses.  In no case shall the penalty against any such person or entity exceed $100,000 during a 30-day period.  Any retailer who knowingly sells cigarettes in violation is subject to a civil penalty not to exceed $500 for a first offense and not to exceed $2,000 for subsequent offenses if the sale involves less than 1,000 cigarettes and not to exceed $1,000 for a first offense and not to exceed $5,000 for subsequent offenses if the sale involves 1,000 cigarettes or more.  In addition, any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification shall be subject to a civil penalty of at least $75,000 for a first offense and not to exceed $250,000 for subsequent offenses for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated no state dollars for tobacco prevention and cessation programs in FY2015.
+FY2015 Annual Budget (S.B. 2015) enacted 6/30/14 and effective 7/1/14.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>19</Description>
+<NumericValue>19</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.J. STAT. ANN. §§ 52:18B-1 to 52:18B14 (2002).</Citation>
+<Description>The Tobacco Settlement Financing Corporation was established in, but not of, the state Department of Treasury.  The state acting through the department may sell to the corporation, and the corporation may purchase, for cash or other consideration and in one or more installments, all or a portion of the state&apos;s Master Settlement Agreement payments pursuant to the terms of one or more sale agreements.  The net proceeds, any earnings thereon and any residual interests shall be applied, transferred, or paid to, and upon the order of the state, and shall be used for any bona fide governmental purposes, including without limitation for capital expenditures, debt service on outstanding bonds, working capital expenditures or operating deficit needs of the state, endowments, or grants or aid to political subdivisions, including without limitation school districts, of the state.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $752,009,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Jersey</Name>
+<Abbrev>NJ</Abbrev>
+<FipsCode>34</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $0
+
+FY2015 Federal Funding for State Tobacco Control Programs:  $3,098,822*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $3,098,822 
+
+Funding Level Recommended by CDC:                                        $103,300,000 
+
+Percentage of CDC-Recommended Level:                                  3%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>31</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:51:41">
+<tblStatesALA>
+<ID>8</ID>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<LegislatureHyperlink>www.cga.state.ct.us#http://www.cga.state.ct.us#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. §§ 19a-342 &amp; 31-40q (2003); and CT ADMIN CODE §§ 19a-79-7(d)(6) &amp; 19a-87b-9 (1993).</Citation>
+<Description>Smoking is prohibited in many public places, specifically including: state and local government buildings; any area of a health care institution; any area of a retail food store; any restaurant; any bar/tavern; within a school building while school is in session or student activities are being conducted; any passenger elevator; in any dormitory of any public or private institution of higher education; and any dog racing track or off-track betting facility.  Nothing in this section shall be construed to require any smoking area in any building.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 19a-342 (2003).</Citation>
+<Description>Exceptions to the law include: 1) correctional facilities; 2) designated smoking areas in psychiatric facilities; 3) public housing projects; 4) classrooms where demonstration smoking is taking place as part of a medical or scientific experiment or lesson; 5) smoking rooms provided by employers pursuant to section 31-40q Connecticut General Statutes, 6) outdoor areas of restaurants subject to certain conditions; and 7) tobacco bars as defined.  The operator of a hotel, motel or similar lodging may allow guests to smoke in not more than 25 percent of their rooms.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. §§ 19a-342 &amp; 31-40q (2003).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically not allowed, see below.
+
+The provisions of the state law restricting smoking shall supersede and preempt the provisions of any municipal law or ordinance relative to smoking effective prior to, on, or after October 1, 1993.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 19a-342 (2003).</Citation>
+<Description>No person shall smoke in any building or portion of any building owned or leased and operated by the state or any political subdivision thereof.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 31-40q (2003).</Citation>
+<Description>Each employer with fewer than five employees in a business facility shall establish one or more work areas where smoking is prohibited, sufficient to accommodate nonsmokers who request to utilize such an area.  Signs shall be posted to clearly designate the boundaries of each nonsmoking area. In the areas within the business facility where smoking is permitted, existing physical barriers and ventilation systems shall be used to the extent practicable to minimize the effect of smoking in adjacent nonsmoking areas.  Each employer with five or more employees shall prohibit smoking in any business facility under said employer&apos;s control, except that an employer may designate one or more smoking rooms.  Each employer that provides a smoking room shall provide sufficient nonsmoking break rooms for nonsmoking employees.  Each smoking room designated by an employer shall be located in a non-work area where no employee, as part of their work responsibilities, is required to enter, and such room shall be for the use of employees only.  Nothing in this section may be construed to prohibit an employer from designating an entire business facility as a nonsmoking area.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 53-198 (1985).</Citation>
+<Description>Smoking is prohibited in school buildings when school is in session or student activities are being conducted.  Exempt are classrooms where demonstration smoking is taking place as part of a medical or scientific experiment or lesson.  No person shall smoke in any dormitory in any public or private institution of higher education. 
+CONN. GEN. STAT. § 19a-342 (2003).  
+
+No passenger or employee shall possess a lighted cigarette while traveling upon or engaged in the operation of a school bus.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>CT ADMIN CODE § 19a-87b-9 (1993).</Citation>
+<Description>Smoking is prohibited in all child day care centers or group day care homes and outdoor areas, except in designated smoking areas.  Smoking areas must be enclosed, properly ventilated, and away from any children present at the day care facility.  Signs must be posted at the entrance stating that smoking is prohibited except in designated areas.  
+CT ADMIN CODE § 19a-79-7(d)(6) (1993).
+
+In family day care facilities, the provider or staff members may not smoke while engaged in care-giving activities requiring direct physical contact with children, including, but not limited to feeding, diapering, dressing and rocking.  The provider shall make it known in advance if smoking will be occurring in the facility to parents who are considering placing their children in the provider&apos;s care.  The provider shall also ensure that all cigarettes, cigars, pipes, ashes, butts, lighters and matches are kept out of the reach of children.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 19a-342 (2003).</Citation>
+<Description>No person shall smoke in any area of a health care institution.  Smoking is restricted to designated areas in psychiatric facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 19a-342 (2003).</Citation>
+<Description>No person shall smoke in any indoor area of a restaurant.  An exemption is made for the outdoor portion of the restaurant, provided, in the case of any seating area maintained for the service of food at least 75 percent of the outdoor seating capacity is an area in which smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 19a-342 (2003).</Citation>
+<Description>Smoking is prohibited in bars. Tobacco bars are exempt, provided no tobacco bar shall expand in size or change its location from its size or location as of December 31, 2002.  &quot;Tobacco bar&quot; means a bar that in the calendar year ending December 31, 2002, generated 10 percent or more of its total annual gross income from the on-site sale of tobacco products and the rental of on-site humidors.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 53-198 (1985).</Citation>
+<Description>Smoking is prohibited in buses and railroad cars unless a special compartment of such vehicle is designated as a smoking area. Violation of this section is an infraction.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 19a-342 (2003).</Citation>
+<Description>In each room, elevator, area or building in which smoking is prohibited by this section, the person in control of the premises shall post or cause to be posted in a conspicuous place signs stating that smoking is prohibited by state law.  Violation of laws prohibiting smoking in public places or failure to post the required signs is an infraction.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-412-108 (2000).</Citation>
+<Description>Tax rate per pack of 20: $3.90
+Date last changed: July 1, 2016 -- from $3.65 to $3.90
+Year first enacted: 1935
+CONN. GEN. STAT. § 12-296 (2015).
+
+Note: House Bill 7061, passed in 2015 increases the cigarette tax by 25 cents on October 1, 2015 and by an additional 25 cents on July 1, 2016.
+H.B. 7061, sects. 176 to 180 enacted 6/30/2015 and parts effective 10/1/2015 and 7/1/16.
+
+Note: The definition of &quot;cigarette&quot; include what are often referred to as little cigars weighing under 3 lbs. per thousand.
+CONN. GEN. STAT. §§ 12-285 &amp; 12-296 (2011).
+
+Sales and use tax will no longer be imposed on specially formulated gum, inhalants, or similar products designed to aid in the cessation of a smoking habit.</Description>
+<NumericValue>3.9</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenues from the state cigarette tax are distributed to the state general fund and subject to appropriation by the legislature.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>408272000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-330(c) (2011).</Citation>
+<Description>Snuff: $1.00/oz. and a proportionate rate on all fractional parts of an ounce; 
+Cigars: 50% of the wholesale sales price except the tax shall not exceed 50 cents per cigar;
+All other tobacco products: 50% of the wholesale sales price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue from state taxes on tobacco products other than cigarettes are distributed to the state general fund and subject to appropriation by the legislature.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-315a (1998).</Citation>
+<Description>The Commissioner of Revenue Services shall prepare a report on enforcement efforts undertaken to enforce youth access laws.  Such report shall include the number of unannounced inspections conducted by the commissioner, a summary of enforcement actions taken pursuant to said sections and an assessment of the progress made in the previous fiscal year in reducing the availability of tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 53-344b (2014).</Citation>
+<Description>Any person employed by a dealer or distributor who sells, gives, or delivers tobacco in any form to a minor, other than a minor who is delivering or accepting delivery in their capacity as an employee, shall be for a first violation required to complete an online tobacco prevention education program by the Department of Mental Health and Addiction Services no later than 30 days after finding of a violation occurs and will be assessed a civil penalty of $200 if they do not take the course.  Subsequent offenses within 24 months are subject to a civil penalty of $250.  Any dealer or distributor who has sold, given or delivered cigarettes or tobacco products to a minor, other than a minor who is delivering or accepting delivery in their capacity as an employee, or if their employee has done so, shall for a first offense be required to take the online education program as specified above, and will be subject to a civil penalty of $300 if they don&apos;t.  A second violation within 24 months is subject to a fine of $750 and a third violation within 24 months of the first violation is subject a civil penalty of $750 and a license suspension for at least 30 days.   
+CONN. GEN. STAT. § 12-295a(b&amp;c) (2014).
+
+If the owner of an establishment where a cigarette vending machine is located has sold, given or delivered or allowed to be sold, given or delivered tobacco products to a minor, other than a minor who is delivering or accepting delivery in their capacity as an employee, from that machine, they are subject to the same online tobacco education program requirements and civil penalties as dealers of tobacco products above, except on a third violation within 24 months of the first violation, the vending machine will be immediately removed from the establishment, and may not be placed there again for a period of one year.
+CONN. GEN. STAT. § 12-295a(d) (2014).
+
+Any person who sells, gives, or delivers tobacco to a minor shall be fined not more than $200 for the first offense, $350 for a second offense within 18 months, and not more than $500 for each subsequent offense within 18 months.  A seller or seller&apos;s agent or employee may perform a transaction scan to check the validity of a driver&apos;s license or identity card presented by a cardholder as a condition for selling, giving away, or otherwise distributing tobacco to the cardholder.  It is an affirmative defense to prosecution if all the following occurred: A card holder attempting to purchase tobacco products presented an official piece of identification; a transaction scan of the ID indicated that it was valid; tobacco products were sold or given away in reasonable reliance upon the ID presented and the completed scan. However, this does not excuse the seller from exercising reasonable diligence to determine whether the person attempting to purchase tobacco products is 18 years of age or older and whether the description and picture appearing on the ID presented by a card holder is that of the card holder.
+CONN. GEN. STAT. § 53-344 (2014).
+
+Any person who sells, gives or delivers to any person under 18 years of age an electronic nicotine delivery system or vapor product as defined, unless the minor is delivering or accepting delivery in such person&apos;s capacity as an employee, in any form shall be fined not more than $200 for the first offense, not more than $350 for a second offense and not more than $500 for each subsequent offense within an 18-month period.  Applies same transaction scan and affirmative defense provisions as apply to selling tobacco to electronic nicotine delivery systems and vapor products, see paragraph above for a summary.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-286a (2007).</Citation>
+<Description>Signs must be posted and maintained at each point of sale stating that it is illegal to sell or give tobacco products to minors and illegal for minors to purchase tobacco products or misrepresent their age to do so.  Retailers in violation shall be punishable by a fine of not more than $100.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-295a(a) (2014).</Citation>
+<Description>Any persons under 18 years of age who purchases tobacco products or misrepresents their age to purchase tobacco products shall be fined not more than $50 for the first offense and $50 to $100 for subsequent offenses.  
+CONN. GEN. STAT. § 53-344 (2001).
+
+Any person under eighteen years of age who purchases or misrepresents such person&apos;s age to purchase an electronic nicotine delivery system or vapor product in any form or possesses such products in any public place shall be fined not more than $50 for the first offense and $50-$100 for each subsequent offense.
+CONN. GEN. STAT. § 53-344b (2014).
+
+If the Commissioner of Revenue Services finds, after a hearing, that a minor has purchased cigarettes or tobacco products, the commissioner shall assess such minor a civil penalty of not more than $100 for the first violation and not more than $150 for any subsequent offenses within 24 months.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The transport of cigarettes by tobacco product manufacturers to anybody in the state is prohibited except to: 1) cigarette distributors and dealers; 2) an export warehouse proprietor or operator of a customs bonded warehouse; or 3) a person who is an officer, employee or agent of the United States Government, this state or a department, agency, instrumentality or political subdivision of the United States or of this state, when such person is acting in accordance with such person&apos;s official duties.  A common or contract carrier is barred from transporting cigarettes to a residential dwelling and anybody who is not reasonably believed to be one of the above persons.  Persons selling cigarettes shall require, as a condition of delivery, that the customer who is receiving the cigarettes shall sign an acknowledgment of receipt and provide proper proof of age.  Any person who violates the provisions of this section shall be guilty of a Class A misdemeanor and, for a second or subsequent violation, shall be guilty of a Class D felony. 
+CONN. GEN. STAT. § 12-285c (2003).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-314a (1996).</Citation>
+<Description>The Commissioner of Revenue Services may authorize a dealer or distributor to give or deliver any cigarette or tobacco product, in connection with the promotion or advertisement of such product without receiving monetary compensation from the person receiving the tobacco product, provided, the distribution is on the premises of a licensed dealer or at any event or establishment with an area limited to adult access only, the sample of cigarettes contains no less than  two cigarettes, and the taxes on such cigarettes have been paid.  The licensed dealer or distributor shall be liable for any gift or delivery of tobacco to minors on their premises by any person conducting a promotion or advertisement.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-314 (2014).</Citation>
+<Description>The sale of cigarettes other than in an unopened package containing 20 or more cigarettes originating with the manufacturer which bears the health warning required by law is prohibited.  Violation is subject to a civil penalty of not more than $200 for a first offense, not more than $330 for a second offense within 24 months of the first offense and not more than $500 for the third and subsequent offense within 24 months of the first offense.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling and minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-289a (1996).</Citation>
+<Description>No cigarettes may be dispensed from any machine other than a cigarette vending machine or a restricted cigarette vending machine.  A cigarette vending machine may be placed only in an area, facility or business which is accessible to adults only or may be placed in an area frequented by persons of all ages provided the machine is placed in an area accessible to adults only.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-289a (1996).</Citation>
+<Description>Violation of the restrictions on the placement of vending machines is subject to a civil penalty of $250 for a first violation and $500 for a second violation within 18 months.  A third violation within 18 months is subject to a civil penalty of $500 and removal of the vending machine for a period of one year.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-286a (2007).</Citation>
+<Description>Notice must be posted and maintained on the front of each vending machine and restricted vending machine stating that it is illegal to sell or give tobacco products to minors and it is illegal for minors to purchase tobacco products or misrepresent their age to do so.  Violation is punishable by a fine of not more than $100.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting placement of and/or the required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-330b (2009).</Citation>
+<Description>Dealers (retailers), distributors, including vending machine operators and manufacturers who sell cigarettes must be licensed by the Commissioner of Revenue Services.  All licenses are renewable annually unless suspended or revoked.  Any person, except a person whose dealer&apos;s license has been expired for no more than 90 days, who knowingly sells, offers for sale or possesses with intent to sell any cigarettes or taxed tobacco products, without a license, shall be fined not more than $500 or imprisoned for not more than three months, or both, for each offense. Each day of such unauthorized operation may be deemed a separate offense.  Any person whose dealer&apos;s license has expired for no more than 90 days and who knowingly sells at retail, offers for sale at retail or possesses with intent to sell at retail any cigarettes or taxed tobacco products is an infraction subject to a $90 fine.  Any person who fails to secure or renew a license shall forfeit as a penalty for each day of operation without such license the sum of $5.
+CONN. GEN. STAT. §§ 12-285b (2009), 12-286 (2011), 12-287 (2009), 12-288 (2009) &amp; 12-291a (1993).
+
+Distributors who deal in tobacco products other than cigarettes must also be licensed by the Commissioner of Revenue Services.  The license must be displayed on the premises covered by the license.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. §§ 12-285b, 12-287, 12-288 &amp; 12-330b (2009).</Citation>
+<Description>Dealers/Retailers (includes persons operating fewer than 25 cigarette vending machines): $50 annually; 
+Distributors: (includes persons operating 25 or more cigarette vending machines): $1,000 annually;   
+For distributors who sell cigarettes as a distributor exclusively to retail stores which such distributor is operating the fee is $315 to $1,250 annually depending on the number of retail stores operated;
+Distributors of tobacco products other than cigarettes: $200 annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 12-295a (2007).</Citation>
+<Description>The Commissioner of Revenue Services may suspend the license of any dealer or distributor for not less than 30 days for a third violation of selling or distributing tobacco products to minors, following a hearing.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CT GEN. STAT. ANN. § 31-40s (2003).</Citation>
+<Description>No employer or agent of any employer shall require, as a condition of employment that any employees or prospective employees refrain from using tobacco products outside the course of their employment, or otherwise discriminate with respect to compensation, terms, conditions or privileges of employment.  Any nonprofit organization or corporation whose primary purpose is to discourage use of tobacco products by the general public shall be exempt from the provisions of this section.</Description>
+<Year>2003</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The Commissioner of Public Health shall adopt regulations that specify the manner in which said commissioner shall obtain information from public sources concerning the nicotine yield ratings for each brand of tobacco product including, but not limited to, cigarettes, sold or offered for sale in this state.
+CONN. GEN. STAT. § 19a-74a (1999).</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.
+
+Note: No appeal bond is required to appeal monetary judgments in lawsuits.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>All of Connecticut&apos;s annual Master Settlement Agreement payments are deposited in a Tobacco Trust Fund.  Most of the money is transferred to the state general fund from there, but a portion of the money goes to several funds, including the Tobacco and Health Trust Fund where any funding for tobacco prevention programs is allocated from.
+CONN. GEN. STAT. §§ 4-28e (2014), 4-28f (2014); FY2014-FY2015 Biennial Budget (H.B. 6704) enacted 6/18/13 and effective 7/1/13; FY2014-FY2015 Biennial Budget Adjustments (H.B. 5596, sect. 28, 32 &amp; 33) enacted 5/29/14 and parts effective 5/29/14 &amp; 7/1/14; and H.B. 5597 sect. 214-216 enacted 6/13/14 and parts effective 6/13/14 and 7/1/14.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>123800000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>H.B. 6704, sect. 110-112 enacted and effective 6/18/13; H.B. 6706, sect. 43 &amp; 110 enacted and effective 6/19/13; &amp; H.B. 5596 sect. 34-36 enacted and effective 5/29/14.</Citation>
+<Description>A Tobacco Settlement Fund was created where all annual Master Settlement Agreement (MSA) payments are deposited.  In FY2002, and each fiscal year thereafter, $12 million is dedicated to the Tobacco and Health Trust Fund except in FY2014 and FY2015 the disbursement shall be $6 million per year, $4 million is dedicated to the Biomedical Research Trust Fund, an unspecified amount each year to the general fund, and any remainder to the Tobacco and Health Trust Fund.  In addition to the above, in FY2005, and each fiscal year thereafter, $100,000 is appropriated to the Department of Revenue Services and $25,000 is appropriated to the office of the Attorney General for the enforcement of MSA complimentary enforcement legislation; in FY2008 to FY2012, $10 million each year was transferred to the Regenerative Medicine Research Fund; and in FY2016-FY2025 $10 million each year to the smart start competitive grant account for grants-in-aid to towns as specified.
+CONN. GEN. STAT. § 4-28e (2014).
+
+Note: The following additional transfers were made from the Tobacco Settlement Fund in FY2015: 1) $10 million to the Department of Mental Health and Addiction Services for grants as specified, 2) $1 million to the Department of Education for afterschool grants as specified, and 3) $500,000 to the Department of Economic and Community Development for a grant to Connecticut Innovations, Inc. as specified.
+H.B. 5596 sect. 21 enacted and effective 5/29/14.
+
+A Tobacco and Health Trust Fund was created, which consists of money transferred from the Tobacco Settlement Fund, and money from various other sources.  The trust fund is administered by a board of 17 trustees, except the board&apos;s duties were suspended during FY2004 and FY2005.  In FY2015 and each fiscal year thereafter, the board may recommend allocation of up to the total unobligated balance remaining in the trust fund after disbursement in accordance with the provisions of the general statutes and relevant special and public acts for such purposes, not to exceed $12 million per fiscal year.  The board&apos;s recommendations shall give (i) priority to programs that address tobacco and substance abuse and serve minors, pregnant women and parents of young children, and (ii) consideration to the availability of private matching funds.  Establishes a process for review and approval of the disbursement of funds from the trust fund by the legislature.
+CONN. GEN. STAT. § 4-28f (2014).
+
+Note: In FY2014 and FY2015 the following additional transfers were made from the Tobacco and Health Trust Fund: 1) $500,000 each fiscal year to the University of Connecticut Health Center for the Connecticut Health Information Network; 2) $1.050 million in FY2014 and $1.075 million in FY2015 to the Department of Public Health for certain programs related to asthma as specified, 3) $3.4 million each fiscal year to the Department of Social Services for the Medicaid smoking cessation program/benefit; 4) $500,000 in FY2014 and $750,000 in FY2015 to the Department of Developmental Services to implement recommendations to enhance and improve services and supports for individuals with autism and their families; 5) $200,000 each fiscal year to the Department of Social Services to support The University of Connecticut -- Medicaid Partnership; and 6) $3.5 million in FY2014 and $4 million ($1 milion on or before July 1, 2014) in FY2015 to the state General Fund.
+FY2014-FY2015 Biennial Budget (H.B. 6704, sect. 19, 20 &amp; 109) enacted 6/18/13 and parts effective 6/18/13 and 7/1/13; FY2014-FY2015 Biennial Budget Adjustments (H.B. 5596, sect. 28, 32 &amp; 33) enacted 5/29/14 and parts effective 5/29/14 &amp; 7/1/14; &amp; H.B. 5597 sect. 214-216 enacted 6/13/14 and parts effective 6/13/14 and 7/1/14.
+
+Proceeds received from the settlement of the dispute between the state and tobacco companies over a portion of MSA payments are distributed as follows: 1) up to $26,044,055 shall be reserved for the purpose of reducing aggregate appropriations in section 1 of the biennial budget for Nonfunctional-Change to Accruals for FY2014; 2) up to $10 million in FY2014 and up to $19,455,945 million in FY2015 to the state general fund; 3) and up to $13 million into a nonlapsing account to fund activity by the Office of the Attorney General and the Department of Revenue Services related to enforcement of the settlement/MSA as specified.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Any stronger local laws/ordinances further restricting smoking enacted after October 1, 1993 are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Connecticut&apos;s tobacco control programs/initiatives comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Connecticut allocated $3,511,833 for tobacco prevention and cessation programs in FY2015 (July 1, 2014 to June 30, 2015).  In FY2014, $3,000,000 was allocated.
+CONN. GEN. STAT. § 4-28f (2013) as amended by H.B. 6705, sect. 151 enacted and effective 6/19/13.
+
+Note: The Tobacco and Health Trust Fund board makes recommendations on specific tobacco prevention and cessation activities the dollars available should be spent on, which are reviewed and approved by the legislature.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>3511833</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. §§ 29-416 to 29-423 (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, on and after July 1, 2008, no holder of a cigarette manufacturer&apos;s license shall sell cigarettes, or offer cigarettes for sale, to consumers within Connecticut, whether directly or through a distributor, dealer, or similar intermediary or intermediaries, unless such cigarettes shall: (1) Have been tested in accordance with the test method and meet the performance standard specified in section 29-418 Connecticut General Statutes; (2) have been listed in a written certification submitted to the Office of the State Fire Marshal in accordance with section 29-419 Connecticut General Statutes; and (3) be sold in packages marked in accordance with section 29-421 Connecticut General Statutes.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. §§ 29-416 to 29-423 (2008).</Citation>
+<Description>The Commissioner of Revenue Services may suspend or revoke the holder&apos;s cigarette manufacturer&apos;s license for violation of the above requirements setting a fire safety standard for cigarettes in the same manner as provided in section 12-295 of the Connecticut General Statutes for the suspension or revocation of the license of a dealer or distributor.  Civil penalties apply to specific violations of reporting requirements as well.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CONN. GEN. STAT. § 53-344 (2014).</Citation>
+<Description>Each retailer of cigarettes or tobacco products or employee of such retailer shall require a person who is purchasing or attempting to purchase cigarettes or tobacco products, whose age is in question, to exhibit proper proof of age. If a person fails to provide such proof of age, such retailer or employee shall not sell cigarettes or tobacco products to the person.  As used in this section, &quot;proper proof&quot; means a motor vehicle operator&apos;s license, a valid passport or an identity card.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $3,511,833 for tobacco prevention and cessation programs in FY2015.
+CONN. GEN. STAT. § 4-28f (2013) as amended by H.B. 6705, sect. 151 enacted and effective 6/19/13.
+
+E-Cigarettes/Sales to Minors: Prohibits the sale to and purchase/possession in public places by persons under age 18 of electronic nicotine delivery systems and vapor products as defined.  Weakens penalties for selling tobacco products to persons under 18 by allowing employers, dealers and distributors and owners to skip penalties for a first violation if they take an online tobacco education course.
+S.B. 24 enacted 6/3/14 and effective 10/1/14.
+
+Use of Tobacco Settlement Dollars: Removes provision that would have stopped the Tobacco and Health Trust Fund from operating in FY2016, and allows up to $12 million per fiscal year to be used by the trust fund board for tobacco prevention programs and other purposes.
+S.B. 24 enacted 6/3/14 and effective 10/1/14.
+
+Use of Tobacco Settlement Dollars: Amends existing transfers and makes new transfers from the Tobacco Settlement Fund and Tobacco and Health Trust Fund to other specific purposes and the state general fund in FY2014 and FY2015.
+H.B. 5596 enacted 5/29/14 and parts effective 5/29/14 and 7/1/14.
+
+Use of Tobacco Settlement Dollars: Amends where a small portion of Master Settlement Agreement (MSA) payments are directed permanently and transfers of MSA dollars from the Tobacco and Health Trust Fund to the general fund in FY2014 &amp; FY2015.
+H.B. 5597, sect. 138, 214 to 216 enacted 6/13/14 and parts effective 6/13/14 and 7/1/14.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $408,272,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Connecticut</Name>
+<Abbrev>CT</Abbrev>
+<FipsCode>09</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $3,511,833 
+
+FY2015 Federal Funding for State Tobacco Control Programs: $2,333,475*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $5,845,308 
+
+Funding Level Recommended by CDC:                                        $32,000,000 
+
+Percentage of CDC-Recommended Level:                                   18.3%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>8</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:51:48">
+<tblStatesALA>
+<ID>10</ID>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<LegislatureHyperlink>www.leg.state.fl.us#http://www.leg.state.fl.us#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.201 et seq. (2011).</Citation>
+<Description>Smoking is prohibited in most public places and workplaces, including private workplaces, restaurants and non-tribal gaming facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.201 et seq. (2011).</Citation>
+<Description>Exceptions to this law include: 1) stand-alone bars as defined, 2) retail tobacco shops as defined, 3) designated hotel rooms, 4) tobacco manufacturing facilities, 5) customs smoking rooms in an international airport in-transit lounge under the authority and control of the Bureau of Customs and Border Protection of the United States Department of Homeland Security, 6) smoking cessation programs approved by the Department of Health or medical or scientific research conducted therein, and 7) membership associations as defined as long as no one is engaged in work.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.209 (2011).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are not allowed, see below.  School districts are allowed to regulate smoking on their property.
+
+Regulation of smoking is expressly preempted to the state and supersedes any municipal or county ordinance on the subject; however, school districts may further restrict smoking by persons on school district property.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.203 &amp; 386.204 (2003).</Citation>
+<Description>Smoking is prohibited in all enclosed indoor workplaces, including state and local government workplaces.  &quot;Enclosed indoor workplace&quot; means any place where one or more persons engage in work, and which place is predominantly or totally bounded on all sides and above by physical barriers.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.203 &amp; 386.204 (2003).</Citation>
+<Description>Smoking is prohibited in all enclosed indoor workplaces.  &quot;Enclosed indoor workplace&quot; means any place where one or more persons engage in work, and which place is predominantly or totally bounded on all sides and above by physical barriers.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.203, 386.204 &amp; 386.212 (2003).</Citation>
+<Description>Smoking is prohibited in all enclosed indoor workplaces, including all educational facilities.  It is unlawful for any person under 18 years of age to smoke tobacco in, on, or within 1,000 feet of the real property comprising a public or private elementary, middle, or secondary school between the hours of 6 a.m. and midnight.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.203 &amp; 386.204 (2003).</Citation>
+<Description>Smoking is prohibited in all enclosed, indoor workplaces, including child care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.203 &amp; 386.204 (2003).</Citation>
+<Description>Smoking is prohibited in all enclosed, indoor workplaces, including health care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.203 &amp; 386.204 (2003).</Citation>
+<Description>Smoking is prohibited in enclosed, indoor workplaces, including restaurants.  The bar areas of a restaurant are included.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.203, 386.2045 &amp; 386.209 (2003).</Citation>
+<Description>Stand-alone bars are specifically exempted.  &quot;Stand-alone bar&quot; is defined as a separate establishment that makes no more than 10 percent of its gross revenue from the sale of food.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 386.207 (2003).</Citation>
+<Description>A person who smokes in a nonsmoking area commits a non-criminal violation, punishable by a fine of no more than $100 for the first violation and $500 for subsequent violations.  Signs designating smoking areas must be posted in appropriate areas.  The Department of Health or other enforcement authority as specified, upon notification of observed violations, shall issue to the person in charge of such enclosed indoor workplace, a notice to comply.  If such person fails to comply within 30 days, the department or division shall assess a civil penalty against them of not less than $250 and not to exceed $750 for the first violation and not less than $500 and not to exceed $2,000 for each subsequent violation.  If a person refuses to comply after being assessed the penalty, the appropriate enforcement authority may file a complaint in the specific county circuit court to force compliance.  The Department of Health, the Division of Hotels and Restaurants or the Division of Alcoholic Beverages and Tobacco of the Department of Business and Professional Regulation shall enforce this part based upon each department&apos;s specific areas of regulatory authority and shall adopt, in consultation with the State Fire Marshal, rules specifying procedures to be followed by enforcement personnel in investigating complaints and notifying alleged violators.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 210.02 (1990) &amp; 210.011 (2009).</Citation>
+<Description>Tax/surcharge per pack of 20: $1.339  
+Date last changed: July 1, 2009 -- from 33.9 cents to $1.339
+Year first enacted: 1943</Description>
+<NumericValue>1.339</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 210.20 (2014) &amp; ch. 210.011(9) (2009).</Citation>
+<Description>Revenue from $1.00 per pack of the tax/user fee on cigarettes is deposited into the Health Care Trust Fund within the Agency for Health Care Administration.  The revenue from the remaining 33.9 cents per pack is distributed to several specified funds/programs and the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>1143091000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 210.011(9) (2009).</Citation>
+<Description>Revenue from the cigarette tax levied by section 210.02 Florida statutes is distributed as follows minus a service charge of 0.3 percent to the state general fund and a 0.9 percent transfer to the Alcoholic Beverage and Tobacco Trust Fund: 1) 2.9 percent to the Revenue Sharing Trust Fund for counties; 2) 29.3 percent to the Public Medical Assistance Trust Fund for the funding of indigent care; 3) 4.04 percent from July 1, 2014 through June 30, 2033 to the Board of Directors of the H. Lee Moffitt Cancer Center and Research Institute for constructing, furnishing, equipping, financing, operating and maintaining cancer research and clinical and related facilities owned or leased by the H. Lee Moffitt Cancer Center and Research Institute; and 4) remaining revenue is transferred to the state general fund.
+FLA. STAT. ch. 210.20 (2014).
+
+Revenue from the $1.00 surcharge on cigarettes levied by section 210.011 Florida statutes shall be deposited in the Health Care Trust Fund within the Agency for Health Care Administration.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 210.30 (1991) &amp; 210.276 (2009).</Citation>
+<Description>Tax/surcharge on all other tobacco products except cigars: 85% of the wholesale sales price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 210.70 (1991) &amp; ch. 210.276 (7) (2009).</Citation>
+<Description>Revenue from the tax on most tobacco products other than cigarettes goes to the Health Care Trust Fund within the Agency for Health Care Administration and the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 210.276 (7) (2009).</Citation>
+<Description>Revenue from the 25 percent of the wholesale sales price tax on tobacco products levied by section 210.30 Florida statutes shall be deposited in the state general fund.
+FLA. STAT. ch. 210.70 (1991).
+
+Revenue from the 60 percent of the wholesale sales price surcharge on tobacco products levied by section 210.276 Florida statutes shall be deposited in the Health Care Trust Fund within the Agency for Health Care Administration.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1291</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 569.004, 569.12, &amp; 569.14 (1997).</Citation>
+<Description>The Division of Alcoholic Beverages and Tobacco is the designated enforcement authority for all youth access laws and the sign posting requirement.  Law enforcement officers may also enforce all youth access laws.  A county or municipality may designate certain of its employees or agents as tobacco product enforcement officers.  An applicant for a permit, by accepting the permit when issued, agrees that the place or premises covered by the permit is subject to inspection and search without a search warrant by the division or its authorized assistants, and by sheriffs, deputy sheriffs, or police officers, to determine compliance with this chapter.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 877.112 (2014).</Citation>
+<Description>It is unlawful to sell, deliver, barter, or furnish, directly or indirectly, any tobacco product to any person less than 18 years of age.  Violation is a misdemeanor of the second degree punishable by a fine of $500, repeat violations within one year are a misdemeanor of the first degree punishable by a $1,000 fine for a second violation, $2,000 fine and 20 day suspension of the retailer&apos;s permit for a third violation, and revocation of a retailer&apos;s cigarette permit for a fourth and subsequent violations.  All civil penalties may be substituted with license or permit suspensions using the ratio of one day for each $50.  A person charged with a violation has a complete defense if a prudent person would believe the buyer or recipient to be 18 years of age or older; the buyer falsely evidenced that they were 18 years of age or older; and carefully checked specified forms of identification and acted in good faith and in reliance upon the representation and appearance of the buyer or recipient in the belief that the buyer or recipient was 18 years of age or older. 
+FLA. STAT. ch. 569.101 &amp; FL ADMIN. CODE § 61A-2.022 (1997).
+
+The Division of Alcoholic Beverages and Tobacco may mitigate penalties imposed against a dealer because of an employee&apos;s illegal sale of a tobacco product to a minor if they qualify as a responsible retail dealer; the dealer provided the training program required to the employee before the violation occurred; and the dealer had no knowledge of that employee&apos;s violation at the time of the violation and did not direct, approve, or participate in the violation.
+FLA. STAT. ch. 569.008 (1997).
+
+It is unlawful to sell, deliver, barter, furnish, or give, directly or indirectly, to any person who is under 18 years of age, any nicotine product or a nicotine dispensing device as defined.  Violation is a misdemeanor of the second degree punishable by a fine of not to exceed $500, repeat violations within one year are a misdemeanor of the first degree punishable by a fine not to exceed $1,000 for a second and subsequent violations.  The same affirmative defense available for selling tobacco products to minors is available for selling nicotine products/nicotine dispensing devices to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 877.112 (10) (2014).</Citation>
+<Description>Any dealer that sells tobacco products shall post a clear and conspicuous sign in each place of business stating that: THE SALE OF TOBACCO PRODUCTS TO PERSONS UNDER THE AGE OF 18 IS AGAINST FLORIDA LAW. PROOF OF AGE IS REQUIRED FOR PURCHASE.  If a retailer sells nicotine products or nicotine dispensing devices in addition to tobacco products, those terms need to be added to the sign.  In addition at the check-out counter in a clearly visible location, instructional material to determine minimum age in a calendar format or similar format must be available and contain the following language: &quot;IF YOU ARE NOT BORN BEFORE THIS DATE {INSERT DATE AND YEAR} YOU CANNOT BUY TOBACCO PRODUCTS.&quot;  Failure to comply with this requirement is a misdemeanor of the second degree punishable by a fine not to exceed $500.
+FLA. STAT. ch. 569.14 (2014).
+
+Any retailer that sells nicotine products or nicotine dispensing devices shall post a clear and conspicuous sign in each place of business where such products are sold which substantially states the following: THE SALE OF NICOTINE PRODUCTS OR NICOTINE DISPENSING DEVICES TO PERSONS UNDER THE AGE OF 18 IS AGAINST FLORIDA LAW. PROOF OF AGE IS REQUIRED FOR PURCHASE.  In addition at the check-out counter in a clearly visible location, instructional material to determine minimum age in a calendar format or similar format must be available and contain the following language: &quot;IF YOU ARE NOT BORN BEFORE THIS DATE {INSERT DATE AND YEAR} YOU CANNOT BUY TOBACCO PRODUCTS.&quot;  In lieu of this, a retailer may use card readers, scanners, or other electronic or automated systems that can verify whether a person is of legal age to purchase.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 877.112 (2014).</Citation>
+<Description>It is unlawful for minors to knowingly possess any tobacco product or misrepresent their age for the purpose of purchasing, or attempting to purchase a tobacco product from a person or a vending machine.  Penalty for the first violation within a 12-week period is 16 hours of community service or a $25 fine and the minor must attend a school approved anti-tobacco program.  Penalty for the second violation in a 12-week period is a $25 fine.  Third or subsequent violations within a 12-week period can result in suspension or revocation of a person&apos;s driver&apos;s license.  Any law enforcement officer designated as a tobacco product enforcement officer is authorized to issue a citation to minors possessing or attempting to purchase tobacco products.
+FLA. STAT. ch. 569.11 (2001).
+
+It is unlawful for any person under 18 years of age to knowingly possess any nicotine product or a nicotine dispensing device, or misrepresent their age for the purpose of purchasing, or attempting to purchase a nicotine product/nicotine dispensing device from a person or a vending machine.  Violation is subject to the same penalties as for minors possessing or misrepresenting their age to purchase tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 877.112(11) (2014).</Citation>
+<Description>The sale or delivery of tobacco products is prohibited, except when under the direct control or line of sight of the dealer or the dealer&apos;s agent or employee.  These provisions shall not apply to an establishment that prohibits persons less than 18 years of age on the licensed premises, or to the sale or delivery of cigars and pipe tobacco.  Violation is subject to an administrative fine of up to $1,000 and possible suspension of the permit to sell tobacco products.
+FLA. STAT. ch. 569.006 &amp; 569.007 (1997).
+
+A retailer that sells nicotine products or nicotine dispensing devices may not sell, permit to be sold, offer for sale, or display for sale such products or devices by means of self-service merchandising.  &quot;Self-service merchandising&quot; means the open display of nicotine products or nicotine dispensing devices, whether packaged or otherwise, for direct retail customer access and handling before purchase without the intervention or assistance of the retailer or the retailer&apos;s owner, employee, or agent. An open display of such products and devices includes the use of an open display unit.  These provisions do not apply to an establishment that prohibits persons under 18 years of age on the premises.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A retailer must obtain an appropriate license from the Division of Alcoholic Beverages and Tobacco before accepting a delivery sale of tobacco products defined as sales of tobacco products by phone, fax, mail, delivery service or the Internet.  Delivery sales of tobacco products to persons under 18 are prohibited.  Each person accepting an order for a delivery sale must comply with: 1) specific age verification requirements, including obtaining a certification with certain information from the prospective customer and making a good faith effort to verify the information in the certification against a commercially available database as specified or by obtaining a photocopy or other image of government-issued ID; 2) specific disclosure requirements; 3) specific shipping requirements, including use of a method of mailing, shipping, or delivery which obligates the delivery service to require a person over 18 to sign for the shipping container and show photo ID if they appear to be under age 27; 4) specific registration and reporting requirements; 5) specific tax collection requirements; 6) specific licensing and tax stamp requirements; and 7) all laws of this state generally applicable to sales of tobacco products occurring entirely in this state which impose excise taxes and assessments.  Violation of the above requirements by an adult is a misdemeanor of the first degree punishable as specified and is subject to: a $1,000 fine or five times the retail value of the tobacco products involved, whichever is greater, for a first offense; and a $5,000 fine or five times the retail value of the tobacco products involved, whichever is greater, for a second or subsequent offense.  An adult knowingly submitting a false certification is also a misdemeanor of the first degree punishable as specified and is also subject to for each violation a fine of $10,000 or five times the retail value of the tobacco products involved, whichever is greater.  Violation by a person under 18 is a misdemeanor of the 3rd degree punishable as specified.
+FLA. STAT. ch. 210.095 (2009).
+ 
+Note: Some parts of this law may not be able to be enforced due to the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 569.008 (1997).</Citation>
+<Description>Retail dealers can qualify as responsible retail tobacco products dealers if they provide a training program for their employees that addresses the use and sale of tobacco products, including the laws concerning sales to minors and methods and procedures to prevent such sales.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 877.112 (2014).</Citation>
+<Description>The gift of sample tobacco products to any person under the age of 18 is prohibited.  Violation is subject to the same penalties as selling or distributing tobacco products to minors.  A person charged with a violation has a complete defense if a prudent person would believe the buyer or recipient to be 18 years of age or older or the buyer falsely evidenced that they were 18 years of age or older.
+FLA. STAT. ch. 569.0075 (1997).
+
+The gift of a sample nicotine product or nicotine dispensing device to any person under the age of 18 by a retailer of such products/devices, or by an employee of such retailer, is prohibited.  Violation is subject to the same penalties as for selling nicotine products/nicotine dispensing devices to minors.  The same affirmative defense for violations is also available.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 210.185 (2000).</Citation>
+<Description>It is unlawful for any person to sell or distribute any cigarettes the package of which does not comply with all requirements imposed by or under federal law regarding warnings and other information on packages of cigarettes manufactured, packaged, or imported for sale, distribution, or use in the United States, including but not limited to the precise warning labels specified in the Federal Cigarette Labeling and Advertising Act.  Violation is a felony of the third degree subject to a fine not to exceed $5,000 and/or up to five years in prison.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling or minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 877.112(12) (2014).</Citation>
+<Description>Sales of tobacco products from a vending machine are only permissible from a machine that is equipped with an operational lock-out device which is under the control of the dealer or the dealer&apos;s agent or employee who directly regulates the sale of items through the machine.  The lock-out device must include a mechanism to prevent the machine from functioning if the power source for the lock-out device fails or if the lock-out device is disabled, and a mechanism to ensure that only one tobacco product is dispensed at a time. This provision does not apply to establishments that prohibit persons under age 18 on the licensed premises or to sales of cigars or pipe tobacco.
+FLA. STAT. ch. 569.007 (1997).
+
+Sales of nicotine products or nicotine dispensing devices as defined from a vending machine are only permissible from a machine that is equipped with an operational lock-out device which is under the control of the dealer or the dealer&apos;s agent or employee who directly regulates the sale of items through the machine.  The lock-out device must include a mechanism to prevent the machine from functioning if the power source for the lock-out device fails or if the lock-out device is disabled, and a mechanism to ensure that only one nicotine product/nicotine dispensing device is dispensed at a time. This provision does not apply to establishments that prohibit persons under age 18 on the premises.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 877.112 (2014).</Citation>
+<Description>Violation of the restrictions on placement of tobacco product vending machines is subject to an administrative fine of up to $1,000 and possible suspension of the permit to sell tobacco products.
+FLA. STAT. ch. 569.006 (1997).
+
+No penalties specified for violation of the restrictions on selling nicotine products/nicotine dispensing devices from vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting placement of and/or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 569.003 &amp; ch. 569.005 (1997).</Citation>
+<Description>Wholesale dealers and manufacturers of cigarettes must obtain a cigarette permit from the Division of Alcoholic Beverages and Tobacco.  All places of business must be listed on the application for a cigarette permit.  Distributors must also obtain a license to sell tobacco products other than cigarettes from the division.  A separate application is required for each place of business. 
+FLA. STAT. ch. 210.15 (2005) &amp; ch. 210.35 (1991).  
+
+Retail tobacco dealers and vending machine owners must obtain permits from the Division of Alcoholic Beverages and Tobacco for each place of business where they sell tobacco products.  Retail permits must be renewed annually.  Selling tobacco products at retail without a license is a noncriminal violation subject to a fine of $500.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 569.003 (1992), ch. 210.15 (2005) &amp; 210.40 (1991).</Citation>
+<Description>Retail or vending machine license: $50 annually; Wholesale dealers and manufacturers of cigarettes: $100 annually; 
+Distributors of tobacco products other than cigarettes: $25 annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 569.006 (1997).</Citation>
+<Description>The Division of Alcoholic Beverages and Tobacco of the Department of Business and Professional Regulation may suspend a retailer&apos;s permit to sell tobacco products for 20 days for a third violation or revoke the permit for a fourth violation if the retailer or their employee violates state laws concerning sale of tobacco to minors, sampling, or placement of tobacco vending machines.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 768.733 (2000).</Citation>
+<Description>In any civil action involving a signatory or a successor, parent or affiliate of a signatory to Florida&apos;s tobacco settlement agreement, the bond required to be furnished during the pendency of all appeals or discretionary appellate reviews of any judgment in such litigation shall be set pursuant to applicable laws or court rules, except that the total cumulative value of the bond to stay execution of the judgment may not exceed $100 million for all appellants collectively, regardless of the total value of the judgment.  In civil actions against the same entities above, brought by or on behalf of persons who claim or have been determined to be members of a former class action that was decertified in whole or in part, the trial courts shall automatically stay the execution of any judgment, upon provision of security as required, see statute cited for further details.  If, after notice and hearing, a plaintiff proves by a preponderance of the evidence that a defendant who posted such bond or equivalent surety is purposefully dissipating assets outside the ordinary course of business to avoid payment of the judgment, the court may enter necessary orders as to that defendant to protect the plaintiff, including an order that the bond or equivalent surety be posted in an amount up to the full amount of the judgment against that defendant.  This section does not apply to any past, present, or future action brought by the State of Florida against one or more signatories to the settlement agreement. 
+FLA STAT. ch. 569.23 (2009).
+
+In any civil action that is brought as a certified class action, the trial court, upon the posting of a bond or equivalent surety as provided in this section, shall stay the execution of any judgment, or portion thereof, entered on account of punitive damages pending completion of any appellate review of the judgment.  The required bond or equivalent surety acceptable to the court for imposition of the stay shall be the lower of: the amount of the punitive-damages judgment, plus twice the statutory rate of interest; or 10 percent of the net worth of the defendant as determined by applying generally accepted accounting principles to the defendant&apos;s financial status as of December 31 of the year prior to the judgment for punitive damages; provided that in no case shall the amount of the required bond or equivalent surety exceed $100 million, regardless of the amount of punitive damages.  If, at any time after notice and hearing, the court finds that a defendant who has posted a bond or equivalent surety is purposefully moving assets with the intent to avoid the punitive damages judgment, the court shall increase the bond or equivalent surety to the amount of the punitive damages judgment, plus twice the statutory rate of interest.  If the defendant does not post the additional bond required by the court, the stay shall be revoked.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FL CONST. Art. X § 27 (2006) &amp; FLA. STA. ch. 17.41 (2004), ch. 20.195 (2003), ch. 20.425 (2003), ch. 20.435(g) (2004), ch. 20.1971 (2005), ch. 381.84 (2007) &amp; ch. 430.42 (2003).</Citation>
+<Description>Money from the state of Florida&apos;s tobacco settlement is initially deposited into a trust fund in the Department of Financial Services, and then transferred to a number of trust funds from there.  Fifteen percent of the money is required to be allocated to a state tobacco prevention and control program by a constitutional amendment approved in 2006. 
+
+Note: Florida was one of four states that settled separately in its lawsuit with the major tobacco companies, prior to the Master Settlement Agreement.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>365400000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STA. ch. 215.5601 (2004); H.B. 5001 enacted 6/11/08 and effective 6/11/08 and 7/1/08 &amp; S.B. 2 (first special session 2009), sect. 52 enacted 1/27/09 and effective 6/15/09.</Citation>
+<Description>Florida voters approved a constitutional amendment in November 2006 that will dedicate 15 percent of future tobacco settlement payments, adjusted for inflation each year, to the state tobacco control and prevention program.  Implementing legislation was approved in May 2007 and the program took effect in the fiscal year starting July 1, 2007 (FY2008).
+FL CONST. Art. X § 27 (2006) &amp; FLA. STA. ch. 381.84 (2007).
+
+Money from the state of Florida&apos;s tobacco settlement is initially deposited into the Department of Financial Services Tobacco Settlement Clearing Trust Fund.  Monies are then allocated to the Department of Health Tobacco Settlement Trust Fund, the Department of Children and Family Services Tobacco Settlement Trust Fund, the Agency for Healthcare Administration Tobacco Settlement Trust Fund, the Department of Elderly Affairs Tobacco Settlement Trust Fund, the Biomedical Research Trust Fund in the Department of Health or the Agency for Persons with Disabilities Tobacco Settlement Trust Fund as appropriated by the legislature.    
+FLA. STA. ch. 20.195 (2003), ch. 20.425 (2003), ch. 17.41 (2004), ch. 430.42 (2003), ch. 20.435(g) (2004) &amp; 20.1971 (2005).
+
+In 1999, the legislature established the Lawton Chiles Endowment Fund for Health &amp; Human Services, and transferred $1.1 billion in FY2000, and $200 million in FY2001, FY2002 &amp; FY2003 from the Tobacco Settlement Clearing Trust Fund.  The earnings of the endowment are appropriated through the general budget process to various agency trust funds by the legislature to help fund specified programs.  However, appropriations bills passed in 2008 and 2009 allowed some principal in the fund to be diverted to other programs/purposes.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State law supersedes any municipal or county ordinance on the subject of the regulation of smoking.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Florida&apos;s tobacco control program comes from tobacco settlement dollars.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2015 Annual Budget (H.B. 5001) enacted 6/2/14 and effective 7/1/14.</Citation>
+<Description>Florida appropriated $66,613,730 for tobacco prevention and cessation programs in FY2015 (July 1, 2014 to June 30, 2015). In FY2014, $65,640,769 was appropriated.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>66613730</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STA. ch. 381.84 (2010).</Citation>
+<Description>Requires the state Department of Health conduct a comprehensive, statewide tobacco education and prevention program consistent with the recommendations for effective program components contained in the Centers for Disease Control and Prevention (CDC)&apos;s 1999 Best Practices for Comprehensive Tobacco Control Programs, as amended by the CDC.  The program is required to have a number of components, for more information see the statute cited.  A 23-member Tobacco Education and Use Prevention Advisory Council was also created within the department to provide advice as to the direction and scope of the program.  The council will have several members from public health organizations, including the American Lung Association of Florida.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 633.042 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in paragraph (f) of subsection 4 of section 633.042 Florida Statutes, no cigarettes may be sold or offered for sale in Florida, or sold or offered for sale to persons located in Florida, unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in subsection 4 of section 633.042 Florida statutes; 2) a written certification has been filed by the manufacturer with the Division of Alcoholic Beverages and Tobacco of the Department of Business and Professional Regulation in accordance with subsection 5 of section 633.042 Florida Statutes; and 3) the cigarettes have been marked in accordance with subsection 6 of section 633.042 Florida Statutes.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FLA. STAT. ch. 633.042 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or any other person or entity that knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above requirements is subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties may not exceed $100,000 in any 30-day period.  A retail dealer is subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Appropriated $66,613,730 for tobacco prevention and cessation programs in FY2015.
+FY2015 Annual Budget (H.B. 5001) enacted 6/2/14 and effective 7/1/14.
+
+E-Cigarettes/Sales to Minors: Prohibits the sale to and possession by persons under age 18 of nicotine products and nicotine dispensing devices as defined.  Applies most state youth access laws that apply to tobacco products to these products, but does not require retailers of these products to obtain a license/permit.
+S.B. 224 enacted 6/13/14 and effective 7/1/14.
+
+Tobacco Taxes: Makes a small change to the percentage of cigarette tax revenue going to a specific purpose.
+H.B. 5601 enacted and effective 5/12/14.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Created the Tobacco Settlement Financing Corporation as a not-for-profit public benefits corporation to purchase any or all of the state’s right to the tobacco settlement agreement and issue bonds to pay the purchase price therefore which will be used to fund the Lawton Chiles Endowment Fund.  Issuance of bonds by the Corporation is subject to approval by the legislature. The total principal amount of bonds issued shall not exceed $3 billion and the amount of bonds issued in any single fiscal year shall not exceed $1.5 billion beginning with FY 2001.
+FLA. STA. ch. 215.56005 (2003).
+
+Note: No bonds financed by tobacco settlement moneys have been issued to date.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $1,143,091,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Florida</Name>
+<Abbrev>FL</Abbrev>
+<FipsCode>12</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $66,613,730 
+
+FY2015 Federal Funding for State Tobacco Control Programs: $2,861,848*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $69,475,578 
+
+Funding Level Recommended by CDC:                                        $194,200,000 
+
+Percentage of CDC-Recommended Level:                                   35.8%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>10</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

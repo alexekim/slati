@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:51:45">
+<tblStatesALA>
+<ID>9</ID>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<LegislatureHyperlink>#http://www.state.de.us/research/assembly.htm#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2901 et seq. (2002).</Citation>
+<Description>Smoking is not permitted in any indoor enclosed area to which the general public is invited or permitted, including restaurants, bars and gaming facilities; see the state law cited below for a more detailed list.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2901 et seq. (2002).</Citation>
+<Description>The only exceptions to the law are for: 1) private homes and automobiles, except when being used for child care or day care or when a vehicle is being used for the public transportation of children or as part of health care or day care transportation; 2) indoor areas where private social functions are being held when seating arrangements are under the control of the sponsor of the function; 3) privately-hired limousines; 4) up to 25 percent of hotel rooms rented to guests; and 5) fund-raising functions sponsored by volunteer fire, ambulance or rescue companies, or by a fraternal benefit society.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2901 et seq. (2002).</Citation>
+<Description>Smoking is prohibited in all public buildings.  A &quot;public building&quot; is defined as any building owned or operated by the state, including the legislative, executive and judicial branches of state government; any county, city, town, village or any other political subdivision of the state, public improvement or special district, public authority, commission, agency or public benefit corporation; or any other separate corporate instrumentality or unit of state or local government.  Smoking is also specifically prohibited in public meetings, jury waiting and deliberation rooms, and courtrooms.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2901 et seq. (2002).</Citation>
+<Description>Smoking is prohibited in all workplaces.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2901 et seq. (2002).</Citation>
+<Description>Smoking is specifically prohibited in all public and nonpublic schools.  Smoking is also prohibited in any other educational and vocational institutions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2901 et seq. (2002).</Citation>
+<Description>Smoking is prohibited in all child day care facilities, including home-based child care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2901 et seq. (2002).</Citation>
+<Description>Smoking is prohibited in all health care facilities, including hospitals, clinics and doctor’s offices.  Smoking is also prohibited in retirement communities and nursing homes, not including private residences.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2901 et seq. (2002).</Citation>
+<Description>Smoking is prohibited in all &quot;food service establishments&quot; which are defined as any indoor area open to the public or portion thereof in which the principal business is the sale of food for on-premises consumption, including, but not limited to, restaurants, cafeterias, coffee shops, diners, sandwich shops or short order cafes.  A food service establishment shall not include the bar area of such establishment.  Any establishment which has been licensed by the Delaware Alcoholic Beverage Control Commission as a &quot;restaurant&quot; is considered a &quot;food service establishment.&quot;</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2901 et seq. (2002).</Citation>
+<Description>Smoking is prohibited in &quot;bars,&quot; which are defined as any indoor area open to the public operated primarily for the sale and service of alcoholic beverages for on-premises consumption and where the service of food is secondary to the consumption of such beverages.  Any establishment which has been licensed by the Delaware Alcoholic Beverage Control Commission as a &quot;taproom or tavern,&quot; is considered a &quot;bar.&quot;</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 2905 to 2907 (2002).</Citation>
+<Description>Where smoking is permitted, the person in charge shall display signs stating &quot;Warning: Smoking Permitted.&quot;  Violators of Delaware&apos;s Clean Indoor Air Act will be fined $100 for a first offense and at least $250 for each subsequent offense.  The Delaware Department of Labor and Department of Health are responsible for the regulation, implementation, and enforcement of the Clean Indoor Air Act.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 30, § 5305(a) (2009).</Citation>
+<Description>Tax rate per pack of 20:  $1.60
+Date last changed: July 31, 2009 -- from $1.15 to $1.60
+Year first enacted: 1949</Description>
+<NumericValue>1.6</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Information not available currently.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>122889000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 30, § 5305(b&amp;c) (2008).</Citation>
+<Description>Moist snuff: 54 cents/oz. and a proportionate rate on all fractional parts of an ounce;
+All other tobacco products: 15% of the wholesale price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, §§ 1115 &amp; 1125 (2014).</Citation>
+<Description>The Department of Safety and Homeland Security or its delegates shall be responsible for conducting annual, random, unannounced inspections at locations where tobacco products or tobacco substitutes are sold or distributed to test compliance.  Persons under the age of 18 may be enlisted by the department or its delegates to test compliance provided that such persons may be used only under the direct supervision of the department, its employees or delegates and only when written parental consent has been provided.  The department shall adopt and publish guidelines for the use of persons under 18 in inspections.  The department may enter into an agreement with any local law enforcement agency for delegation of inspection and enforcement within the local agency&apos;s jurisdiction.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, §§ 1115 (2014), 1116 (2014), 1121 (1996), 1122 (2014) &amp; 1123 (2014).</Citation>
+<Description>It shall be unlawful for any person to sell or distribute any tobacco product or tobacco substitute as defined to another person who has not attained the age of 18 years or to purchase any tobacco product or tobacco substitute on behalf of another such person, except the parent or guardian of such person.  Violators shall be fined $250 for the first offense, $500 for the second offense, and $1,000 for the third and all subsequent offenses within 12 months. The court may also order the Department of Finance to suspend the defendant&apos;s license for sale of tobacco products for a period not to exceed six months for the second and subsequent violations.  It shall be an affirmative defense that the purchaser or recipient of tobacco products or tobacco substitutes who had not reached the age of 18 years presented to the accused proof of age which set forth information that would lead a reasonable person to believe that such individual was 18 years of age or older.  The person in charge of the establishment where the violation occurred shall be guilty of the violation and shall be subject to the fine only if the retail licensee has received written notice of the above provisions from the Department of Safety and Homeland Security.  The person in charge of the establishment where the alleged violation occurred shall have an affirmative defense if such person or entity can establish that, prior to the date of the violation, they had adopted and enforced a written policy against selling tobacco products and tobacco substitutes to persons under 18 years of age and met other specified requirements.  This affirmative defense is available only twice at one retail location during any 12-month period.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, §§ 1115 &amp; 1117 (2014).</Citation>
+<Description>A person engaged in the sale or distribution of tobacco products and/or tobacco substitutes as defined shall post conspicuously at each point of purchase a notice stating that selling tobacco products or tobacco substitutes to anyone under 18 is illegal, that the purchase of tobacco products by anyone under 18 is illegal, and that a violator is subject to fines. The notice shall also state that all persons selling tobacco products and/or tobacco substitutes are required, under law, to check the proof of age of any purchaser of tobacco products under the age of 27 years.  The notice shall include a toll-free number to the Department of Safety and Homeland Security to report unlawful sales to minors.  Owners who fail to post a notice shall be subject to a fine of $100.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, §§ 1115 &amp; 1124 (2014).</Citation>
+<Description>It shall be unlawful for any person who is not 18 or older to purchase tobacco products or tobacco substitutes as defined, to accept receipt of a sample, to exchange a coupon for a tobacco product or tobacco substitute, or to present or offer another person a purported proof of age which is false, fraudulent, or not actually their own proof of age, for the purpose of purchasing or receiving any of these products.  Violators shall be fined $50 or ordered to perform 25 hours of community service for the first offense, $50 fine and 50 hours of community service for the second and all subsequent offenses within 12 months of prior offenses.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, §§ 1115 (2014) 1119(c) (2014) &amp; 1121 (1996).</Citation>
+<Description>It shall be unlawful for any person who owns, operates, or manages a business establishment where tobacco products or tobacco substitutes are offered for sale over the counter at retail to maintain such products in any display accessible to customers that is not under the control of a cashier or other employee. This prohibition shall not apply to business establishments to which persons under the age of 18 are not admitted, unless accompanied by an adult; tobacco product/tobacco substitute vending machines as permitted under existing law; or to tobacco stores. &quot;Under the control&quot; means customers cannot readily access the tobacco products/tobacco substitutes without the assistance of a cashier or other employee. A display that holds these products behind locked doors shall be construed as under the control of a cashier or other employee.  Violators are subject to the same penalties as for selling or distributing tobacco products/tobacco substitutes to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Puts restrictions on sales of tobacco products by mail, over the phone, or by the Internet by requiring prior to delivery a copy of government issued identification and a certification that this information is true and uses a delivery service that either limits delivery to that purchaser and requires the purchaser to sign personally to receive the delivery or requires a signature of an adult at the purchaser&apos;s address to deliver the package.  Reporting of delivery sales of tobacco products to the Department of Finance is required.  Cigars and pipe tobacco are exempt from most of the above requirements.  A first violation of this subchapter is a $1,000 fine or five times the retail value of any tobacco product involved, whichever is greater; a second and subsequent violation is a fine of $5,000 or five times the retail value of the cigarettes involved.  Any person who knowingly violates any provision of this subchapter, or who knowingly and falsely submits a certification in another person&apos;s name, shall, for each such offense, be fined $10,000 or five times the retail value of the cigarettes involved, whichever is greater, or imprisoned not more than five years, or both.  Failure to collect or remit taxes in connection with a delivery sale is five times the retail value of any tobacco product involved in addition to any other penalty.
+DEL. CODE ANN. Tit. 30, §§ 5361 to 5369 (2007).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, § 1127 (1996).</Citation>
+<Description>All stronger municipal or county ordinances further restricting youth access to tobacco products enacted after June 30, 1996 are preempted by state law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, §§ 1115 (2014) 1118 (2014), 1121 (1996), 1122 (2014) &amp; 1123 (2014).</Citation>
+<Description>It shall be unlawful for any person to distribute tobacco product or tobacco substitute samples or coupons for subsequent receipt of free or discounted tobacco products/tobacco substitutes to another person under age 18.  A person engaged in sampling shall have the right to demand proof of age from a prospective recipient of samples or of coupons for the redemption of tobacco products or tobacco substitutes.  Violators are subject to the same penalties as for selling or distributing tobacco products to minors.  In addition, both affirmative defenses listed under the &quot;Penalties for Sales to Minors&quot; category are available for a violation of this section.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, §§ 1120 &amp; 1121 (1996).</Citation>
+<Description>No person shall distribute a tobacco product for commercial purposes unless the product is in a sealed package provided by the manufacturer with the required health warning and tax stamp.  No person shall distribute any pack of cigarettes containing fewer than 20 cigarettes.  Violators are subject to the same penalties as for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, § 1127 (1996).</Citation>
+<Description>All stronger municipal or county ordinances restricting sampling and minimum sales amounts of tobacco products enacted after June 30, 1996 are preempted by state law.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit 11, §§ 1115 &amp; 1119 (2014).</Citation>
+<Description>It shall be unlawful for any person to distribute or permit the distribution of tobacco products or tobacco substitutes as defined through the operation of a vending machine in a public place, except in a taproom, tobacco shop, or in premises in which a person who has not attained the age of 18 years is prohibited by law from entering.  A tobacco product/tobacco substitute vending machine must be operated a minimum of 25 feet from any entrance to the premises and must be directly visible to the owner or supervisor of the premises.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, § 1121 (2014).</Citation>
+<Description>Violators are subject to the same penalties as for selling or distributing tobacco products/tobacco substitutes to persons under age 18.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, § 1127 (1996).</Citation>
+<Description>All stronger municipal or county ordinances restricting placement of and required sign posting on tobacco product vending machines enacted after June 30, 1996 are preempted by state law.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 30, §§ 5307, 5311&amp; 5343 (1977).</Citation>
+<Description>No person shall engage in or conduct the business of manufacturing, purchasing, selling, consigning or distributing tobacco products in Delaware or acting as an affixing agent without having first obtained the appropriate license or licenses from the Department of Finance.  Licenses are to be renewed annually.  Selling tobacco products without a license is subject to a fine of $100 to $1,000 and/or imprisonment for not more than 90 days.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 30, § 5308 (1977).</Citation>
+<Description>Wholesalers - each place of business: $200 annually; 
+Retailers - each place of business: $5 annually; 
+Vending machine operators - each machine: $3 annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11 § 1121 (1996).</Citation>
+<Description>By court order, the Department of Finance may suspend the license for the sale of tobacco products for a period not to exceed six months for the second and subsequent violations of certain laws restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No person, firm, corporation, partnership or other organization shall advertise any tobacco products within 200 feet of any public or private school, excluding institutions of higher education. This section shall not apply to advertisements inside of a commercial establishment, except outward-facing advertisements placed in windows. This section shall not be construed to prohibit the display of any message or advertisement opposing the use of tobacco products.  Any message or advertisement opposing the use of tobacco products that is placed within 200 feet of a school may not contain the brand name of any tobacco product or the name of any tobacco company.  This section shall not be construed to prohibit an advertisement stating that a commercial establishment sells tobacco products, provided that the advertisement is on the premises or property of the commercial establishment and does not identify any tobacco product brand or any tobacco product manufacturer by name.  Whoever is found to be in violation of this section by the Superior Court shall be fined up to $1,000 for the first offense and up to $5,000 for each subsequent offense.
+DEL. CODE ANN. tit. 6, § 2507 (2000).
+
+Note: Enforcement of the above law may be affected by the U.S. Supreme Court decision in Lorillard Tobacco Company v. Reilly, decided in 2001.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, § 137 (1999).</Citation>
+<Description>Annual Master Settlement Agreement payments are deposited in a fund called the Delaware Health Fund, and then directed to specific health-related programs from there, including tobacco prevention and cessation programs.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>26700000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, § 137 (1999).</Citation>
+<Description>A special fund is created in the Department of Finance called the Delaware Health Fund.  All annual payments received from the Master Settlement Agreement between the state of Delaware and certain cigarette companies shall be deposited or transferred into the fund.  Interest or other income earned on moneys in the Delaware Health Fund shall be deposited or transferred to the fund, and moneys in the fund do not lapse or revert to the state general fund.  Moneys from the Delaware Health Fund shall be expended for specific health-related purposes, including tobacco prevention and cessation programs and initiatives.  See the statute cited below for more information.  No money shall be expended from the Delaware Health Fund unless included in the annual state appropriations act.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Local laws/ordinances further restricting youth access to tobacco products enacted after June 30, 1996 are not allowed under state law.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Delaware&apos;s tobacco control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2015 Annual Budget (S.B. 255) enacted and effective 7/1/14.</Citation>
+<Description>Delaware appropriated $8,600,000 for tobacco prevention and cessation programs in FY2015 (July 1, 2014 to June 30, 2015). In FY2014, $8,319,200 was appropriated.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>8600000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 7116 to 7125 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, no cigarettes may be sold or offered for sale in Delaware or offered for sale or sold to persons located in Delaware unless: 1) such cigarettes have been tested in accordance with the test method and meet the performance standard specified in title 16, section 7117 Delaware Code; 2) a written certification has been filed by the manufacturer with the State Fire Marshal in accordance with title 16, section 7118 Delaware Code; and 3) the cigarettes have been marked in accordance with title 16, section 7119 Delaware Code.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 16, §§ 7116 to 7125 (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale in violation of the above standard shall be subject to a civil penalty not to exceed $100 for each pack of such cigarettes sold or offered for sale, provided that in no case shall the penalty against any such person or entity exceed $100,000 during any 30-day period.  A retail dealer who knowingly sells or offers to sell cigarettes in violation of the above standard shall be subject to a civil penalty not to exceed $100 for each pack of such cigarettes sold or offered for sale provided that in no case shall the penalty against any retail dealer exceed $25,000 during any 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $75,000 and not exceeding $250,000 for each violation.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>DEL. CODE ANN. tit. 11, §§ 1115(4) (1996), 1116(b&amp;c) (2014) &amp; 1121 (1996).</Citation>
+<Description>A person engaged in the sale or distribution of tobacco products and/or tobacco substitutes shall have the right to demand proof of age from a prospective purchaser or recipient of such products.  Such person shall demand proof of age from a prospective purchaser or recipient who is under 27 years of age.  &quot;Proof of age&quot; means a driver&apos;s license or other identification with a photograph of the individual affixed thereon that indicates that the individual is 18 years old or older.  Violation is subject to the same penalties as for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Appropriated $8,600,000 for tobacco prevention and cessation programs in FY2015.
+FY2015 Annual Budget (S.B. 255) enacted and effective 7/1/14.
+
+E-Cigarettes/Sales to Minors: Prohibits the sale to and purchase by persons under age 18 of tobacco substitutes, the definition of which includes e-cigarettes.  Applies most state youth access and sales restriction laws that apply to tobacco products to tobacco substitutes, but does not require retailers of tobacco substitutes to obtain a license or permit.
+H.B. 241 enacted and effective 6/16/14.
+
+Tobacco Products/Prisons: Adds tobacco and nicotine products as items considered contraband in state correctional facilities.
+S.B. 174 enacted and effective 7/29/14.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $122,889,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Delaware</Name>
+<Abbrev>DE</Abbrev>
+<FipsCode>10</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $8,600,000 
+
+FY2015 Federal Funding for State Tobacco Control Programs: $890,601*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $9,490,601 
+
+Funding Level Recommended by CDC:                                        $13,000,000
+
+Percentage of CDC-Recommended Level:                                   73%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>9</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

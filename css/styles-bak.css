@@ -1,0 +1,43 @@
+body {font:75% arial,tahoma,sans-serif; margin:0; line-height:1.4em;}
+a {text-decoration:none; color:#35568b;}
+a:hover {text-decoration:underline;}
+button {cursor:pointer;}
+img {border:0;}
+h1, h2, h3, h4, h5, h6 {margin:0; padding:0; font-family:times new roman, serif;}
+h1 {font-size:2.2em; font-weight:100;}
+h2 {xfont-size:1.64em; font-weight:normal;}
+h3 {font-size:1.65em; font-weight:normal; margin-bottom:5px;  line-height:1.1em;}
+h4 {font-size:1.2em;}
+h5 {font-size:1.1em;}
+h6 {font-size:1.1em;}
+form, fieldset {border:0;margin:0;padding:0; }
+p {margin:0;}
+ul {margin:0px; padding:0px; }
+li {list-style-type:none;}
+ul.nobullets {padding-left:0px;}
+ul.nobullets li {list-style-type:none;}
+table {margin:10px;}
+th {font-size: 1.40em; float:left; font-weight:bold; }
+td {padding:3px; border:1px solid black;}
+label {float:left; clear:left;width:250px;margin:3px;}
+select {float:left; margin:3px;}
+input {float:left;clear:both;}
+.left {float:left;}
+.right {float:right;}
+.tabBtn {padding:10px; float:left;}
+.outerWrap {padding:10px;}
+.mapWrap {margin-left:25%; margin-top:20px;width:500px;}
+.mapWrap p {margin-bottom:10px; }
+.headers {font-weight:bold;}
+.stateList {width:300px; height:450px; float:left; overflow:hidden;}
+.tabBody {float:left; clear:both; overflow:hidden;width:750px;}
+.tabBody h3 {float:left;width:400px;}
+.tabBody ul {clear:both;}
+.utilLinks {float:right; clear:none;}
+.utilLinks a {margin-right:10px;}
+.note {color:red;clear:both;}
+.overviewSection {float:left; clear:both; margin:15px 0;}
+.overviewSection p {float:left; clear:both;}
+.overviewSection div {float:right;}
+.searchForm {width:340px;margin:20px 0;}
+.searchForm input {float:right;}

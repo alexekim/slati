@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-14T11:59:35">
+<tblStatesALA>
+<ID>45</ID>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<LegislatureHyperlink>#http://www.le.state.ut.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue Collected in Fiscal Year 2009 (July 1, 2008 to June 30, 2009): $50,285,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Smoking is prohibited in virtually all enclosed indoor places of public access, including all restaurants, taverns and private clubs.  See the statute cited below for a more detailed list of places covered.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Exceptions to the law include: 1) areas not commonly open to the public of owner-operated businesses having no employees other than the owner-operator; 2) separately ventilated smoking areas in Salt Lake City International Airport; and 3) guest rooms in hotels, motels, and other similar lodging facilities, except for the common areas where smoking is prohibited, including lobbies and dining areas.  In addition, smoking tobacco as part of a traditional religious ceremony of an American Indian Tribe is exempt from the prohibition.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are not allowed except for laws/ordinances concerning certain outdoor places of public access as specified below.
+
+This law supersedes any ordinance enacted by a governing body of a political subdivision that restricts smoking in a place of public access and that is not essentially identical to the provisions of this chapter.  Outdoor places of public access owned and operated by a political subdivision, a state institution of higher education, or a state institution of public education are exempt from preemption.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Smoking is prohibited in all publicly owned buildings and offices.  These buildings include any enclosed indoor place or portion of a place owned, leased, or rented by any state, county, or municipal government, or any agency supported by appropriation of, or by contracts or grants from funds derived from, the collection of federal, state, county or municipal taxes.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Smoking is prohibited in enclosed indoor places of public access, the definition of which includes any workplace that is not a place of public access or a publicly owned building or office but has one or more employees who are not owner-operators of the business.  Areas not commonly open to the public of owner-operated businesses having no employees other than the owner-operator are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Smoking is prohibited in public or private elementary and secondary school buildings and educational facilities and the property on which those facilities are located.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Smoking is prohibited in any licensed or certified child care facilities or programs, including those in private homes, when children being cared for are present.  Smoking is also prohibited in any child care not subject to licensure or certification when any child cared for by the provider, other than the child of the provider, is present.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Smoking is prohibited in enclosed indoor places of public access, which includes offices/buildings of facilities providing health care services, and all common areas of nursing homes and hospitals including the lobbies, hallways, elevators, restaurants, cafeterias, other designated dining areas and restrooms.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Smoking is prohibited in restaurants, cafes, and cafeterias.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>Smoking is prohibited in all bars/taverns and private clubs.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 78-38-1 (1997).</Citation>
+<Description>Smoking and Rental Agreements/Leases:
+Allows for a prohibition on smoking in a rental agreement or lease.
+UTAH CODE ANN. § 57-22-5 (1)(h) (1997).
+
+Smoking and Condominium Associations:
+Gives condominium associations the authority to restrict smoking in units, common areas and facilities.  Common areas include yard space.
+UTAH CODE ANN. § 57-8-16 (7) (1997).
+
+Secondhand Smoke Considered a Nuisance Legally:
+Secondhand smoke is defined as a nuisance when it drifts into any residential unit a person rents, leases, or owns, from another residential or commercial unit more than once in each of two or more consecutive seven-day periods, and which is injurious to health, indecent, offensive to the senses, or an obstruction to the free use of property, so as to interfere with the comfortable enjoyment of life or property.  A nuisance may be the subject of an action.  This does not apply to residential rental units available for temporary rental or hotel or motel rooms.  The cause of action is waived if the rental agreement explicitly says tobacco smoke may drift into the apartment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>16</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-38-1 et seq. (2009).</Citation>
+<Description>A first violation of the Utah Indoor Clean Air Act is a civil penalty of not more than $100.  A second and subsequent violation is a civil penalty of $100 to $500.  The state Department of Health and local health departments are responsible for enforcement.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 59-14-214 (2011).</Citation>
+<Description>Tax rate per pack of 20: $1.70 
+Date last changed: July 1, 2010 -- from 69.5 cents to $1.70 
+Year first enacted: 1923
+UTAH CODE ANN. § 59-14-204 (2010).
+
+In addition to the cigarette tax above, there is imposed an equity assessment of 35 cents per pack of 20 cigarettes on tobacco product manufacturers not participating in the Master Settlement Agreement.  The purposes of this equity assessment are: to recover health care costs to the state imposed by nonparticipating manufacturers;  to prevent nonparticipating manufacturers from undermining the state&apos;s policy of reducing underage smoking by offering cigarettes for sale substantially below the prices of cigarettes of other manufacturers;  to protect funding, which is reduced as a result of the growth of nonparticipating manufacturer cigarette sales, for programs funded in whole or in part by payments to the state under the Master Settlement Agreement; to recoup settlement-payment revenue lost to the state as a result of nonparticipating manufacturer cigarette sales; and to fund enforcement and administration of Master Settlement Agreement provisions.</Description>
+<NumericValue>1.7</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 59-14-204(5) (2010).</Citation>
+<Description>Specified portions of cigarette tax revenue from cigarette tax increases are set aside in a Cigarette Tax Restricted Account in the state general fund, and allocated to several specific programs/purposes, including tobacco prevention and cessation programs.</Description>
+<Year>2009</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>50285000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 59-14-204(5) (2010).</Citation>
+<Description>There is created within the General Fund a restricted account known as the &quot;Cigarette Tax Restricted Account.&quot;  Certain revenues from state cigarette tax increases are deposited in the fund as follows: 1) $250,000 of the revenues generated by the increase in the cigarette tax enacted during the 1997 general session shall be annually deposited into the account.  The Department of Health shall expend these funds for a tobacco prevention and control media campaign targeted towards children.  
+2) Twenty-two percent of the revenue generated from the cigarette tax increase during the 2002 general session shall also be deposited in the Cigarette Tax Restricted Account and annually appropriated to the Department of Health for tobacco prevention, reduction, cessation, and control programs.  Also, 15 percent and 21 percent of the revenue from the cigarette tax increase in the 2002 general session is deposited in the account where it is appropriated to the University of Utah Health Sciences Center for the Huntsman Cancer Institute for cancer research and University of Utah Health Sciences Center for medical education at the University of Utah School of Medicine respectively.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 59-14-302 (2011).</Citation>
+<Description>Little cigars: 8.5 cents per cigar;
+Moist snuff: $1.83/ounce or a proportionate rate on a fractional part of an ounce;
+All other tobacco products: 0.86 multiplied by the manufacturer&apos;s selling price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 77-39-101 (2010).</Citation>
+<Description>A peace officer may investigate possible violations of retail establishments that sell cigars, cigarettes, tobacco in any form or electronic cigarettes to minors by requesting a person under the legal age to attempt to purchase such products from the establishment.  Written parental consent must be obtained prior to any attempt and the minor must be under the supervision and direction of the peace officer.  A purchase attempted under this section shall be conducted on a random basis, but not more often than four times within a 12-month period at any one retail establishment location unless there is reasonable suspicion to believe the retail establishment has sold cigars, cigarettes, tobacco in any form or electronic cigarettes to a person less than 19 years of age.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 76-10-105.3 (2002).</Citation>
+<Description>Any person who knowingly, intentionally, recklessly, or with criminal negligence provides any cigar, cigarette, electronic cigarette or tobacco in any form, to any person under 19 years of age, is guilty of a class C misdemeanor on the first offense, a class B misdemeanor on the second offense, and a class A misdemeanor on subsequent offenses.
+UTAH CODE ANN. § 76-10-104 (2010).
+
+If, following an investigation or issuance of a citation or information, an enforcing agency (the state Department of Health and/or local health departments) determines that a licensee or any employee has sold tobacco to a person younger than 19 years of age, the enforcing agency may impose upon the licensee the following administrative penalties: not more than $300 for a first violation; not more than $750 for a second violation within 12 months; and $1,000 for a third and subsequent violations within a 12-month period.  A licensee is also subject to a license suspension for not more than 30 days for a third violation and license revocation for one year after a specified date for a fourth and subsequent violation.  In determining the amount of the monetary penalty to be imposed for an employee&apos;s violation the hearing officer shall reduce the penalty by at least 50 percent if they determine the licensee has implemented a documented employee training program, and the employee has completed that training program within 30 days of commencing duties of selling tobacco products.  If the hearing officer determines regarding a first offense at a location, that the licensee has not implemented a documented training program with a written curriculum for employees at that location regarding compliance with this chapter, the hearing officer may suspend all or a portion of the monetary penalty, contingent upon the licensee&apos;s initiating a training program for employees at that location within 30 days after the hearing date.  If the training program is not implemented, the penalty shall be promptly imposed. 
+UTAH CODE ANN. §§ 26-42-103 (2011) &amp; 26-42-106 (1998).
+
+Any person who knowingly, intentionally, recklessly, or with criminal negligence provides any tobacco paraphernalia as defined to any person less than 19 years of age, is guilty of a class C misdemeanor on the first offense and a class B misdemeanor for subsequent offenses.
+UTAH CODE ANN. § 76-10-104.1 (2010).
+
+It is unlawful for any person to knowingly sell, offer for sale, give or furnish any clove cigarette in this state. For purposes of this section &quot;clove cigarette&quot; means any cigarette which contains more than 10 percent, by weight, of raw eugenia caryophyllata or caryophyllus, commonly known as clove.  Any person who violates this section is guilty of a Class B misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 53-3-229(3)(c) &amp; 53-3-810(3)(c) (2010).</Citation>
+<Description>Any 18 year old who buys or attempts to buy, accepts or possesses any cigar, cigarette, electronic cigarette or tobacco in any form shall be guilty of a Class C misdemeanor and is subject to a minimum fine of $60; and participation in a court-approved tobacco education program, which may include a participation fee.  Any person under the age of 18 who buys or attempts to buy, accepts or possesses any cigar, cigarette, electronic cigarette or tobacco in any form is subject to the jurisdiction of the juvenile court and a minimum fine of $60 and participation in a court-approved tobacco education program, which may include a participation fee.
+UTAH CODE ANN. § 76-10-105 (2010).
+
+It is a Class A misdemeanor to knowingly acquire, use, display, or transfer a false or altered driver license certificate to procure a cigarette, an electronic cigarette, tobacco or a tobacco product.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 76-10-105.1 (2010).</Citation>
+<Description>A retailer may sell cigarettes, electronic cigarettes, cigars, cigarette tobacco, pipe tobacco and smokeless tobacco only in a direct, face-to-face exchange between the employee of the retailer and the purchaser, including through self-service displays, except those located in a separate and defined area within a facility where the retailer ensures that no person younger than 19 years of age is present, or permitted to enter, at any time, unless accompanied by a parent or legal guardian.  Use or display of locked cabinets containing cigarettes, cigars, cigarette tobacco, pipe tobacco, or smokeless tobacco in a store are allowed if the locked cabinets are only accessible to the retailer or their employees.  Sales by a retailer from a retail store which derives at least 80 percent of its revenue from tobacco and tobacco-related products and where the retailer ensures that no person younger than 19 years of age is present, or permitted to enter at any time, unless accompanied by a parent or legal guardian are also allowed.  A first offense is a Class C misdemeanor; a second offense is a Class B misdemeanor; and a third and all subsequent offenses are a Class A misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 59-14-509 (2009) &amp; 76-10-105.1 (2010).</Citation>
+<Description>Mail-order sales of cigarettes and tobacco products are exempt from the face-to-face sale requirement in section 76-10-105.1 of the Utah Code.  However, a person, distributor, manufacturer, or retailer shall not: 1) cause tobacco products or cigarettes as defined to be ordered or purchased by anyone other than a person who is licensed by the state Tax Commission to manufacture, import, distribute, barter, sell, exchange, or offer cigarettes for sale; or 2) knowingly provide substantial assistance to a person who violates this requirement.  Violation is subject to a civil penalty of $5,000 for each violation, an injunction to restrain a threatened or actual violation and recovery by the state of the costs to prosecute the case as specified.  A person who knowingly violates this section has engaged in an unfair and deceptive trade practice under existing Utah law, and the court shall order any profits, gain, gross receipts, or other benefit from the violation to be disgorged.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 76-10-103 (1973).</Citation>
+<Description>It is a class C misdemeanor for the proprietor of any place of business to knowingly permit persons under 19 to frequent their place of business while they are using tobacco.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>11</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 76-10-105.1 (2010).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are allowed for some provisions above, but are not allowed concerning the placement of tobacco products in retail stores and mail order/Internet sales of tobacco products.
+
+Any ordinance, regulation, or rule adopted by the governing body of a political subdivision or state agency that affects the sale, placement, or display of cigarettes or smokeless tobacco that is not essentially identical to the provisions of Section 76-10-102 and 76-10-105.1 are superseded.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 76-10-111 (2010) &amp; 76-10-112 (1989).</Citation>
+<Description>It is unlawful for a manufacturer, wholesaler, or retailer to give or distribute cigarettes, electronic cigarettes, smokeless tobacco or tobacco products without charge, except to adults at professional conventions where the general public is excluded and to persons of legal age upon their purchase of tobacco products.  Violation is a Class C misdemeanor for the first offense and a Class B misdemeanor for subsequent offenses.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 59-14-210 (2002) &amp; 59-14-211 (2004).</Citation>
+<Description>A licensee may not barter, sell, exchange, or offer for sale cigarettes in an individual package or container that contains less than 20 cigarettes or roll-your-own tobacco in an individual package or container that contains less than 0.6 ounces of tobacco.  No penalty is specified for violation.  
+UTAH CODE ANN. § 59-14-202 (1999).
+
+A licensee may not barter, sell, exchange, or offer for sale cigarettes in a package which does not comply with federal law, including the Federal Cigarette Labeling and Advertising Act, regarding warning labels and other package information.  Violation is a Class B misdemeanor and also subject to a civil penalty not to exceed 500 percent of the retail value of the cigarettes involved or $5,000.  Any license shall be suspended or revoked as well.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are allowed.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 76-10-105.1 (2010).</Citation>
+<Description>A retailer must sell cigarettes, electronic cigarettes, cigars, cigarette tobacco, pipe tobacco and smokeless tobacco only in a direct, face-to-face exchange between the employee of the retailer and the purchaser, including through vending machines.  Sales from vending machines, including those selling packaged single cigarettes or cigars, are allowed if they are located in a separate and defined area within a facility where the retailer ensures that no person younger than 19 years of age is present, or permitted to enter at any time, unless accompanied by a parent or legal guardian.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 76-10-105.1 (2010).</Citation>
+<Description>Violation is a class C misdemeanor for the first offense, a class B misdemeanor for the second offense, and a class A misdemeanor for subsequent offenses.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 76-10-105.1 (2010).</Citation>
+<Description>Stronger local laws/ordinances concerning the placement of or required sign posting on tobacco products vending machines are not allowed, see below.
+
+Any ordinance, regulation, or rule adopted by the governing body of a political subdivision or state agency that affects the sale, placement, or display of cigarettes or smokeless tobacco that is not essentially identical to the provisions of Section 76-10-102 and 76-10-105.1 are superseded.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 59-14-201 to 59-14-203 (2004).</Citation>
+<Description>It is unlawful for any person in this state to manufacture, import, distribute, barter, sell, exchange, or offer cigarettes for sale without first having obtained a license from the state Tax Commission.  A separate license is required for each place of business.  Licenses are valid for three years from the date of issuance unless suspended or revoked.  Any person engaging in the business of manufacturing, importing, distributing, or selling or offering to sell cigarettes without holding a valid license that is currently not suspended or revoked is guilty of a class B misdemeanor for each offense.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. § 59-14-201 (2004).</Citation>
+<Description>$30 for a cigarette license and $20 for renewal every three years.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 59-14-203.5 &amp; 26-42-103 (2011).</Citation>
+<Description>The state Tax Commission shall suspend or revoke the licenses to sell tobacco of any business upon receipt of notice from the enforcing agency (the state Department of Health and/or local health departments) that there has been a third or fourth violation of Section 26-40-103 (UT youth access law).  A third violation within a 12-month period is subject to a license suspension for not more than 30 days and a fourth or subsequent violation is subject to license revocation for one year from a specified date.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>It is a class B misdemeanor for any person to display on any billboard, streetcar sign, streetcar, bus, placard or on any other object or place of display, any advertisement of any tobacco product, except that a dealer in tobacco products may have a sign on the front of his place of business stating that he deals in the articles.  This law does not prohibit advertisements of tobacco products in any newspaper, magazine, or other periodical in the state.  
+UTAH CODE ANN. §§ 76-10-102 (1986).
+
+Note #1:Enforcement of the above provisions may be affected by the U.S. Supreme Court decision in Lorillard Tobacco Company v. Reilly, decided in 2001.
+
+Note #2: Section 76-10-102 of the Utah Code also required warnings on newspaper, magazine or periodical advertisements for smokeless tobacco products.  However, the language of this provision defers to any subsequently enacted federal law for the specific warning language required to be placed in smokeless tobacco advertisements.  Shortly thereafter, the federal Comprehensive Smokeless Tobacco Health Education Act of 1986 was enacted and said that no other statement relating to the use of smokeless tobacco products and health shall be required by any state or local statute or regulation to be included on any package or in any advertisement (unless the advertisement is an outdoor billboard advertisement) of a smokeless tobacco product.  
+UTAH CODE ANN. §§ 76-10-102 (1986) &amp; 15 U.S.C. § 4406(b) (1986).</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 26-40-101 et seq. (1998).</Citation>
+<Description>The Department of Health shall annually obtain publicly available information regarding cigarettes and tobacco products from other states and sources concerning:  (1) the presence of the following substances in detectable levels in an unburned state and, if the cigarette or tobacco product is typically burned when consumed, in a burned state: (a) ammonia or ammonia compounds; (b) arsenic; (c) cadmium; (d) formaldehyde; and (e) lead; and (2) a nicotine yield rating for the cigarette or tobacco product for which a rating has been developed.  Information obtained by the department is a public record and may be disclosed and disseminated generally by the department.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 51-9-201 (2010) &amp; 51-9-202 (2011) &amp; UTAH CONSTITUTION Art. XXII, Section 4 (2009).</Citation>
+<Description>Sixty percent of Utah&apos;s annual Master Settlement Agreement (MSA) payments are deposited in a &quot;Tobacco Settlement Restricted Account&quot; in the state general fund, and used for several specified purposes, including funding tobacco prevention and cessation programs.  The remaining 40 percent is deposited in the state general fund.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>38200000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CONSTITUTION Art. XXII, Section 4 (2009) &amp; UTAH CODE ANN. § 51-9-202 (2011).</Citation>
+<Description>Utah created the &quot;Tobacco Settlement Restricted Account,&quot; a restricted account in the general fund. The account shall consist of 60 percent of all funds received from the MSA on and after July 1, 2007.  Funds will be appropriated from this account in the following order: $10,452,900 for the children&apos;s health insurance program, $3,487,100 for alcohol, tobacco, and other drug prevention, reduction, cessation, and control programs; $2,519,100 to the Administrative Office of the Courts and the Department of Human Services for statewide expansion of the drug court program; $4 million to the University of Utah Health Sciences Center; and any remaining funds as directed by the legislature.   
+UTAH CODE ANN. § 51-9-201 (2010).
+
+Utah created a Permanent State Trust Fund under Utah Constitution Article XXII, Section Four to receive a portion of the annual payments from the Master Settlement Agreement.  The principal of the trust fund is invested in perpetuity, and can be transferred to the General Fund only by a vote of three-quarters of both houses of the legislature and concurrence by the governor.  The interest income from the trust fund is transferred to the general fund where by statute 50 percent is returned to the permanent trust fund.  The trust fund no longer receives an allocation from the annual MSA payment on and after July 1, 2011, and the remaining 40 percent of the MSA payment is allocated to the state general fund.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Preempts local laws/ordinances concerning smoking that are not essentially identical to state law except for certain places of outdoor public access; preemption of youth access laws/ordinances only applies to placement of tobacco products, mail order sales of tobacco products and tobacco product vending machines.  Stronger local laws/ordinances dealing with advertising and promotion of tobacco products are also not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Utah&apos;s tobacco control program comes from annual Master Settlement Agreement payments and cigarette tax revenue.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2012 Social Services Budget (H.B. 8) enacted 2/16/11 and effective 7/1/11.</Citation>
+<Description>Utah allocated $7,131,700 for tobacco prevention and cessation programs in FY2012 (July 1, 2011 to June 30, 2012).  The same amount was allocated in FY2011.</Description>
+<Year>2012</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>7131700</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 53-7-401 to 53-7-411 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in section 53-7-403(8) Utah Code, no cigarettes may be sold or offered for sale in Utah or offered for sale or sold to persons located in Utah unless: 1) the cigarettes have been tested in accordance with the test method required by and meet the performance standard specified in section 53-7-403 Utah Code; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 53-7-404 Utah Code; and 3) the cigarettes have been marked in accordance with Section 53-7-405 Utah Code.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>UTAH CODE ANN. §§ 53-7-401 to 53-7-411 (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above for a first offense shall be liable for a civil penalty not to exceed $10,000, and for a subsequent offense a civil penalty not to exceed $25,000 per each sale of such cigarettes. A penalty against any one entity may not exceed $100,000 during any 30-day period.  A retail dealer who knowingly sells cigarettes in violation of the above shall: if the total number of cigarettes sold or offered for sale does not exceed 1,000 cigarettes, be liable for a civil penalty not to exceed $500 for a first offense and not to exceed $2,000 for a subsequent offense; and if the sale does exceed 1,000 cigarettes, be liable for a civil penalty not to exceed $1,000 for a first offense and not to exceed $5,000 for a subsequent offense.  A penalty imposed against any retail dealer shall not exceed $25,000 during a 30-day period.  In addition to any penalty prescribed by law, any corporation, partnership, sole proprietor, limited partnership, or association engaged in the manufacture of cigarettes that knowingly makes a false certification, shall for a first offense, be liable for a civil penalty of at least $75,000; and for a subsequent offense, be liable for a civil penalty not to exceed $250,000.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Allocated $7,131,700 for tobacco prevention and cessation programs in FY2012.
+FY2012 Social Services Budget (H.B. 8) enacted 2/16/11 and effective 7/1/11.
+
+Tobacco Taxes: Defines little cigars, and makes the tax on them equal to the tax on cigarettes.
+S.B. 262 enacted 3/22/11 and effective 7/1/11.
+
+Use of Tobacco Settlement Dollars: For FY2012 and future fiscal years, dedicates 40 percent of the annual tobacco settlement payment previously dedicated to a Permanent State Trust Fund to the state general fund.
+H.B. 451 enacted 3/21/11 and effective 7/1/11.
+
+Tobacco Licensing: Makes some changes to licensing provisions regarding the sale and distribution of tobacco products, including specifying when a license revocation officially begins for violations of selling tobacco products to minors.
+H.B. 201 enacted 3/21/11 and effective 5/10/11.</Description>
+<Year>2011</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2011-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Age to Sell Tobacco Products to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>19</Description>
+<NumericValue>19</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Utah</Name>
+<Abbrev>UT</Abbrev>
+<FipsCode>49</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2012 State Funding for Tobacco Control Programs:              $7,131,700
+
+FY2012 Federal Funding for State Tobacco Control Programs: $1,542,783*
+
+FY2012 Total Funding for State Tobacco Control Programs:      $8,674,483
+
+Funding Level Recommended by CDC:                                        $23,600,000
+
+Percentage of CDC-Recommended Level:                                   36.8%
+
+*Includes regular funding from the Centers for Disease Control and Prevention as well as tobacco-related grants to states and communities from federal stimulus and health care reform funds.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>45</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

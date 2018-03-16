@@ -1,0 +1,1 @@
+<p>The data is organized under specific categories. Please click <a href="/SLATI Categories Document 3-11.pdf" target="_blank">here</a> for a document with brief descriptions of what information you can expect to find under each category.</p>

@@ -1,0 +1,1839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2013-11-07T14:33:00">
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>01</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>01</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>01</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>01</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>01</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>01</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>01</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>01</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>01</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>02</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>02</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>02</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>02</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>02</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>02</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>02</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>02</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>02</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>04</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>04</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>04</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>04</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>04</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>04</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>04</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>04</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>04</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>05</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>05</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>05</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>05</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>05</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>05</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>05</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>05</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>05</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>06</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>06</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>06</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>06</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>06</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>06</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>06</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>06</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>06</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>08</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>08</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>08</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>08</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>08</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>08</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>08</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>08</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>08</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>09</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>09</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>09</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>09</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>09</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>09</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>09</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>09</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>09</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>10</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>10</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>10</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>10</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>10</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>10</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>10</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>10</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>10</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>12</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>12</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>12</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>12</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>12</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>12</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>12</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>12</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>12</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>13</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>13</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>13</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>13</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>13</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>13</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>13</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>13</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>13</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>15</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>15</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>15</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>15</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>15</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>15</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>15</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>15</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>15</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>16</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>16</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>16</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>16</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>16</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>16</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>16</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>16</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>16</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>17</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>17</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>17</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>17</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>17</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>17</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>17</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>17</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>17</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>18</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>18</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>18</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>18</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>18</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>18</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>18</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>18</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>18</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>19</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>19</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>19</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>19</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>19</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>19</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>19</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>19</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>19</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>20</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>20</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>20</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>20</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>20</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>20</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>20</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>20</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>20</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>21</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>21</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>21</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>21</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>21</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>21</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>21</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>21</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>21</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>22</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>22</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>22</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>22</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>22</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>22</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>22</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>22</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>22</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>23</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>23</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>23</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>23</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>23</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>23</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>23</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>23</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>23</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>24</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>24</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>24</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>24</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>24</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>24</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>24</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>24</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>24</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>25</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>25</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>25</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>25</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>25</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>25</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>25</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>25</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>25</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>26</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>26</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>26</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>26</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>26</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>26</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>26</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>26</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>26</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>27</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>27</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>27</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>27</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>27</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>27</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>27</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>27</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>27</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>28</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>28</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>28</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>28</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>28</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>28</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>28</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>28</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>28</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>29</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>29</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>29</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>29</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>29</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>29</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>29</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>29</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>29</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>30</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>30</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>30</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>30</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>30</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>30</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>30</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>30</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>30</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>31</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>31</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>31</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>31</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>31</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>31</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>31</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>31</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>31</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>32</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>32</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>32</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>32</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>32</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>32</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>32</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>32</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>32</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>33</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>33</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>33</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>33</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>33</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>33</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>33</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>33</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>33</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>34</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>34</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>34</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>34</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>34</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>34</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>34</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>34</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>34</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>35</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>35</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>35</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>35</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>35</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>35</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>35</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>35</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>35</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>36</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>36</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>36</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>36</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>36</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>36</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>36</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>36</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>36</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>37</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>37</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>37</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>37</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>37</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>37</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>37</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>37</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>37</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>38</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>38</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>38</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>38</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>38</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>38</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>38</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>38</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>38</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>39</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>39</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>39</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>39</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>39</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>39</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>39</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>39</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>39</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>40</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>40</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>40</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>40</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>40</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>40</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>40</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>40</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>40</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>41</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>41</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>41</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>41</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>41</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>41</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>41</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>41</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>41</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>42</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>42</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>42</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>42</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>42</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>42</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>42</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>42</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>42</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>44</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>44</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>44</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>44</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>44</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>44</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>44</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>44</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>44</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>45</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>45</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>45</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>45</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>45</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>45</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>45</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>45</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>45</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>46</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>46</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>46</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>46</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>46</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>46</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>46</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>46</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>46</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>47</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>47</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>47</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>47</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>47</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>47</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>47</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>47</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>47</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>48</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>48</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>48</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>48</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>48</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>48</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>48</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>48</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>48</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>49</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>49</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>49</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>49</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>49</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>49</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>49</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>49</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>49</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>50</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>50</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>50</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>50</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>50</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>50</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>50</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>50</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>50</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>51</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>51</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>51</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>51</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>51</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>51</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>51</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>51</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>51</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>53</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>53</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>53</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>53</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>53</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>53</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>53</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>53</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>53</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>54</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>54</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>54</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>54</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>54</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>54</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>54</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>54</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>54</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>55</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>55</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>55</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>55</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>55</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>55</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>55</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>55</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>55</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>56</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>56</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>56</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>56</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>56</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>56</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>56</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>56</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>56</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>11</FipsCode>
+<Coverage>Other</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>11</FipsCode>
+<Coverage>Limits on duration</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>11</FipsCode>
+<Coverage>Lifetime limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>11</FipsCode>
+<Coverage>Annual limit on quit attempts</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>11</FipsCode>
+<Coverage>Prior authorization required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>11</FipsCode>
+<Coverage>Dollar Limit</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>11</FipsCode>
+<Coverage>Counseling Required for Medications</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>11</FipsCode>
+<Coverage>Co-payments required</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+<qryXMLSearchMedicaidExpBarrier>
+<FipsCode>11</FipsCode>
+<Coverage>Stepped-care therapy</Coverage>
+</qryXMLSearchMedicaidExpBarrier>
+</dataroot>

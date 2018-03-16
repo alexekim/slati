@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:53:14">
+<tblStatesALA>
+<ID>40</ID>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<LegislatureHyperlink>#http://www.rilin.state.ri.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in almost all enclosed public places and places of employment, including all restaurants and bars.  For a detailed list of public places covered, see Rhode Island General Laws section 23-20.10-3.  Pari-mutual facilities (casinos) shall provide designated smoking and nonsmoking gaming areas in their facilities as specified.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>Exceptions to the law include: 1) private residences, except when used as a licensed child care, adult day care or health care facility; 2) up to 50 percent of designated hotel/motel rooms; 3) retail tobacco stores as defined, as long as smoke doesn&apos;t drift into other areas designated as non-smoking; 4) private and semiprivate rooms or designated areas in assisted living residences and nursing facilities; 5) outdoor places of employment; and 6) smoking bars as defined.  This also does not apply to a stage performance provided that smoking is part of the theatrical production.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 23-28.15-23 (2000).</Citation>
+<Description>Stronger local laws/ordinances further restricting tobacco use in and on the grounds of schools and day care facilities are specifically allowed, see below; for other types of places local communities are allowed to pass stronger laws/ordinances further restricting smoking as well.
+
+Nothing contained in this chapter shall be construed to restrict the power or authority of any Rhode Island city, town or other legal subdivision to adopt and enforce additional local laws, ordinances, or regulations that comply with at least the minimal applicable standards to establish smokefree schools.
+R.I. GEN. LAWS §§ 23-20.9-1 et seq. (1993).
+
+Nothing in this section shall be construed to prohibit a city or town from enacting or enforcing an ordinance relating to tobacco use in a facility providing day care services if the ordinance is more stringent than this section.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>Smoking shall be prohibited in all enclosed facilities within places of employment, including all public places of employment and vehicles being used by more than one employee.  This includes common work areas, auditoriums, classrooms, conference and meeting rooms, private offices, elevators, hallways, medical facilities, cafeterias, employee lounges, stairs, restrooms, vehicles, and all other enclosed facilities.  An employer may provide an outdoor smoking area, but the area must be physically separated from the enclosed workplace so as to prevent the migration of smoke into the workplace.  This prohibition on smoking shall be communicated to all existing employees and to all prospective employees upon their application for employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>Smoking shall be prohibited in all enclosed facilities within places of employment without exception.  This includes common work areas, auditoriums, classrooms, conference and meeting rooms, private offices, elevators, hallways, medical facilities, cafeterias, employee lounges, stairs, restrooms, vehicles, and all other enclosed facilities.  The definition of &quot;place of employment&quot; includes vehicles being used by more than one employee.  A private residence is not a &quot;place of employment&quot; unless it is used as a child care, adult day care or health care facility.  An employer may provide an outdoor smoking area, but the area must be physically separated from the enclosed workplace so as to prevent the migration of smoke into the workplace.  This prohibition on smoking shall be communicated to all existing employees and to all prospective employees upon their application for employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in all primary and secondary schools, indoor athletic facilities, school administration buildings, playgrounds, school buses and outdoor areas within 25 feet of any school building.  The governing body of each school in Rhode Island shall be responsible for the development of enforcement procedures to prohibit tobacco product usage by any person utilizing school facilities.  All facilities used by a school, whether owned, leased or rented, shall be subject to the provisions of this chapter.  Governing bodies of schools are liable for a civil penalty of not less than $50 or to exceed $500.  
+R.I. GEN. LAWS § 23-20.9-1 et seq. (1993).  
+
+To the extent not covered by the restrictions above, smoking is prohibited in all enclosed public places, including primary, secondary and post-secondary education facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>No person shall smoke, chew, or otherwise use tobacco products in the buildings or outdoor play areas of a licensed child day care center or during the hours of operation in a family day care home or group family day care home, in any vehicle used for transporting children or in outside areas on the grounds or premises within 25 feet of buildings or outdoor play areas; provided, further, that smoking shall not occur on grounds or premises within the children&apos;s view.  The administrator of a child day care center shall post in a conspicuous place in the center a notice stating that smoking is prohibited in the facility and its vehicles and on its grounds.  Smoking may be permitted in family day care homes and group family day care homes during hours in which individuals receiving day care are not present; provided, however, that the day care provider shall notify the parent, custodian, or guardian of each individual receiving day care services that smoking routinely occurs in the home during hours when the home is not in operation. 
+R.I. GEN. LAWS § 23-28.15-23 (2000).
+
+To the extent not covered by the restrictions above, smoking shall be prohibited in all enclosed public places, including licensed child care and adult day care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>Smoking shall be prohibited in all enclosed public places, including health care facilities and the lobbies, hallways and other common areas of nursing homes.  &quot;Health care facility&quot; is defined as an office or institution providing care or treatment of diseases, whether physical, mental, emotional, or other medical, physiological or psychological conditions, including, but not limited to, hospitals, rehabilitation hospitals or other clinics, including weight control clinics, nursing homes, homes for the aging or chronically ill, laboratories, and offices of surgeons, chiropractors, physical therapists, physicians, dentists, and all specialists within these professions.  Private and semi-private rooms or designated areas in assisted living residences and nursing facilities are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>Smoking shall be prohibited in all enclosed public places, including restaurants.  &quot;Restaurant&quot; is defined as an eating establishment, including, but not limited to, coffee shops, cafeterias, and private and public school cafeterias, which gives or offers for sale food to the public, guests or employees, as well as kitchens and catering facilities in which food is prepared on the premises for serving elsewhere. The term &quot;restaurant&quot; shall include a bar area within the restaurant.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>Smoking shall be prohibited in all enclosed public places, including bars.  Smoking bars are exempt.  &quot;Smoking bar&quot; means an establishment whose business is primarily devoted to the serving of tobacco products for consumption on the premises, in which the annual revenues generated by tobacco sales are greater than 50 percent of the total revenue for the establishment and the serving of food or alcohol is only incidental to the consumption of such tobacco products.  Smoking bars are required to provide a proper ventilation system which will prevent the migration of smoke into the street.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 11-19-32 (1995).</Citation>
+<Description>Bingo games held in nonsmoking facilities are permitted to award a higher amount of total prizes in any one night than games held in smoking facilities.  Prizes may total a maximum of $6,050 in cash and merchandise in nonsmoking facilities and $4,250 in smoking facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.10-1 et seq. (2005).</Citation>
+<Description>No-smoking signs must be clearly and conspicuously posted in every public place and place of employment where smoking is prohibited by this chapter, by the owner, operator, manager or other person in control of that place.  An employer who violates the prohibition on smoking in public places or places of employment is liable for a civil penalty of $250 for the first violation, $500 for the second violation and $1,000 for the third violation.  Each day the violation is committed or permitted to continue shall constitute a separate offense.  Any citizen who desires to register a complaint under this chapter may initiate such a complaint with the Department of Health.  The Department of Health, local fire department, or their designees shall, while an establishment is undergoing otherwise mandated inspections, shall inspect for compliance with the above law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 44-20-12 (2015).</Citation>
+<Description>Tax rate per pack of 20: $3.75
+Date last changed: August 1, 2015 -- from $3.50 to $3.75
+Year first enacted: 1939</Description>
+<NumericValue>3.75</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 44-20-49 (1991).</Citation>
+<Description>All revenue received from the cigarette tax is distributed to the general treasurer.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>128497000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 44-20-13.2 (2012).</Citation>
+<Description>Cigars, pipe tobacco products and smokeless tobacco other than snuff: 80% of the wholesale cost, except the tax on cigars shall not exceed 50 cents per cigar;
+Snuff: $1.00/oz. or proportionate rate on all fractional parts of an ounce, provided, however, that any product with a net weight under 1.2 ounces will be taxed as if the product has a net weight of 1.2 ounces.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<Citation>R.I. GEN. LAWS § 44-20-13.2 (2009).</Citation>
+<Description>All proceeds collected from the taxes on tobacco products other than cigarettes are paid into the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 11-9-13.6 (2015).</Citation>
+<Description>The Department of Behavioral Healthcare, Developmenal Disabilities and Hospitals shall coordinate and promote the enforcement of the provisions of this chapter and serve as the primary liaison from this department to other state or local agencies, departments, or divisions on issues pertaining to stopping children&apos;s access to tobacco and electronic nicotine delivery systems. It shall investigate concurrently with other state and local officials&apos; violations of this chapter.  It shall utilize unannounced statewide compliance checks of retail tobacco and/or electronic nicotine delivery system over-the-counter sales, mail order sales initiated via mail, facsimile, telephone or the Internet, and vending machine sales as part of investigating compliance. Underage individuals, acting as agents for the department and with the written permission of a parent or guardian, may purchase, with impunity from prosecution, tobacco products and/or electronic nicotine delivery systems for the purposes of law enforcement or government research involving monitoring compliance with this chapter, provided that the underage individuals are supervised by an adult law enforcement official.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 11-9-13.8(1) &amp; 11-9-13.13 (2015).</Citation>
+<Description>No person shall sell, give or deliver any tobacco in the form of cigarettes, bidi cigarettes, cigars, little cigars, flavored and unflavored cigars known as &quot;blunts,&quot; flavored and unflavored blunt wraps, cigarette rolling papers of any size or composition, cigarillos, tiparillos, pipe tobacco, chewing tobacco, electronic nicotine delivery systems as defined or snuff to a person less than 18 years of age.  No specific penalties are mentioned.
+R.I. GEN. LAWS § 11-9-13 (2014).
+
+A person that holds a license issued under chapter 20 of title 44 of the Rhode Island General Laws, or an employee or agent of that person, is prohibited from selling, distributing or delivering a tobacco and/or an electronic nicotine delivery system product to any individual that is less than 18 years of age.  Violation is punishable by a fine of $250 for a first violation, $500 for a second violation within any 36 month period, $1,000 and a 14 day suspension of the license to sell tobacco products for a third violation within any 36 month period, and a fine of $1,500 and a 90 day suspension of the license to sell tobacco products for each violation in excess of three.  The license holder is responsible for all violations that occur at the location for which the license is issued.  The court shall suspend the imposition of a license suspension if the court finds that the license holder has taken measures to prevent the sale of tobacco and electronic nicotine delivery system products to minors and the license holder can demonstrate to the court that those measures have been taken and that employees have received training.  No person shall sell tobacco products and/or electronic nicotine delivery systems, at retail, without first being trained in the legal sale of such products.  Dealers shall maintain records indicating that the provisions of this section were reviewed with all employees who conduct or will conduct sales.  Each employee who sells or will sell tobacco products and/or electronic nicotine delivery systems shall sign an acknowledgement form attesting that the provisions of this section were reviewed with them.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 11-9-13.8.1 (2013).</Citation>
+<Description>Signs provided by the Department of Behavioral Health, Developmental Disabilities and Hospitals shall be displayed prominently for public view at each cash register, vending machine or any other place where tobacco products and/or electronic nicotine delivery systems are sold and shall contain the following wording in both English and Spanish: &quot;THE SALE OF CIGARETTES, TOBACCO AND ELECTRONIC NICOTINE DELIVERY SYSTEM PRODUCTS TO PERSONS UNDER THE AGE OF 18 IS AGAINST RHODE ISLAND LAW (SECTION 11-9-13.8 (A) (1), RHODE ISLAND GENERAL LAWS). PHOTO ID FOR PROOF OF AGE IS REQUIRED FOR PURCHASE.&quot;  The signs shall also provide a phone number at the Department of Behavioral Health, Developmental Disabilities and Hospitals where violations can be reported.  Violation is punishable by a fine of $35 to $500 per civil violation.
+R.I. GEN. LAWS §§ 11-9-13.6(2) (2014), 11-9-13.7 (2014) &amp; 11-9-13.13 (2015).
+
+Signs concerning the health effects of tobacco shall be also be displayed prominently where tobacco products are sold and shall contain the following wording in both English and Spanish: WARNING: SMOKING CIGARETTES CONTRIBUTES TO LUNG DISEASE, CANCER, HEART DISEASE, STROKE AND RESPIRATORY ILLNESS AND DURING PREGNANCY MAY RESULT IN LOW BIRTH WEIGHT AND PREMATURE BIRTH.  These signs shall also information available to Rhode Island who want to quit smoking.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 11-9-13, 11-9-13.8, &amp; 11-9-13.13 (2001).</Citation>
+<Description>Any person is prohibited from selling tobacco products to minors.  The definition of &quot;tobacco product&quot; includes bidi cigarettes.  License holders face the same penalties as for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 11-9-14 (2014).</Citation>
+<Description>No person under 18 years of age shall purchase any tobacco in the form of cigarettes, bidi cigarettes, cigars, pipe tobacco, chewing tobacco, electronic nicotine delivery system as defined, or snuff.  No penalty is specified for violation.  
+R.I. GEN. LAWS § 11-9-13 (2014).
+
+No person under 18 shall use or possess, when such possession is clearly visible, tobacco and/or electronic nicotine delivery systems in any form in or on any public street, place or resort.  Violators shall be required to perform up to 30 hours of community service, or attend an approved tobacco treatment program at the discretion of the minor charged.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No person shall make a delivery sale of cigarettes to any individual who is under the legal minimum purchase age in the state.  Each person accepting a purchase order for a delivery sale shall comply with: 1) specific age verification requirements, including before the first sale obtaining a certification from the prospective consumer that includes reliable confirmation and a signed statement that the person is of the legal minimum purchase age, and making a good faith effort to verify the information against a commercially available database or receiving a photocopy of the individual&apos;s government-issued identification; 2) specific disclosure requirements; 3) specific shipping requirements, including use of a method of mailing, shipping or delivery that obligates the delivery service to require the consumer placing the purchase order for the delivery sale or another adult of legal minimum purchase age residing at the consumer&apos;s address, to sign to accept delivery of the shipping container and proof, in the form of a valid, government-issued identification bearing a photograph of the individual who signs to accept delivery of the shipping container, demonstrating that they are either the addressee or another adult of legal minimum purchase age residing at the consumer&apos;s address; 4) specific registration and reporting requirements; and 5) specific tax collection requirements.  A first violation of any provision of this chapter shall be punishable by a fine of $1,000 or five times the retail value of the cigarettes involved, whichever is greater.  A second or subsequent violation shall be punishable by a fine of $5,000 or five times the retail value of the cigarettes involved, whichever is greater.  Any person who knowingly violates any provision of this chapter, or who knowingly and falsely submits a required certification in another person&apos;s name, shall, for each such offense, be fined $10,000 or five times the retail value of the cigarettes involved, whichever is greater, and/or imprisoned for not more than five years.  Any person failing to collect or remit to the administrator any tax required in connection with a delivery sale, shall be assessed, in addition to any other penalty, a penalty of five times the retail value of the cigarettes involved.
+R.I. GEN. LAWS §§ 44-20.1-1 et seq. (2005).
+
+Any person selling or distributing tobacco products in the form of cigars, pipe tobacco, chewing tobacco, or snuff directly to a consumer via the United States Postal Service, or by any other public or private postal or package delivery service, including orders placed by mail, telephone, facsimile, or the Internet, shall before distributing or selling the tobacco product through any of these means, receive both a copy of a valid form of government identification showing date of birth to verify the purchaser is age 18 years or over and an attestation from the purchaser certifying that the information on the government identification truly and correctly identifies the purchaser and the purchaser&apos;s current address, and deliver the tobacco product to the address of the purchaser given on the valid form of government identification and by a postal or package delivery service method that either limits delivery to that purchaser and requires the purchaser to sign personally to receive the delivery or requires a signature of an adult at the purchaser&apos;s address to deliver the package.  The distribution, or sale or conveyance of tobacco products to persons under the age of 18 via the United States Postal Service, or by any other public or private postal or package delivery service is prohibited.  A minimum fine of $1,000 shall be assessed against any distributor or seller for each delivery of a tobacco product to a person less than 18 years of age.
+R.I. GEN. LAWS § 11-9-13.11 (2005).
+
+Note: Some parts of the above laws may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN LAWS § 11-9-13.10 (2014).</Citation>
+<Description>The distribution of free tobacco and electronic nicotine delivery systems products as defined or coupons or vouchers redeemable for such free products to any person less than 18 years of age shall be prohibited.  Further, the distribution of free tobacco or electronic nicotine delivery system products or coupons or vouchers redeemable for such free products shall be prohibited, regardless of the age of the person to whom the products, coupons, or vouchers are distributed, within 500 feet of any school.   Violators are subject to a $500 fine for each violation.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 11-9-13.1 (2014).</Citation>
+<Description>A person that holds a license issued under chapter 20 of title 44 of the Rhode Island General Laws, or an employee or agent of that person, is prohibited from selling, distributing or delivering a tobacco product in any other form than an original factory-wrapped package or as a single cigarette.  Violators are subject to a $500 fine for each violation.
+R.I. GEN. LAWS §§ 11-9-13.8 &amp; 11-9-13.13 (2015).
+
+No cigarettes shall be sold in packs which contain less than 20 cigarettes.  Violation is subject to a fine of $75 for the first offense, $150 for the second offense, and $500 for subsequent offenses.  In the event that there are no offenses in three successive years from the date of the last offense, then the next offense shall be treated as a first offense.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling and minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 11-9-13.1 (2014).</Citation>
+<Description>No cigarettes, any other tobacco product or electronic nicotine delivery system product as defined shall be sold from any device or vending machine which is in an area not continuously supervised and in the direct line of sight of an authorized person employed by the person, firm, or corporation that owns the business occupying the premises in which the vending machine is located.  The vending machine shall also be equipped with an electronic locking device which will not allow the machine to dispense the product unless it is unlocked from a secured position inaccessible to the public and under the supervision of an authorized person employed by the business owner.  Direct line of sight shall mean that the vending machine and the purchaser of the product must be visible to the authorized person pressing the unlock button while the unlock button is being activated.  Locking devices are not required on machines located in an establishment licensed to sell alcoholic beverages which limits access to persons over the age of 21 years.  Tobacco products and electronic nicotine delivery system products shall not be sold from vending machines containing non-tobacco products.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 11-9-13.1 (2014).</Citation>
+<Description>The owner of a business where a cigarette, tobacco product or electronic nicotine delivery system product vending machine in violation of these provisions is located shall be subject to a fine of $75 for the first offense, $150 for the second offense, and $500 for subsequent offenses.  In the event that there are no offenses in three successive years from the date of the last offense, then the next offense shall be treated as a first offense.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 11-9-13.8.1 (2013).</Citation>
+<Description>Signs provided by the Department of Behavioral Health, Developmental Disabilities and Hospitals shall be displayed prominently for public view on each vending machine and shall contain the following wording in both English and Spanish: &quot;THE SALE OF CIGARETTES, TOBACCO AND ELECTRONIC NICOTINE DELIVERY SYSTEM PRODUCTS TO PERSONS UNDER THE AGE OF 18 IS AGAINST RHODE ISLAND LAW (SECTION 11-9-13.8 (A) (1), RHODE ISLAND GENERAL LAWS). PHOTO ID FOR PROOF OF AGE IS REQUIRED FOR PURCHASE.&quot;  The signs shall also provide a phone number at the Department of Behavioral Health, Developmental Disabilities and Hospitals where violations can be reported.  Violation is punishable by a fine of $35 to $500 per civil violation.
+R.I. GEN. LAWS §§ 11-9-13.6(2) (2014), 11-9-13.7 (2014) &amp; 11-9-13.13 (2015).
+
+Signs concerning the health effects of tobacco shall be also be displayed prominently on each vending machine and shall contain the following wording in both English and Spanish: WARNING: SMOKING CIGARETTES CONTRIBUTES TO LUNG DISEASE, CANCER, HEART DISEASE, STROKE AND RESPIRATORY ILLNESS AND DURING PREGNANCY MAY RESULT IN LOW BIRTH WEIGHT AND PREMATURE BIRTH.  These signs shall also information available to Rhode Island who want to quit smoking.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-1-55 to 23-1-58 (2015).</Citation>
+<Description>Dealers (retailers), importers and distributors must obtain a license from the state Tax Administrator to sell cigarettes and/or tobacco products.  A dealer&apos;s license is also required for each cigarette vending machine.  A separate application and license is required for each place of business operated by a distributor or dealer; provided, that an operator of vending machines for cigarette products is not required to obtain a distributor&apos;s license for each machine.  A dealer&apos;s and importer&apos;s license is valid through June 30th of the succeeding year unless suspended or revoked.  A dealer must renew the license by February 1st of that same year.  A distributor&apos;s license is valid until May 31st of the succeeding year unless suspended or revoked, and may be renewed anytime before this date.  Any distributor or dealer who sells, offers for sale, or possesses with intent to sell, any cigarettes and/or tobacco products without a license shall be subject to penalties specified in Rhode Island General Laws section 11-9-13.15.
+R.I. GEN. LAWS §§ 44-20-2 to 44-20-6 (2012).
+
+Each person engaging in the business of selling electronic nicotine delivery system products in the state, including any distributor or dealer, shall secure a license annually from the Department of Health before engaging in that business, or continuing to engage in it. A separate application and license is required for each place of business operated by a distributor or dealer.  A dealer&apos;s license is also required for each vending machine.  Each issued license shall be prominently displayed on the premises, if any, covered by the license.  Any distributor or dealer who sells, offers for sale, or possesses with intent to sell, electronic nicotine delivery system products, without a license as provided in Section 23-1-56, is subject to a fine of $500.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 44-20-4 (2007) &amp; 23-1-56 (2015).</Citation>
+<Description>Dealers/Vending Machines: $25 for each place of business/vending machine annually; 
+Distributors: $100 or $1,000 annually, depending on if the distributor affixes tax stamps;
+Importers: $1,000 annually;
+E-Cigarette Dealers (Retailers) &amp; Distributors: Not to exceed $25</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 11-9-13.8(1) &amp; 11-9-13.13 (2015).</Citation>
+<Description>License holders are subject to a 14-day suspension of their license for a third violation of the sales to minors&apos; law within three years, and a 90-day suspension of the license for any violations in excess of three.  These suspensions can be waived if the licensee has a documented employee training program in place and meets other specified conditions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 23-20.10-14 (2005).</Citation>
+<Description>No employer or agent of any employer shall require, as a condition of employment, that any employee refrain from smoking or using tobacco products outside the course of their employment, or otherwise discriminate against an individual with respect to their compensation, terms, conditions or privileges of employment for such use.  The court may award up to three times the actual damages to a prevailing employee or prospective employee.  Nonprofit organizations which as one of their primary purposes or objectives discourage the use of tobacco products by the general public are exempt from this law.</Description>
+<Year>2005</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS § 42-133-11.1 (2008).</Citation>
+<Description>In civil litigation under any legal theory involving a signatory, a successor of a signatory, or an affiliate of a signatory to the Master Settlement Agreement (MSA), the supersedeas bond to be furnished in order to stay the execution of the judgment during the entire course of appellate review shall be set in accordance with applicable laws or court rules, except that the total supersedeas bond in any one case that is required of all appellants collectively shall not exceed $50 million regardless of the value of the judgment.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating assets outside the ordinary course of business to avoid payment of a judgment, a court may require the appellant to post a supersedeas bond in an amount up to the total amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The rights to virtually all of Rhode Island’s annual Master Settlement Agreement payments have been sold as bonds through the Rhode Island Tobacco Settlement Financing Corporation to obtain a smaller lump sum payment up front.  See Securitization section below for additional details.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>46700000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Rhode Island&apos;s tobacco control program comes from the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2015 Annual Budget (H.B. 7133) enacted 6/19/14 and effective 7/1/14.</Citation>
+<Description>Rhode Island allocated $388,027 for tobacco prevention and cessation programs in FY2015 (July 1, 2014 to June 30, 2015) from the state general fund. In FY2014, the same amount was allocated.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>388027</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.11-1 to 23.20.11-10 (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, no cigarettes may be sold or offered for sale in Rhode Island or offered for sale or sold to persons located in Rhode Island unless: 1) such cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 23-20.11-4 Rhode Island General Laws; 2) a written certification has been filed by the manufacturer with the Director of the Department of Health in accordance with section 23-20.11-5 Rhode Island General Laws; and 3) the cigarettes have been marked in accordance with section 23-20.11-6 Rhode Island General Laws.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>R.I. GEN. LAWS §§ 23-20.11-1 to 23.20.11-10 (2008).</Citation>
+<Description>Any manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above shall, for the first offense be subject to a civil penalty not to exceed $10,000 and for a subsequent offense not to exceed $25,000 per each such sale of cigarettes, provided that in no case shall the penalty against any such person or entity exceed $100,000 during a 30-day period. Any retail dealer who knowingly sells or offers to sell cigarettes in violation of the above shall be subject to the following: for a first offense be subject to a civil penalty not to exceed $500, and for a subsequent offense not to exceed $2,000, per each such sale or offer for sale of cigarettes if the total number of cigarettes sold or offered for sale does not exceed 1,000 cigarettes; and for a first offense be subject to a civil penalty not to exceed $1,000, and for a subsequent offense not to exceed $5,000 per each such sale or offer for sale of such cigarettes if the total number of cigarettes sold or offered for sale exceeds 1,000 cigarettes, provided that this penalty against any retail dealer shall not exceed $25,000 during a 30 day period. In addition to any other penalty, any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacturer of cigarettes that knowingly makes a false certification shall, for a first offense be subject to a civil penalty not to exceed $10,000 and for a subsequent offense not to exceed $25,000, for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $388,027 for tobacco prevention and cessation programs in FY2015.
+FY2015 Annual Budget (H.B. 7133) enacted 6/19/14 and effective 7/1/14.
+
+E-Cigarettes/Sales to Minors: Prohibits the sale to and purchase/possession by persons under age 18 of electronic nicotine delivery systems, which as defined include most e-cigarettes.  Applies virtually all existing laws limiting youth access to tobacco products to e-cigarettes.  Requires e-cigarette distributors and retailers to obtain a license to sell e-cigarettes from the state Department of Health.
+H.B. 7021/S.B. 3095 enacted 6/30/14 and parts effective 6/30/14, 7/1/14 &amp; 1/1/15.
+
+Tobacco Product Sales: Significantly increases the penalties for illegal actions concerning the sale/distribution of tobacco products, including selling or distributing tobacco products without a license.
+H.B. 7762/S.B. 2380 enacted and effective 6/23/14.
+
+Use of Tobacco Settlement Dollars/Securitization: Allows the Tobacco Settlement Financing Corporation to issue additional bonds backed by tobacco Master Settlement Agreement payments.
+H.B. 7133, Art. 4, sect. 6-7 enacted 6/19/14 and parts effective 6/19/14 and 7/1/14.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The Rhode Island Tobacco Settlement Financing Corporation was created as a public corporation of the state having a legal existence separate from the state.  On or before June 30, 2002, the state shall sell and assign to and the corporation shall acquire all or a portion of the state&apos;s tobacco receipts.  The corporation is authorized to issue bonds backed by the state&apos;s tobacco receipts, and revenue is deposited into trust funds.  
+R.I. GEN. LAWS §§ 42-133-1 et seq. (2002).
+
+Authorizes the Tobacco Settlement Financing Corporation to raise additional money through the issuance of bonds for several specified purposes, including at least $20 million to the Tobacco Settlement Financing Trust for the state of Rhode Island.  The corporation was directed to make the following transfers from the Tobacco Settlement Financing Trust: 1) $5 million to the state general fund, $5 million to the municipal road and bridge revolving fund and the remainder to the Information Technology Investment Fund.
+H.B. 7133, Art. 4, sect. 6-7 enacted 6/19/14 and parts effective 6/19/14 and 7/1/14.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $128,497,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Rhode Island</Name>
+<Abbrev>RI</Abbrev>
+<FipsCode>44</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $388,027
+
+FY2015 Federal Funding for State Tobacco Control Programs: $1,672,723*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $2,060,750 
+
+Funding Level Recommended by CDC:                                        $12,800,000 
+
+Percentage of CDC-Recommended Level:                                   16.1%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>40</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

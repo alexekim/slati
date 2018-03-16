@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-14T11:59:29">
+<tblStatesALA>
+<ID>13</ID>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<LegislatureHyperlink>#http://www2.state.id.us/legislat/legislat.html#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue Collected in Fiscal Year 2009 (July 1, 2008 to June 30, 2009): $43,976,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5501 et seq. (2007).</Citation>
+<Description>Smoking is prohibited in most public places, publicly-owned buildings or offices or at public meetings.  Major exceptions include stand-alone bars and smoking rooms in small workplaces, see below.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5501 et seq. (2007).</Citation>
+<Description>Exceptions to the law include: 1) bars as defined; 2) retail tobacco stores as defined; 3) buildings owned and operated by social, fraternal, or religious organizations when used by the membership of the organization, their guests or families, or any facility that is rented or leased for private functions from which the public is excluded and for which arrangements are under the control of the sponsor of the function; 4) hotel and motel rooms designated as smoking rooms; 5) theatrical production sites, if smoking is an integral part of the story in the theatrical production; 6) certain areas of owner-operated businesses; 7) any office or business, other than child care facilities, located within the proprietor&apos;s private home as specified; 8) Idaho state veterans homes in designated areas, provided that physical barriers and ventilation systems are used to reduce smoke in adjacent nonsmoking areas; and 9) designated employee break rooms established by a small business owner employing five or fewer employees subject to certain conditions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5501 et seq. (2007).</Citation>
+<Description>Stronger local laws/ordinances on smoking are specifically allowed, see below.
+
+Nothing in this chapter shall be interpreted to prevent local, county or municipal governments from adopting ordinances or regulations more restrictive than the provisions contained herein.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>Exec. Order 2005-10 (2005).</Citation>
+<Description>Smoking is prohibited in any publicly-owned buildings or offices.  These are defined as any enclosed indoor place or portion of a place owned, leased or rented by any state, county or municipal government, or by any agency supported by appropriation of, or by contracts or grants from, funds derived from the collection of federal, state, municipal or county taxes. 
+IDAHO CODE §§ 39-5501 et seq. (2007).
+
+By Executive Order, smoking is prohibited in all state-owned or state-leased buildings, facilities, or areas occupied by state employees except for custodial care and full-time residential facilities. Policies governing smoking in custodial care and full-time residential facilities may be determined by the directors of such facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5501 et seq. (2007).</Citation>
+<Description>Smoking is prohibited in many private workplaces.  However, small businesses with five or fewer employees can establish designated employee break rooms as long as the following conditions regarding break rooms are met: 1) it is not accessible to minors; 2) it is separated from other parts of the building by a floor to ceiling partition; 3) it is not the sole means of entrance or exit to the establishment or its restrooms and is located in an area where no employee is required to enter as part of the employee&apos;s work responsibilities; the term &quot;work responsibilities&quot; does not include custodial or maintenance work performed in a break-room when it is unoccupied; and 4) &quot;Warning: Smoking Permitted&quot; signs are prominently posted in the smoking break-room and properly maintained by the employer.  Smoking is also allowed in areas of owner-operated businesses with no employees other than the owner-operator, that are not commonly open to the public, and any office or business, other than child care facilities, located within the proprietor&apos;s private home when all such offices and/or businesses occupy less than 50 percent of the total area within the private home. Nothing in this section shall prohibit an employer from prohibiting smoking in an enclosed place of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5501 et seq. (2007).</Citation>
+<Description>Smoking is prohibited in public or private elementary or secondary school buildings and educational facilities and within 20 feet of entrances and exits of such buildings or facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5501 et seq. (2007).</Citation>
+<Description>Smoking is prohibited in any child care facility subject to licensure under the laws of Idaho, including those operated in private homes, when any child cared for under that license is present.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5501 et seq. (2007).</Citation>
+<Description>Smoking is prohibited in hospitals and within 20 feet of public entrances and exits to such facilities.  Smoking is also prohibited in the common areas of nursing homes.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5501 et seq. (2007).</Citation>
+<Description>Smoking is prohibited in restaurants.  Restaurant is defined as an eating establishment including, but not limited to, coffee shops, cafes, cafeterias, and private and public school cafeterias, which give or offer for sale food to the public, guests, or employees, as well as kitchens and catering facilities in which food is prepared on the premises for serving elsewhere. The term restaurant shall include a bar area within a restaurant.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5501 et seq. (2007).</Citation>
+<Description>Smoking is allowed in bars.  Bar is defined as any indoor area open to the public operated primarily for the sale and service of alcoholic beverages for on-premises consumption and where:  the service of food is incidental to the consumption of such beverages, or no person under the age of 21 years is permitted except employees, musicians and singers, and all public entrances are clearly posted with signs warning patrons that it is a smoking facility and that persons under 21 years of age are not permitted.  The term bar does not include any area within a restaurant.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5506 &amp; 39-5507 (2004).</Citation>
+<Description>Any employer or other person in charge of a public place or publicly-owned building or office who knowingly or intentionally permits the smoking of tobacco products is subject to a fine not to exceed $100.  An employer, or other person in charge of a public place or publicly-owned building, or the agent or employee of such person, who observes a person smoking in apparent violation shall ask the person to extinguish all lighted tobacco products.  If the person persists in violating, the employer, person in charge, agent or employee shall ask the person to leave the premises.  Any person who refuses to either extinguish all lighted tobacco products or leave the premises is guilty of an infraction and is subject to a fine not to exceed $50.  Any violation may be reported to a law enforcement officer.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 63-2506 (2003).</Citation>
+<Description>Tax rate per pack of 20: 57 cents
+Date last changed: June 1, 2003 -- from 28 cents to 57 cents
+Year first enacted: 1945</Description>
+<NumericValue>0.57</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 63-2506 &amp; 63-2520 (2005).</Citation>
+<Description>Revenue from the state cigarette tax is distributed to several specific purposes, most of them not health-related, see below.  A small amount of money from the Cancer Control Fund is used for tobacco prevention and cessation programs.</Description>
+<Year>2009</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>43976000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 63-2506 &amp; 63-2520 (2005).</Citation>
+<Description>Revenues from the cigarette tax are distributed as follows: 5.1746 cents to the public school income fund to provide substance abuse programs in the state public schools, and 5.1746 cents to the Department of Juvenile Corrections for county juvenile probation services.  After that an unspecified amount is distributed to the state refund account sufficient to pay current refund claims.  Then 17.3 percent of the balance is distributed to a permanent building fund, 0.4 percent is distributed to the central tumor registry account, 1 percent is distributed to the cancer control account, an amount equal to the annual general fund appropriation for bond levy equalization pursuant to section 33-906 Idaho Code is distributed annually to the state general fund, and all remaining monies go to a permanent building fund to be used to repair, remodel and restore the state capitol building.  Once that project has been certified as completed, remaining monies go to an economic recovery reserve fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 63-2552 (1972) &amp; 63-2552a (1994).</Citation>
+<Description>All other tobacco products: 40% of the wholesale sales price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 63-2552a (1994) &amp; 63-2564 (1972).</Citation>
+<Description>Revenue from the tax on tobacco products other than cigarettes goes to the state general fund, substance abuse programs in public schools and county juvenile probation services.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 63-2552a (1994) &amp; 63-2564 (1972).</Citation>
+<Description>1) The revenue from the other tobacco products tax imposed by Idaho Code section 63-2552 is distributed as follows: an unspecified amount to the state refund account sufficient to pay current refund claims and the balance is distributed to the general fund;  
+2) The revenue from the other tobacco products tax imposed by Idaho Code section 63-2552a is distributed as follows: 50 percent to the public school income fund to pay for substance abuse programs in the public schools and 50 percent to the Department of Juvenile Corrections for county juvenile probation services.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1291</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 39-5710 (2003).</Citation>
+<Description>The Department of Health and Welfare must conduct at least one random, unannounced inspection per year at all locations where tobacco products are sold or distributed at retail to ensure compliance.  These inspections must be done with the assistance of a minor except permittees that hold a &quot;minor exempt permit.”   A &quot;minor exempt permittee&quot; is a permittee whose revenues from the sale of alcoholic beverages for on-site consumption comprise at least 55 percent of total revenues; or whose products and services are primarily obscene, pornographic, profane or sexually oriented; or if minors are not allowed in the location and such prohibition is posted clearly on all entrance doors.  Minors may assist with random, unannounced inspections with the written consent of a parent or legal guardian.  When assisting with these inspections, minors shall not provide false identification, nor make any false statement regarding their age.  Each year, the department shall conduct random, unannounced inspections equal to the number of permittees multiplied by the violation percentage reported for the previous year multiplied by a factor of ten.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5705 (1998) &amp; 39-5708 (2001).</Citation>
+<Description>It is illegal to sell, distribute or offer tobacco products to minors.  For a non-permittee, selling or distributing tobacco products to a minor is subject to a fine of $100.  Any permittee who sells or distributes tobacco products to minors shall be notified in writing about the potential fines for further violations for a first violation.   For a second violation, a permittee shall not be fined if the permittee can show that a training program was in place for the employee and the permittee has a form signed by that employee on file stating that they understand the tobacco laws dealing with minors and the unlawful purchase of tobacco, but if no training program is in place the permittee will be fined $200.  For a third violation within two years, the permittee shall be fined $200 and the permit may be suspended for up to seven days.  If the violation is by an employee, at the same location, who was involved in any previous citation for violation, the permittee shall be fined $400.  Effective training and employment practices by the permittee, as determined by the Department of Health and Welfare shall be a mitigating factor in determining permit suspension.  For a fourth and subsequent violations within a two year period, the permittee shall be fined $400 and the permit shall be revoked until such time that the permittee demonstrates an effective training plan, but in no case shall the revocation be for less than 30 days.  It is an affirmative defense to prosecution that the person furnishing the tobacco product was presented with and relied on a photographic identification identifying the purchaser as being 18 years of age or older.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 39-5704 (1998).</Citation>
+<Description>Retailers may display a sign within a place of business where tobacco products are sold or distributed.  The sign must state: “STATE LAW PROHIBITS THE SALE OF TOBACCO PRODUCTS TO PERSONS UNDER THE AGE OF 18 YEARS OLD.  PROOF OF AGE REQUIRED.  ANYONE WHO SELLS OR DISTRIBUTES TOBACCO TO A MINOR IS SUBJECT TO STRICT FINES AND PENALTIES.  MINORS ARE SUBJECT TO FINES AND PENALTIES.”</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 39-5703 (1998).</Citation>
+<Description>It is illegal for a minor to purchase, receive, possess, sell, distribute, use or consume tobacco products.  It is unlawful for a minor to provide false identification, or make any false statement regarding their age in an attempt to obtain tobacco products.  This does not bar minors from participating in compliance checks.  A minor may possess but not sell or distribute tobacco products in the course of employment, for duties such as stocking shelves or carrying purchases to customers&apos; vehicles.  A violation is a misdemeanor punishable by imprisonment not exceeding six months and/or a fine not exceeding $300.  In addition, the court may require the minor and the minor’s parents or legal guardian to attend tobacco awareness programs or perform community service in programs related to tobacco awareness.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5706 (1998) &amp; 39-5708 (2001).</Citation>
+<Description>It is unlawful to sell or distribute tobacco products from self-service displays.  Customers are not allowed access to tobacco products except through the assistance of the seller.  Stores with tobacco products compromising at least 75 percent of total merchandise are exempt from requiring vendor assisted sales, if minors are not allowed in the store and such prohibition is posted clearly on all entrance doors.  Tobacco product permittees are subject to the same penalties listed under the &quot;Penalties for Sales to Minors&quot; section upon violation except a permittee shall be fined $200 for a second violation and notified in writing of penalties for further violations.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No permittee shall mail or ship tobacco products in connection with a delivery sale order unless, before mailing or shipping such tobacco products, the permittee accepting the delivery sale order first obtains from the prospective customer a certification which includes proof of age that the purchaser is at least 18 years old, the credit or debit card used for payment has been issued in the purchaser&apos;s name, and the address to which the cigarettes are being shipped match the credit card company&apos;s address for the cardholder.  Prior to making delivery sales or shipping tobacco products in connection with any such sales, every business shall obtain a permit from the Department of Health and Welfare.  Violation by a permittee or non-permittee is subject to the same penalties as other youth access laws.
+IDAHO CODE §§ 39-5714 to 39-5718 (2003).
+
+Note: Some parts of the above law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 39-5713 (1998).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are specifically allowed, see below.
+
+Nothing in state law restricting youth access to tobacco products shall be construed to prohibit local units of government from passing ordinances which are more stringent than state law. Provided however, local units of government shall not have the power to require a permit or license for the sale or distribution of tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5707 (1998) &amp; 39-5708 (2001).</Citation>
+<Description>It is illegal to sell or distribute tobacco products for free or below cost to members of the general public in public places or at public events.  Tobacco product permittees are subject to the same penalties listed under the &quot;Penalties for Sales to Minors&quot; section upon violation except a permittee shall be fined $200 for a second violation and notified in writing of penalties for further violations.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5707 (1998) &amp; 39-5708 (2001).</Citation>
+<Description>It is illegal to sell or distribute tobacco products other than in the federally required sealed package provided by the manufacturer with all the required warning labels and health warnings.  Tobacco product permittees are subject to the same penalties listed under the &quot;Penalties for Sales to Minors&quot; section upon violation except a permittee shall be fined $200 for a second violation and notified in writing of penalties for further violations.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 39-5713 (1998).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are specifically allowed, see below.
+
+Nothing in state law restricting youth access to tobacco products shall be construed to prohibit local units of government from passing ordinances which are more stringent than state law. Provided however, local units of government shall not have the power to require a permit or license for the sale or distribution of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 39-5706 (1998).</Citation>
+<Description>It is unlawful to sell or distribute tobacco products from a vending machine.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 39-5708 (2001).</Citation>
+<Description>Tobacco product permittees are subject to the same penalties listed under the &quot;Penalties for Sales to Minors&quot; section upon violation, except a permittee shall be fined $200 for a second violation and notified in writing of penalties for further violations.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 39-5713 (1998).</Citation>
+<Description>Stronger local laws/ordinances restricting placement of and sign posting on tobacco product vending machines are specifically allowed, see below.
+
+Nothing in state law restricting youth access to tobacco products shall be construed to prohibit local units of government from passing ordinances which are more stringent than state law. Provided however, local units of government shall not have the power to require a permit or license for the sale or distribution of tobacco products.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-5704 &amp; 39-5709 (1998).</Citation>
+<Description>Wholesalers must obtain a permit from the state Tax Commission to sell cigarettes.  The permit is non-assignable and will remain in force indefinitely.  Failure to possess a valid permit is subject to, after receiving a written notice from the state Tax Commission, a civil penalty of $100, with each day constituting a separate offense.  A permit is also required of all distributors of tobacco products other than cigarettes. 
+IDAHO CODE §§ 63-2503 (2006) &amp; 63-2554 (2007).
+
+Retailers must obtain a tobacco permit to sell or distribute tobacco products from the state Department of Health and Welfare.  Permits shall be issued annually and a separate permit is required for each place of business.  Any person who sells tobacco products without a permit is guilty of a misdemeanor punishable by up to six months in county jail, and/or a $300 fine.  If the sale or distribution of tobacco products was to a minor, the fine shall be no less than $500 or more than $1,000.  The court may impose an additional fine of $1,000 per day beginning the day following the date of citation as long as the illegal tobacco sales or distribution continues.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 63-2503 (1974) &amp; 39-5704 (1998).</Citation>
+<Description>Wholesalers: $50; 
+Retailers: Free of Charge.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 39-5708 (2001).</Citation>
+<Description>Any permittee who sells or distributes tobacco products to minors may have his permit suspended for seven days for a third violation.  Effective training and employment practices by the permittee shall be a mitigating factor in determining permit suspension.  For the fourth and subsequent violations the permit shall be revoked until such time that the permittee demonstrates an effective training plan to the Department of Health and Welfare, but in no case shall the revocation be for less than 30 days.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 13-202 (2003).</Citation>
+<Description>If a plaintiff in a civil action obtains a judgment for punitive damages, the supersedeas bond or cash deposit requirements shall be waived as to that portion of the punitive damages that exceeds $1 million if the party or parties found liable seek a stay of enforcement of the judgment during the appeal.  If the plaintiff proves by a preponderance of the evidence that a party bringing an appeal, for whom the supersedeas bond or cash deposit requirement has been waived, is purposefully dissipating its assets or diverting assets outside the jurisdiction of the United States courts, the waiver may be rescinded and the bond or cash deposit requirements may be reinstated for the full amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 67-1801 to 67-1806 (2007) &amp; IDAHO CONSTITUTION Art. VII § 18 (2006).</Citation>
+<Description>Eighty percent of Idaho&apos;s annual Master Settlement Agreement payment is deposited in the Idaho Millennium Permanent Endowment Fund and the remaining 20 percent is deposited in the Idaho Millennium Fund.  A small percentage from each fund is then transferred each fiscal year to the Idaho Millennium Income Fund, and money in that fund can be appropriated by the legislature.  A portion of this money usually is allocated to tobacco prevention and cessation initiatives.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>26000000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE § 67-1806 (2007) &amp; IDAHO CONSTITUTION Art. VII § 18 (2006).</Citation>
+<Description>There is hereby created in the state treasury the Idaho Millennium Permanent Endowment Fund. The fund shall consist of 80 percent of the moneys received by the state of Idaho on and after January 1, 2007, pursuant to the Master Settlement Agreement (MSA), money provided by legislative appropriations, or other specified sources.  The moneys received annually for deposit to the fund, including earnings, shall forever remain inviolate and intact.  On the 1st business day of July, the state treasurer shall distribute to the Idaho Millennium Income Fund five percent of the Idaho Millennium Permanent Endowment Fund&apos;s average monthly fair market value of the first 12 months of the preceding 24 months.
+IDAHO CODE §§ 67-1801 (2007), 67-1802 (2007) &amp;  IDAHO CONSTITUTION Art. VII § 18 (2006).
+
+There is hereby created in the state treasury the Idaho Millennium Fund. The fund shall consist of 20 percent of the moneys after January 1, 2007, received pursuant to the MSA, funds provided by legislative appropriation, or other specified sources.  Money in the fund is not subject to appropriation or distribution, except as provided below.  On the first business day of July, the state treasurer shall distribute to the Idaho Millennium Income Fund five percent of the Idaho Millennium Fund&apos;s average monthly fair market value for the first 12 months of the preceding 24 months.  The balance of the Millennium Fund shall not exceed $100 million, and any amount in excess will be transferred to the Millennium Permanent Endowment Fund. 
+IDAHO CODE §§ 67-1803 to 67-1805 (2007) &amp; IDAHO CONSTITUTION Art. VII § 18 (2006).
+
+There is hereby created in the state treasury the Idaho Millennium Income Fund.  The fund shall consist of distributions from the Millennium Permanent Endowment Fund, the Idaho Millennium Fund and such moneys that may be provided by legislative appropriations.  The uses of this fund shall be determined by legislative appropriation.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Local communities cannot issue or require a permit or license for the sale or distribution of tobacco products.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Idaho&apos;s tobacco prevention and control program comes from annual Master Settlement Agreement payments and state cigarette tax revenue.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2012 Millennium Income Fund Appropriations (S.B. 1205) enacted 4/11/11 and effective 7/1/11 &amp; FY2012 Appropriation to Department of Health and Welfare (H.B. 341) enacted 4/11/11 and effective 7/1/11.</Citation>
+<Description>Idaho allocated $1,224,000 for tobacco prevention and cessation initiatives in FY2012 (July 1, 2011 to June 30, 2012). In FY2011, $2,346,900 was allocated.</Description>
+<Year>2012</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>1224000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-8901 to 39-8911 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection (7) of section 39-8903 Idaho Code, no cigarettes may be sold or offered for sale in Idaho or offered for sale or sold to persons located in Idaho unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 39-8903, Idaho Code; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 39-8904, Idaho Code; and 3) the cigarettes have been marked in accordance with section 39-8905, Idaho Code.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IDAHO CODE §§ 39-8901 to 39-8911 (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity that knowingly sells cigarettes, other than through retail sale, in violation of the above requirements shall be subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties may not exceed $100,000 in any 30-day period.  A retail dealer is subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Allocated $1,224,000 for tobacco prevention and cessation initiatives in FY2012.
+FY2012 Millennium Income Fund Appropriations (S.B. 1205) enacted 4/11/11 and effective 7/1/11 &amp; FY2012 Appropriation to Department of Health and Welfare (H.B. 341) enacted 4/11/11 and effective 7/1/11.</Description>
+<Year>2011</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2011-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Age to Sell Tobacco Products to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Idaho</Name>
+<Abbrev>ID</Abbrev>
+<FipsCode>16</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2012 State Funding for Tobacco Control Programs:              $1,224,000
+
+FY2012 Federal Funding for State Tobacco Control Programs: $1,471,312*
+
+FY2012 Total Funding for State Tobacco Control Programs:      $2,695,312
+
+Funding Level Recommended by CDC:                                        $16,900,000
+
+Percentage of CDC-Recommended Level:                                   15.9%
+
+*Includes regular funding from the Centers for Disease Control and Prevention as well as tobacco-related grants to states and communities from federal stimulus and health care reform funds.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>13</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

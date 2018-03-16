@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-14T11:59:30">
+<tblStatesALA>
+<ID>17</ID>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<LegislatureHyperlink>#http://www.state.ks.us/public/legislative/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue Collected in Fiscal Year 2009 (July 1, 2008 to June 30, 2009): $107,772,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 21-4009 to 21-4014 (2011).</Citation>
+<Description>Smoking is prohibited in almost all public places and places of employment, including restaurants and bars, and access points as defined of all buildings and facilities not exempted.  The floors of casinos and other gaming establishments are exempt from the law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 21-4009 to 21-4014 (2011).</Citation>
+<Description>Exceptions to the law include: 1) the outdoor areas of any building or facility beyond the access points; (2) private homes or residences, except when such home or residence is used as a day care home as defined; (3) up to 20 percent of hotel/motel rooms; (4) the gaming floor of a lottery gaming facility or racetrack gaming facility, as defined; (5) portions of adult care homes as specified and defined; (6) portions of licensed long-term care units of medical care facilities as specified and defined; (7) tobacco shops as defined that derive 65 percent or more of their sales from tobacco; (8) a class A or class B club as defined that meets certain specified requirements; (9) a private club as defined in designated areas where minors are prohibited; and 10) a benefit cigar dinner conducted by an organization once per calendar year for charitable purposes under certain conditions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 21-4013 (1987).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Nothing in the above law shall prevent any city or county from regulating smoking within its boundaries, so long as such regulation is at least as stringent as that imposed by this law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 21-4009 (2010) &amp; 21-4010 (2011).</Citation>
+<Description>Smoking is prohibited in public places, which includes public buildings.  Public buildings are defined by law as any building owned or operated by: (1) the state, including any branch, department, agency, bureau, commission, authority or other instrumentality thereof; (2) any county, city, township, other political subdivision, including any commission, authority, agency or instrumentality thereof; or (3) any other separate corporate instrumentality or unit of the state or any municipality.  Smoking is also prohibited within a 10-foot radius outside of any doorway, open window or air intake leading into a building or facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 21-4009 (2010) &amp; 21-4010 (2011).</Citation>
+<Description>Smoking is prohibited in all places of employment defined as any enclosed area under the control of a public or private employer that is used by employees during the course of employment.  Employers having a place of employment that is an enclosed area are required to adopt and maintain a written smoking policy, which shall prohibit smoking without exception in all areas of the place of employment.  A private residence shall not be considered a &quot;place of employment&quot; unless such residence is used as a day care home.  Smoking is also prohibited within a 10-foot radius outside of any doorway, open window or air intake leading into a building or facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 21-4009 (2010) &amp; 21-4010 (2011).</Citation>
+<Description>The use of tobacco products in any public school building is prohibited.  A school building is defined as an enclosed building used for pupil attendance purposes by the board of education of a unified school district.  Not included are buildings or portions thereof used for residential purposes or leased from the school district for non-school sponsored activities. 
+KAN. STAT. ANN. § 72-53,107 (1988). 
+ 
+To the extent not covered above, smoking is prohibited in all other educational facilities and on school buses.  Smoking is also prohibited within a 10-foot radius outside of any doorway, open window or air intake leading into a building or facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 21-4009 (2010) &amp; 21-4010 (2011).</Citation>
+<Description>Smoking is prohibited in day care homes, group day care homes and family day care homes while children are present.  Outside areas on the premises of the facility are specifically excluded from this law.  The Secretary of Health and Environment may levy a civil fine of up to $500 against any day care home for a first or second violation, and suspend the license for third or subsequent violations.  Day care facilities may also be subject to criminal punishment under the law prohibiting smoking in public places and workplaces.
+KAN. STAT. ANN. § 65-530 (2010).
+
+Smoking is prohibited in enclosed areas of public places and places of employment, including any child care facilities not covered above.  Smoking is also prohibited within a 10-foot radius outside of any doorway, open window or air intake leading into a building or facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 21-4009 (2010) &amp; 21-4010 (2011).</Citation>
+<Description>Smoking is prohibited in public places, which includes health care institutions or any other place where health care services are provided to the public, and medical care facilities.  Medical care facilities include general or special hospitals, ambulatory surgery centers or recuperation centers, and any licensed psychiatric hospital.   Smoking areas may be established within licensed long-term care units in medical care facilities if they are fully enclosed and ventilated and access is restricted to residents and their guests.  Smoking is also prohibited within a 10-foot radius outside of any doorway, open window or air intake leading into a building or facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 21-4009 (2010) &amp; 21-4010 (2011).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes food service establishments.  &quot;Food service establishment&quot; means any place in which food is served or is prepared for sale or service on the premises, including fixed or mobile restaurants, coffee shops, cafeterias, short-order cafes, luncheonettes, grills, tea rooms, sandwich shops, soda fountains, taverns, private clubs, roadside kitchens, commissaries and any other private, public or nonprofit organization or institution routinely serving food and any other eating or drinking establishment or operation where food is served or provided for the public with or without charge.  Smoking is also prohibited within a 10-foot radius outside of any doorway, open window or air intake leading into a building or facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 21-4009 (2010) &amp; 21-4010 (2011).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes bars.  &quot;Bar&quot; means any indoor area that is operated and licensed for the sale and service of alcoholic beverages, including alcoholic liquor or cereal malt beverages, for on-premises consumption.  Smoking is also prohibited within a 10-foot radius outside of any doorway, open window or air intake leading into a building or facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 21-4011 &amp; 21-4012 (2010).</Citation>
+<Description>The proprietor or other person in charge of a public place or other place where smoking is prohibited shall post signs clearly stating smoking is prohibited by state law.  Persons who smoke in areas where smoking is prohibited, and persons who own, manage, operate or otherwise control the use of any public place, or other area where smoking is prohibited, and allow smoking to occur are guilty of a cigarette or tobacco infraction punishable by a fine not exceeding $100 for a first offense, not exceeding $200 for a second offense within a year of the first offense and not exceeding $500 for a third or subsequent offense within a year of the first offense.  Each individual that is allowed to smoke shall be considered a separate violation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 79-3310 (2003).</Citation>
+<Description>Tax rate per pack of 20: 79 cents
+Date last changed:  January 1, 2003 -- from 70 cents to 79 cents
+Year first enacted: 1927</Description>
+<NumericValue>0.79</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 79-3387 (2001).</Citation>
+<Description>All proceeds from the cigarette tax go to the state general fund.</Description>
+<Year>2009</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>107772000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 79-3371 (1972).</Citation>
+<Description>All other tobacco products: 10% of the wholesale sales price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 79-3387 (2001).</Citation>
+<Description>All proceeds from the tax on tobacco products other than cigarettes go to the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 79-3321 &amp; 79-3322 (2000).</Citation>
+<Description>The Director of Taxation shall administer and enforce the provisions of the Kansas Cigarette and Tobacco Products Act.  For the purpose of enforcing this act the director may call to the director&apos;s aid any law enforcement officer of this state to prosecute all violators of any of the provisions of this act.  The police of any city shall have the right to inspect all premises, records and invoices pertaining to the wholesale distribution, retail sale or sampling of cigarettes or tobacco products within the city at all reasonable times.  No person shall engage or direct a minor to violate any provision of this act for purposes of determining compliance with provisions of this act unless such person has procured the written consent of a parent or guardian of the minor to so engage or direct the minor and such person is an officer having authority to enforce this act; an authorized representative of the attorney general, a county attorney or a district attorney; or an authorized representative of a business acting pursuant to a self-compliance program designed to increase compliance with the provisions of this act.
+KAN. STAT. ANN. §§ 79-3326 &amp; 79-3394 (1996).
+
+It is unlawful to prevent the Director of Taxation or any officer or agent authorized by law, to make a full inspection for the purpose of this act, of any place of business and all premises connected thereto where cigarettes are or may be manufactured, sold, distributed, or given away.  Violation is a misdemeanor punishable by a fine of not more than $1,000, imprisonment for not more than one year or both.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 79-3309 (1996).</Citation>
+<Description>It is a Class B misdemeanor punishable by a minimum fine of $200 for any person to: (1) sell, give or furnish any cigarettes or tobacco products to any person less than 18 years of age; or (2) buy any cigarettes or tobacco products for any person less than 18 years of age.  It is a defense to prosecution if the defendant is a licensed retail dealer or employee thereof; the defendant sold, furnished or distributed the cigarettes or tobacco products to the person under 18 years of age with reasonable cause to believe the person was of legal age to purchase or receive cigarettes or tobacco products; and the person under 18 years of age exhibited a driver’s license, or other official document containing a photograph, showing they were of legal age to purchase or receive cigarettes or tobacco products.  The person who violates this law shall be the individual directly selling, furnishing or distributing the cigarettes or tobacco products to any person under 18 years of age or the retail dealer who has actual knowledge of such selling, furnishing or distributing by such individual or both.  
+KAN. STAT. ANN. § 79-3322 (2000).
+
+In addition to or in lieu of any other civil or criminal penalty provided by law, the Secretary of Revenue or their designee, upon a finding that a licensee has violated any provision of the Kansas Cigarette and Tobacco Products Act, including selling, giving or furnishing tobacco products to minors, shall impose on such licensee a civil fine not exceeding $1,000 for each violation.  In determining the fine to be imposed, the Secretary of Revenue or their designee shall consider it to be a mitigating circumstance if the employee had completed a training program in avoiding sale, furnishing or distributing of cigarettes and tobacco products to persons under 18 years of age.  
+KAN. STAT. ANN. § 79-3391 (2001). 
+
+Whenever the Director of Taxation has reason to believe that any person licensed under this act has violated any of the provisions of this act, the director shall notify the person by certified mail of the director&apos;s intention to suspend or revoke the person&apos;s license or licenses.  Within 10 days after the mailing of the notice, the person may request a hearing in writing before the director.  If, after such hearing, it appears to the satisfaction of the director that the person has violated any of the provisions of this act, the director is hereby authorized and empowered to suspend or revoke the person&apos;s license or licenses for a portion of the succeeding calendar year for such period as the director determines is necessary but in no case for a period ending more than one year following the date upon which the license or licenses were suspended or revoked.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 79-3321&amp; 79-3322 (2000).</Citation>
+<Description>It is unlawful for any person who is a retail dealer to fail to post and maintain in a conspicuous place in the dealer&apos;s establishment the following notice: “BY LAW, CIGARETTES AND TOBACCO PRODUCTS MAY BE SOLD ONLY TO PERSONS 18 YEARS OF AGE AND OLDER.&quot;  Violation is a misdemeanor punishable by a fine of not more than $1,000, imprisonment for not more than one year or both.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 79-3321 &amp; 79-3322 (2000).</Citation>
+<Description>It is unlawful for any person under 18 years of age to purchase or attempt to purchase cigarettes or tobacco products.  It is unlawful for any person who is under 18 years of age to possess or attempt to possess cigarettes or tobacco products.  Violation is a tobacco infraction punishable by a fine of $25.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 79-3321(u) (2010).</Citation>
+<Description>It shall be unlawful to sell cigarettes or tobacco products by means of a self-service display in any establishment, except in vending machines as specified and a self-service display that is located in a tobacco specialty store defined as a dealer establishment that derives at least 75 percent of revenue from cigarettes or tobacco products.  &quot;Self-service display&quot; means a display that contains cigarettes or tobacco products and is located in an area openly accessible to a retail dealer&apos;s consumers, and from which such consumers can readily access cigarettes or tobacco products without the assistance of a salesperson. A display case that holds cigarettes or tobacco products behind locked doors does not constitute a self-service display.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The following restrictions are placed on Internet, telephone, and mail order sales of cigarettes:  1) each person engaged in the business of selling cigarettes to persons who reside in Kansas shall obtain a license, and shall have a valid Kansas cigarette tax stamp affixed to each package;  2) all retail cigarette dealers, whether located in or outside Kansas, shall have a registration certificate and be subject to the provisions of the Kansas retailers&apos; sales tax act;  3) all cigarette sales transactions over the Internet, telephone, or by mail order shall not be completed unless before each delivery the seller has obtained a certification from the purchaser that includes a reliable confirmation that the purchaser is at least 18 years of age; that the cigarettes purchased are not intended for consumption by an individual who is younger than 18; and a written statement signed by the purchaser that certifies the purchaser&apos;s address and that the purchaser is at least 18 years of age; 4) the retail cigarette dealer shall verify the information contained in the certification provided by the purchaser against a commercially available database of governmental records, or obtain a photocopy or other image of the valid, government-issued identification stating the date of birth or age of the purchaser;  5) all invoices, bills of lading, sales receipts and any other document related to the sale of cigarettes through the Internet or other mail order transaction shall contain the current, valid retailer Kansas cigarette dealer license number, Kansas sales tax registration number, business name and address of the seller;  6) cigarette packages being shipped are also subject to certain labeling requirements.  Violation of the requirement to obtain a license, certification requirement, or verification requirement is a severity level Eight, non-person felony.  Violations of all other requirements are misdemeanors punishable by a fine of not more than $1,000 and/or imprisonment for one year.  Other tobacco products are excluded from these requirements.
+KAN. STAT. ANN. § 79-3333 (2004).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 79-3321 &amp; 79-3322 (2000).</Citation>
+<Description>It is unlawful for any person to distribute samples within 500 feet of any school when such facility is being used primarily by persons under 18 years of age unless the sampling is: (1) in an area to which persons under 18 years of age are denied access; (2) in or at a retail location where cigarettes and tobacco products are the primary commodity offered for sale at retail; or (3) at or adjacent to an outdoor production, repair or construction site or facility.  Violation is a misdemeanor punishable by a fine of not more than $1,000, up to one year in prison, or both.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 79-3321 &amp; 79-3322 (2000).</Citation>
+<Description>It is unlawful to sell or distribute in this state any cigarettes the package of which does not comply with all requirements imposed by or pursuant to federal law regarding warnings and other information on packages of cigarettes manufactured, packaged or imported for sale, distribution or use in the United States.  Violation is a misdemeanor punishable by a fine of not more than $1,000, up to one year in prison, or both.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling or minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 79-3321 (2000).</Citation>
+<Description>It is unlawful for any person to sell cigarettes or tobacco products by means of a vending machine in any establishment, or portion of an establishment, which is open to minors, except: (1) installation and use behind the counter; (2) installation and use in a commercial building or industrial plant; or (3) vending machines with lockout devices requiring operation by a person supervising the machine.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 79-3322 (2000).</Citation>
+<Description>Violation is a misdemeanor punishable by a fine of not more than $1,000, up to one year in prison, or both.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances concerning the placement of or required sign posting on tobacco products vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Retailers, wholesalers, and vending machine operators must be licensed to sell cigarettes.  Licenses are renewed every two years.  A vending machine operator is required to obtain a vending machine operator&apos;s master license and, in addition, a separate permit for each vending machine operated by the operator.  Selling cigarettes without a license is a misdemeanor punishable by a fine of not more than $1,000, imprisonment for not more than one year or both.   
+KAN. STAT. ANN. §§ 79-3303 (2001), 79-3321(2000) &amp; 79-3322 (2000).
+
+Distributors must be licensed to sell or deal in tobacco products.  A separate license is required for each place of business.  Each license shall expire on December 31st following its date of issue unless sooner revoked.  Selling tobacco products without a distributor&apos;s license is a misdemeanor punishable by a fine of not more than $1,000, imprisonment for not more than one year or both.
+KAN. STAT. ANN. §§ 79-3373 (1996); 79-3374 (1972); 79-3375 (1972); 79-3321 (2000) &amp; 79-3322 (2000).</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 79-3304 (1996) &amp; 79-3374 (1972).</Citation>
+<Description>Retail License: $25 for each establishment every two years;
+Wholesale dealer&apos;s license: $50 for each establishment every two years;
+Vending Machines: $50 for a vending machine distributor license, no fee for a vending machine operator license and $25 for each vending machine every two years;
+Distributor&apos;s License for Tobacco Products: $25 per year.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 79-3309 (1996).</Citation>
+<Description>The Director of Taxation, after a hearing, can suspend the license of any person licensed under the Kansas Cigarette and Tobacco Products Act for violations of this act for a period not to exceed one year.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 50-6a05 (2005).</Citation>
+<Description>In civil litigation under any legal theory, involving a signatory or a successor to a signatory of the Master Settlement Agreement, the maximum appeal bond that any appellant in the litigation may be required to post to stay execution on a judgment during an appeal or discretionary review shall be set in accordance with existing law and court rules, except that in no case shall an appeal bond for any individual appellant and its successors, individually or collectively exceed $25 million, regardless of the total value of the judgment.  If it is proved by a preponderance of the evidence that the appellant for whom the bond has been limited is intentionally dissipating or diverting assets outside of the ordinary course of its business for the purpose of avoiding payment of the judgment, the court shall enter such orders as are necessary to prevent the dissipation or diversion of assets.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 38-2101 &amp; 38-2102 (1999).</Citation>
+<Description>All monies received from the Master Settlement Agreement are deposited in the Kansas Endowment for Youth Fund.  Monies can be transferred to the Children&apos;s Initiative Fund, and spent as directed by the legislature.  The small amount of money provided by Kansas for its tobacco control program comes from the Children&apos;s Initiative Fund.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>60500000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. § 38-2102 (1999).</Citation>
+<Description>There is established in the state treasury the Kansas Endowment for Youth Fund where all monies received by the state from the Master Settlement Agreement between the state of Kansas and certain cigarette companies is directed.  This fund is considered a trust fund and the money in it is invested as specified.  Money can be transferred to the Children&apos;s Initiative Fund as specified (see below) and used to pay for the operating expenses of the Kansas Children&apos;s Cabinet and board of trustees, which advises the governor and legislature on the use of money in the Children&apos;s Initiatives Fund.
+KAN. STAT. ANN. § 38-2101 (1999).
+
+There is established in the state treasury the Children&apos;s Initiatives Fund.  All moneys credited to the fund shall be used for the purposes of providing additional funding for programs, projects, improvements, services and other purposes directly or indirectly beneficial to the physical and mental health, welfare, safety and overall well-being of children as specified.  On July 1 of each fiscal year after July 1, 2002, money equal to 102.5 percent of the money transferred to the Children&apos;s Initiatives Fund from the Kansas Endowment for Youth Fund in the previous fiscal year will be transferred between the two funds.  Appropriations to various programs are controlled by the legislature through the normal appropriations process.  The amount of the transfer from the Kansas Endowment for Youth Fund to the Children&apos;s Initiatives Fund can also be increased or decreased by the legislature.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Kansas&apos; tobacco prevention and control program comes from annual Master Settlement Agreement payments and the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2012 Annual Budget (H.B. 2014) enacted 5/28/11 and effective 7/1/11.</Citation>
+<Description>Kansas appropriated $1,400,000 for tobacco prevention and cessation programs for FY2012 (July 1, 2011 to June 30, 2012).  In FY2011, $1,000,000 was appropriated.</Description>
+<Year>2012</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>1000000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2005 Annual Budget (H.B. 2675) enacted 4/19/04 and effective 5/5/04.</Citation>
+<Description>Established a tobacco use prevention and control fund from which expenditures can be made for a comprehensive, statewide tobacco use prevention and control program.  The comprehensive statewide tobacco use prevention and control program shall support tobacco use prevention and control activities including: Community programs to prevent and reduce tobacco use through local involvement and partnerships; school-based programs to prevent and reduce tobacco use; tobacco cessation programs for youth and adults; special projects to reduce the disparities in smoking prevalence among various populations; restriction of youth access to tobacco products; surveillance of smoking rates; and any other activities determined by the secretary to be necessary to implement the program.  An independent evaluation of the program is required as well as a state tobacco control report that breaks down information relevant to tobacco control efforts by county.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 31-601 to 31-613 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection (h) of section 31-603 Kansas Statutes, no cigarettes may be sold or offered for sale in Kansas or offered for sale or sold to any person located in Kansas unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 31-603 Kansas Statutes; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 31-604 Kansas Statutes, and amendments thereto; and 3) the cigarettes have been marked in accordance with section 31-605 Kansas Statutes, and amendments thereto.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KAN. STAT. ANN. §§ 31-601 to 31-613 (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above requirements shall be subject to a civil penalty not to exceed $500 for each pack of cigarettes sold or offered for sale.  Penalties shall not exceed $100,000 in any 30-day period.  A retail dealer or vending machine operator is subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Appropriated $1,400,000 for tobacco prevention and cessation programs in FY2012.
+FY2012 Annual Budget (H.B. 2014) enacted 5/28/11 and effective 7/1/11.
+
+Smokefree Air: Creates an exemption from Kansas&apos; smokefree workplace law for cigar dinners held once a year under certain conditions.
+H.B. 2182, sect. 98 enacted 5/25/11 and effective 7/1/11.</Description>
+<Year>2011</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2011-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Age to Sell Tobacco Products to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kansas</Name>
+<Abbrev>KS</Abbrev>
+<FipsCode>20</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2012 State Funding for Tobacco Control Programs:              $1,400,000
+
+FY2012 Federal Funding for State Tobacco Control Programs: $1,679,833*
+
+FY2012 Total Funding for State Tobacco Control Programs:      $3,079,833
+
+Funding Level Recommended by CDC:                                        $32,100,000
+
+Percentage of CDC-Recommended Level:                                   9.6%
+
+*Includes regular funding from the Centers for Disease Control and Prevention as well as tobacco-related grants to states and communities from federal stimulus and health care reform funds.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>17</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

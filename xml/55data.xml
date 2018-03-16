@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:53:41">
+<tblStatesALA>
+<ID>50</ID>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<LegislatureHyperlink>#http://www.legis.state.wi.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WI STAT. ANN. § 101.123 (2010).</Citation>
+<Description>Smoking is prohibited in virtually all enclosed public places and workplaces, including restaurants, taverns and private clubs.    Smoking is also prohibited in certain outdoor locations, including sports arenas, bus shelters and public conveyances.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WI STAT. ANN. § 101.123 (2010).</Citation>
+<Description>Smoking is still allowed in: 1) private residences; 2) rooms in assisted living facilities that are used by one person or by two or more persons as specified; 3) a retail tobacco store as defined in existence on or before June 3, 2009 that allows only the smoking of cigars and pipes; and 4) a tobacco bar as specified and defined (see Bars section).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>WI STAT. ANN. § 101.123(4m) (2010).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are generally allowed, except in certain outdoor locations, see below.
+
+Counties, cities, villages, towns or school districts can pass ordinances or adopt policies further regulating smoking indoors or outdoors.  However, if they regulate outdoor smoking, the ordinance/policy may apply only to public property under the jurisdiction of the county, city, village, town or school district.  Such ordinance shall provide that the person in charge of a restaurant, tavern, private club or retail establishment subject to the ordinance may designate an outside area that is a reasonable distance from any entrance where customers, employees, or persons associated with the place may smoke.  The ordinance cannot define &quot;reasonable distance&quot; or set a specified number of feet from the entrance where smoking can happen.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>Exec. Order #89 (2005).</Citation>
+<Description>The use of all tobacco products is prohibited at any Division of Disability and Elder Service (DDES) facility.  This prohibition extends to all buildings and grounds of each DDES facility.  The prohibition includes staff, patients/residents, visitors, renters, vendors, and any other individuals on the grounds of any facility.  The only exception is for ceremonial use of tobacco by Native American patients/residents.
+WI Admin. Code 60-05.00 (2005).
+
+The possession and use of tobacco products is prohibited in and on all Department of Corrections owned and leased property.  Exceptions can be made for specific circumstances such as for possession or use in inmate religious activities.  The policy became effective September 1, 2006.
+WI Dept. of Corrections Policy (2006).
+
+Except as specified above, smoking is prohibited in enclosed public places and places of employment, including state, county, city, village or town buildings.  Smoking is specifically prohibited in and in the immediate vicinity of the state capitol building; correctional facilities as defined, including anywhere on the grounds of a Type 1 juvenile correction facility; and state institutions as defined, which includes mental health care facilities.
+WI STAT. ANN. § 101.123 (2010).
+
+By executive order, smoking is prohibited in all state office buildings under the control of cabinet secretaries.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WI STAT. ANN. § 101.123 (2010).</Citation>
+<Description>Smoking is prohibited in enclosed places of employment.  &quot;Place of employment&quot; means any enclosed place that employees normally frequent during the course of employment, including an office, a work area, an elevator, an employee lounge, a restroom, a conference room, a meeting room, a classroom, a hallway, a stairway, a lobby, a common area, a vehicle or an employee cafeteria.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WI STAT. ANN. § 101.123 (2010).</Citation>
+<Description>The use of all tobacco products is prohibited on premises controlled by a school board, except that the school board may allow the use of tobacco products on premises owned by the school district and rented to another person for non-educational purposes.  
+WIS. STAT. § 120.12(20) (2001).
+
+To the extent not covered by the law above, smoking is prohibited in enclosed public places and workplaces, including educational facilities as defined.  Smoking is specifically prohibited in residence halls owned or operated by a college or university and within 25 feet of such places if owned or operated by the Board of Regents of the University of Wisconsin System.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 101.123 (2010).</Citation>
+<Description>Smoking is prohibited on the premises, indoors or outdoors, of a child care center, when children who are receiving day care services are present.  &quot;Child care center&quot; means a facility operated by a child care provider that provides care and supervision for four or more children less than seven years of age for less than 24 hours a day.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 101.123 (2010).</Citation>
+<Description>Smoking is prohibited in enclosed public places and places of employment, specifically including inpatient health care facilities and state institutions as defined.  Smoking is still allowed in rooms in assisted living facilities used by one person or two or more people if every person who lives in that room smokes and each of those persons have made a written request to the person in charge of the assisted living facility to be placed in a room where smoking is allowed.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 101.123 (2010).</Citation>
+<Description>Smoking is prohibited in enclosed public places and places of employment, including restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 101.123 (2010).</Citation>
+<Description>Smoking is prohibited in enclosed public places and places of employment, including taverns.  Tavern is defined as an establishment other than a restaurant that holds a Class B intoxicating liquor license or Class B fermented malt beverages license.  Smoking is still allowed in tobacco bars, defined as a tavern that makes 15 percent or more of its annual gross income from the sale on the tavern premises, other than from a vending machine, of cigars and tobacco for pipes.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. §§ 101.123, 125.12(1)(c) &amp; 165.60 (2010).</Citation>
+<Description>The person in charge as defined of a public place or place of employment shall post signs saying that smoking is prohibited and setting out other specified information.  They shall also take other specified actions if persons are smoking in violation of law.  Any person who smokes in violation of the above law is subject to a forfeiture of between $100 and $250.  Persons in charge, after a warning notice has been issued for a first violation, are subject to a forfeiture of $100.  No more than $100 can be assessed against a person in charge in a single day, and the state can not suspend or revoke an alcoholic beverage license based on violation of the above law.  State or local officials or any affected party may institute an action in any court with jurisdiction to enjoin repeated violations.  The state Department of Justice is authorized to enforce the law and is invested with the powers conferred by law upon sheriffs and municipal police officers in the performance of those duties.  Sheriffs, constables, and other local police officers can still enforce the law as well.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 139.31 (2009).</Citation>
+<Description>Tax rate per pack of 20: $2.52
+Date last changed: September 1, 2009 -- from $1.77 to $2.52
+Year first enacted: 1939</Description>
+<NumericValue>2.52</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Information not available currently.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>587752000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 139.76(1) (2009).</Citation>
+<Description>Moist snuff: 100% of the manufacturer&apos;s list price;
+Cigars: 71% of the manufacturer&apos;s list price, not exceeding 50 cents per cigar;
+All other tobacco products: 71% of the manufacturer&apos;s list price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. §§ 254.916 (2012) &amp; 134.66(5) (2007).</Citation>
+<Description>A governmental regulatory authority may conduct unannounced investigations at retail outlets, including tobacco vending machine premises, to enforce compliance with the state sales to minors&apos; law or a local ordinance.  The Department of Health and Family Services may contract with a local health department, a state agency, or a state or local law enforcement agency to conduct investigations authorized under this section, and a local health department, state agency, or state or local law enforcement agency may contract with any other person to conduct these investigations.  No retailer may be subjected to an unannounced investigation more than twice annually unless the retailer is found to have violated the law or a local ordinance in the most recent investigation.  With the permission of their parent or guardian, a person under 18 years of age, but not under 15 years of age, may buy, attempt to buy or possess any cigarette, nicotine product, including e-cigarettes or tobacco product if the person is directly supervised during the conducting of the investigation by an adult employee of a governmental regulatory authority and other specified requirements for the use of minors in such investigations are followed.  If a county, town, village, or city conducts unannounced investigations of retail outlets to determine compliance with a local ordinance the investigations shall meet the requirements of sections 254.916(3)(a-f) of the Wisconsin statutes and any standards established by the state Department of Health Services.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 254.92(2m) (2012).</Citation>
+<Description>No retailer, direct marketer, manufacturer or distributor, or agent, employee or independent contractor thereof, may sell or provide for nominal or no consideration cigarettes, nicotine products, including e-cigarettes, or tobacco products to any person under the age of 18.  Vending machine operators are not liable for this provision if they were unaware of the purchase.  Violation is punishable by a fine of up to $500 for the first offense; and between $200 and $500 for the second and subsequent violations within 12 months.  Upon the second violation within 12 months, the license to sell tobacco products shall also be suspended for not more than three days; for a third violation within 12 months, the license shall be suspended for three to 10 days; and for a fourth violation within 12 months, the license shall be suspended for 15 to 30 days.  It is a defense to prosecution that the purchaser falsely represented that they had attained the age of 18 and presented an identification card; that the appearance of the purchaser was such that an ordinary and prudent person would believe that the purchaser had attained the age of 18; and that the sale was made in good faith, in reasonable reliance on the identification card and appearance of the purchaser.
+WIS. STAT. § 134.66 (2012).
+
+No person may purchase cigarettes, tobacco products, or nicotine products on behalf of, or to provide to, any person who is under 18 years of age. Any person who violates the above is subject to the following forfeitures/penalties: (a) not more than $500 if the person has not committed a previous violation within 30 months of the violation; (b) $500 and/or imprisonment for not more than 30 days if the person has one previous violation within 30 months of the violation; (c) not more than $1,000 and/or imprisoned for not more than 90 days if the person has committed 2 previous violations within 30 months of the violation and (d) not more than $10,000 and/or imprisoned for not more than 9 months if the person has committed 3 or more previous violations within 30 months of the violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2012).</Citation>
+<Description>Retailers shall post signs in areas within their premises where tobacco products are sold to consumers stating that the sale of tobacco products to minors is unlawful. Failure to post such notice is punishable by a fine of $25.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 254.92 (2012).</Citation>
+<Description>No person under 18 years of age may possess, purchase or falsely represent their age in an attempt to purchase cigarettes, nicotine products, including e-cigarettes or tobacco products.  This does not apply to a minor during employment or a minor who is participating in a compliance check.  Violation is subject to seizure of the product by a law enforcement officer.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Requires direct marketers of cigarettes, which are sales of cigarettes to consumers where the consumer is not physically present, to register and provide certain information to the Department of Revenue.  Direct marketers are also required to pay all applicable taxes on their products; verify the consumer&apos;s name and address and that they are at least 18 years of age using a database with information based on public records or receive from the consumer at the time of purchase a photocopy of a government-issued ID; for sales over the Internet, obtain the purchaser&apos;s E-mail address and receive payment by debit card, credit card or check prior to shipping; and the person making the delivery is required to check a government-issued ID to verify the person receiving the cigarettes is at least 18 years of age, if the person is not the addressee, the person must sign a statement saying the addressee is 18 years of age.  Violation is subject to a penalty of $100 to $1,000 and/or 10 days to 90 days in jail.
+WIS. STAT. §§ 139.345 (2005) &amp; 139.44(5) (2001).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2003).</Citation>
+<Description>At the time that a retailer hires or contracts with an agent, employee, or independent contractor whose duties will include the sale of cigarettes or tobacco products, the retailer shall provide the agent, employee, or independent contractor with training on compliance with applicable youth access laws and the penalties for violation.  At the completion of the training, the retailer and the agent, employee, or independent contractor shall sign a form provided by the Department of Health and Family Services verifying that the agent, employee, or independent contractor has received the training, which the retailer shall retain in the personnel file of the agent, employee, or independent contractor.  Upon violation, a citation will be given to the retailer and their employee if the employee has undergone this training.  A citation will be issued only to the retailer if the employee has not undergone this training.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2007).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are not allowed unless it is the same as state law, see below.
+
+A county, town, village or city may adopt an ordinance regulating the conduct regulated by this section only if it strictly conforms to this section. A county ordinance adopted under this subsection does not apply within any town, village or city that has adopted or adopts an ordinance under this subsection.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2007).</Citation>
+<Description>No manufacturer, distributor, direct marketer, jobber, sub-jobber or retailer, or their employees or agents, may provide cigarettes, nicotine products, including e-cigarettes, or tobacco products for nominal or no consideration to any person except in a place where no person younger than 18 years of age is present or permitted to enter unless the person who is younger than 18 years of age is accompanied by a parent or guardian or spouse who has attained the age of 18 years.  Providing cigarettes or tobacco products at no or nominal cost to persons under age 18 is also prohibited.  Violation is subject to the same penalties as selling tobacco products to minors, including license suspensions for multiple violations.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 139.31 (2001).</Citation>
+<Description>No retailer may sell cigarettes in a form other than as a package or container on which a stamp is affixed.   Violation is subject to the same penalties as selling tobacco products to minors, including license suspensions for multiple violations.  
+WIS. STAT. § 134.66 (2007).
+
+No person may sell or distribute in this state, acquire, store, possess, or transport for sale or distribution in this state, import or cause to be imported into this state for sale or distribution in this state, or affix stamps  to a cigarette package that does not comply with Title 15 United States code section 1333 and 1335 or other federal law.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2007).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed unless it is the same as state law, see below.
+
+A county, town, village or city may adopt an ordinance regulating the conduct regulated by this section only if it strictly conforms to this section. A county ordinance adopted under this subsection does not apply within any town, village or city that has adopted or adopts an ordinance under this subsection.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2007).</Citation>
+<Description>No retailer may place a vending machine within 500 feet of a school.  Vending machines are restricted to places where the retailer or vending machine operator ensures that no person younger than 18 years of age is present or permitted to enter unless accompanied by a parent, guardian or spouse who is 18 or older.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2007).</Citation>
+<Description>Violation is subject to the same penalties as selling tobacco products to minors, including license suspensions for multiple violations.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2007).</Citation>
+<Description>A vending machine operator shall attach a notice in a conspicuous place on the front of their machine stating that the purchase of tobacco products by persons under 18 years of age is unlawful and violators may be fined up to $50.  Failure to post such notice is punishable by a fine of $25.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2007).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are not allowed unless it is the same as state law, see below.
+
+A county, town, village or city may adopt an ordinance regulating the conduct regulated by this section only if it strictly conforms to this section. A county ordinance adopted under this subsection does not apply within any town, village or city that has adopted or adopts an ordinance under this subsection.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.65 (2001).</Citation>
+<Description>Multiple retailers (a person who operates 10 or more retail outlets), distributors, manufacturers and vending machine operators must obtain a state permit from the Department of Revenue to sell cigarettes.  A separate license is required for each place of business.  Distributors are also required to obtain a permit to distribute tobacco products from the Department of Revenue.    
+WIS. STAT. §§ 139.34 (2001) &amp; 139.79 (1997).
+
+No person shall in any manner sell, distribute or give away cigarettes or tobacco products to any person not holding a license or permit without first obtaining a license from the clerk of the city, village or town wherein such privilege is sought to be exercised.  A city, village, or town clerk may not issue a license unless the applicant specifies in the license application whether the applicant will sell, exchange, barter, dispose of, or give away the cigarette or tobacco products over the counter or in a vending machine, or both.  Licenses expire on June 30th of every year unless suspended or revoked.  A separate license is required for each place of business.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.65 (2001).</Citation>
+<Description>Not less than $5 or more than $100 annually for a retail license from a city, village or town; no fees specified for Department of Revenue permits.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 134.66 (2007).</Citation>
+<Description>Punishments for violations of the sales to minors&apos; law include a three day suspension of the applicable license for the second violation within 12 months and progressive suspensions for subsequent offenses within that period.  The maximum suspension provided is 15 to 30 days for four or more violations within 12 months.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. §§ 111.31 et seq. (1991).</Citation>
+<Description>No employer, labor organization, employment agency, licensing agency or other person may engage in any act of employment discrimination against any individual on the basis of use or nonuse of lawful products off the employer&apos;s premises during non-working hours.  This section does not apply to nonprofit corporations that, have as one of their primary purposes or objectives the encouragement or discouragement of  the general public from using this lawful product.  It is acceptable for employers to offer a life, health or disability insurance policy under which the type or price of coverage varies for employees based on their usage of this lawful product when the policy meets certain conditions.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 808.07 (2m) (2003).</Citation>
+<Description>During the pendency of an appeal of a judgment in any civil action, the court shall set the amount of the undertaking to be furnished by all appellants collectively in order to stay the execution of the judgment during appellate review, but the undertaking shall not exceed $100 million.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating assets outside the ordinary course of business to avoid payment of a judgment, a court may enter any order necessary to protect the appellee and may require the appellant to post a bond in an amount not to exceed the amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The rights to virtually all of Wisconsin’s Master Settlement Agreement payments have been sold as bonds through non-stock corporations or limited liability companies organized by the state Secretary of Administration to obtain a smaller lump sum payment up front.  See Securitization section below for additional details.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>131300000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Limited preemption of local laws/ordinances further restricting smoking in outdoor areas; local laws/ordinances restricting youth access to tobacco products must be the same as state law.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Wisconsin&apos;s tobacco control program comes from the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2014-FY2015 Biennial Budget (A.B. 40) enacted 6/30/13 and effective 7/1/13 (FY2014) &amp; 7/1/14 (FY2015).</Citation>
+<Description>Wisconsin appropriated $5,315,000 for tobacco prevention and cessation programs in FY2015 (July 1, 2014 to June 30, 2015) from the state general fund. In FY2014, the same amount was appropriated. This is the second year of the FY2014-FY2015 biennium.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>5315000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 167.35 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in paragraphs (b) and (c) of subsection (5) of section 167.35 Wisconsin Statutes, no person may sell or offer to sell cigarettes to a person located in Wisconsin unless all of the following apply: 1) The cigarettes are of a type that has been tested in accordance with subsection (5) of section 167.35 Wisconsin Statutes; 2) The cigarettes meet the applicable fire safety performance standard required under subsection (5) of section 167.35 Wisconsin Statutes; 3) The cigarettes are of a type that are covered by a certification filed under paragraph (a) of subsection (2) of section 167.35 Wisconsin Statutes; and 4) The cigarettes are marked in compliance with subsection (4) of section 167.35 Wisconsin Statutes.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 167.35 (2009).</Citation>
+<Description>A person who knowingly sells or offers to sell cigarettes at wholesale in violation of section 167.35(5)(a) shall forfeit not more than $10,000 for each sale.  Penalties against a single person selling cigarettes at wholesale shall not exceed $100,000 in any 30-day period.  Any person that knowingly sells cigarettes at retail in violation of section 167.35(5)(a) shall forfeit $500 for each sale involving fewer than 1,000 cigarettes; and $1,000 for each sale involving 1,000 or more cigarettes.  Penalties against a single person selling cigarettes at retail may not exceed $25,000 in any 30-day period.  Any manufacturer that knowingly files a false certification under section 167.35(2)(a) shall forfeit not more than $10,000 for each false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - less than 10 retail outlets require city/town license, more than 10 retail outlets require state license.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - city/town license</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $5,315,000 for tobacco prevention and cessation programs in FY2015.
+FY2014-FY2015 Biennial Budget (A.B. 40) enacted 6/30/13 and effective 7/1/13 (FY2014) &amp; 7/1/14 (FY2015).</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WIS. STAT. § 16.63 (2001).</Citation>
+<Description>The Secretary of Administration is authorized to sell for cash or other consideration the state’s right to receive any of the payments under the tobacco settlement agreement.  The secretary may organize one or more non-stock corporations or limited liability companies for any purpose related to the sale of the state’s right to receive any of the payments under the tobacco settlement agreement and may take any action necessary to facilitate and complete the sale.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $587,752,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wisconsin</Name>
+<Abbrev>WI</Abbrev>
+<FipsCode>55</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $5,315,000 
+
+FY2015 Federal Funding for State Tobacco Control Programs: $2,293,650*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $7,608,650 
+
+Funding Level Recommended by CDC:                                        $57,500,000 
+
+Percentage of CDC-Recommended Level:                                   13.2%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>50</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

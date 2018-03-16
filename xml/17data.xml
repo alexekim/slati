@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:52:01">
+<tblStatesALA>
+<ID>14</ID>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<LegislatureHyperlink>#http://www.legis.state.il.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 82/1 et seq. (2014).</Citation>
+<Description>No person shall smoke in a public place or in any place of employment, including restaurants, bars and casinos or within 15 feet of any entrance, exit, window that opens or ventilation intake serving a public place or place of employment.  See the definitions of public place and place of employment in the statutes cited below for more details on locations covered.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 82/10 (2011) &amp; 82/35 (2014).</Citation>
+<Description>Exceptions to the law include: 1) private residences or dwelling places, except when used as a child care, adult day care, or health care facility or any other home-based business open to the public; 2) retail tobacco stores as defined; 3) up to 25 percent of hotel/motel rooms subject to certain conditions; 5) enclosed laboratories, not open to the public, in an accredited university or government facility where smoking is exclusively conducted for the purpose of medical or scientific health-related research; 6) common smoking rooms in long-term care facilities operated under the authority of the Illinois Department of Veterans&apos; Affairs or licensed under the Nursing Home Care Act as specified; and 7) a convention hall of the Donald E. Stephens Convention Center where a meeting or trade show for manufacturers and suppliers of tobacco products and accessories is being held, during the time the meeting or trade show is occurring subject to specific conditions, including that the meeting is not open to the public or attendees/exhibitors under age 21.  The definition of smoking in the law does not include smoking that is associated with a native recognized religious ceremony, ritual, or activity by American Indians that is in accordance with the federal American Indian Religious Freedom Act.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 82/65 (2008).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Any home-rule unit of local government, any non-home rule municipality or any non-home rule county within the unincorporated territory of the county in this state may regulate smoking in public places, but that regulation must be no less restrictive than state law.  In addition, any home rule unit of local government, any non-home rule municipality, or any non-home rule county within the unincorporated territory of the county may regulate smoking in any enclosed indoor area used by the public or serving as a place of work if the area does not fall within the definition of a &quot;public place&quot; under state law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 82/1 et seq. (2014).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes places open to the public owned by the state of Illinois or any public entity.  Smoking is also prohibited in places of employment, the definition of which includes all public places of employment.  For the above, smoking is also prohibited within 15 feet  of entrances, exits, windows that open, and ventilation intakes that serve an enclosed area where smoking is prohibited.  No person may smoke in any vehicle owned, leased, or operated by the state or a political subdivision of the state.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 82/1 et seq. (2014).</Citation>
+<Description>Smoking is prohibited in all places of employment as defined, including a minimum distance of 15 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed area where smoking is prohibited.  A private residence or home-based business, unless used to provide licensed child care, foster care, adult care, or other similar social service care on the premises, is not a &quot;place of employment&quot;.  Retail tobacco stores are also exempt, and the definition includes an enclosed workplace that manufactures, imports, or distributes tobacco or tobacco products as specified.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>625 ILL. COMP. STAT. 6-106.11 (2011).</Citation>
+<Description>Each school board and Board of Education in cities of over 500,000 people shall prohibit the use of tobacco on school property by any school personnel, student or other person when such property is being used for any school purposes.  The school board may not authorize or permit any exception to the prohibition at any place or at any time, including without limitation outside of school buildings or before or after the regular school day.  “School purposes&quot; include but are not limited to, all events, activities or other use of school property that are authorized by school officials including all interscholastic or extracurricular athletic, academic or other sponsored events in which pupils participate. 
+105 ILL. COMP. STAT. 5/10-20.5b &amp; 5/34-18.11 (1995).
+
+Beginning July 1, 2015, smoking is prohibited on each campus of a state-supported institution of higher education.  Requires the smoking prohibitions to be communicated to students and communities of state-supported institutions of higher education by May 1, 2015 and requires creation and posting on websites of a smokefree campus map showing where smoking is prohibited.  Each state-supported institution of higher education shall establish a community task force for the purpose of coordinating with community and campus leaders to help with implementation.  &quot;No smoking&quot; signs may be posted on campuses as specified.  Penalties are set by the governing board of each state-supported institution.
+110 ILL. COMP. STAT. 64/1 et seq. (2014).
+
+To the extent not covered in the laws above, smoking is prohibited in educational facilities.  Smoking is also specifically prohibited in any portion of the living quarters, including, but not limited to, sleeping rooms, dining areas, restrooms, laundry areas, lobbies, and hallways, of a building used in whole or in part as a student dormitory that is owned and operated or otherwise utilized by a public or private institution of higher education.
+410 ILL. COMP. STAT. 82/1 et seq. (2014).
+
+Any individual, corporation, partnership or association, who through contractual arrangements with a school district transports students, teachers or other personnel of that district for compensation may not allow smoking in a vehicle while the vehicle is in the performance of the contract.  Violation is a business offense and is subject to a fine of $1,000 to $10,000 for a first offense, $1,500 to $15,000 for a second offense, and $2,000 to $20,000 for a third or subsequent offense.  A fourth or subsequent violation also results in a prohibition of transporting or contracting to transport students for five years.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 82/1 et seq. (2014).</Citation>
+<Description>Smoking tobacco products is prohibited in any area of an operating child care center regardless of whether children are present.  Smoking tobacco products is prohibited in any area of a day care home, or group day care home in which daycare services are being provided, while those children are present.  This does not prohibit smoking in the home in the presence of a person&apos;s own children or of children to whom day care services are not then being provided.  Violation is a Class A misdemeanor and in case of an association or corporation, imprisonment may be imposed upon its officers who knowingly participated in the violation.  It is a violation if any person responsible for the operation of a day care center, day care home, or group day care home knowingly allows or encourages any violation.
+225 ILL. COMP. STAT. 10/5.5 (1994) &amp; 10/18 (1984).
+
+Smoking is prohibited in public places and places of employment, including child care facilities.  This specifically includes private residences or home-based businesses that provide licensed child care, foster care, adult care or other similar social service care on the premises.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>210 ILL. COMP. STAT. 50/3.155 (2001).</Citation>
+<Description>Smoking is prohibited in public places the definition of which includes hospitals, nursing homes and other healthcare facilities and clinics as defined.  Smoking is still allowed in common smoking rooms in long-term care facilities operated under the authority of the Illinois Department of Veterans&apos; Affairs or licensed under the Nursing Home Care Act that are accessible only to residents who are smokers and have requested in writing to have access to the common smoking room where smoking is permitted and the smoke shall not infiltrate other areas of the long-term care facility. 
+410 ILL. COMP. STAT. 82/1 et seq. (2014).
+
+Patients, individuals who accompany a patient, and emergency medical services personnel may not smoke while inside an ambulance or SEMSV.  The Department of Public Health may impose a civil penalty on an individual who violates this subsection in the amount of $100.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 82/1 et seq. (2014).</Citation>
+<Description>Smoking is prohibited in restaurants.  Restaurant is defined as an eating establishment, including, but not limited to, coffee shops, cafeterias, sandwich stands and private and public school cafeterias, that gives or offers for sale food to the public, guests, or employees, and a kitchen or catering facility in which food is prepared on the premises for serving elsewhere.  The definition specifically includes a bar area within a restaurant.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 82/1 et seq. (2014).</Citation>
+<Description>Smoking is prohibited in bars/taverns. Bar is defined as an establishment that is devoted to the serving of alcoholic beverages for consumption by guests on the premises and that derives no more than 10 percent of its gross revenue from the sale of food consumed on the premises. &quot;Bar&quot; includes, but is not limited to, taverns, nightclubs, cocktail lounges, adult entertainment facilities, and cabarets.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 82/20 (2008), 82/40 (2009), 82/45 (2014) &amp; 82/50 (2009).</Citation>
+<Description>&quot;No Smoking&quot; signs or the international &quot;No Smoking&quot; symbol shall be clearly and conspicuously posted in each public place and place of employment where smoking is prohibited.  A person who smokes in an area where smoking is prohibited shall be fined $100 for a first offense and $250 for each subsequent offense.  A person who owns, operates, or otherwise controls a public place or place of employment and allows smoking to occur or does not post the required signs shall be fined $250 for the first violation, $500 for the second violation within one year after the first violation and $2,500 for each additional violation within one year after the first violation.  Each day a violation occurs is a separate offense.  The state Department of Health, state-certified local public health departments and local law enforcement agencies shall enforce the provisions of this act through the issuance of citations as specified and may assess the fines above.  A telephone number will be established to report violations.  An action may be instituted in circuit court to enjoin repeated violations.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 ILL. COMP. STAT. 130/2 (2012).</Citation>
+<Description>Tax rate per pack of 20: $1.98 
+Date last changed: June 24, 2012 -- from 98 cents to $1.98
+Year first enacted: 1941</Description>
+<NumericValue>1.98</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 ILL. COMP. STAT. 130/2 (2012).</Citation>
+<Description>Portions of cigarette tax revenue are directed to the Common School Fund, the School Infrastructure Fund, the Long Term Care Provider Fund, the Healthcare Provider Relief Fund; and the General Revenue Fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>579782000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 ILL. COMP. STAT. 130/2 (2012).</Citation>
+<Description>$9 million in revenue from 8 cents of the cigarette tax and all revenue from 14 cents of the cigarette tax is dedicated to the Common School Fund and revenue from the $1.00 per pack increase in the cigarette tax enacted in 2012 is dedicated to the Healthcare Provider Relief Fund. 
+Remaining revenue from the cigarette tax is distributed each month as follows:
+1) There shall be paid into the General Revenue Fund an amount that, when added to the amount paid into the Common School Fund above for that month, equals $29,200,000; then from the moneys remaining, if any amounts required to be paid into the General Revenue Fund in previous months remain unpaid, those amounts shall be paid into the General Revenue Fund;
+2) From the moneys remaining, $5,000,000 per month shall be paid into the School Infrastructure Fund; then, if any amounts required to be paid into the School Infrastructure Fund in previous months remain unpaid, those amounts shall be paid into the School Infrastructure Fund;
+3) Then the moneys remaining, if any, shall be paid into the Long Term Care Provider Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 ILL. COMP. STAT. 143/10-10 (2013).</Citation>
+<Description>Little cigars (integrated cellulose acetate filter and weighing under 4 lbs/thousand): 9.9 cents per cigar;
+Moist snuff: 30 cents/oz. and a proportionate tax on the like rate on all fractional parts of an ounce;
+All other tobacco products: 36% of the wholesale purchase price.
+
+As of January 1, 2013, the tax rate imposed per ounce of moist snuff may not exceed 15% of the tax imposed upon a package of 20 cigarettes.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 ILL. COMP. STAT. 143/10-10 (2013).</Citation>
+<Description>Revenue received from the tax on little cigars is deposited and allocated the same way as cigarette tax revenue.  Revenue from the excise tax on all other tobacco products other than cigarettes is split in half with 50 percent going to the Long Term Care Provider Fund and 50 percent to the Healthcare Provider Relief Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Illinois Liquor Control Commission KCBEH Campaign website (2010).</Citation>
+<Description>The Illinois Liquor Control Commission is designated as the agency responsible for complying with federal regulations regarding sales of tobacco products to minors, including conducting the required compliance inspections.  The commission also created the Kids Can&apos;t Buy &apos;Em Here (KCBEH) Campaign.  Approximately $1 million in grants are awarded to some, but not all, communities each year for retailer education and to perform tobacco compliance checks on retailers.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 ILL. COMP. STAT. 685/1 et seq. (2012).</Citation>
+<Description>No person shall sell, buy for, distribute samples of or furnish any tobacco product to a person less than 18 years of age.  Violators are guilty of a petty offense and shall be fined $200 for the first offense, $400 for the second offense in a 12-month period and $600 for subsequent offenses within a 12-month period. 
+720 IL COMP. STAT. 675/1 (2010) &amp; 675/2 (2014).
+
+A person, either directly, indirectly or by vending machine may not sell, offer for sale, give, or furnish any alternative nicotine product, or any cartridge or component of an alternative nicotine product, to a person under 18 years of age.  Alternative nicotine product means a product or device not consisting of or containing tobacco that provides for the ingestion into the body of nicotine, whether by chewing, smoking, absorbing, dissolving, inhaling, snorting, sniffing, or by any other means.  The definition excludes cigarettes, smokeless tobacco and other tobacco products as defined.  Violators are guilty of a petty offense and shall be fined $200 for the first offense, $400 for the second offense in a 12-month period and $600 for subsequent offenses within a 12-month period. 
+720 IL COMP. STAT. 675/1.5 &amp; 675/2 (2014).
+
+No person shall knowingly sell, deliver or give away cigarette papers or other tobacco accessories to minors.  No person shall knowingly offer, sell, barter, exchange, deliver or give away cigarette paper except from premises or an establishment where other tobacco products are sold.  Sales of cigarette paper from vending machines is completely prohibited.  Sales of wrapping paper and wrapping leaf for the purpose of making a roll of tobacco or herbs for smoking that is or is held out to be, impregnated, scented, or imbibed with, or aged or dipped in certain specified flavors is completely prohibited as well.  Violators shall be guilty of a Class C misdemeanor except violators of the prohibition on flavored wrapping paper and wrapping leaf are guilty of a petty offense and subject to a fine of between $100 to $1,000.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 ILL. COMP. STAT. 685/1 et seq. (2001).</Citation>
+<Description>No person may sell or offer to sell cigarettes at retail unless a sign with the message: &quot;SURGEON GENERAL&apos;S WARNING: SMOKING BY PREGNANT WOMEN MAY RESULT IN FETAL INJURY, PREMATURE BIRTH, AND LOW BIRTH WEIGHT&quot; printed on white cards in red letters at least one-half inch in height, is posted in a conspicuous place upon the premises.  Failure to post such a warning sign is a business offense for which a fine of up to $1,000 each day may be imposed. 
+410 ILL. COMP. STAT. 85/1 et seq. (1991). 
+
+Any place of business where tobacco accessories are sold shall conspicuously post a sign warning that the sale of tobacco accessories to minors or minors misrepresenting their age to procure such a sale is prohibited by law. Violation is a Class C misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 ILL. COMP. STAT. 685/4 (a-5) &amp; 685/5 (2001).</Citation>
+<Description>No person shall knowingly sell, barter, exchange, deliver, or give away a bidi cigarette to another person, or shall a person cause or permit or procure a bidi cigarette to be sold, bartered, exchanged, delivered, or given away to another person.  Violation is a petty offense for which the offender may be fined for a first offense up to $500, for a second offense within a two-year period not less than $250 and not more than $500 and for a third or subsequent offense within a two-year period not less than $500 and not more than $1,000.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 ILL. COMP. STAT. 685/1 et seq. (2001).</Citation>
+<Description>No person under 18 years of age shall buy any tobacco product, or in the furtherance or facilitation of obtaining any tobacco product display or use a false or forged identification card or transfer, alter, or deface an identification card.  It is not a violation if the minor purchases a tobacco product as part of an enforcement action or effort to determine compliance.  Violators are guilty of a petty offense and shall be fined $200 for the first offense, $400 for the second offense within a 12-month period and $600 for subsequent offenses within a 12-month period. 
+720 ILL. COMP. STAT. 675/1 (2010) &amp; 675/2 (2009).  
+
+No minor under 18 years of age shall possess any tobacco product.  It is not a violation if a minor possesses a tobacco product as part of an enforcement action or effort to determine compliance or as a person employed by a retailer of tobacco products.  Violation is a petty offense and subject to: 15 hours of community service and a fine of $25 for a first violation; 25 hours of community service and a fine of $50 for a second violation within 12 months of the first violation; and 30 hours of community service and a fine of $100 for a third or subsequent violation within 12 months of the first violation.  If convicted or placed on supervision for a violation, the court may order that minor and their parents or legal guardian to attend a smoker&apos;s education or youth diversion program if available.
+720 ILL. COMP. STAT. 675/1 (2010) &amp; 675/2 (2009). 
+  
+Any minor who uses false or forged identification to obtain cigarette papers or other tobacco accessories shall be guilty of a Class C misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 ILL. COMP. STAT. 677/1 et seq. (2015).</Citation>
+<Description>All single packs of cigarettes and alternative nicotine products as defined must be sold from behind the counter, in an age restricted area or in a sealed display case.  Any other tobacco products must be sold in the line of sight, which means visible to a cashier or other employee.  These restrictions do not apply to a retail tobacco store that derives 90 percent of its revenue from tobacco and tobacco related products, does not allow people under 18 to enter the premises unless accompanied by a parent or legal guardian and posts a sign on the main entrance stating that persons under the age of 18 are prohibited from entering unless accompanied by a parent or legal guardian.  Violation is a petty offense subject to a fine of $100 to $1,000.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 IL COMP. STAT. 675/1.5 &amp; 675/2 (2014).</Citation>
+<Description>It is unlawful for any person engaged in the business of selling cigarettes to ship or cause to be shipped any cigarettes in Illinois unless: the person shipping the cigarettes is licensed as a distributor or the person delivers the cigarettes to a licensed distributor; or ships them to an export warehouse proprietor or an operator of a customs bonded warehouse.  A common or contract carrier may transport cigarettes to any individual person in Illinois only if the carrier reasonably believes such cigarettes have been received from a person who is licensed as a distributor.  A common or contract carrier may not complete the delivery of any cigarettes unless the purchaser displays a government-issued identification that shows the person is at least 18, and signs a written statement certifying the purchaser&apos;s address and age.  First violation is a Class A misdemeanor and the Illinois Department of Revenue shall impose a civil penalty of $5,000.  Second and subsequent violations are a Class Four felony and a civil penalty of $5,000 for each violation.
+720 ILL. COMP. STAT. 678/1 et seq. (2004).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.
+
+Before selling, offering for sale, giving, or furnishing an alternative nicotine product as defined, or any cartridge or component of an alternative nicotine product, to another person, a person shall verify that the person is at least 18 years of age by for sales made through the Internet or other remote sales methods, performing an age verification through an independent, third-party age verification service that compares information available from public records to the personal information entered by the person during the ordering process.  Violation is subject to the same penalties as selling or furnishing alternative nicotine products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 ILL. COMP. STAT. 675/1 (2010) &amp; 675/2 (2009).</Citation>
+<Description>A person shall not distribute without charge samples of any tobacco product to any other person, regardless of age: 1) within a retail establishment selling tobacco products, unless the retailer has verified the purchaser&apos;s age with a government issued identification; 2) from a lunch wagon; or 3) on a public way as a promotion or advertisement of a tobacco manufacturer or tobacco product. This does not apply to the distribution of a tobacco product sample in any adult-only facility.  Violators are guilty of a petty offense and shall be fined $200 for the first offense, $400 for the second offense in a 12-month period and $600 for subsequent offenses within a 12-month period.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 ILL. COMP. STAT. 130/3-10 (2000).</Citation>
+<Description>The sale or distribution by any person of a tobacco product, including but not limited to, a single or loose cigarette that is not contained within a sealed container, pack, or package as provided by the manufacturer, which bears the health warning required by federal law, is prohibited.  Violation is subject to a fine of $200 for a first offense, $400 for a second offense within 12 months, and $600 for the third and subsequent offenses within 12 months.
+720 ILL. COMP. STAT. 675/1(d) &amp; 675/2 (2009).  
+
+It is unlawful for any person to sell or distribute in this state; to acquire, hold, own, possess, or transport, for sale or distribution in this state; or to import, or cause to be imported into this state for sale or distribution in this state any cigarettes the package of which does not comply with all requirements imposed by or pursuant to federal law regarding warnings and other information on packages of cigarettes manufactured, packaged, or imported for sale, distribution, or use in the United States, including but not limited to the precise warning labels specified in the federal Cigarette Labeling and Advertising Act.  Violation is subject to a civil penalty of 500 percent of the retail value of the cigarettes involved or $5,000, whichever is greater.  A distributor who violates this provision may also have their license suspended or revoked.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling and minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 ILL. COMP. STAT. 675/1(b) (2010).</Citation>
+<Description>Tobacco product vending machines are restricted to: 1) places to which minors under 18 years of age are not permitted access; 2) places where alcoholic beverages are sold and consumed on the premises and vending machine operation is under the direct supervision of the owner or manager; or 3) places where the vending machine can only be operated by the owner or an employee over age 18 either directly or through a remote control device if the device is inaccessible to all customers.  Other products except matches may not be sold in tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 ILL. COMP. STAT. 675/2 (2009).</Citation>
+<Description>Violation is subject to a fine of $200 for a first offense, $400 for a second offense within 12 months, and $600 for the third and subsequent offenses within 12 months.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 85/1 et seq. (2001).</Citation>
+<Description>No person may sell cigarettes at retail using a cigarette vending machine unless a sign with the message &quot;SURGEON GENERAL&apos;S WARNING: SMOKING BY PREGNANT WOMEN MAY RESULT IN FETAL INJURY, PREMATURE BIRTH, AND LOW BIRTH WEIGHT&quot; printed on a white card in red letters at least one-half inch in height, is displayed in plain view on the machine.  Failure to post such a warning sign is a business offense for which a fine of up to $1,000 each day may be imposed.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 ILL. COMP. STAT. 130/1 to 130/11b (2011) &amp; 143/10-20 (2002).</Citation>
+<Description>Distributors must obtain a license from the Department of Revenue to sell cigarettes and other tobacco products.  All licenses are valid for one year from the date of issuance unless suspended or revoked.  Manufacturers must obtain authorization from the Department of Revenue to market directly to retailers in the state.  The manufacturer must request to maintain a certain number of manufacturer&apos;s representatives in the state as part of receiving authorization.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 ILL. COMP. STAT. 130/4 &amp; 142/10-20 (2002).</Citation>
+<Description>$250 annually for cigarettes; no charge for other tobacco products.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provision.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>820 ILL. COMP. STAT. 55/5 (1987).</Citation>
+<Description>It shall be unlawful for an employer to refuse to hire or to discharge any individual, or otherwise disadvantage any individual, with respect to compensation, terms, conditions or privileges of employment because the individual uses lawful products off the premises of the employer during nonworking hours.  This does not apply to any employer that is a non-profit organization that, as one of its primary purposes or objectives, discourages the use of one or more lawful products by the general public; or to the use of those lawful products which impairs an employee&apos;s ability to perform the employee&apos;s assigned duties.  It is also not a violation for an employer to offer, impose or have in effect a health, disability or life insurance policy that makes distinctions between employees for the type of coverage or the price of coverage based upon the employees&apos; use of lawful products provided that differential premium rates charged employees reflect a differential cost to the employer; and employers provide employees with a statement delineating the differential rates used by insurance carriers.</Description>
+<Year>1987</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>410 ILL. COMP. STAT. 75/2 (1987).</Citation>
+<Description>All outdoor billboard advertisements for smokeless tobacco shall bear one of the following statements in capital letters:  &quot;WARNING: THIS PRODUCT MAY CAUSE MOUTH CANCER.  WARNING: THIS PRODUCT MAY CAUSE GUM DISEASE AND TOOTH LOSS.  WARNING: THIS PRODUCT IS NOT A SAFE ALTERNATIVE TO CIGARETTES.&quot;  The manufacturer, packager or importer of the product shall rotate the warnings every four months.  Any outdoor billboard advertisement that does not conform to these provisions shall be deemed a nuisance affecting the public health.  No other warning, format or type style in any outdoor billboard advertisement shall be required by any state or local statute or regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 3660 article 3, enacted and effective 7/1/10, 30 ILL. COMP. STAT. 105/6z-43 (2011) &amp; 30 ILL. COMP. STAT. 105/5.786 (2011).</Citation>
+<Description>Approximately 55 percent of Illinois&apos; annual tobacco settlement payments were authorized to be sold to the Railsplitter Tobacco Settlement Authority in 2010 for a lump sum payment up front.  That lump sum payment and the remaining 45 percent from the annual tobacco settlement payment are deposited into several accounts in the Tobacco Settlement Recovery Fund and the Attorney General Tobacco Fund, and used as specified or as appropriated by the legislature.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>273700000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>30 ILL. COMP. STAT. 105/5.786 (2011).</Citation>
+<Description>Legislation was approved in 2010 that authorized the sale of approximately 55 percent of Illinois&apos; Master Settlement Agreement (MSA) payments to the Railsplitter Tobacco Settlement Authority for a lump sum payment up front.  See Securitization section below for more details.
+S.B. 3660 article 3, enacted and effective 7/1/10.
+
+There is created a special fund in the state treasury known as the Tobacco Settlement Recovery Fund which shall contain three accounts: 1) the General Account, 2) the Tobacco Settlement Bonds Proceeds Account and 3) the Tobacco Settlement Residual Account.  All monies received by Illinois from the MSA shall be deposited in the several accounts of the Tobacco Settlement Recovery Fund and the Attorney General Tobacco Fund.  Monies shall be deposited in the second and third accounts as specified in the Railsplitter Tobacco Settlement Authority Act, except not less than $2.5 million annually shall be deposited in the Attorney General Tobacco Fund to be used only be the Attorney General as specified below.  All other monies available for deposit shall go into the general account.
+30 ILL. COMP. STAT. 105/6z-43 (2011).
+
+There is created in the state treasury the Attorney General Tobacco Fund to be used exclusively by the Attorney General for enforcement of the tobacco Master Settlement Agreement and for law enforcement activities of the Attorney General.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Illinois&apos; tobacco prevention and control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2015 Annual Budget (H.B. 6096) enacted 6/30/14 and effective 7/1/14.</Citation>
+<Description>Illinois appropriated $11,100,000 for tobacco prevention and cessation programs in FY2015 (July 1, 2014 to June 30, 2015).  The same amount was appropriated in FY2014.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>11100000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>425 ILL. COMP. STAT. 8/1 et seq. (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, on and after the effective date of this Cigarette Fire Safety Standard Act, no cigarettes shall be sold or offered for sale to any person in Illinois unless: 1) cigarettes have been tested in accordance with the test method prescribed in chapter 425 section 8/15 Illinois Compiled Statutes, 2) the cigarettes meet the performance standard specified in chapter 425, section 8/20 Illinois Compiled Statutes; and 3) a written certification has been filed by the manufacturer with the Office of the State Fire Marshal and the Office of Attorney General in accordance with chapter 425, section 8/30 Illinois Compiled Statutes.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>425 ILL. COMP. STAT. 8/1 et seq. (2008).</Citation>
+<Description>Any manufacturer, wholesale dealer, agent or any other person or entity that knowingly sells cigarettes in violation of the above is subject to a civil penalty not to exceed $10,000 for each sale.  Any retail dealer that knowingly sells or offers to sell cigarettes in violation of the above is subject to a civil penalty not to exceed $500 for each sale or offer for sale of less than 1,000 cigarettes and a civil penalty not to exceed $1,000 for each sale or offer for sale of more than 1,000 cigarettes.  Knowingly making a false certification is subject to a civil penalty of $10,000 in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>720 IL COMP. STAT. 675/1.5 &amp; 675/2 (2014).</Citation>
+<Description>Before selling, offering for sale, giving, or furnishing an alternative nicotine product as defined, or any cartridge or component of an alternative nicotine product, to another person, a person shall verify that the person is at least 18 years of age by examining from any person that appears to be under 27 years of age a government-issued photographic identification that establishes the person is at least 18 years of age.  Penalties are the same as for selling or furnishing alternative nicotine products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $11,100,000 for tobacco prevention and cessation programs in FY2015.
+FY2015 Annual Budget (H.B. 6096) enacted 6/30/14 and effective 7/1/14.
+
+Smokefree College Campuses: Prohibits smoking on the campuses of all state-supported institutions of higher education as defined.  Includes provisions on implementation of the law and communication about the law to students and employees.
+S.B. 2202 enacted and effective 8/18/14.
+
+Licensing for Sales of Tobacco Products: Requires retailers of cigarettes and tobacco products to obtain a license for the Department of Revenue.  Establishes a $75 annual license fee and applies many licensing provisions applicable to distributors of cigarettes and tobacco products to retailers.
+H.B. 2494 enacted 8/26/14 and effective 1/1/16.
+
+Smokefree Air: Amends the Illinois Smokefree Air Act to allow smoking in a certain convention hall where a meeting or trade show for manufacturers and suppliers of tobacco products and accessories is being held under certain conditions.  Applies penalties if businesses do not post signs or remove ashtrays.
+S.B. 852 enacted and effective 8/22/14.  
+
+E-Cigarettes/Child-Resistant Packaging: Requires liquids sold and marketed for use in electronic cigarettes to be sold in special packaging with standards established by rule by the state Department of Public Health.  Exempts sealed, pre-filled, or disposable replacement cartridges.
+H.B. 5689 enacted 8/22/14 and effective 1/1/15.
+
+E-Cigarettes/Youth Access Laws: Prohibits alternative nicotine products, which as defined includes e-cigarettes, from being sold except behind the counter, in an age-restricted area or in a sealed display case.
+H.B. 5868 enacted 8/18/14 and effective 1/1/15.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 3660 article 3, enacted and effective 7/1/10.</Citation>
+<Description>During fiscal years 2010 and 2011, the state may sell, convey, or otherwise transfer to the Railsplitter Tobacco Settlement Authority, approximately 55 percent of the tobacco settlement revenues received by the state in exchange for the net proceeds of bonds and a right to the residual interest in tobacco settlement revenues.  No greater than $1,750,000 in bonds can be issued.  Unless otherwise directed by statute, the net proceeds of the bonds shall be deposited in the Tobacco Settlement Bond Proceeds Account to be used for the payment of outstanding obligations of the state General Revenue Fund or to supplement the Tobacco Settlement Residual Account to pay for appropriated obligations of the Tobacco Settlement Recovery Fund for State fiscal year 2011 through 2013.  Any residual interest in tobacco settlement revenues received by the state shall be deposited in the Tobacco Settlement Residual Account, and be used for appropriated obligations of the Tobacco Settlement Recovery Fund as specified.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $579,782,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Illinois</Name>
+<Abbrev>IL</Abbrev>
+<FipsCode>17</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $11,100,000
+
+FY2015 Federal Funding for State Tobacco Control Programs: $1,845,589*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $12,945,589 
+
+Funding Level Recommended by CDC:                                        $136,700,000 
+
+Percentage of CDC-Recommended Level:                                   9.5%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>14</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

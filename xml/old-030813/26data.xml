@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-14T11:59:31">
+<tblStatesALA>
+<ID>23</ID>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<LegislatureHyperlink>#http://www.michiganlegislature.org/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue Collected in Fiscal Year 2009 (October 1, 2008 to September 30, 2009): $996,461,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 333.12601 to 333.12615 &amp; 333.12905 (2010).</Citation>
+<Description>Smoking is prohibited in almost all public places and workplaces in Michigan, including restaurants and bars.  See the statute cited below for the definition of public place and workplace, and the types of places specifically covered.  One major exception is the gaming floors of existing casinos.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>
+MICH. COMP. LAWS §§ 333.12601 to 333.12615 &amp; 333.12905 (2010).</Citation>
+<Description>Exceptions to the law include: 1) cigar bars that existed before May 1, 2010 as specified and defined; 2) tobacco specialty retail stores that existed before May 1, 2010 as specified and defined, including generating at least 75 percent of its total gross annual income from the on-site sale of tobacco products and smoking paraphernalia and not allowing persons under 18 to enter while the store is open for business; and 3) the gaming areas as defined of casinos that existed before May 1, 2009, including places where food and beverage are taken for immediate consumption, smoking is prohibited in all other parts of the casino, including food service establishments.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>Michigan Restaurant Association et al. v. City of Marquette (2001).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are generally allowed; however, stronger local laws/ordinances concerning smoking in food service establishments (restaurants and bars) are not allowed, see below.
+
+A county, city, village, or township shall not regulate smoking in food service establishments  except to the extent necessary to carry out the responsibility of a local health department pursuant to sections 12906 and 12908. This part shall not relieve the applicant for a license or a licensee from responsibility for securing a local permit or complying with applicable local codes, regulations, or ordinances not in conflict with these sections of state law. 
+MICH. COMP. LAWS §§ 333.12905 (2010) &amp; 333.12915 (1983). 
+
+Note: A Michigan appeals court found in 2001 that Michigan law preempts local ordinances more restrictive than state law on smoking in restaurants and bars.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>Exec. Order 1992-3 (1992).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes an enclosed, indoor area owned or operated by a state or local governmental agency and used by the general public or serving as a meeting place for a public body.  Smoking is also prohibited in places of employment defined as an enclosed indoor area that contains one or more work areas for one or more persons employed by a public or private employer.
+MICH. COMP. LAWS §§ 333.12601 to 333.12615 (2010). 
+
+By Executive Order, smoking is prohibited in areas in state government facilities, including, but not limited to, private enclosed offices, meeting rooms, cafeterias, restrooms, breakrooms, and all other general space.  Exempt from this order are living units, and a strictly limited number of designated areas, in facilities housing prisoners or mental health patients.  Department directors and agency heads are responsible for posting such provisions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 333.12601 to 333.12615 (2010).</Citation>
+<Description>Smoking is prohibited in places of employment defined as an enclosed indoor area that contains one or more work areas for one or more persons employed by a public or private employer.  This does not include a structure used primarily as the residence of the owner or lessee that is also used as an office for the owner or lessee and for no other employees; a food service establishment; or a motor vehicle.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 333.12601 to 333.12615 (2010).</Citation>
+<Description>Tobacco use is prohibited in any building, structure, or real estate owned, leased, or otherwise controlled by a school district.  This law does not apply to that part of school property consisting of outdoor areas including, but not limited to, an open-air stadium, on weekends or other days on which there are no regularly scheduled classes, or after 6:00 p.m. on regular school days.  
+MICH. COMP. LAWS § 750.473 (1993).
+
+To the extent not covered above, smoking is prohibited in educational facilities, which are defined as a building owned, leased, or under the control of a public or private school system, college, or university.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 722.113b (1993), 722.113c (2007), 722.113d (2007), 722.125 (1993) &amp; 333.12604 (1994).</Citation>
+<Description>Individuals may not smoke in childcare institutions or childcare centers as defined, or on the real property under the control of such facilities, including other related buildings.  Smoking is also prohibited on the premises of family child care homes and group child care homes as defined during their hours of operation.  Smoking on the premises of a family child care home or group child care home may occur during a period other than the hours of operation if the operator has provided to a parent or legal guardian of each child notice that smoking on the premises occurs or may occur when the family child care home or group child care home is not in operation.  Violators are guilty of a misdemeanor, punishable by a fine between $100 and $1,000.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>S.B. 1152 enacted 9/30/10 and effective 10/1/10.</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes state and local government owned or operated or privately owned or operated homes for the aged, nursing homes, county medical care facilities, hospices and hospital long-term care units.  Smoking is also prohibited in places of employment defined as an enclosed indoor area that contains one or more work areas for one or more persons employed by a public or private employer. 
+MICH. COMP. LAWS §§ 333.12601 to 333.12615 (2010). 
+
+In addition to the above, the use of tobacco products is prohibited in and on the grounds of state psychiatric facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Description>An individual shall not smoke in a food service establishment, which as defined includes fixed or mobile restaurants and other eating establishments or operations where food is served or provided for the public.  This includes groups of food service establishments in shopping malls with seating controlled by the owner of the shopping mall.  
+MICH. COMP. LAWS § 333.12905 (2010).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 333.12905 (2010).</Citation>
+<Description>An individual shall not smoke in a food service establishment, which as defined includes bars, taverns, cocktail lounges, nightclubs and other drinking establishments or operations where food is served or provided for the public.  This includes groups of food service establishments in shopping malls with seating controlled by the owner of the shopping mall.  Smoking is allowed in cigar bars as defined if they meet the following requirements: 1) generates 10% or more of its total gross annual income from the on-site sales of cigars and rental of on-site humidors; 2) is located on premises that are separated from any areas of the same or adjacent establishment in which smoking is prohibited; 3) has an on-site humidor; 4) does not allow persons under 18 to enter while it&apos;s open; 5) allows only the smoking of cigars on the premises that retail for over $1.00 per cigar; and 6) prohibits the smoking of all other tobacco products.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 333.12601 to 333.12615 &amp; 333.12905 (2010).</Citation>
+<Description>The owner, operator, manager, or person having control of a public place, a food service establishment, or a casino are required to take several steps to comply, including: 1) clearly and conspicuously posting &quot;no smoking&quot; signs or the international &quot;no smoking&quot; symbol at the entrances to and in every building or other area where smoking is prohibited; 2) remove all ashtrays and smoking paraphernalia; 3) refuse to serve the person if applicable; and/or 4) ask them to leave the premises if they continue smoking after being asked not to.  Violation is subject to a civil fine of not more than $100 for a first violation and not more than $500 for a second or subsequent violation.  The Department of Public Health shall enforce this law, and can authorize local health departments to enforce the law as well.  In addition to the civil fines, the department and local health departments can bring actions in the appropriate court for violation.  Local health departments can also order food service establishments to cease food operations for violation under certain circumstances.  Food service establishments will be inspected for compliance during regular inspections.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 205.426d(4) (2004).</Citation>
+<Description>Tax rate per pack of 20: $2.00  
+Date last changed:  July 1, 2004 -- from $1.25 to $2.00  
+Year first enacted: 1947
+MICH. COMP. LAWS § 205.427 (2004).
+
+An equity assessment was imposed on nonparticipating tobacco product manufacturers, those that have not signed the Master Settlement Agreement, of 35 cents per pack of 20 cigarettes in addition to all other taxes on cigarettes.</Description>
+<NumericValue>2</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 205.432 (2004).</Citation>
+<Description>Michigan&apos;s cigarette tax revenue is dedicated to several funds and purposes, including the Healthy Michigan Fund, where money for tobacco prevention and cessation programs in Michigan comes from.  A portion of cigarette tax revenue also goes to the state general fund.  The legislature does have the power to override these earmarks, and does so regularly.</Description>
+<Year>2009</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>996461000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 333.5951 et seq. (1995).</Citation>
+<Description>Michigan&apos;s cigarette tax revenue is distributed as follows:
+1) Seventy-five cents is distributed: 6 percent to the Healthy Michigan Fund, 6.5 percent to the Health and Safety Fund, 24.1 percent to the general fund and 63.4 percent to the State School Aid Fund;  
+2) Another 30 cents is distributed: 6 percent to the Healthy Michigan Fund, 9 percent to the general fund, 56.3 percent to the State School Aid Fund, 3.7 percent to counties with a year 2000 population of more than two million, to be used only for indigent health care and 25 percent to the Medicaid Benefits Trust Fund;
+3) Another 20 cents is distributed: 6 percent to the Healthy Michigan Fund and 94 percent to the State School Aid Fund;
+4) The final 75 cents is distributed: 75 percent to the Medicaid Benefits Trust Fund and 25 percent to the general fund.
+MICH. COMP. LAWS § 205.432 (2004).
+
+An additional fund, entitled the Healthy Michigan Fund, was created in the state treasury for health programs addressing the needs of vulnerable populations, including smoking cessation and anti-tobacco activities.  Six percent of $1.25 of the cigarette tax is dedicated by state law to the Healthy Michigan Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 205.427 (2004).</Citation>
+<Description>Cigars, noncigarette smoking tobacco, and smokeless tobacco: 32% of the wholesale price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 205.432 (2004).</Citation>
+<Description>Seventy-five percent of the revenue from the tax on tobacco products other than cigarettes goes to the Michigan Medicaid Benefits Trust Fund, and 25 percent goes to the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions in state law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 722.641 (2006) &amp; 722.643 (1989).</Citation>
+<Description>A person shall not sell or furnish any tobacco product to a person less than 18 years of age.  Violation is a misdemeanor, punishable by a fine of not more than $50 for each offense.  It is an affirmative defense that the defendant had, and continues to have in force, a written policy to prevent the sale of tobacco products to minors and enforces said policy.  This does not apply to the handling or transportation of a tobacco product by a minor under the terms of that minor&apos;s employment.  This also does not interfere with the right of a parent or legal guardian in the rearing and management of their minor children within the bounds of their private premises.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 722.641 (2006).</Citation>
+<Description>A person who sells tobacco products at retail shall post, in a place close to the point of sale, conspicuous to both employees and customers, a sign produced by the Department of Community Health that states: &quot;THE PURCHASE OF TOBACCO PRODUCTS BY A MINOR UNDER 18 YEARS OF AGE AND PROVISION OF TOBACCO PRODUCTS TO A MINOR ARE PROHIBITED BY LAW.  A MINOR UNLAWFULLY PURCHASING OR USING TOBACCO PRODUCTS IS SUBJECT TO CRIMINAL PENALTIES.&quot;</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 722.642 (2006) &amp; 722.643 (1989).</Citation>
+<Description>A minor shall not purchase or attempt to purchase a tobacco product; possess or attempt to possess a tobacco product; use a tobacco product in a public place; and/or present or offer to an individual a purported proof of age that is false, fraudulent or not actually their own for the purpose of purchasing, attempting to purchase, possessing, or attempting to possess a tobacco product.  Violation is a misdemeanor, punishable by a fine of not more than $50 for each offense.  Pursuant to a probation order, the court may also require an individual to participate in a health promotion and risk reduction assessment program, if available. In addition, an individual is subject to one of the following for a first violation: perform not more than 16 hours of community service in a hospice, nursing home or long-term care facility; or participate in a health promotion and risk reduction program.  For a second violation, in addition to participation in a health promotion and risk reduction program, the court may order the individual to perform not more than 32 hours of community service in a hospice, nursing home, or long-term care facility.  For a third or subsequent violation, in addition to participation in a health promotion and risk reduction program, the court may order the individual to perform not more than 48 hours of community service in a hospice, nursing home, or long-term care facility.  This does not apply to minors used in efforts to gauge compliance with the law.  This also does not apply to the handling or transportation of a tobacco product by a minor under the terms of that minor&apos;s employment or interfere with the right of a parent or legal guardian in the rearing and management of their minor children within the bounds of their private premises.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>All sales conducted through the Internet, by telephone, or in a mail-order transaction shall not be completed unless, before each delivery of cigarettes is made, the seller has obtained from the purchaser an affirmation that includes a copy of a valid government-issued document that confirms the purchaser&apos;s name, address, and date of birth showing that the purchaser is at least the legal minimum age to purchase cigarettes; that the cigarettes purchased are not intended for consumption by an individual who is younger than the legal minimum age to purchase cigarettes; and a written statement signed by the purchaser that affirms the purchaser&apos;s address and that the purchaser is at least the minimum legal age to purchase cigarettes.  The seller shall verify the information contained in the affirmation provided by the purchaser against a commercially available database of governmental records, or obtain a photocopy, fax copy, or other image of the valid, government-issued identification stating the date of birth or age of the purchaser.  The deliverer of the cigarettes is required to obtain proof from a valid government-issued document that the person signing for the cigarettes is the purchaser.  Violation is a misdemeanor punishable by a fine of $1,000 or five times the retail value of the tobacco products involved, whichever is greater and/or imprisonment for not more than one year. 
+MICH. COMP. LAWS §§ 205.428 &amp; 205.431 (2004).
+
+Other limitations are made on tobacco products distributed through United States mail service, express mail service, parcel post service, or common carrier. Tobacco products are not to be distributed via these services unless the receiver has previously paid or agreed to pay for the products at fair market value, in response to a consumer complaint, or as part of marketing to specifically named individuals that involves the prior return by that same individual of a signed authorization card to be kept on file by the tobacco company for at least one year that indicates that the individual is at least 18 years of age.  A person who violates this section is guilty of a misdemeanor punishable by imprisonment for not more than one year, a fine of not more than $10,000, or both.  
+MICH. COMP. LAWS § 750.42b (1992).
+
+Note: Some parts of both of the above laws may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 722.641 &amp; 722.643 (1989).</Citation>
+<Description>No person shall furnish any tobacco product to a person less than 18 years of age.  Violation is a misdemeanor, punishable by a fine of not more than $50 for each offense.  This does not interfere with the right of a parent or legal guardian in the rearing and management of their minor children within the bounds of their private premises.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 722.642a (1992).</Citation>
+<Description>A person who sells tobacco products at retail shall not sell a cigarette separately from its package.  Any person who violates this law is guilty of a misdemeanor, punishable by a fine of not more than $500 for each offense.  This law does not apply to tobacco specialty stores or other retail stores that deal exclusively in the sale of tobacco products and smoking paraphernalia.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling and minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 750.470 (1998).</Citation>
+<Description>Vending machines are restricted to establishments holding a Class C license.  If this establishment has a bar that is in a separate room from the rest of the establishment, the vending machine must be located entirely within that room.  If the bar area is not separate, the vending machine shall be located entirely within the bar area and not in a hallway, coat room, restroom or similar area, must be no more than 20 feet from the bar itself and must be under the direct visual supervision of an adult.  Vending machines are also permitted in areas, offices, plants, factories and private membership clubs not open to the public, and must be located not less than 20 feet from all entrances and exits accessible to the general public.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 750.470 (1998).</Citation>
+<Description>A person who violates this section is guilty of a misdemeanor, punishable by imprisonment for not more than six months, service to the community for a period of not more than 45 days, or a fine of not more than $1,000, or any combination thereof.  Each day of violation constitutes a separate offense.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances concerning placement of or the required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 205.423 (1997) &amp; 205.424 (1994).</Citation>
+<Description>Manufacturers, wholesalers, and vending machine operators must obtain a license to sell tobacco products.  Each place of business shall be separately licensed.  Licenses expire on the June 30th next succeeding the date of issuance and can be renewed annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 205.423 (1997).</Citation>
+<Description>$100 annually for a wholesale license; $25 annually for a vending machine operator&apos;s license; and $100 annually for a manufacturer&apos;s license.  For multiple places of business, the fee is one quarter of the above fee.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 750.42a (1989).</Citation>
+<Description>A person who uses an outdoor sign to advertise a smokeless tobacco product shall display on the outdoor sign one of the following statements: &quot;WARNING: THIS PRODUCT MAY CAUSE MOUTH CANCER;  WARNING: THIS PRODUCT MAY CAUSE GUM DISEASE AND TOOTH LOSS;  WARNING: THIS PRODUCT IS NOT A SAFE ALTERNATIVE TO CIGARETTES.&quot;  The warning statements shall be rotated every four months, and shall meet several size and format requirements.  Outdoor sign is defined as a sign, display, device, figure, painting, drawing, message, placard, poster, or billboard that is placed outdoors, is stationary, has a surface area of more than 150 square feet, and is designed, intended, or used to advertise or promote.  A person who violates this section is guilty of a misdemeanor, punishable by imprisonment for not more than one year or a fine of not more than $5,000, or both.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS § 600.2607 (2002).</Citation>
+<Description>The amount of a bond issued to stay execution on a judgment while an appeal is pending shall be determined according to the applicable Michigan court rules and statutory provisions. The bond shall not exceed $25 million regardless of the amount of the judgment.  If the appellee proves by a preponderance of the evidence that the party for whom the bond to stay execution has been limited is purposefully dissipating or diverting assets outside of the ordinary course of business for the purpose of avoiding ultimate payment of the judgment, the court shall rescind this limitation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 12.257, (2009), 12.258 (2009), 12.259 (2005) &amp; 12.260 (2005).</Citation>
+<Description>A portion of Michigan&apos;s annual Master Settlement Agreement has been sold to the Michigan Tobacco Settlement Authority for a lump sum payment up front, see Securitization section below.  The remaining revenue is allocated to the 21st Century Jobs Trust Fund, the Michigan Merit Award Trust Fund and/or the state general fund.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>265700000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 12.259 &amp; 12.260 (2005).</Citation>
+<Description>The 21st Century Jobs Trust Fund is established in the Department of Treasury. The trust fund shall consist of the net proceeds of the sale of a portion of tobacco settlement revenues to the Tobacco Settlement Finance Authority (TSFA), and in FY2008 through FY2015, $75 million of tobacco settlement revenue not sold to the TSFA each year.  In FY2016 only, $30 million of tobacco settlement revenue not sold to the TSFA shall be distributed to the fund.  The trust fund also receives money from the general fund as specified.  Interest and investment earnings from money in the trust fund are deposited in the general fund.  In FY2010 only, $9 million in tobacco settlement revenue not sold to the TSFA shall be used to develop state convention facilities as specified.  Also, in FY2009, $42 million in funds were transferred from the 21st Century Jobs Trust Fund to the state general fund, and in FY2010, $37.5 million will be transferred.  
+MICH. COMP. LAWS §§ 12.257 &amp; 12.258 (2009).
+
+The Michigan Merit Award Trust Fund is also established in the Department of Treasury. The trust fund shall consist only of interest and earnings from trust fund investments, and, in each fiscal year, any tobacco settlement money not sold to the Tobacco Settlement Finance Authority or allocated to the 21st Century Jobs Trust Fund.  Upon appropriation, the money is spent on specified educational initiatives.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances on smoking in restaurants and bars are not allowed.  Local communities also cannot regulate outdoor billboard advertising for smokeless tobacco products.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Michigan&apos;s tobacco control program comes from state cigarette tax revenue.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2012 Annual Budget (H.B. 4526) enacted 6/21/11 and effective 10/1/11.</Citation>
+<Description>Michigan allocated $1,830,000 for tobacco prevention and cessation programs in FY2012 (October 1, 2011 to September 30, 2012).  In FY2011, $2,598,400 was allocated.</Description>
+<Year>2012</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>1830000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 29-491 to 29-513 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection 12 of section 29.495 Michigan Compiled Laws, a person shall not sell cigarettes in Michigan or sell cigarettes to a person located in Michigan unless: 1) the cigarettes are tested in accordance with the test method described in subsection 2 of section 29.495 Michigan Compiled Laws; 2) the cigarettes meet the performance standard described in subsection 3 of section 29.495 Michigan Compiled Laws; 3) the manufacturer has filed a written certification with the Michigan Department of Energy, Labor and Economic Growth under section 29.497 Michigan Compiled Laws; and 4) the cigarettes are marked in compliance with section 29.501 Michigan Compiled Laws.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 29-491 to 29-513 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person other than a retailer that knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above requirements shall be subject to a civil fine of not more than $100 for each pack of cigarettes sold or offered for sale.  The aggregate liability of a person for civil fines for multiple violations shall not exceed $100,000 in any 30-day period.  A retail dealer is subject to the same civil penalty for violation, but the aggregate liability of a person for civil fines for multiple violations shall not exceed $25,000.  In addition, a person engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil fine of at least $75,000 and not to exceed $250,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Appropriated $2,598,400 for tobacco prevention and cessation programs in FY2011.
+FY2011 Department of Community Health Budget (S.B. 1152) enacted 9/30/10 and effective 10/1/10.
+
+Smoking Restrictions/Smokefree Air: Continues the ban on the use of tobacco products in state psychiatric facilities.
+S.B. 1152 enacted 9/30/10 and effective 10/1/10.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2010-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Appropriated $1,830,000 for tobacco prevention and cessation programs in FY2012.
+FY2012 Annual Budget (H.B. 4526) enacted 6/21/11 and effective 10/1/11.</Description>
+<Year>2011</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2011-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Age to Sell Tobacco Products to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MICH. COMP. LAWS §§ 129.261 to 129.279 (2008).</Citation>
+<Description>The Michigan Tobacco Settlement Finance Authority is created as a public body corporate and politic within the Department of Treasury.  The authority shall have power and is hereby authorized from time to time to issue bonds in the principal amount or amounts and with the maturities as the authority shall determine to be necessary to provide sufficient funds for achieving its authorized purposes, consisting of the purchase of all or a portion of the state&apos;s tobacco receipts and the payment of or provision for financing costs.  The state Budget Director with the approval of the state Administrative Board may sell to the authority, and the authority may purchase, for cash or other consideration and in one or more installments, all or a portion of the state&apos;s tobacco receipts pursuant to the terms of one or more sale agreements.  In the alternative, the state Budget Director with the approval of the state Administrative Board may sell all or a portion of the state&apos;s tobacco receipts for cash or other consideration to a person or persons other than the authority, if the terms of the sale agreement to sell the state&apos;s tobacco receipts are in the best interests of this state and the net proceeds of the sale will not exceed $400 million.  The sale agreement or combined sale agreements shall provide for the sale of that portion of the state&apos;s tobacco receipts sufficient to provide net proceeds to the state in the amount of $815 million, $400 million of which shall be expended pursuant to the Michigan Trust Fund Act (Michigan Compiled Laws sections 12.251 to 12.260), $207,800,000 shall be deposited in the state school aid fund, and the remainder shall be deposited in the general fund.  A sale agreement or combined sale agreements may also provide for refunding, refinancing, and the sale by this state of residual interests sufficient to provide net proceeds to the state in the amount of $60 million.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Michigan</Name>
+<Abbrev>MI</Abbrev>
+<FipsCode>26</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2012 State Funding for Tobacco Control Programs:              $1,830,000
+
+FY2012 Federal Funding for State Tobacco Control Programs: $3,182,027*
+
+FY2012 Total Funding for State Tobacco Control Programs:      $5,012,027
+
+Funding Level Recommended by CDC:                                        $121,200,000
+
+Percentage of CDC-Recommended Level:                                   4.1%
+
+*Includes regular funding from the Centers for Disease Control and Prevention as well as tobacco-related grants to states and communities from federal stimulus and health care reform funds.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>23</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2013-11-07T14:32:50">
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>01</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>01</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>01</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>01</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>01</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>02</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>02</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>02</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>02</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>02</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>04</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>04</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>04</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>04</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>04</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>05</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>05</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>05</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>05</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>05</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>06</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>06</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>06</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>06</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>06</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>08</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>08</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>08</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>08</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>08</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>09</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>09</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>09</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>09</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>09</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>10</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>10</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>10</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>10</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>10</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>12</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>12</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>12</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>12</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>12</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>13</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>13</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>13</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>13</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>13</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>15</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>15</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>15</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>15</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>15</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>16</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>16</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>16</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>16</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>16</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>17</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>17</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>17</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>17</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>17</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>18</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>18</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>18</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>18</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>18</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>19</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>19</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>19</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>19</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>19</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>20</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>20</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>20</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>20</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>20</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>21</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>21</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>21</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>21</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>21</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>22</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>22</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>22</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>22</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>22</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>23</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>23</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>23</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>23</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>23</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>24</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>24</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>24</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>24</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>24</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>25</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>25</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>25</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>25</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>25</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>26</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>26</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>26</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>26</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>26</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>27</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>27</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>27</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>27</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>27</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>28</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>28</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>28</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>28</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>28</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>29</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>29</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>29</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>29</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>29</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>30</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>30</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>30</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>30</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>30</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>31</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>31</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>31</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>31</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>31</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>32</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>32</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>32</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>32</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>32</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>33</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>33</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>33</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>33</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>33</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>34</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>34</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>34</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>34</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>34</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>35</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>35</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>35</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>35</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>35</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>36</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>36</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>36</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>36</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>36</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>37</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>37</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>37</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>37</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>37</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>38</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>38</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>38</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>38</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>38</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>39</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>39</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>39</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>39</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>39</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>40</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>40</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>40</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>40</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>40</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>41</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>41</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>41</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>41</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>41</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>42</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>42</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>42</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>42</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>42</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>44</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>44</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>44</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>44</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>44</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>45</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>45</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>45</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>45</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>45</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>46</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>46</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>46</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>46</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>46</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>47</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>47</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>47</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>47</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>47</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>48</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>48</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>48</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>48</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>48</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>49</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>49</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>49</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>49</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>49</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>50</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>50</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>50</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>50</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>50</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>51</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>51</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>51</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>51</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>51</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>53</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>53</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>53</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>53</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>53</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>54</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>54</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>54</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>54</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>54</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>55</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>55</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>55</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>55</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>55</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>56</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>56</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>56</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>56</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>56</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>11</FipsCode>
+<Coverage>Other stipulations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>11</FipsCode>
+<Coverage>Cessation mandate on the books</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>11</FipsCode>
+<Coverage>Mandate applies to all insurance carriers</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>11</FipsCode>
+<Coverage>Mandate applies to all populations</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+<qryXMLSearchPrivateInsuranceCategory>
+<FipsCode>11</FipsCode>
+<Coverage>State mandates wellness program including smoking cessation</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCategory>
+</dataroot>

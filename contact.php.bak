@@ -1,0 +1,13 @@
+<?php
+    include_once 'data_controller.php';
+    include 'header.php'; 
+?>
+
+<div id="content" class="wide-layout">
+    <?php print renderCrumbs($siteRoot, 'About SLATI'); ?>
+    <div id="content-well">
+        <?php include 'text_blocks/contact.php'; ?>
+    </div><!-- content-well -->
+</div><!-- #content -->
+
+<?php include 'footer.php'?>

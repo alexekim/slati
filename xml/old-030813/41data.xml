@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-14T11:59:33">
+<tblStatesALA>
+<ID>38</ID>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<LegislatureHyperlink>#http://www.leg.state.or.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue Collected in Fiscal Year 2009 (July 1, 2008 to June 30, 2009): $215,332,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 433.835 to 433.990 (2011).</Citation>
+<Description>No person shall smoke in a public place or place of employment, including restaurants, bars and non-tribal gaming establishments.  &quot;Public place&quot; means any enclosed indoor area open to the public.  Smoking is also prohibited within 10 feet of entrances, exits, windows that open and ventilation intakes to public places and places of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 433.835 to 433.990 (2011).</Citation>
+<Description>Exceptions to the law include: 1) up to 25 percent of hotel/motel rooms, 2) smoking of noncommercial tobacco products for ceremonial purposes in spaces designated for traditional ceremonies, 3) smoke shops as specified and defined; older smoke shops and places that applied to become a smoke shop as of June 30, 2011 operate under different restrictions than new smoke shops, 4) cigar bars as specified and defined and 5) a performer that smokes or carries a lighted smoking instrument that does not contain tobacco under certain conditions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 433.835 to 433.990 (2011).</Citation>
+<Description>Smoking is prohibited in all places of employment, including all places of public employment.  &quot;Place of employment&quot; means every enclosed area under the control of a public or private employer that employees frequent during the course of employment, including but not limited to work areas, employee lounges, vehicles that are operated in the course of an employer&apos;s business that are not operated exclusively by one employee, rest rooms, conference rooms, classrooms, cafeterias, and hallways, meeting rooms, elevators and stairways.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 433.835 to 433.990 (2011).</Citation>
+<Description>Smoking is prohibited in all places of employment.  &quot;Place of employment&quot; means every enclosed area under the control of a public or private employer that employees frequent during the course of employment, including but not limited to work areas, employee lounges, vehicles that are operated in the course of an employer&apos;s business that are not operated exclusively by one employee, rest rooms, conference rooms, classrooms, cafeterias, and hallways, meeting rooms, elevators and stairways.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>Oregon Department of Education Policy Letter, &quot;Tobacco Free Environments,&quot; issued 10/30/08 and effective 1/1/09.</Citation>
+<Description>No student, staff member, or school visitor is permitted to smoke, inhale, dip, or chew or sell tobacco at any time, including non-school hours, in any building, facility, or vehicle owned, leased, rented, or chartered by the school district, school, or public charter school; or on school grounds, athletic grounds or parking lots.
+OR ADMIN. RULES 581-021-0110 (2006).
+
+To the extent not covered by the restrictions above, smoking is prohibited in all public places, including educational facilities. 
+OR. REV. STAT. §§ 433.835 to 433.990 (2011).
+
+Oregon Head Start Pre-Kindergarten (OHS Pre-K) program participants, family members, staff members, visitors and all others are not permitted to smoke, inhale, dip, or chew or sell tobacco at any time, including non-school hours, when they are in the following environments: (a) In any building, facility, or vehicle owned, leased, rented, or chartered by an OHS Pre-K program; or (b) on any outdoor grounds, or portions thereof, that are wholly owned and/or operated by the OHS Pre-K program, including but not limited to playgrounds and parking lots.  Staff and volunteers of any Head Start program must also avoid bringing or wearing clothing that smells of smoke into the center, on the playground, or in other areas where children are present.  The new policy took effect January 1, 2009, and all OHS Pre-K programs were required to establish policies and procedures to implement and enforce this rule for Head Start participants, family members, staff, visitors, and all others.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OR ADMIN. RULES § 413-200-0346(3)(b) (2001).</Citation>
+<Description>Smoking is prohibited in all public places and places of employment, including child care facilities.  Home-based child care and adult day care facilities are specifically included in the definition of place of employment.
+OR. REV. STAT. §§ 433.835 to 433.990 (2011).
+
+Children in the custody of the State Office for Services to Children and Families (SOSCF) shall not be exposed to secondhand smoke in the foster parent/relative caregiver&apos;s home or vehicle.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 433.835 to 433.990 (2009).</Citation>
+<Description>The administrator or person in charge of a hospital may not permit a person to smoke tobacco in the hospital; or within 10 feet of a doorway, open window or ventilation intake of the hospital.  The Director of Human Services may impose a civil penalty of not more than $500 per day on a person for violation of this section. Civil penalties imposed against a person under this subsection may not exceed $2,000 in any 30-day period. 
+OR. REV. STAT. § 441.815 (2009).
+
+To the extent not covered by the restrictions above, smoking is prohibited in all public places and places of employment, including all other health care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 433.835 to 433.990 (2011).</Citation>
+<Description>Smoking is prohibited in all public places and places of employment, including restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 433.835 to 433.990 (2011).</Citation>
+<Description>Smoking is prohibited in all public places and places of employment, including bars/taverns.  Smoking is allowed in cigar bars as defined, and as long as they generated on-site retail sales of cigars of at least $5,000 for the calendar year ending December 31, 2006.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 90.220 (4) (2011).</Citation>
+<Description>Disclosure of Smoking Policy in Multi-Unit Housing:
+The rental agreement for a dwelling unit regulated under Oregon Revised Statute chapter 90 must include a disclosure of the smoking policy for the premises on which the dwelling unit is located. The disclosure must state whether smoking is prohibited on the premises, allowed on the entire premises or allowed in limited areas on the premises. If the smoking policy allows smoking in limited areas on the premises, the disclosure must identify the areas on the premises where smoking is allowed.  This does not apply to certain specified rental agreements as well as manufactured dwellings and floating homes as defined.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>16</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 433.835 to 433.990 (2011).</Citation>
+<Description>An employer shall post signs notifying people of the above provisions.  The Oregon Health Authority is responsible for adopting and implementing rules; and enforcing compliance with these rules.  Violation of the above provisions and sign-posting requirements is a Class A violation punishable by a fine totaling no more than $500 per day, not to exceed $2,000 within a 30-day period.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 323.030 &amp; 323.031 (2004).</Citation>
+<Description>Tax rate per pack of 20: $1.18  
+Date last changed: January 1, 2004 -- from $1.28 to $1.18
+Year first enacted: 1966</Description>
+<NumericValue>1.18</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 323.455 (2010) &amp; 323.457 (2003).</Citation>
+<Description>Cigarette tax revenue is first put into a suspense account and used for administration and enforcement of cigarette taxes.  Then it is distributed primarily to the state general fund and Oregon Health Plan Fund although small amounts go cities and counties in the state, and other specified purposes.  A small portion is used to fund the state tobacco prevention and cessation program.</Description>
+<Year>2009</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>215332000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 323.457 (2003).</Citation>
+<Description>The revenue from 58 cents of the cigarette tax is first deposited into a suspense account in the state Treasury, and used to reimburse the state Department of Revenue, state Police, and state Department of Justice for administration and enforcement of the tax.  After the payment of administrative and enforcement expenses, 89.65 percent shall be credited to the General Fund, 3.45 percent is appropriated to the cities of this state, 3.45 percent is appropriated to the counties of this state and 3.45 percent is continuously appropriated to the Department of Transportation for the purpose of financing and improving transportation services for elderly and disabled individuals.  Of the money going to the General Fund, 51.92 percent is dedicated to medical assistance under Oregon Revised statutes, chapter 414 and 5.77 percent is credited to the Tobacco Use Reduction Account.
+OR. REV. STAT. § 323.455 (2010).
+
+The revenue from the other 60 cents of the cigarette tax is first deposited into a suspense account in the state Treasury, and used to reimburse the state Department of Revenue, state Police, and state Department of Justice for administration and enforcement of the tax.  After the payment of administrative and enforcement expenses, 97.9 percent is distributed to the Oregon Health Plan Fund, 0.467 percent is appropriated to the Department of Administrative Services for the cities of this state, 0.467 percent is appropriated to the Department of Administrative Services for the counties of this state, 0.467 is appropriated to the Department of Transportation to be transferred to the Elderly and Disabled Special Transportation Fund, and 0.7 percent is credited to the Tobacco Use Reduction Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 323.505 (2010).</Citation>
+<Description>Cigars: 65% of the wholesale sales price of cigars, but not to exceed 50 cents per cigar;
+Moist snuff: $1.78/oz. except the minimum tax is $2.14 per retail container;
+All other tobacco products: 65% of the wholesale sales price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 323.625 (2010).</Citation>
+<Description>Revenue from taxes on tobacco products other than cigarettes is first put into a suspense account and used for administration and enforcement of tobacco taxes.  The remaining revenue is deposited in the state general revenue fund.  A small portion of that money is dedicated to tobacco prevention and cessation programs.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 323.625 (2010).</Citation>
+<Description>The revenue from the taxes on other tobacco products is first deposited into a suspense account in the state Treasury, and used to reimburse the state Department of Revenue, state Police, and state Department of Justice for administration and enforcement of the tax.  Remaining revenue is then credited to the General Fund where 41.54 percent is used for medical assistance under the Oregon Revised statutes, chapter 414 and 4.62 percent is credited to the Tobacco Use Reduction Account.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1291</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. ANN. §§ 167.401 (1999) &amp; 431.853 (2009).</Citation>
+<Description>The Oregon Health Authority shall coordinate with law enforcement agencies to conduct random, unannounced inspections of tobacco retailers and wholesalers to ensure compliance with laws designed to discourage the use of tobacco by minors.  The department shall adopt rules concerning these inspections providing that inspection may only take place in areas open to the public and during the hours that tobacco products are sold or distributed, and shall not be more frequent than once a month in any single establishment unless a compliance problem exists or is suspected.  A minor acting under the supervision of an adult may purchase, attempt to purchase or acquire tobacco products for the purpose of testing compliance with a federal law, state statute, local law or retailer management policy limiting or regulating the delivery of tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. ANN. § 163.575 (1991).</Citation>
+<Description>A person commits the crime of endangering the welfare of a minor if the person knowingly distributes, sells, or causes to be sold any tobacco product or device for the use of tobacco to a person less than 18 years of age.  A violation is a Class A violation punishable by a fine of not less than $100.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. ANN. §§ 431.840 (2001) &amp; 431.845 (1991).</Citation>
+<Description>Notice shall be posted in a location clearly visible to the seller and purchaser that the sale of tobacco products to persons under 18 years of age is prohibited.  Violation constitutes a civil penalty of between $100 and $500.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. ANN. § 431.840 (2001).</Citation>
+<Description>The definition of &quot;tobacco products&quot; includes bidis making it unlawful to knowingly distribute, sell or cause to be sold bidis to a person less than 18 years of age.  Violation is a Class A violation punishable by a fine of $100.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. ANN. § 167.400 (1999).</Citation>
+<Description>No person under 18 years of age shall purchase, attempt to purchase or acquire tobacco products.  Except when such minor is in a private residence accompanied by the parent or guardian of the minor and with the consent of such parent or guardian, no person under 18 years of age shall have personal possession of tobacco products.  Any person who violates this is guilty of a violation.  For the first offense, in lieu of any other penalty, the person may be ordered to participate in a tobacco education program or a tobacco use cessation program or to perform community service related to diseases associated with the consumption of tobacco products.  A person may be ordered to participate in such a program only once.  For a second violation, in addition to any other penalty, a person who is convicted through misrepresentation of age may be required to participate in a tobacco education or a tobacco use cessation program or to perform community service related to diseases associated with the consumption of tobacco products, and the court shall order that the person’s driving privileges and right to apply for driving privileges be suspended for a period not to exceed one year.  This does not apply to minors involved in efforts to test compliance.
+OR. REV. STAT. ANN. § 167.401 (1999). 
+
+It is unlawful for any person under the age of 18 to possess tobacco products.  Any person who violates this law is guilty of a Class D violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. ANN. § 167.407 (2005).</Citation>
+<Description>A person having authority over the location of cigarettes and other tobacco products in a retail store may not locate cigarettes or other tobacco products in a location in the store where the cigarettes or other tobacco products are accessible by store customers without assistance by a store employee.  This does not apply if the location at which the cigarettes or tobacco products are sold is a store or other establishment at which persons under 18 years of age are prohibited.  Violation is a Class B violation.  Each day of violation constitutes a separate offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Prior to the first delivery of tobacco to a consumer relating to a delivery sale purchase order the person shall comply with specific age-verification requirements, including obtaining a certification from the prospective consumer and verifying the information against a commercially available database of government collected information and a photocopy of a government-issued identification; the requirement to get a cigarette or tobacco products distributor&apos;s license; specific disclosure requirements; specific shipping requirements, including use of a delivery service that requires a signature from the consumer or another adult of legal purchasing age upon delivery and proof, in the form of a government-issued identification; and specific reporting requirements.  A first violation is subject to a fine of $1,000 or five times the retail value of the tobacco involved, whichever is greater.  A second violation is a $5,000 fine or five times the retail value of the tobacco involved, whichever is greater.  Knowingly violating this law or knowingly submitting a false certification under the name of another person is subject to a $10,000 fine or five times the retail value of the tobacco involved, whichever is greater, or may be imprisoned for up to five years.
+OR. REV. STAT. §§ 323.700 to 323.730 (2003).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are generally allowed; state preemption only applies to tobacco product vending machines.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 431.840 (2001) &amp; 431.845 (1991).</Citation>
+<Description>A person may not distribute free samples of smokeless tobacco products to persons under 21 years of age or in any area unless access to persons under 21 years of age is prohibited.  Violation is a Class A misdemeanor.
+OR. REV. STAT. § 180.486(d) (2010).
+
+Except as specified above, it is unlawful to distribute free tobacco products to persons under 18 years of age as part of a marketing strategy to encourage the use of tobacco products.  Violation constitutes a civil penalty of between $100 and $500.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 431.840 (2001) &amp; 431.845 (1991).</Citation>
+<Description>It is unlawful to sell cigarettes in any form other than a sealed package.  Violation constitutes a civil penalty of between $100 and $500.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are allowed; state preemption only applies to tobacco product vending machines.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 167.402 (2010).</Citation>
+<Description>A person may not sell or dispense tobacco products from a vending machine, except in an establishment that is permanently off-limits to minors under rules adopted by the Oregon Liquor Control Commission.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 167.402 (2010).</Citation>
+<Description>Violation is a Class B violation punishable by a fine of up to $250 for each day the violation exists.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 167.404 (1991).</Citation>
+<Description>Stronger local laws/ordinances concerning the placement of or the required sign posting on tobacco product vending machines are not allowed, see below.
+
+Cities and counties by ordinance or resolution shall not regulate vending machines that dispense tobacco products, as defined in Oregon Revised Statute section 431.840, in any form and that are in any manner accessible to minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 323.105 &amp; 323.107 (2003).</Citation>
+<Description>Wholesalers and distributors must obtain a license to sell cigarettes from the Department of Revenue.  A separate license is required for each place of business.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 323.105 &amp; 323.107 (2003).</Citation>
+<Description>No fee for distributors; no fee specified for wholesalers.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 659A.315 &amp; 659A.885 (2005).</Citation>
+<Description>It is an unlawful employment practice for any employer to require, as a condition of employment, that any employee or prospective employee refrain from using lawful tobacco products during non-working hours, except when the restriction relates to a bona fide occupational requirement.  This section does not apply if an applicable collective bargaining agreement prohibits off-duty use of tobacco products.  A civil action may be filed in circuit court for a violation.</Description>
+<Year>2005</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 19.312 (2003).</Citation>
+<Description>In any civil action, against a tobacco product manufacturer, or against an affiliate or successor of a tobacco product manufacturer subject to the requirements of the Master Settlement Agreement, the supersedeas undertaking required as a condition of a stay of judgment throughout all appeals or discretionary appellate review, shall be established in the manner provided by the laws and court rules of this state applicable to supersedeas undertakings, but the amount of the supersedeas undertaking may not exceed $150 million.  If at any time after the posting of the supersedeas undertaking the court determines that a tobacco product manufacturer, affiliate or successor, outside of the ordinary course of its business, is purposely dissipating or diverting assets for the purpose of avoiding payment on final judgment in the action, the court may condition continuance of the stay on an order requiring that the tobacco product manufacturer, affiliate or successor post a supersedeas undertaking in an amount up to the full amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 293.537 (2003).</Citation>
+<Description>All monies received from the Master Settlement Agreement are deposited in a Tobacco Settlement Funds Account in the General Fund. A small amount is allocated to the Department of Justice in odd-numbered years to enforce laws related to the MSA.  All other moneys in the account are appropriated as directed by the legislature.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>82300000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. § 293.540 (2001).</Citation>
+<Description>The Tobacco Settlement Funds Account is established as an account in the General Fund.  Except as specified otherwise, the account shall consist of all moneys received from the Master Settlement Agreement (MSA) between the state of Oregon and certain cigarette companies.  On July 1 of each odd-numbered year, an amount requested by the state Department of Justice to enforce certain laws is transferred to a Tobacco Enforcement Fund.  All other moneys in the account are appropriated as directed by the legislature.
+OR. REV. STAT. § 293.537 (2003).
+
+The Health Care Trust Fund was established in the state Treasury.  The trust fund shall consist of moneys from the MSA as directed by the legislature.  Earnings on the trust fund are appropriated to the Department of Administrative Services to be used only for the purpose of financing health programs.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances concerning tobacco product vending machines are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Oregon&apos;s tobacco prevention and cessation program comes from tobacco tax revenue.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2012-FY2013 Department of Human Services Biennial Budget (H.B. 5030) enacted and effective 7/6/11 (FY2012) &amp; 7/1/12 (FY2013).</Citation>
+<Description>Oregon appropriated $8,284,500 for tobacco prevention and cessation programs in FY2012 (July 1, 2011 to June 30, 2012). In FY2011, $7,134,500 was appropriated. This is the first year of the FY2012-FY2013 biennium.</Description>
+<Year>2012</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>8284500</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 431.832 &amp; 431.834 (1997).</Citation>
+<Description>The Tobacco Use Reduction Account was established in the General Fund.  Amounts credited to the account are continuously appropriated to the Oregon Health Authority for the funding of prevention and education programs designed to reduce cigarette and tobacco use.  The authority shall develop and adopt rules for awarding grants to programs for educating the public on the risks of tobacco use, including, but not limited to, educating children on the health hazards and consequences of tobacco use, and promoting enrollment in smoking cessation programs and programs that prevent smoking-related diseases including cancer and other diseases of the heart, lungs and mouth.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 476.755 to 476.806 (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, a person may not distribute or offer to sell a cigarette within Oregon unless the cigarette is of a variety the state Fire Marshal has determined to have reduced ignition propensity.  For a cigarette to be determined to have reduced ignition propensity, it must meet the ignition propensity testing requirements in Oregon Revised Statute section 476.770.  A cigarette manufacturer must also submit a written certification with specific requirements outlined in Oregon Revised Statutes section 476.780.  The cigarette packages deemed to meet the standard must also be marked pursuant to Oregon Revised Statute section 476.785.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OR. REV. STAT. §§ 476.755 to 476.806 (2008).</Citation>
+<Description>The state Fire Marshal may impose a civil penalty for violation.  For a person that distributes or offers to sell cigarettes to a wholesale or retail dealer, $10,000 or five times the wholesale invoice cost of the cigarettes involved in the violation, whichever is greater.  For a person that distributes or offers to sell not more than 1,000 cigarettes to consumers, $500, and for a distribution or offer of more than 1,000 cigarettes, $1,000 or five times the retail value of the cigarettes involved in the violation, whichever is greater.  For a continuing violation, each day that a person distributes or offers to sell cigarettes after being notified by the state Fire Marshal is a separate violation subject to civil penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Allocated $8,284,500 for tobacco prevention and cessation programs in FY2012.
+FY2012-FY2013 Department of Human Services Biennial Budget (H.B. 5030) enacted and effective 7/6/11 (FY2012) &amp; 7/1/12 (FY2013).
+
+Smoking Restrictions/Smokefree Air: Modifies the definitions for cigar bars and smoke shops in the state smokefree law.  Narrows the smoke shop exemption for future applicants, but allows all current smoke shops and applicants to become smoke shops as of the effective date of this law to operate under the old smoke shop exemption.
+H.B. 2726 enacted and effective 6/30/11.
+
+Smoking Restrictions/Smokefree Air: Allows performers in productions to smoke or carry lighted smoking instruments that do not contain tobacco under certain specified conditions.
+H.B. 3457 enacted and effective 6/2/11.</Description>
+<Year>2011</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2011-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Age to Sell Tobacco Products to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oregon</Name>
+<Abbrev>OR</Abbrev>
+<FipsCode>41</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2012 State Funding for Tobacco Control Programs:              $8,284,500
+
+FY2012 Federal Funding for State Tobacco Control Programs: $3,023,577*
+
+FY2012 Total Funding for State Tobacco Control Programs:      $11,308,077
+
+Funding Level Recommended by CDC:                                        $43,000,000
+
+Percentage of CDC-Recommended Level:                                   26.3%
+
+*Includes regular funding from the Centers for Disease Control and Prevention as well as tobacco-related grants to states and communities from federal stimulus and health care reform funds.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>38</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-14T11:59:26">
+<tblStatesALA>
+<ID>2</ID>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<LegislatureHyperlink>www.legislature.state.al.us#http://www.legislature.state.al.us#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2009 (October 1, 2008 to September 30, 2009): $136,331,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>Smoking is not allowed in most public places or at public meetings except in enclosed, well-ventilated areas designated as smoking areas by the person in charge.  Restaurants and bars can choose whether to allow smoking or not.  Nothing in this section shall be construed to prevent any owner, operator or manager from declaring and enforcing a nonsmoking policy in the entire establishment or facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>Exceptions to the law restricting smoking in public places include: 1) retail tobacco stores and tobacco businesses; 2) limousines used under private hire by an individual or corporation; 3) hotel and motel rooms rented to guests, except for those rooms designated as &quot;no smoking&quot; rooms; and 4) bars and lounges.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass laws/ordinances restricting smoking stronger than state law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>Smoking is prohibited except in designated enclosed and well-ventilated areas.  This does not apply to private offices.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>Employers having a closed place of employment may adopt, implement, make known, and maintain a written smoking policy that must contain at a minimum the right of an employee to declare their work area as nonsmoking.  Smoking shall be prohibited in all common work areas unless a majority of the workers who work in that area agree that a smoking area will be designated.  The smoking policy shall be communicated to all employees within three weeks of its adoption and all employers shall supply a written copy of the smoking policy upon request to any existing or prospective employee.  Every employer shall have the right to designate any place of employment, or any portion thereof, as a nonsmoking area.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>Smoking is prohibited except in designated enclosed and well ventilated areas at schools, other school facilities or enclosed school-sponsored events for grades K-12.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>Smoking is prohibited except in designated enclosed and well-ventilated areas in child care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>Smoking is prohibited except in designated enclosed and well-ventilated areas in most health care facilities.  Smoking by patients in a chemical dependency treatment program or mental health program may be allowed in a separated and well-ventilated area.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>A smoking area may be provided.  If any restaurant is deemed by its owner as being too small to have a designated smoking area, it shall be left up to the discretion of the owner if the facility will be a &quot;smoking&quot; or a &quot;nonsmoking&quot; facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>Bars and lounges are exempt from the restrictions on smoking in public places.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 22-15A-1 et seq. (2003).</Citation>
+<Description>Any person who smokes in a public place in violation of the above law commits a violation, punishable by a fine of $25 for each offense.  Violations of the law by specific public places incur, after a 30-day warning to comply, a fine of no more than $50 for the first violation, no more than $100 for the second violation, and no more than $200 for the third violation.  The Alabama Department of Public Health enforces this law, and shall adopt, in consultation with the State Fire Marshal, rules specifying procedures to be followed by enforcement personnel in investigating complaints and notifying alleged violators and rules specifying procedures by which appeals may be taken by aggrieved parties.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 40-25-2 (2004).</Citation>
+<Description>Tax rate per pack of 20: 42.5 cents
+Date last changed: May 18, 2004 - from 16.5 cents to 42.5 cents
+Year first enacted: 1927</Description>
+<NumericValue>0.425</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 40-25-23 (2004).</Citation>
+<Description>The state cigarette tax revenue is split into two separate buckets of dollars, which are designated to specific funds and purposes, some of them health-related.  None of the revenue is dedicated to tobacco prevention and cessation programs.</Description>
+<Year>2009</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>136331000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 40-25-23 (2004).</Citation>
+<Description>State cigarette tax revenue is split into two separate parts; 38.82 percent of the cigarette tax revenue is distributed as follows: 
+1) 6.06 percent to the State Public Welfare Trust Fund;
+2) 9.09 percent to be used for the following purposes in the following order: 1. as much as is necessary to pay the principal and interest that will mature during the then current fiscal year on certain bonds issued by the State Industrial Development Authority; 2. any remaining revenue goes into a special fund designated the &quot;General and Mental Health Fund&quot;; 
+3) 12.12 percent to be used for the following purposes in the following order: 1. as much as is necessary to pay, at their respective maturities, the principal and interest that will mature during the then current fiscal year on bonds issued for acquisition and construction of mental health facilities or bonds issued by the Alabama Mental Health Finance Authority; 2. any remaining revenue is put into the &quot;General and Mental Health Fund&quot;; 
+4) 6.06 percent for the following purposes in the following order: 1. as much as is necessary to pay the principal and interest that will mature during the then current fiscal year on all bonds that may be issued by the State Parks Development Authority; 2. any remaining revenue is designated to a special fund called the &quot;State Parks Fund&quot;; 
+5) 67.67 percent to the General Fund.
+
+The remaining 61.18 percent of all cigarette tax revenue is allocated as follows: 
+1) Up to $2 million received annually shall be allocated to the various counties of the state levying a cigarette tax to offset the administrative expenses of obtaining local tax stamps and for providing a discount to wholesalers and jobbers for affixing stamps;
+2) All remaining revenue goes to the General Fund to be used for Medicaid Services.
+ALA. CODE § 40-25-23 (2004).</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 40-25-2 (2004).</Citation>
+<Description>Chewing tobacco: 1.5 cents per ounce;
+Snuff: 1 cent to 8 cents, depending on the weight, for up to 6 ounces; 12 cents for each ounce or fractional part thereof over 6 ounces;
+Little Cigars (not weighing more than 3 pounds per thousand): 4 cents per each 10 cigars or fractional part thereof;
+All other Cheroots, Stogies &amp; Cigars: $3.00 to $40.50 per thousand depending on the price they retail for;
+Smoking Tobacco: 4 cents to 21 cents, depending on the weight, for up to 4 ounces; 6 cents for each ounce or fractional part thereof over 4 ounces.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 40-25-23 (2004).</Citation>
+<Description>All revenue from taxes on tobacco products other than cigarettes is credited to the state General Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 28-11-3 &amp; 28-11-4 (1997).</Citation>
+<Description>The Alabama Alcoholic Beverage Control Board shall enforce state and federal laws that prohibit the distribution of tobacco or tobacco products to minors.  The board will have the authority to conduct annual random compliance tests to assure compliance with state and federal laws regarding the distribution of tobacco products to minors.  Minors may be enlisted to attempt to purchase tobacco products, provided they have written consent of a parent or legal guardian and are directly supervised by a sheriff or head of police.  If questioned about their age during an attempt to purchase or receive tobacco products, a minor shall state their true age. A photograph or video recording of any minor assisting in an inspection or enforcement action shall be taken prior to the investigation.  The appearance of a minor participating in an inspection or enforcement action shall not be altered at the time of the inspection. The minor shall be under the age of 18.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 28-11-9 (1997).</Citation>
+<Description>Any person who sells, barters, exchanges or gives to any minor any cigarettes, cigarette tobacco or cigarette paper, or any substitute for either of them shall, on conviction, be fined not less than $10 or more than $50 and may also be imprisoned in the county jail or sentenced to hard labor for the county for not more than 30 days. 
+ALA. CODE § 13A-12-3 (1975).
+
+The Alabama Alcoholic Beverage Control Board upon finding that a permit holder or any partner, member, employee, officer, or director of the permit holder has violated any of the laws of this state relating to the manufacture, sale, possession, or transportation of tobacco or tobacco products may upon due notice and hearing, levy administrative fines or suspend or revoke the permit issued by the board, or a combination of all three.  For a first violation, an administrative fine of up to $200 will be levied, or the permit holder may be offered an opportunity to provide training sessions administered by the Responsible Vendor Program in lieu of an administrative fine; for a second violation within a two year period, an administrative fine of not more than $400; for a third violation within two years, an administrative fine of not more than $750; and for a fourth and subsequent violation within two years, an administrative fine of up to $1,000 and the permit may be suspended or revoked.  The maximum length for suspension or revocation of a permit is one year.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 28-11-9 (1997) &amp; 28-11-15 (2009).</Citation>
+<Description>Any person who distributes tobacco or tobacco products within Alabama shall post conspicuously at each location of distribution a sign that is likely to be read by those seeking to purchase or obtain tobacco or tobacco products. Each sign shall state that: 1) Alabama law strictly prohibits the purchase of tobacco products by persons under the age of 19, and 2) proof of age is required for the purchase of tobacco products.  Violation by an Alabama Alcoholic Beverage Control Board permit holder is subject to the same penalties as for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 28-11-13 &amp; 28-11-14 (2009).</Citation>
+<Description>It is unlawful for any minor to purchase, use, possess, or transport tobacco or tobacco products within Alabama. It is also unlawful for any minor to present or offer to another person proof of identification which is false, fraudulent, or not actually their own in order to buy, attempt to buy, receive, or otherwise obtain any tobacco or tobacco products.  It shall not be unlawful for a minor employee of a tobacco permit holder to handle, transport, or sell tobacco or tobacco products if the minor employee is acting within the line and scope of employment and the permit holder, or an employee of the permit holder who is 21 years of age or older, is present.  Minors shall be fined no less than $10 and no more than $50 for each violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 28-11-6.2 (2009) &amp; 28-11-9 (1997).</Citation>
+<Description>No tobacco or tobacco product shall be distributed at retail through a self-service display as defined in Alabama Code section 28-11-2 unless such display is a vending machine as permitted under existing law or is located in a tobacco specialty store, which must derive at least 75 percent of its revenue from tobacco or tobacco products.  Violation by an Alabama Alcoholic Beverage Control Board permit holder is subject to the same penalties as for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 13A-12-3 (1975).</Citation>
+<Description>Any person who gives to any minor any cigarettes, cigarette tobacco or cigarette paper, or any substitute for either of them shall, on conviction, be fined not less than $10 or more than $50 and may also be imprisoned in the county jail or sentenced to hard labor for the county for not more than 30 days.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 28-11-6 &amp; 28-11-9 (1997).</Citation>
+<Description>No tobacco product, except cigars, shall be distributed unless in an original factory-wrapped container.  This prohibition also applies to the distribution of single cigarettes and packages containing less than 20 cigarettes.  Violation by a permit holder is subject to the same penalties listed under the &quot;Penalties for Sales to Minors&quot; section.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances restricting sampling and minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 28-11-6.1 (2009).</Citation>
+<Description>No tobacco or tobacco product shall be distributed by use of a vending machine unless such machine: 1) is located in an area in which minors are not permitted access; or 2) Dispenses tobacco or tobacco products through the operation of a device that requires the tobacco permit holder or an employee to control the distribution of the product.   Tobacco or tobacco products placed together with any non-tobacco product, other than matches, in a vending machine is also prohibited.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 28-11-9 (1997).</Citation>
+<Description>Violation by an Alabama Alcoholic Beverage Control Board permit holder is subject to the same penalties for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 28-11-9 (1997) &amp; 28-11-15 (2009).</Citation>
+<Description>Any person who distributes tobacco or tobacco products with-in this state shall post conspicuously at each vending machine a sign that is likely to be read by those seeking to purchase or obtain tobacco or tobacco products. Each sign shall state that: 1) Alabama law strictly prohibits the purchase of tobacco products by persons under the age of 19, and 2) proof of age is required for the purchase of tobacco products.  Violation by an Alabama Alcoholic Beverage Control Board permit holder is subject to the same penalties as for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting placement of or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 28-11-7 &amp; 28-11-8 (1997).</Citation>
+<Description>Retailers and wholesalers must obtain a privilege license to sell tobacco products. 
+ALA. CODE §§ 40-12-72 and 40-12-73 (1940).  
+
+Any person who distributes tobacco or maintains a tobacco vending machine must obtain a permit from the Alabama Alcoholic Beverage Control Board for each location or vending machine.  A permit is nontransferable and must be renewed annually.  Failure to obtain or display a valid permit is a misdemeanor offense subject to a fine of not less than $100 or more than $500 for the first offense and not less than $500 and not more than $1,500 for subsequent offenses.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 40-12-72 and 40-12-73 (1940).</Citation>
+<Description>$2 to $15 annually for a retail license, depending on the population of the city or town where tobacco products are being sold, $100 for a wholesale license, plus $5 to each county where a wholesaler does business.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 28-11-9 (1997).</Citation>
+<Description>The Alabama Alcoholic Beverage Control Board upon finding that a permit holder, or any partner, member, employee, officer, or director of the permit holder, has violated any of the laws of this state or the United States relating to the sale of tobacco, may, upon due notice and hearing, levy administrative fines or suspend or revoke the permit issued by the board upon a fourth or subsequent violation within two years.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE § 6-12-4 (2006).</Citation>
+<Description>In civil litigation under any legal theory involving a signatory, a successor of a signatory, or an affiliate of a signatory to the Master Settlement Agreement, the supersedeas bond to be furnished to stay the execution of the judgment during the entire course of appellate review shall be set in accordance with applicable laws or court rules, except that the total supersedeas bond that is required of all appellants collectively shall not exceed $125 million, regardless of the amount of the judgment.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating assets outside the ordinary course of business to avoid payment of a judgment, a court may require the appellant to post a supersedeas bond in an amount up to the total amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 41-15B-1 to 41-15B-8 (2005) &amp; ALA. CODE §§ 41-10-620 et seq. (2001).</Citation>
+<Description>A portion of the annual Master Settlement Agreement payments is dedicated to the Children First Trust Fund and distributed to various departments and programs from there, including a small amount from the Alabama Department of Public Health dedicated to tobacco prevention and cessation programs.  A portion is also allocated to the Alabama 21st Century Fund for economic development and industrial recruitment.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>97200000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 41-10-620 et seq. (2001).</Citation>
+<Description>The Children First Trust Fund was established in 1999 to receive a portion of Alabama&apos;s annual Master Settlement Agreement payments.  The Alabama Children&apos;s Policy Council oversees the trust fund.  No monies shall be withdrawn or expended from the fund for any purpose unless the monies have been appropriated by the Legislature and allocated pursuant to this chapter.  Any monies remaining in the fund at the end of any fiscal year remain in the trust fund. 
+ALA. CODE §§ 41-15B-1 to 41-15B-8 (2005).
+  
+Each year the legislature enacts a separate bill allocating the state&apos;s annual Master Settlement Agreement payments dedicated to the Children First Trust Fund.  Up to $225,000 per fiscal year is provided for administration of the trust fund.  Of the remaining revenue, 10 percent goes to the Department of Public Health for the state Children&apos;s Health Insurance Program, tobacco control and prevention programs for youth, and the Alabama Qualified Health Center Grant Program; 22 percent to the state Board of Education; 20 percent to the Alabama Department of Human Resources; 5 percent to the Children&apos;s Trust Fund; 5 percent to the State Multiple Needs Children&apos;s Fund; 5 percent to the Department of Mental Health and Mental Retardation; 10 percent to the Juvenile Probation Services Fund; 17 percent to the Department of Youth Services; 3.5 percent to the Medicaid Agency; 1 percent to the Alcoholic Beverage Control Board which includes enforcement of youth access to tobacco laws; 1 percent to the Department of Forensic Sciences; and 0.5 percent to the Department of Rehabilitation Services.  To get more details on the specific programs funded, see the statutes listed below.
+ALA. CODE §§ 41-15B-2.1 &amp; 41-15B-2.2 (1999).
+
+Alabama has pledged $13 million per year of its Master Settlement Agreement payments to the Alabama 21st Century Fund to pay for bonds issued by the Alabama 21st Century Authority.  The Alabama 21st Century Authority has been authorized to issue bonds in the amount of $103,760,000 for the purpose of promoting economic development and industrial recruitment as specified by the Legislature from time to time by separate act.  The Alabama 21st Century Fund may invest the funds until such time as they are needed to pay the principle, interest or premium on the above-issued bonds.  Excess funds may also be transferred to the State Treasury by act of the legislature.  The $13 million allocation will remain steady through 2018.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Alabama&apos;s tobacco control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2012 MSA Payment Annual Budget (S.B. 242) enacted 6/9/11 and effective 10/1/11.</Citation>
+<Description>Alabama allocated $604,831 in state funding to tobacco prevention and cessation programs in FY2012 (October 1, 2011 to September 30, 2012).  In FY2011, $861,000 was allocated.</Description>
+<Year>2012</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>604831</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 8-17-270 to 8-17-281 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, no cigarettes may be sold or offered for sale in Alabama or offered for sale or sold to persons located in Alabama unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 8-17-272 Alabama Code; 2) a written certification has been filed by the manufacturer with the State Fire Marshal in accordance with section 8-17-273 Alabama Code and 3) the cigarettes have been marked in accordance with section 8-17-274 Alabama Code.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALA. CODE §§ 8-17-270 to 8-17-281 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale in violation of the above standard is subject to a civil penalty not to exceed $100 for each pack of cigarette sold or offered for sale.  Penalties may not exceed $100,000 in any 30-day period.  A retail dealer is subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each violation.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $604,831 for tobacco prevention and cessation programs in FY2012.
+FY2012 MSA Payment Annual Budget (S.B. 242) enacted 6/9/11 and effective 10/1/11.</Description>
+<Year>2011</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2011-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Age to Sell Tobacco Products to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>19</Description>
+<NumericValue>19</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alabama</Name>
+<Abbrev>AL</Abbrev>
+<FipsCode>01</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2012 State Funding for Tobacco Control Programs:              $604,831
+
+FY2012 Federal Funding for State Tobacco Control Programs: $6,846,777*
+
+FY2012 Total Funding for State Tobacco Control Programs:      $7,451,608
+
+Funding Level Recommended by CDC:                                        $56,700,000
+
+Percentage of CDC-Recommended Level:                                   13.1%
+
+*Includes regular funding from the Centers for Disease Control and Prevention as well as tobacco-related grants to states and communities from federal stimulus and health care reform funds.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>2</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

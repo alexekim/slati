@@ -1,0 +1,4 @@
+<h1><strong>Tobacco Control Tribune</strong></h1>
+<p>The American Lung Association&rsquo;s Tobacco Control Tribune is a monthly e-newsletter that provides updates on tobacco control legislation/laws at the federal, state and local level, relevant tobacco-related court cases and major tobacco-related&nbsp;studies/reports.</p>
+<p>For people interested in tobacco control issues, it is a great way to keep updated on the latest tobacco control policy&nbsp;developments.</p>
+<p><strong>To subscribe to the American Lung Association&rsquo;s Tobacco Control Tribune, go to <a href="http://www.lung.org/get-involved/sign-up.html" target="_blank">http://www.lung.org/get-involved/sign-up.html</a>.</strong></p>

@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:52:17">
+<tblStatesALA>
+<ID>20</ID>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<LegislatureHyperlink>#http://janus.state.me.us/legis#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, §§ 1541 to 1545 (2009), 1547 (2007), 1580-A (2009) &amp; CODE of ME RULES 10-144, Ch. 249 (2006).</Citation>
+<Description>Smoking is prohibited in all enclosed areas of public places, outdoor eating areas as specified and all public restrooms.  Smoking is also prohibited under a separate law in all workplaces that have one or more employees, and within 20 feet of entrances/exits, vents and doorways of workplaces.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, §§ 1541 to 1545 (2009) &amp; 1547 (2007) &amp; CODE of ME RULES 10-144, Ch. 249 (2006).</Citation>
+<Description>Exceptions to this law include: 1) public places when they are not open to the public; 2) theaters when smoking is part of the performance; 3) smoking during a religious ceremony or cultural activity; 4) hotel and motel rooms; 5) tobacco specialty stores as defined, provided that the on-premises service, preparation or consumption of food or drink, if the tobacco specialty store is not licensed for such service or consumption prior to January 1, 2007, is prohibited, and smoking a waterpipe or hookah is also prohibited in a tobacco specialty store that is newly licensed or that requires a new license after January 1, 2007; 6) beano or bingo games run by a federally recognized Indian tribe; and 7) designated smoking areas in an off-track betting facility or simulcast racing facility at a commercial track, subject to certain conditions, see the statute cited below for more information.  During its normal business hours, a public place must be closed for at least one hour to be considered &quot;not open to the public.&quot; A person under 18 years of age is prohibited from entering a business licensed as a tobacco specialty store unless accompanied by a parent or legal guardian, regardless of whether smoking is allowed in that store.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1580-A (2009).</Citation>
+<Description>Every employer who has one or more employees shall establish, or may negotiate through the collective bargaining process, a written policy on smoking.  The definition of &quot;employer&quot; includes the state of Maine or a political subdivision of the state.  The policy must prohibit smoking indoors, prevent secondhand smoke from circulating into enclosed areas and prohibit smoking outdoors except in designated areas, which must be at least 20 feet from entryways, vents and doorways.  The policy may prohibit smoking throughout the business facility, including outdoor areas. The employer shall post and supervise the implementation of the policy, and provide a copy of this policy to any employee upon request.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1580-A(C-1&amp;C-2) &amp; 1580-A(9) (2005).</Citation>
+<Description>Every employer who has one or more employees shall establish, or may negotiate through the collective bargaining process, a written policy on smoking.  The policy must prohibit smoking indoors, prevent secondhand smoke from circulating into enclosed areas and prohibit smoking outdoors except in designated areas, which must be at least 20 feet from entryways, vents and doorways.  The policy may prohibit smoking throughout the business facility, including outdoor areas.  The employer shall post and supervise the implementation of the policy, and shall provide a copy of this policy to any employee upon request.  All enclosed areas of a business facility into which members of the public are invited or allowed are governed by the law prohibiting smoking in public places.  Home-based business facilities are considered places of employment when an employee is physically present to do work there.  
+ME REV. STAT. ANN. tit. 22, § 1580-A (2009).
+
+The above provisions do not apply to a business facility that is a veterans&apos; service organization that is not open to the public or to any other club that was not open to the public and that was in operation prior to January 1, 2004 subject to certain conditions.  See the statute sections cited below for more detailed information.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1578-B (2007).</Citation>
+<Description>Tobacco use in the buildings or on the grounds of any elementary or secondary school is prohibited at all times.  Tobacco use may be permitted in classrooms only as part of a bona fide demonstration during a class lesson, with prior notice being given to the school&apos;s administrator.  The principal of the elementary or secondary school, or the principal&apos;s designee, shall enforce the law prohibiting and restricting tobacco use under this section.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>CODE of ME RULES 10-148 § 16-9(k) (2004).</Citation>
+<Description>Smoking is prohibited in all child care facilities.  In the case of a child care facility that is not home-based, smoking is also prohibited in a facility-designated motor vehicle within 12 hours before transporting a child who is in the care of the child care facility, and whenever such child is present in the vehicle.  Smoking is also prohibited in outdoor areas of the facility where children may be present.  In a private residence used as a day care or baby-sitting service, smoking is prohibited in the residence, during the hours of operation as a day care or baby-sitting service; in outdoor areas on the property of that private residence, wherever a child under care may be present; and during the facility&apos;s hours of operation, in a motor vehicle owned or operated by the facility whenever a child under care is in the vehicle.    
+ME REV. STAT. ANN. tit. 22, §§ 1541 to 1545 &amp; 1547 (2007) &amp; CODE of ME RULES 10-144, Ch. 249 (2006).
+
+Smoking is prohibited in a foster home when a foster child is present.  When a foster child is absent from the foster home, smoking is prohibited within 12 hours prior to their expected return.  Smoking is also prohibited in a foster parents’ motor vehicle within 12 hours of transporting a foster child and whenever the foster child is present in the vehicle.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1580-A (2009).</Citation>
+<Description>Residential facilities, hospitals and nursing homes are considered business facilities.  This means they must establish, or may negotiate through the collective bargaining process, a written policy on smoking.  The policy must prohibit smoking indoors, prevent secondhand smoke from circulating into enclosed areas and prohibit smoking outdoors except in designated areas, which must be at least 20 feet from entryways, vents and doorways.  The policy may prohibit smoking throughout the business facility, including outdoor areas.  All enclosed areas of a business facility into which members of the public are invited or allowed are governed by the law prohibiting smoking in public places.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, §§ 1541 to 1545 (2009), 1547 (2007), 1550 (2009) &amp; CODE of ME RULES 10-144, Ch. 249 (2006).</Citation>
+<Description>Smoking is prohibited in restaurants.  Smoking is also prohibited in outdoor eating areas of restaurants if the outdoor eating area or any portion thereof is open and available for dining and beverage service.  &quot;Outdoor eating area&quot; means a patio, deck or other property that is partially enclosed or open to the sky that is permitted for outdoor eating or drinking under the control of an eating establishment as defined.  An eating establishment with an outdoor eating area shall post signs, notify its patrons of the prohibition on smoking in outdoor eating areas and request that all persons comply.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, §§ 1541 to 1545 (2009), 1547 (2007), 1550 (2009) &amp; CODE of ME RULES 10-144, Ch. 249 (2006).</Citation>
+<Description>Smoking is prohibited in lounges and taverns.  Smoking is also prohibited in outdoor eating areas of lounges/taverns if the outdoor eating area or any portion thereof is open and available for dining and beverage service.  &quot;Outdoor eating area&quot; means a patio, deck or other property that is partially enclosed or open to the sky that is permitted for outdoor eating or drinking under the control of an eating establishment as defined.  An eating establishment with an outdoor eating area shall post signs, notify its patrons of the prohibition on smoking in outdoor eating areas and request that all persons comply.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Vehicles</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1549 (2008).</Citation>
+<Description>Smoking is prohibited in motor vehicles by the operator or a passenger when a person who has not attained 16 years of age is present in that motor vehicle, regardless of whether the motor vehicle&apos;s windows are open.  From September 1, 2008 to August 31, 2009, penalty is a written warning for violation; from September 1, 2009 a $50 civil penalty must be assessed, except a law enforcement officer may give a written warning for violation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>16</SubcategoryDisplayOrder>
+<SubcategoryID>1282</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 14, § 6030-E (2011).</Citation>
+<Description>Restrictions on Smoking in Certain Outdoor Areas:
+A person may not smoke tobacco or any other substance in, on or within 20 feet of a beach, playground, snack bar, group picnic shelter, business facility, enclosed area, public place or restroom in a state park or state historic site as defined.  No penalties for violation are specified, but the Maine Center for Disease Control and Prevention shall erect signs and undertake public education initiatives regarding the above law within existing resources.
+ME REV. STAT. ANN. Tit. 22, § 1580-E (2009).
+
+Smoking Policy Disclosure Required for Multi-Unit Housing:
+A landlord or other person on behalf of a landlord who enters into a lease or tenancy at will agreement for residential premises shall provide written notice to a tenant or potential tenant regarding the allowance or prohibition of smoking on the premises.  The notice must state whether smoking is prohibited on the premises, allowed on the entire premises or allowed in limited areas of the premises. If the landlord allows smoking in limited areas on the premises, the notice must identify the areas on the premises where smoking is allowed.  Disclosure can occur by disclosing the smoking policy in a written lease agreement, or providing a separate written notice to a tenant or potential tenant entering into a tenancy at will agreement.  Written acknowledgment of the notification must be obtained before a tenant or potential tenant enters into a contract or pays a deposit to rent or lease a property.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, §§ 1543 (1993) 1545 (2005), 1548 (2005), 1580-A(4) (2005) &amp; 1580-A(4-A) (2005) &amp; CODE of ME RULES 10-144, Ch. 249 (2006).</Citation>
+<Description>&quot;No Smoking&quot; or &quot;Smoking permitted&quot; signs must be posted in public places where smoking is regulated.  A person who violates any provision of the law governing smoking in public places or the law governing smoking in workplaces commits a civil violation for which a forfeiture not to exceed $100 may be adjudged, except that a fine of up to $1,500 may be adjudged for each violation in cases when a person or employer engages in a pattern of conduct that demonstrates a lack of good faith in complying with these requirements.  The Attorney General may bring an action to enforce this chapter in District Court or Superior Court and may seek injunctive relief, including a preliminary or final injunction, and fines, penalties and equitable relief and may seek to prevent or restrain actions in violation of this chapter by a person or any person controlling such person.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME. REV. STAT. ANN. tit. 36, § 4365 (2005).</Citation>
+<Description>Tax rate per pack of 20: $2.00
+Date last changed: September 19, 2005 -- from $1.00 to $2.00
+Year first enacted: 1941</Description>
+<NumericValue>2</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME. REV. STAT. ANN. tit. 36, § 4381 (2005).</Citation>
+<Description>All cigarette tax revenue is credited to the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>129862000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME. REV. STAT. ANN. tit. 36, § 4403 (2009).</Citation>
+<Description>Smokeless tobacco, including chewing tobacco and snuff: minimum of $2.02/oz., prorated for packages larger than one ounce;
+Cigars, pipe tobacco, and other tobacco intended for smoking:  20% of the wholesale sales price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 5 § 20002(3) (2012).</Citation>
+<Description>The Department of Health and Human Services shall enforce the tobacco retail licensing laws and sales of tobacco products through vending machines in cooperation with all law enforcement officers.  Retail tobacco sales laws may be enforced by law enforcement officers or by individuals hired by contract with the Department of Health and Human Services to enforce these laws.  
+ME REV. STAT. ANN. tit. 22, §§ 1551-A (1995) &amp; 1556-A (1999).
+
+The Department of Health and Human Services shall coordinate the enforcement of the state&apos;s laws relating to the sale and use of tobacco products by minors.  The office shall ensure compliance with the Synar Act, including the preparations of reports for the signature of the governor.  All law enforcement agencies and other state departments, including the Department of Public Safety and municipalities, shall cooperate in these efforts.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, §§ 1557 to 1559 (2001).</Citation>
+<Description>A person may not sell, furnish, give away or offer to sell, furnish or give away a tobacco product to any person under the age of 18.  This also applies to sales from cigarette vending machines.  Any person who violates this law commits a civil violation for which a fine between $50 and $1,500, plus court costs must be adjudged for any one offense.  Any employer of a person who violates this law commits a civil violation for which a fine between $50 and $1,500 plus court costs must be imposed.  It is an affirmative defense to prosecution that the defendant sold or distributed cigarettes, cigarette paper or any other tobacco product to a person under 18 years of age who furnished fraudulent proof of age.
+ME REV. STAT. ANN. Tit. 22, § 1555-B (1997).
+
+The District Court may impose fines as listed above or revoke or suspend licenses for violation of state laws or rules related to the sale of tobacco products.  License suspensions apply only to the premises where the violation occurs, but the court may order that a revocation apply to any of a licensee&apos;s premises or machines.  Suspensions and revocations must be for a definite period of time.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit 22, §§ 1552-A &amp; 1555-B (1997).</Citation>
+<Description>A dealer or distributor of tobacco products shall post notice of this section prohibiting tobacco and cigarette paper sales to persons less than 18 years of age.  Signs may be provided at cost by the department.  Failure to post the required notice is a civil violation for which a fine between $50 and $200 may be imposed for the first and subsequent offenses.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV STAT. ANN. tit. 22, § 1555-B (1997).</Citation>
+<Description>It is unlawful for any person under the age of 18 to offer false identification in attempting to purchase any tobacco products or to purchase, possess or use cigarettes, cigarette paper or any other tobacco product.  A minor may transport cigarettes if it is in the scope of that person’s employment.  Any person who violates this section commits a civil violation for which the following forfeitures may be adjudged: a fine between $100 and $300 and/or community service may be imposed for the first offense; a fine between $200 and $500 and/or community service may be imposed for the second offense; and, a mandatory fine of $500 that may not be suspended, and possibly additional community service for all subsequent offenses.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV STAT. ANN. tit. 22, § 1555-B (11) (1999).</Citation>
+<Description>Tobacco products may be displayed or offered for sale only in a manner that does not allow the purchaser direct access to the tobacco products.  This law does not apply to multi-unit packages of 10 or more units, tobacco specialty stores or in locations where minors are prohibited.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV STAT. ANN. tit. 22, §§ 1551 &amp; 1555 C, D &amp; F (2009).</Citation>
+<Description>A tobacco product, other than premium cigars, may not be shipped to anyone other than a licensed tobacco distributor or licensed tobacco retailer in this state, and only these entities may accept delivery of tobacco products.  Also, a person may not, with knowledge or reason to know of the violation, provide substantial assistance to a person in violation of the above.  Violation is a civil violation punishable by a fine of $1,000 to $5,000.  The Attorney General may also bring an action to enforce the law as specified.  For sales involving premium cigars as defined, to accept an order for a delivery sale, the person must be licensed as a tobacco retailer.  Then, before the first sale to a consumer the person must obtain a copy of a government issued ID, and a written statement from the customer documenting that they are at least 18 years of age, and that the customer understands that providing false information or purchasing tobacco products for a minor is illegal.  The information must be confirmed against a commercially available database derived solely from government records, and specified reporting requirements must be followed.   Violations of the above provisions are civil violations subject to fines from $50 to $1,500 for a first violation and $1,000 to $5,000 for subsequent violations.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV STAT. ANN. tit. 22, § 1560 (2004).</Citation>
+<Description>Flavored Tobacco Products: 
+A person may not sell or distribute or offer to sell or distribute any flavored cigar, defined as a cigar or any component part of the cigar that contains a constituent having a characterizing flavor.  &quot;Characterizing flavor&quot; means a distinguishable taste or aroma of candy, chocolate, vanilla, fruit, berry, nut, herb, spice, honey or an alcoholic drink that is imparted to tobacco or tobacco smoke either prior to or during consumption. &quot;Characterizing flavor&quot; does not include a taste or aroma from tobacco.  Premium cigars, defined as cigars weighing over 3 pounds per thousand cigars and wrapped in whole tobacco leaf are exempt.  Also, any flavored cigar that the Attorney General determined had no characterizing flavor or was otherwise exempt under previous law is exempt from the prohibition on flavored nonpremium cigars so long as no material change is made to the cigar&apos;s flavoring, packaging or labeling subsequent to the Attorney General&apos;s determination.   Violation is a civil violation punishable by a fine of $1,000 for a first offense and $5,000 for subsequent offenses.
+ME REV. STAT. ANN. tit. 22, § 1560-D (2010).
+
+Sale of Nicotine Water Prohibited:
+A person may not sell, furnish, give away or offer to sell, furnish or give away nicotine water in this state.  &quot;Nicotine water&quot; is defined as water intended for human consumption and that contains as an added ingredient nicotine or an alkaloid having similar physiological activity.  Violation is a civil violation subject to a fine of $500 for the first offense, $1,000 for a second violation and $5,000 for the third and subsequent violations.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit 22, § 1556 (1997).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are specifically allowed, see below.
+
+Nothing in the chapter on retail tobacco sales affects the authority of municipalities to enact ordinances or regulations (or amendments to same), that are more restrictive, except that they must give notice to licensees doing business in the municipality at least 30 days prior to consideration of such ordinances, regulations, or amendments.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1555-B (1997).</Citation>
+<Description>A person may not furnish or give away or offer to furnish or give away a tobacco product to any person under the age of 18 or to any individual who does not demonstrate through either a driver&apos;s license or photo identification card that the individual is at least 18.  Violation is subject to the same penalties listed under the &quot;Penalties for Sales to Minors&quot; category.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 36 § 4404-B (2006).</Citation>
+<Description>A person may not sell cigarettes except in the original, sealed package in which the manufacturer placed them, which may not be smaller than 20 cigarettes per package, or sell cigarettes in smaller quantities than placed in the package by the manufacturer.  A person who violates this section commits a civil violation for which a forfeiture between $10 and $100 may be adjudged.  An employer of a person who violates this law commits a civil violation for which a forfeiture between $100 and $1,000 may be adjudged.   
+ME REV. STAT. ANN. tit. 22, § 1554-A (2003).
+
+A distributor may not offer for sale or sell tobacco products if the package containing the tobacco products is subject to and does not comply with the Federal Cigarette Labeling and Advertising Act for the placement of labels, warnings or any other information for a package of tobacco products to be sold within the United States.  Violation of this provision is a Class E crime for the first offense and a Class D crime for subsequent offenses.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit 22, § 1556 (1997).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are specifically allowed, see below.
+
+Nothing in the chapter on retail tobacco sales affects the authority of municipalities to enact ordinances or regulations (or amendments to same), that are more restrictive, except that they must give notice to licensees doing business in the municipality at least 30 days prior to consideration of such ordinances, regulations, or amendments.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1553-A (1997).</Citation>
+<Description>Any vending machine used for the sale of tobacco products may only dispense tobacco products.  At all times during the hours the vending machine is accessible, it must be located within the unobstructed line of sight and under the direct supervision of an adult responsible for preventing persons under 18 years of age from purchasing any tobacco product from that machine.  Vending machines may be located only in areas where minors, if permitted, must be accompanied by an adult.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1553-A (1995).</Citation>
+<Description>Any person in control of a facility who violates this section commits a civil violation for which a fine between $100 to $500 may be adjudged, or the person may be prohibited from having a cigarette vending machine located on the premises for up to six months, or both.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1553-A (1997).</Citation>
+<Description>A sign must be affixed to the front of the machine warning that it is unlawful for a minor to purchase cigarettes in this state.  Penalty for violation is listed above.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit 22, § 1556 (1997).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are specifically allowed, see below.
+
+Nothing in the chapter on retail tobacco sales affects the authority of municipalities to enact ordinances or regulations (or amendments to same), that are more restrictive, except that they must give notice to licensees doing business in the municipality at least 30 days prior to consideration of such ordinances, regulations, or amendments.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1555-C (2009).</Citation>
+<Description>All tobacco product retailers, including those who conduct sales through vending machines or engage in free distribution of tobacco products, must obtain a license from the Department of Human Services.   A separate license shall be obtained for each place of business and vending machine.  All retail licenses are valid from April 1 to March 31 of a given year unless suspended or revoked.  Selling  tobacco products at retail, through a vending machine or distribution of free samples without a license is subject to a fine of $300 to $500 plus court costs and an additional penalty of not more than 30 days imprisonment at the court&apos;s discretion for a first violation; a fine of $500 to $1,000 plus court costs and an additional penalty of not more than 60 days imprisonment at the court&apos;s discretion for a second violation; and a fine of not less than $1,000 plus courts costs and 60 days imprisonment and an additional penalty of not more than four months imprisonment at the court&apos;s discretion for a third violation.
+ME REV. STAT. ANN. tit. 22, §§ 1551 to 1553 (2012) &amp; 1554-B (2003).  
+
+A distributor of cigarettes and/or other tobacco products shall obtain a license from the state Tax Assessor.  A license must be obtained for each wholesale outlet maintained by the distributor, must be prominently displayed on the premises of the wholesale outlet and is not transferable.  A distributor&apos;s license expires one year from the 30th day of June next succeeding the date of issuance.  A distributor who imports into this state, sells at wholesale, offers for sale at wholesale or possesses with intent to sell at wholesale any cigarettes or other tobacco products without holding the required license commits a civil violation for which a forfeiture of not less than $250 to $500 must be adjudged for the first violation and a forfeiture of not less than $500 to $1,000 must be adjudged for each subsequent violation.
+ME REV. STAT. ANN. tit. 36, §§ 4362-A (2003) &amp; 4402 (2006).
+
+It is unlawful for any person to accept an order for a delivery sale of premium cigars as defined to a consumer in Maine unless that person is licensed as a tobacco retailer.  A &quot;delivery sale&quot; is defined as a sale of tobacco products by phone, over the Internet, or by a delivery service.  Engaging in a delivery sale without a license is subject to a fine of $50 to $1,500 for the first violation, and $1,000 to $5,000 for subsequent violations.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME. REV. STAT. ANN. tit 22, § 1552 &amp; CODE OF ME RULES 10-144, chap. 203 § 3 (2005).</Citation>
+<Description>The annual fee for each retail establishment, vending machine or person engaging in free distribution of tobacco products is set according to rules promulgated by the Department of Health and Human Services.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, §§ 1557 to 1559 (2001).</Citation>
+<Description>The District Court may impose fines or revoke or suspend licenses for violation of state laws or rules related to the sale of tobacco products.  License suspensions apply only to the premises where the violation occurs, but the court may order that a revocation apply to any of the licensee&apos;s premises or machines.  Suspensions and revocations must be for a definite period of time.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 26, § 597 (1991).</Citation>
+<Description>An employer or an agent of an employer may not require, as a condition of employment, that any employee or prospective employee refrain from using tobacco products outside the course of their employment or otherwise discriminate against any person with respect to the person&apos;s compensation, terms, conditions or privileges of employment for using tobacco products outside the course of employment as long as the employee complies with any workplace policy concerning the use of tobacco.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Note: No appeal bond is required to appeal monetary judgments in lawsuits in Maine.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1511 (2009).</Citation>
+<Description>Annual tobacco settlement payments received by the state are deposited into the Fund for a Healthy Maine, and used for a number of health-related purposes, including tobacco prevention and cessation programs.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>51000000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1511 (2012).</Citation>
+<Description>The Fund for a Healthy Maine is established and the state controller shall credit to the fund all moneys received from the Master Settlement Agreement between the state of Maine and certain cigarette companies; money from other public or private sources designated for the fund; and interest or investment income from the fund.  Allocations from the fund are limited to the following prevention and health promotion purposes: 1) Smoking prevention, cessation and control activities, including, but not limited to, reducing smoking among children in the state; 2) Prevention, education and treatment activities concerning unhealthy weight and obesity; 3) Prenatal and young children&apos;s care; 4) Child care for children up to 15 years of age, including after-school care; 5) Health care for children and adults; 6) Prescription drugs for adults who are elderly or disabled; 7) Dental and oral health care to low-income persons who lack adequate dental coverage; 8) Substance abuse prevention and treatment; and 9) Comprehensive school health and nutrition programs, including school-based health centers.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Maine&apos;s tobacco control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Maine allocated $8,164,690 for tobacco prevention and cessation programs in FY2015 (July 1, 2014 to June 30, 2015). In FY2014, $8,066,378 was allocated. This is the second year of the FY2014-FY2015 biennium.
+FY2014-FY2015 Biennial Budget (Pub. Law 2013, chap. 368/L.D. 1079) enacted (by veto override) 6/26/13 and effective 7/1/13 (FY2014) &amp; 7/1/14 (FY2015); and Biennial Budget Amendments (Pub. Law 2013, chap. 595/L.D. 1858) enacted (by veto override) 5/1/14 and effective 5/1/14 (FY2014) &amp; 7/1/14 (FY2015).</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>8164690</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit 22, §§ 1555-E (2008).</Citation>
+<Description>Unless federal law provides otherwise, to help prevent cigarette-caused fires, cigarettes may not be sold or offered for sale in Maine or offered for sale or sold to persons located in Maine unless: 1) the cigarettes have been tested in accordance with the test methods and meet the performance standards specified in title 22, section 1555-E, subsection 2 Maine Revised Statutes; 2) a written certification has been filed by the manufacturer with the State Fire Marshal in accordance with title 22, section 1555-E, subsection 3 Maine Revised Statutes; and 3) the cigarettes have been marked in accordance with title 22, section 1555-E, subsection 4 Maine Revised Statutes.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1555-E (2008).</Citation>
+<Description>Any manufacturer, distributor, agent or any other person or entity that knowingly sells or offers to sell cigarettes other than through retail sale in violation of this part commits a civil violation subject to a civil penalty not to exceed $10,000 per sale for a first violation, and if previously adjudicated for a violation not to exceed $25,000 per sale.  A fine against any one person or entity may not exceed $100,000 during any 30-day period.  A tobacco retailer that knowingly sells or offers to sell 1,000 or less cigarettes in violation of this part, commits a civil violation and is subject to a civil penalty not to exceed $500 per sale, except if previously adjudicated for a violation not to exceed $2,000 per sale.  A tobacco retailer that knowingly sells or offers to sell more than 1,000 cigarettes in violation of this part commits a civil violation and is subject to a civil penalty not to exceed $1,000 per sale, except if previously adjudicated for a violation not to exceed $5,000 per sale.   A fine against any one retailer may not exceed $25,000 during any 30-day period.  Knowingly making a false certification is subject to a civil penalty of $75,000 in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ME REV. STAT. ANN. tit. 22, § 1555-B (1997).</Citation>
+<Description>Tobacco products may not be sold at retail to any person less than 27 years of age unless the seller first verifies that person&apos;s age by means of reliable photographic identification containing the person&apos;s date of birth.  Violation is subject to the same penalties listed under the &quot;Penalties for Sales to Minors&quot; category.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Allocated $9,893,168 for tobacco prevention and cessation programs in FY2011.
+FY2010-FY2011 Biennial Budget (Pub. Law 2009, chap. 213, part H - L.D. 353, part H) enacted 5/28/09 and effective 7/1/09 (FY2010) &amp; 7/1/10 (FY2011) &amp; FY2010-FY2011 Supplemental Appropriations (Pub. Law 2009, chap. 571) enacted 3/31/10 and effective 3/31/10 (FY2010) and 7/1/10 (FY2011).
+
+Flavored Tobacco Products: Revises the law prohibiting flavored cigarettes and tobacco products by just making it apply to certain flavored cigars.  The sale of most flavored cigarettes is prohibited by federal law.
+Pub. Law 2009, chap. 606/L.D. 1542 enacted 4/5/10 and effective 7/11/10.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2010-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Allocated $8,164,690 for tobacco prevention and cessation programs in FY2015.
+FY2014-FY2015 Biennial Budget (Pub. Law 2013, chap. 368/L.D. 1079) enacted (by veto override) 6/26/13 and effective 7/1/13 (FY2014) &amp; 7/1/14 (FY2015); and Biennial Budget Amendments (Pub. Law 2013, chap. 595/L.D. 1858) enacted (by veto override) 5/1/14 and effective 5/1/14 (FY2014) &amp; 7/1/14 (FY2015).
+
+Cessation Coverage: Requires Maine&apos;s state Medicaid program to cover nearly all recommended tobacco cessation medications and forms of counseling for its enrollees.
+Pub. Law 2013, chap. 444/L.D. 386 enacted (by veto override) 1/21/14 and parts effective 1/21/14 &amp; 7/1/14.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $129,862,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maine</Name>
+<Abbrev>ME</Abbrev>
+<FipsCode>23</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:             $8,164,690 
+
+FY2015 Federal Funding for State Tobacco Control Programs: $1,043,222*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $9,207,912 
+
+Funding Level Recommended by CDC:                                        $15,900,000 
+
+Percentage of CDC-Recommended Level:                                   57.9%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>20</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

@@ -1,0 +1,2296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2013-11-07T14:32:48">
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>01</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>01</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>01</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>01</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>01</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>01</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>01</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>01</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>01</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>02</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>02</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>02</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>02</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>02</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>02</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>02</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>02</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>02</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>04</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>04</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>04</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>04</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>04</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>04</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>04</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>04</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>04</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>05</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>05</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>05</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>05</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>05</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>05</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>05</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>05</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>05</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>06</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>06</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>06</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>06</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>06</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>06</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>06</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>06</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>06</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>08</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>08</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>08</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>08</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>08</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>08</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>08</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>08</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>08</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>09</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>09</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>09</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>09</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>09</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>09</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>09</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>09</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>09</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>10</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>10</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>10</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>10</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>10</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>10</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>10</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>10</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>10</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>12</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>12</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>12</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>12</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>12</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>12</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>12</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>12</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>12</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>13</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>13</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>13</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>13</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>13</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>13</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>13</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>13</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>13</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>15</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>15</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>15</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>15</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>15</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>15</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>15</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>15</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>15</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>16</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>16</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>16</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>16</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>16</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>16</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>16</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>16</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>16</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>17</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>17</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>17</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>17</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>17</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>17</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>17</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>17</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>17</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>18</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>18</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>18</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>18</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>18</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>18</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>18</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>18</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>18</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>19</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>19</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>19</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>19</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>19</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>19</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>19</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>19</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>19</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>20</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>20</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>20</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>20</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>20</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>20</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>20</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>20</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>20</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>21</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>21</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>21</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>21</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>21</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>21</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>21</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>21</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>21</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>22</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>22</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>22</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>22</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>22</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>22</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>22</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>22</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>22</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>23</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>23</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>23</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>23</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>23</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>23</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>23</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>23</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>23</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>24</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>24</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>24</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>24</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>24</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>24</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>24</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>24</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>24</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>25</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>25</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>25</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>25</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>25</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>25</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>25</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>25</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>25</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>26</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>26</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>26</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>26</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>26</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>26</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>26</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>26</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>26</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>27</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>27</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>27</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>27</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>27</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>27</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>27</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>27</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>27</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>28</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>28</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>28</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>28</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>28</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>28</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>28</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>28</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>28</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>29</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>29</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>29</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>29</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>29</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>29</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>29</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>29</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>29</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>30</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>30</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>30</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>30</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>30</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>30</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>30</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>30</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>30</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>31</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>31</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>31</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>31</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>31</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>31</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>31</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>31</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>31</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>32</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>32</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>32</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>32</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>32</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>32</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>32</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>32</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>32</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>33</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>33</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>33</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>33</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>33</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>33</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>33</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>33</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>33</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>34</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>34</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>34</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>34</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>34</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>34</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>34</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>34</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>34</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>35</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>35</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>35</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>35</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>35</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>35</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>35</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>35</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>35</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>No</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>36</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>36</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>36</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>36</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>36</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>36</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>36</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>36</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>36</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>37</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>37</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>37</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>37</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>37</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>37</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>37</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>37</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>37</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>38</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>38</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>38</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>38</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>38</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>38</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>38</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>38</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>38</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/S</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>39</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>39</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>39</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>39</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>39</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>39</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>39</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>39</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>39</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>40</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>40</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>40</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>40</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>40</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>40</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>40</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>40</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>40</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>41</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>41</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>41</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>41</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>41</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>41</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>41</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>41</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>41</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>42</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>42</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>42</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>42</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>42</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>42</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>42</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>42</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>42</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>44</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>44</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>44</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>44</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>44</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>44</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>44</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>44</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>44</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>45</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>45</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>45</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>45</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>45</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>45</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>45</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>45</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>45</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>46</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>46</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>46</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>46</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>46</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>46</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>46</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>46</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>46</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>47</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>47</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>47</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>47</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>47</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>47</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>47</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>47</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>47</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>48</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>48</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>48</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>48</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>48</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>48</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>48</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>48</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>48</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>49</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>49</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>49</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>49</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>49</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>49</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>49</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>49</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>49</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>50</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>50</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>50</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>50</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>50</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>50</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>50</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>50</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>50</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>Yes</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>51</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>51</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>51</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>51</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>51</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>51</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>51</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>51</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>51</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>53</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>53</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>53</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>53</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>53</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>53</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>53</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>53</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>53</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>54</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>54</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>54</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>54</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>54</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>54</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>54</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>54</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>54</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>55</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>55</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>55</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>55</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>55</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>55</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>55</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>55</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>55</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>56</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>56</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>56</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>56</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>56</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>56</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>56</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>56</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>56</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>11</FipsCode>
+<Coverage>Group Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>11</FipsCode>
+<Coverage>NRT Patch</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>11</FipsCode>
+<Coverage>Individual Counseling</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>11</FipsCode>
+<Coverage>NRT Nasal Spray</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>11</FipsCode>
+<Coverage>NRT Lozenge</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>11</FipsCode>
+<Coverage>Bupropion (Zyban)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>11</FipsCode>
+<Coverage>Varenicline (Chantix)</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>11</FipsCode>
+<Coverage>NRT Inhaler</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+<qryXMLSearchPrivateInsuranceCoverage>
+<FipsCode>11</FipsCode>
+<Coverage>NRT Gum</Coverage>
+<CoverageValue>N/A</CoverageValue>
+</qryXMLSearchPrivateInsuranceCoverage>
+</dataroot>

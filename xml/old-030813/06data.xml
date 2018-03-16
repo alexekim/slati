@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-14T11:59:27">
+<tblStatesALA>
+<ID>6</ID>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<LegislatureHyperlink>www.assembly.ca.gov#http://www.assembly.ca.gov#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2009 (July 1, 2008 to June 30, 2009): $912,247,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA LABOR CODE § 6404.5 (2007); CA GOVT. CODE §§ 7596 to 7598 (2007); CA EDUC. CODE §§ 48900 &amp; 48901 (1986); &amp; CA HEALTH &amp; SAFETY CODE § 1596.795 (1993).</Citation>
+<Description>Smoking is prohibited in most enclosed spaces of places of employment, except for designated break rooms that are separately ventilated directly to the outside and located in a non-work area where no one is required to enter as part of their work responsibilities.  &quot;Enclosed space&quot; includes lobbies, lounges, waiting areas, elevators, stairwells, and restrooms that are a structural part of the building.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA LABOR CODE § 6404.5 (2007).</Citation>
+<Description>Exceptions to this law include: 1) 65 percent of rooms in a hotel, motel, or similar transient lodging establishment; 2) a percentage of all lobby areas in hotel, motel, or similar establishments; 3) meeting and banquet rooms, except while food, beverage or exhibit functions are taking place; 4) retail or wholesale tobacco shops; 5) cabs of motor trucks when only smokers are present; 6) warehouse facilities; 7) theatrical production sites, if smoking is an integral part of the story; 8) medical research or treatment sites, if smoking is integral to those functions; 9) private residences when not in use as family day care centers; and 10) patient areas in long-term health care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA LABOR CODE § 6404.5 (2007).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Political subdivisions can enact local smoking ordinances that cover anyplace not covered by the definition of &quot;place of employment&quot;; otherwise, local ordinances are preempted.  If the law is modified or repealed, local ordinances are once again allowed.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>CA GOVT. CODE §§ 7596 to 7598 (2007).</Citation>
+<Description>Smoking is prohibited by employees and members of the public inside buildings owned or leased by the state, a county, a city, a city and county, or a California Community College district or within 20 feet of a main exit, entrance, or operable window of these buildings.  &quot;Inside a public building&quot; includes all indoor areas of the building, except for covered parking lots and residential space.  Smoking is also prohibited in state-owned vehicles.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>V</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Enclosed, separately ventilated areas required, or smoking is banned entirely.</HasLawOrRestrictionDescription>
+<Citation>CA LABOR CODE § 6404.5 (2007).</Citation>
+<Description>Smoking is prohibited in all enclosed areas of places of employment, except for designated break rooms that are separately ventilated directly to the outside and located in a non-work area where no one is required to enter as part of their work responsibilities.  Warehouse facilities and the cabs of motor trucks when only smokers are present are also exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Description>Smoking is prohibited at public school facilities.  No school shall permit smoking or use of tobacco or any product containing tobacco or nicotine products, where the pupils are on campus, while they are attending school-sponsored activities, or while under the supervision and control of school-district employees.  The possession of nicotine or use of any product containing tobacco or nicotine is considered grounds for suspension or expulsion.  Signs stating &quot;Tobacco use is prohibited&quot; shall be prominently displayed at all entrances to school property.
+CA EDUC. CODE §§ 48900 &amp; 48901 (1986) &amp; CA HEALTH AND SAFETY CODE § 104420 (2000).
+
+In relation to restricting/prohibiting tobacco use on campus, the governing bodies of the California State University, the University of California, and each community college district have the authority to set enforcement standards for their local campuses and impose a fine for a first, second, and third offense and for each subsequent offense.  If a campus adopts the enforcement and fine measures above, it shall, and the campuses of the University of California may, post signs stating their tobacco use policy on campus as specified.
+CA GOVT. CODE § 7597.1 (2012).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>CA HEALTH &amp; SAFETY CODE § 1596.795 (1993).</Citation>
+<Description>Smoking is prohibited on the premises of licensed day care centers and during hours of operation in private residences licensed as family day care homes in areas of the day care home where children are present.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>V</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Enclosed, separately ventilated areas required, or smoking is banned entirely.</HasLawOrRestrictionDescription>
+<Citation>CA WELFARE &amp; INSTITUTIONS CODE §§ 4138 (2009) &amp; 4139 (2012).</Citation>
+<Description>Smoking is prohibited in all enclosed areas of places of employment, except for designated break rooms that are separately ventilated directly to the outside and located in a non-work area where no one is required to enter as part of their work responsibilities.  Patient rooms in long-term health care facilities are exempt from this law.  
+CA LABOR CODE § 6404.5 (2007).
+
+By request from the director of a state hospital listed in section 4100 of the California Welfare and Institutions Code, the Director of Mental Health may prohibit the possession or use of tobacco products on the grounds of the requesting facility, except on the premises of residential staff housing where patients are not present.  The prohibition shall also include an exemption for departmentally-approved religious ceremonies.  As part of the implementation plan for the policy change, the department shall provide any requesting patient with a smoking cessation plan that may include, at minimum, an individual medical treatment plan, counseling, prescription drugs, or nicotine replacement, as determined to be medically necessary and appropriate. The store or canteen at any facility subject to the prohibition shall also not sell tobacco products.  A person who possesses with the intent to deliver, or delivers, tobacco products to a patient in a state hospital that has prohibited tobacco use on its grounds is guilty of a misdemeanor, punishable by a fine not to exceed $1,000 for each item.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>V</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Enclosed, separately ventilated areas required, or smoking is banned entirely.</HasLawOrRestrictionDescription>
+<Citation>CA LABOR CODE § 6404.5 (2007).</Citation>
+<Description>Smoking is prohibited in all enclosed areas of places of employment, including restaurants, except for designated break rooms that are separately ventilated directly to the outside and located in a non-work area where no one is required to enter as part of their work responsibilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>V</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Enclosed, separately ventilated areas required, or smoking is banned entirely.</HasLawOrRestrictionDescription>
+<Citation>CA LABOR CODE § 6404.5 (2007).</Citation>
+<Description>Smoking is prohibited in all enclosed places of employment, including bars, except for designated break rooms that are separately ventilated directly to the outside and located in a non-work area where no one is required to enter as part of their work responsibilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Vehicles</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA HEALTH AND SAFETY CODE §§ 118947 to 118949 (2008).</Citation>
+<Description>It is unlawful for a person to smoke a pipe, cigar, or cigarette in a motor vehicle, whether in motion or at rest, in which there is a person under 18 years of age in the vehicle.  Violation is an infraction punishable by a fine not exceeding $100 for each violation.  A law enforcement officer shall not stop a vehicle for the sole purpose of determining whether the driver is in violation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>15</SubcategoryDisplayOrder>
+<SubcategoryID>1282</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA LABOR CODE § 6404.5 (2007).</Citation>
+<Description>Outdoor Playgrounds and Tot Lot Sandbox Areas:
+Tobacco use is prohibited within 25 feet of any playground or tot lot sandbox area as defined.  Disposing of cigarette butts, cigar butts, or any other tobacco related waste within 25 feet of a playground or tot lot sandbox area is also prohibited.  Violation is an infraction and subject to a fine of $250 for each violation.  
+CA HEALTH AND SAFETY CODE § 104495 (2001).
+
+Prisons/Detention Facilities - Department of Corrections:
+The possession or use of tobacco products by inmates under the jurisdiction of the Department of Corrections is prohibited except an exception is provided for departmentally approved religious ceremonies.  The use of tobacco products by any other person on the grounds of any institution or facility under the jurisdiction of the Department of Corrections is prohibited, with the exception of residential staff housing where inmates are not present.
+CA PENAL CODE § 5030.1 (2005).
+
+Juvenile Detention Facilities:
+The possession or use of tobacco products by wards and inmates in all institutions and camps under the jurisdiction of the Department of the Youth Authority is prohibited except an exemption is allowed for departmentally approved religious ceremonies.  The use of tobacco products by any other person on the grounds of any institution or facility under the jurisdiction of the Department of the Youth Authority is prohibited, with the exception of residential staff housing where inmates or wards are not present.
+CA WELFARE &amp; INSTITUTIONS CODE § 1712.5 (2005).
+
+Tobacco Product Usage Allowed to be Restricted or Prohibited in Housing:
+A landlord of a residential dwelling unit as defined, or his or her agent, may prohibit the smoking of a cigarette or other tobacco product on the property or in any building or portion of the building, including any dwelling unit, other interior or exterior area, or the premises on which it is located.  Every lease or rental agreement entered into on or after January 1, 2012, for a residential dwelling unit on property on any portion of which the landlord has prohibited the smoking of cigarettes or other tobacco products shall include a provision that specifies the areas on the property where smoking is prohibited, if the lessee has not previously occupied the dwelling unit.  For a lease or rental agreement entered into before January 1, 2012, a prohibition against the smoking of cigarettes or other tobacco products in any portion of the property in which smoking was previously permitted shall constitute a change of the terms of tenancy, requiring adequate notice in writing, to be provided in the manner prescribed in state law.
+CA CIVIL CODE § 1947.5 (2012).
+
+Smoking Allowed Again if Standard for Secondhand Smoke Exposure Set by Certain Federal Agencies:
+If a regulation is adopted by the Occupational Safety and Health Standards Board reducing the permissible employee exposure level to secondhand smoke to a level that will prevent anything other than insignificantly harmful effects to exposed employees or by the federal Environmental Protection Agency establishing a standard for reduction of permissible exposure to secondhand smoke to an exposure level that will prevent anything other than insignificantly harmful effects to exposed persons than smoking in bar/taverns and gaming clubs would be allowed again subject to compliance with the applicable regulation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>16</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA LABOR CODE § 6404.5 (2007).</Citation>
+<Description>Any violation of laws governing smoking in the workplace is an infraction, punishable by a fine not to exceed $100 for a first violation, $200 for a second violation within one year, and $500 for a third and for each subsequent violation within one year.  Laws governing smoking in the workplace shall be enforced by local law enforcement agencies including, but not limited to, local health departments, as determined by the local governing body.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA REV. &amp; TAX CODE §§ 30101 (1994), 30123 (1989) &amp; 30131.2 (1999).</Citation>
+<Description>Tax rate per pack of 20: 87 cents
+Date last changed: January 1, 1999 -- from 37 cents to 87 cents
+Year first enacted: 1959</Description>
+<NumericValue>0.87</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA REV. &amp; TAX CODE §§ 30101 et seq. (1999).</Citation>
+<Description>Cigarette tax revenue in California goes mostly to specific programs as outlined below, including a portion of 25 cents of the cigarette tax going to the state tobacco control program.  Revenue from 10 cents of the cigarette tax goes to the state general fund.</Description>
+<Year>2009</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>912247000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA HEALTH &amp; SAFETY CODE §§ 130156 to 130158 (2011).</Citation>
+<Description>Distribution of Cigarette Tax Revenues:
+10 cents to the General Fund for state budget purposes; 
+2 cents to the Breast Cancer Fund, for research, prevention and screening programs as specified in section 30461.6 California Revenue and Taxation Code; 
+25 cents to programs funded under Proposition 99, which was enacted by voters through ballot initiative in 1988 - 25 percent of this revenue is directed toward programs established under the Health Education Account and the Research Account, including an anti-smoking media campaign, project grants, public and private school-based programs, local and state-wide community-based health education programs, and behavioral and biomedical research.   Most of the remaining revenues go toward medical care programs, including uncompensated health care for the medically indigent and a small portion to environmental resource programs. See sections 30121 to 30130 California Revenue and Taxation Code for more details; 
+50 cents goes to the California Children and Families First Trust Fund, for the purpose of promoting, supporting, and improving the early development of children.  It is dedicated to state and local Children and Families Commissions to accomplish this as specified in section 130105 of the Health and Safety Code.  This increase in the tax was also approved by voters through ballot initiative in 1998.
+CA REV. &amp; TAX CODE §§ 30121-30130 (1989), 30131-30131.6 (1999) &amp; 30461-30462.1 (1994).
+
+For the 2011-2012 fiscal year, $50 million, including reserve funds, was transferred from state children and families commission funds, and $950 million, including reserve funds, was transferred from all county Children and Families Trust Funds combined to the Children and Families Health and Human Services Fund created in the state treasury.  The Children and Families Health and Human Services Fund shall be used, upon appropriation by the legislature, to provide health and human services, including, but not limited to, direct health care services, to children from birth through five years of age.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA REV. &amp; TAX CODE §§ 30123(b) (1989) &amp; 30131.2(b) (1999).</Citation>
+<Description>All other tobacco products: 33.02% of the wholesale price (changes annually as determined by the California Board of Equalization).</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA REV. &amp; TAX CODE §§ 30121-30130 (1989) &amp; 30131-30131.6 (1999).</Citation>
+<Description>Revenue from the tax on other tobacco products equivalent to a cigarette tax of 87 cents per pack is directed to programs funded under Proposition 99, which was passed by voters in 1988, including tobacco prevention and cessation programs; and revenue from the tax on other tobacco products equivalent to a cigarette tax of 50 cents per pack is directed to the California Children and Families First Trust Fund.  See &quot;Cigarettes&quot; section above for further details.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA BUS. &amp; PROF. CODE §§ 22952 &amp; 22957 (1994).</Citation>
+<Description>The Department of Health Services is primarily responsible for enforcement of the Stop Tobacco Access to Kids Enforcement (STAKE) Act, and shall establish and develop a program to reduce the availability of tobacco products to persons less than 18 years of age.  As part of this enforcement, the department is required to conduct random, on-site sting inspections at retail sites and shall enlist the assistance of persons that are 15 and 16 years of age in conducting these inspections, subject to certain guidelines.  In carrying out its responsibilities, the department may conduct inspections in response to public complaints or at retail sites where violations have previously occurred.  The department may also enter into a contract to allow local law enforcement agencies to conduct these inspections in their local jurisdictions.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA PENAL CODE § 308 (2006).</Citation>
+<Description>Every person, firm, or corporation that knowingly sells, gives, or in any way furnishes tobacco products or paraphernalia, including blunt wraps to a minor is guilty of an infraction and shall be subject either to criminal action for a misdemeanor or to civil action punishable by a fine of $200 for the first offense, $500 for the second offense, and $1,000 for the third offense.  If a defendant, or their employee or agent, demanded, was shown and reasonably relied upon a facsimile of or a reasonable likeness of a document issued by a federal, state, county, or municipal government, or subdivision or agency thereof it shall have a defense against prosecution.  A specific violation prosecuted under this section shall not be subject to civil penalties that can be assessed by the Department of Health Services.  No city or county shall adopt an ordinance or regulation inconsistent with this specific provision. 
+CA PENAL CODE § 308 (2006).
+ 
+The Department of Health Services may assess civil penalties against any person, firm, or corporation that sells, gives, or in any way furnishes to another person who is under the age of 18 years tobacco products or tobacco paraphernalia.  Penalties range from $400 to $600 for the first violation to $5,000 to $6,000 for the fifth and subsequent violations within a five-year period.  A person, firm or corporation against whom a civil penalty has been brought can not be prosecuted under section 308 of the California Penal Code (see above).  Civil penalties in this section are assessed against the owner or owners of the business and not the employees.
+CA BUS. &amp; PROF. CODE § 22958 (2008).
+
+The person liable for selling or furnishing tobacco products to minors by a tobacco vending machine shall be the person authorizing the installation or placement of the tobacco vending machine upon premises they manage or otherwise control and under circumstances in which they have knowledge, or should otherwise have grounds for knowledge, that the tobacco vending machine will be utilized by minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA PENAL CODE § 308 (2006).</Citation>
+<Description>Signs must be posted at each point of purchase stating that selling tobacco products to anyone less than 18 years of age is illegal and subject to penalties, and that the law requires that all persons selling tobacco products check the identification of any purchaser of tobacco products who reasonably appears to be under 18 years of age.  The sign shall include a specified toll-free telephone number for persons to report unlawful sales to minors.  Violation is subject to a civil penalty of $200 for the first offense and $500 for subsequent offenses.  A person, firm or corporation against whom a civil penalty has been brought can not be prosecuted under section 308 of the Penal Code.
+CA BUSINESS &amp; PROF CODE §§ 22952 (1994) &amp; 22958 (2008).
+
+Every tobacco retailer shall conspicuously post  in their place of business the notice required above, and unless civil penalties have been assessed under section 22958 of the Business and Professions Code, shall be punished by a fine of $50 for the first offense, $100 for the second offense, $250 for the third offense, and $500 for the fourth and subsequent violations or imprisonment for not more than 30 days. No city or county shall adopt an ordinance or regulation inconsistent with this specific provision.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA PENAL CODE § 308.1 (2011).</Citation>
+<Description>No person shall sell, offer for sale, distribute, or import any tobacco product commonly referred to as &quot;bidis&quot; or &quot;beedies,&quot; unless that tobacco product is sold, offered for sale, or intended to be sold in a business establishment that prohibits the presence of persons under 18 years of age on its premises.  Violators are guilty of a misdemeanor and a civil penalty of up to $2,000.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA PENAL CODE § 308 (2006) &amp; CA BUS. &amp; PROF. CODE § 22952 (1994).</Citation>
+<Description>Every minor who purchases, receives, or possesses any tobacco product or paraphernalia shall be punished by a fine of $75 and 30 hours of community service.  No city or county shall adopt an ordinance or regulation inconsistent with this specific provision.  This does not apply to minors participating in compliance inspections done under the jurisdiction of the state Department of Health Services or other enforcing agency.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA BUS. &amp; PROF. CODE § 22962 (2007).</Citation>
+<Description>It is unlawful for any person engaged in the retail sale of tobacco products or tobacco paraphernalia to sell, offer for sale, or display for sale, tobacco products or tobacco paraphernalia by self-service display.  This shall not apply to the display in a tobacco store of cigars, pipe tobacco, snuff, chewing tobacco, or dipping tobacco, provided that in the case of cigars they are generally not sold or offered for sale in a sealed package of the manufacturer containing less than six cigars.  Violators are subject to the same civil penalties assessed for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA REV. &amp; TAX. CODE § 30101.7 (2011).</Citation>
+<Description>Any person selling, distributing or engaging in the non-sale distribution of tobacco products directly to a consumer in the state through the United States Postal Service or by any other public or private postal or package delivery service, including orders placed by mail, telephone, facsimile transmission, or the Internet, shall comply with the following provisions.  Before distributing or selling the tobacco product through any of these means the distributor, seller or non-sale distributor shall attempt to match the name, address, and date of birth provided by the customer to information contained in records in a database of individuals whose age has been verified to be 18 years or older by reference to an appropriate database of government records kept by the distributor, a direct marketing firm, or any other entity.  They shall also verify that the billing address on the check or credit card offered for payment by the purchaser matches the address listed in the database.  If they are unable to verify that the purchaser is 18 years of age or older the person shall require the customer to submit an age-verification kit consisting of an attestation signed by the customer that they are 18 years of age or older and a copy of a valid form of government identification.  They shall impose a two-carton minimum on each order of cigarettes, and shall require payment for the purchase of any tobacco product to be made by personal check of the purchaser or the purchaser&apos;s credit card.  No money order or cash payment shall be received or permitted.  They shall make a telephone call after 5 p.m. to the purchaser confirming the order prior to shipping the tobacco products.  Finally, they shall deliver the tobacco product to the purchaser&apos;s verified billing address on the check or credit card used for payment.  No delivery described under this section shall be permitted to any post office box.  Violation is subject to civil penalties that range from $1,000 to $2,000 for a first violation to $10,000 for a fifth or subsequent violation within a five-year period.
+CA BUS. &amp; PROF. CODE § 22963 (2008).
+
+Except as provided below, no person may engage in a retail sale of cigarettes in California unless the sale is a vendor-assisted, face-to-face sale.  A person may engage in delivery sale of cigarettes or tobacco products as defined to a person in California if the delivery seller: 1) has fully complied with all of the requirements of Chapter 10A of Title 15 of the United States Code, otherwise known as the Jenkins Act; 2) obtains and maintains an applicable license as specified; 3) complies with any applicable state law that imposes escrow or other payment obligations on tobacco product manufacturers; and 4) complies with any Attorney General reporting requirements as specified.  Violation is a misdemeanor subject to a fine not to exceed $5,000 and/or not to exceed one year in a county jail.  In addition, a civil action may be brought to enforce this law, and violation is subject to a civil penalty of $1,000 to $2,000 for a first violation up to $10,000 for a fifth or subsequent violation within five years.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No broad provision prohibiting local communities from passing stronger laws/ordinances further restricting youth access to tobacco products.  However, section 308 of the California Penal Code does prevent local communities from imposing fines for violation of certain youth access laws higher than in that specific statute.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA HEALTH &amp; SAFETY CODE § 118950 (2008).</Citation>
+<Description>It is unlawful for any person, agent, or employee of a person in the business of selling or distributing smokeless tobacco or cigarettes to engage in the non-sale distribution of such products to any person in any public building, park or playground, or on any public sidewalk, street, or other public grounds or any private property that is open to the general public.   Non-sale distribution is defined as giving smokeless tobacco or cigarettes to the general public at no cost, or at nominal cost, or to give coupons, coupon offers, gift certificates, gift cards, or other similar offers, or rebate offers for smokeless tobacco or cigarettes to the general public at no cost or at nominal cost. Distribution of any of the above in connection with the sale of another item, including tobacco products, cigarette lighters, magazines or newspapers shall not constitute non-sale distribution.  Violators are liable for a civil penalty of not less than $200 for the first violation, $500 for the second violation and $1,000 for each succeeding violation.  This does not apply to public places where minors are prohibited by law.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA REV. &amp; TAX CODE § 30163 (1998).</Citation>
+<Description>A person, firm, corporation or business may not manufacture for sale, distribute, sell or offer to sell any cigarette, except in a package containing at least 20 cigarettes.  A person, firm, corporation or business may not manufacture for sale, distribute, sell or offer to sell any roll-your-own tobacco, except in a package containing at least 0.6 ounces of tobacco.  Violators are liable for a civil penalty of $200 for the first violation and up to $1,000 for subsequent violations.
+CA PENAL CODE § 308.3 (2001).
+
+No stamp or meter impression may be affixed to, or made upon, any package of cigarettes if the package does not comply with all requirements of the Federal Cigarette Labeling and Advertising Act (Title 15 United States Code Section 1331 and following) for the placement of labels, warnings or any other information upon a package of cigarettes that is to be sold within the United States.  Violation is subject to revocation of a distributor&apos;s license and shall constitute unfair competition under Section 17200 of the Business and Professions Code.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No broad provision prohibiting local communities from passing stronger laws/ordinances further restricting sampling or minimum sales amounts of tobacco products.  However, section 308 of the California Penal Code does prevent local communities from imposing fines for violation of certain youth access laws higher than in that specific statute.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA BUS. &amp; PROF. CODE § 22960 (1995).</Citation>
+<Description>Cigarette or tobacco product vending machines may only be located in premises that have been issued an on-sale public premises license to sell alcoholic beverages and must be at least 15 feet away from the entrance to such establishments.  Stronger local ordinances are specifically allowed.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA BUS. &amp; PROF. CODE § 22958 (2008).</Citation>
+<Description>Civil penalties for violation of the restrictions on tobacco product vending machines range from a $400 to $600 fine for the first violation, to a $5,000 to $6,000 fine for the fifth and subsequent violations within five years.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No broad provision prohibiting local communities from passing stronger laws/ordinances further restricting placement of or required sign posting on tobacco product vending machines.  However, section 308 of the California Penal Code does prevent local communities from imposing fines for violation of certain youth access laws higher than in that specific statute.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA REV. &amp; TAX. CODE §§ 30140 et seq. &amp; 30155 et seq. (1979).</Citation>
+<Description>Retailers, distributors, wholesalers, manufacturers and importers must be licensed to sell cigarettes or other tobacco products by the State Board of Equalization.  Selling or purchasing cigarettes or tobacco products to or from any of the above without a license or from any of the above that has had its license suspended or revoked is a misdemeanor punishable by not more than a $5,000 fine, not more than one year in county jail or both.  Failure to display a license by a retailer is a $500 fine.  
+CA BUS. &amp; PROF. CODE §§ 22970 to 22991 (2011).
+
+In addition to the above, wholesalers and distributors must be licensed pursuant to the Revenue and Taxation Code.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA BUS. &amp; PROF. CODE §§ 22970 to 22991 (2008).</Citation>
+<Description>Retailers: One time fee of $100 per location;
+Wholesalers &amp; Distributors: $1,000 per year;
+Manufacturers &amp; Importers of Cigarettes: After January 1, 2004, a fee commensurate with their respective market share of cigarettes manufactured or imported by the manufacturer and sold in California in the next calendar year as estimated by the state Board of Equalization;
+Manufacturers and Importers of Tobacco Products:
+Fee of $10,000 if manufacturing or importing chewing tobacco or snuff; fee of $2,000 if manufacturing or importing any other tobacco product.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA LABOR CODE §§ 96(k) (1999) &amp; 98.6 (2005).</Citation>
+<Description>No person shall discharge an employee or in any manner discriminate against any employee or applicant for employment because the employee or applicant engaged in any conduct delineated in this chapter, including lawful conduct occurring during nonworking hours away from the employer&apos;s premises.  An aggrieved individual shall be entitled to reinstatement and reimbursement for lost wages and work benefits caused by such acts of the employer.  This does not apply to a collective bargaining agreement or contract that protects an employer against any conduct that is actually in direct conflict with the essential enterprise-related interests of the employer and where breach of that contract would actually constitute a material and substantial disruption of the employer&apos;s operation; and a firefighter against any disease that is presumed to arise in the course and scope of employment, by limiting their consumption of tobacco products on and off the job.  This law also does not apply to employers with fewer than five employees, religious organizations and corporations not organized for private profit.</Description>
+<Year>2005</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No tobacco product advertising shall be allowed in any state-owned and state-occupied building except advertising contained in a program, leaflet, newspaper, magazine, or other written material lawfully sold, brought or distributed within a state building.  Advertising is defined as the display of any poster, sign, or other written or visual material that is intended to communicate commercial information or images to the public.
+CA GOVT. CODE § 19994.35 (1993).
+
+No person, firm, corporation, partnership, or other organization shall advertise or cause to be advertised any tobacco products on any outdoor billboard located within 1,000 feet of any public or private elementary school, junior high school, or high school, or public playground.  
+CA BUS. &amp; PROF. CODE § 22961 (1997).
+
+Note: Enforcement of section 22961 of the Business and Professions Code may be affected by the U.S. Supreme Court decision in Lorillard Tobacco Company v. Reilly, decided in 2001.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA HEALTH &amp; SAFETY CODE § 104558 (2003).</Citation>
+<Description>In order to secure and protect the moneys to be received as a result of the Master Settlement Agreement, in civil litigation under any legal theory involving a signatory, successor of a signatory, or an affiliate of a signatory to the Master Settlement Agreement that has not been brought to trial as of the effective date of this section, the amount of the required undertaking, bond, or equivalent surety to be furnished during the pendency of an appeal or any discretionary appellate review of any judgment granting legal, equitable, or any other form of relief in order to stay the execution thereon during the entire course of the appellate review shall be set in accordance with applicable laws and rules of the court, except that the total undertaking, bond, or equivalent surety that is required per case, whether individual, aggregate, or otherwise, of all appellants, collectively, may not exceed 100 percent of the verdict or $150 million whichever is less, regardless of the value of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The rights to all of California’s annual Master Settlement Agreement payments distributed to the state have been sold to the California Infrastructure and Economic Development Bank to obtain a lump sum payment up front.  See Securitization section below for more information.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>762500000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Only preempts the amount of fines localities may impose for violations of certain youth access laws.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for California&apos;s tobacco control program comes from tobacco tax revenues.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2012 Annual Budget (S.B. 87) enacted 6/30/11 and effective 7/1/11.</Citation>
+<Description>California appropriated $70,016,000 for tobacco prevention and cessation programs in FY2012 (July 1, 2011 to June 30, 2012).   In FY2011, $75,037,000 was appropriated.</Description>
+<Year>2012</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>70016000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA HEALTH &amp; SAFETY CODE §§ 14950 to 14960 (2007).</Citation>
+<Description>To help prevent cigarette-caused fires a person shall not sell, offer, or possess for sale in California cigarettes not in compliance with the following requirements: 1) the cigarettes are tested by the manufacturer in accordance with the test method prescribed in subdivision (a) of section 14952 California Health and Safety Code; 2) the cigarettes meet the performance standard specified in subdivision (b) of Section 14952 California Health and Safety Code; 3) the cigarettes meet the marking requirements in Section 14954 California Health and Safety Code; and 4) a written certification is filed by the manufacturer with the State Fire Marshal in accordance with section 14953 California Health and Safety Code.</Description>
+<Year>2007</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA HEALTH &amp; SAFETY CODE §§ 14950 to 14960 (2007).</Citation>
+<Description>Any manufacturer or any other person or entity that knowingly sells or offers to sell cigarettes other than through retail sale in violation of this part is subject to a civil penalty not to exceed $10,000 for each sale.  Any retailer, distributor, or wholesaler that knowingly sells or offers to sell cigarettes in violation of this part is subject to a civil penalty not to exceed $500 for each sale or offer for sale of less than 50 packages of cigarettes and a civil penalty not to exceed $1,000 for a sale or offer for sale of more than 50 packages of cigarettes.  Knowingly making a false certification is subject to a civil penalty of $10,000 in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA BUS. &amp; PROF. CODE § 22956 (1994).</Citation>
+<Description>All persons engaging in the retail sale of tobacco products shall check the identification of tobacco purchasers to establish the age of the purchaser, if the purchaser reasonably appears to be under 18 years of age.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Appropriated $70,016,000 for tobacco prevention and cessation programs in FY2012.
+FY2012 Annual Budget (S.B. 87) enacted 6/30/11 and effective 7/1/11.
+
+Smoking Restrictions/Smokefree College Campuses: Authorizes the University of California, the California State University and the California Community Colleges systems to enforce smoking and tobacco control policies on campuses through citations and fines.  A.B. 795 enacted 10/8/11 and effective 1/1/12.
+
+	Smoking Restrictions/Housing: Allows landlords to prohibit smoking in or on premises of residential dwelling units, subject to federal, state and local requirements and with certain notice provisions.  
+S.B. 332 enacted 9/6/11 and effective 1/1/12.
+
+Tobacco Taxes: For FY2011-2012 only, transfers specified amounts of money from state and local California Children and Families Commission funds to the Children and Families Health and Human Services Fund in the state treasury to be used to provide health and human services to children from birth to age 5.  Fifty cents of cigarette tax revenue is dedicated through a 1998 ballot initiative to the California Children and Families Trust Fund, which provides funding for the state and local children and families commissions.
+A.B. 99 enacted and effective 3/24/11.
+
+	Use of Tobacco Products/Hospitals: Prohibits as a misdemeanor the delivery of tobacco products to a patient in a state hospital if the hospital prohibits the use of tobacco products. 
+S.B. 796 enacted 8/31/11 and effective 1/1/12.</Description>
+<Year>2011</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2011-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Age to Sell Tobacco Products to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>CA GOVT. CODE §§ 63049 to 63049.55 (2007).</Citation>
+<Description>The California Infrastructure and Economic Development Bank is authorized to sell for, and on behalf of, the state, solely as its agent, all or any portion of the tobacco assets from the Master Settlement Agreement (MSA), or any residual interests therein, to a special purpose trust which is hereby established as a not-for-profit corporation solely for that purpose.  The sale of MSA payments may be made all at once or from time to time, and is backed up by state assets if unanticipated revenue shortfalls occur.  Revenue from the sale is deposited in the general fund except that the proceeds from the sale of any residual interests therein shall be deposited in the Tobacco Asset Sales Revenue Fund to be used as specified.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>California</Name>
+<Abbrev>CA</Abbrev>
+<FipsCode>06</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2012 State Funding for Tobacco Control Programs:              $70,016,000
+
+FY2012 Federal Funding for State Tobacco Control Programs: $15,004,191*
+
+FY2012 Total Funding for State Tobacco Control Programs:      $85,020,191
+
+Funding Level Recommended by CDC:                                        $441,900,000
+
+Percentage of CDC-Recommended Level:                                   19.2%
+
+*Includes regular funding from the Centers for Disease Control and Prevention as well as tobacco-related grants to states and communities from federal stimulus and health care reform funds.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>6</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

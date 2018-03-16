@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:52:36">
+<tblStatesALA>
+<ID>26</ID>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<LegislatureHyperlink>#http://www.moga.state.mo.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 191.765 to 191.777 (1992).</Citation>
+<Description>Smoking is restricted to designated areas in public places and at public meetings, see statutes cited below for further details and specific types of places that are covered.  No more than 30 percent of the space of any public place may be designated as a smoking area.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 191.765 to 191.777 (1992).</Citation>
+<Description>Types of places where smoking is allowed without restriction are: 1) rooms or halls used for private social functions under control of the sponsor of the function; 2) limousines and taxicabs where the driver and passengers agree to allow smoking; 3) performers on stage, provided that smoking is part of the performance; 4) tobacco retail stores; 5) bars, taverns, restaurants that seat less than 50 people, bowling alleys and billiard parlors, which post signs saying &quot;Nonsmoking Areas are Unavailable&quot;; and 6) indoor sports arenas/facilities seating more than 15,000 persons.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 191.777 (1993).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Nothing in sections 191.775 and 191.776 shall prohibit local political subdivisions or local boards of education from enacting more stringent ordinances or rules.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 191.765 &amp; 191.767 (1992).</Citation>
+<Description>Smoking is restricted to designated areas in all public buildings.  A designated smoking area where state employees may smoke during the work day shall be provided by each state executive department and institution of higher education, provided an area can be adequately ventilated at minimum cost within the physical confines of each facility.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Description>Use of tobacco products is prohibited entirely in any indoor area of a public elementary or secondary school building or educational facility, excluding institutions of higher learning, and on buses used to transport students any place for educational purposes.  School boards or school districts may set policies on the use of tobacco products on school grounds or in facilities not occupied by students.  
+MO. REV. STAT. § 191.775 (1993).
+
+In educational facilities not covered above, smoking is restricted to designated areas.
+MO. REV. STAT. §§ 191.765 &amp; 191.767 (1992).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 191.776 (1993) &amp; 210.201 (2004).</Citation>
+<Description>Smoking, and the use of other tobacco products, is prohibited in licensed day care facilities during their hours of operation.  &quot;Child care facility&quot;, is defined as a house or other place conducted or maintained by any person who advertises or holds himself out as providing care for more than four children during the daytime, for compensation or otherwise with specified exceptions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>MO. REV.STAT. §§ 191.765 &amp; 191.767 (1992).</Citation>
+<Description>Smoking is restricted to designated areas in health care facilities, health clinics or ambulatory care facilities including, but not limited to, laboratories associated with health care treatment, hospitals, nursing homes, physicians&apos; offices and dentists&apos; offices.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 191.765 to 191.769 (1992).</Citation>
+<Description>The person in charge of a restaurant seating 50 or more people shall designate an area of sufficient size to accommodate usual customer demand for non-smoking areas.  Restaurants seating less than 50 people are exempt from any restrictions on smoking as long as they post signs saying &quot;Nonsmoking Areas are Unavailable.&quot;</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 191.765 to 191.769 (1992).</Citation>
+<Description>Smoking is allowed in bars and taverns as long as they post signs saying &quot;Nonsmoking Areas are Unavailable.&quot;  Bars and taverns are defined as establishments licensed to serve liquor that make no more than 10 percent of their sales from food.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 191.765 to 191.777 (1992).</Citation>
+<Description>The person having custody or control of a public place or public meeting shall: 1) post appropriate signs indicating non-smoking or smoking areas and arrange seating accordingly; 2) arrange seating and utilize available ventilation systems and physical barriers to isolate designated smoking areas; 3) make a reasonable request of persons smoking to move to a designated smoking area; and 4) allow smoking in designated areas of theater lobbies only.  Persons who smoke in a nonsmoking area or proprietors who allow persons to smoke in those areas where smoking is prohibited are guilty of an infraction.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 149.015 (1993).</Citation>
+<Description>Tax rate per pack of 20: 17 cents  
+Date last changed: August 28, 1993 -- from 13 cents to 17 cents
+Year first enacted: 1955</Description>
+<NumericValue>0.17</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 149.015 &amp; 149.015(7) (2002).</Citation>
+<Description>A portion of cigarette tax revenue is deposited in the Health Initiatives Fund and the Fair Share Fund to be used for specific purposes.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>88609000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 149.015(7) (2002).</Citation>
+<Description>The revenue generated by four cents of the cigarette tax imposed effective October 1, 1993 shall be deposited in the Health Initiatives Fund.  When and if the general assembly appropriates an amount equal to 25 percent of the net federal reimbursement allowance to the Health Initiatives Fund, this portion of the cigarette tax sunsets.
+MO. REV. STAT. § 149.015 (2002).
+
+The revenue generated by four cents of the cigarette tax imposed effective August 13, 1982 shall be placed in a separate fund entitled &quot;The Fair Share Fund.&quot; Moneys in the fund shall be distributed to the schools in this state on an average daily attendance basis.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 149.160 (1993).</Citation>
+<Description>All other tobacco products: 10% of the manufacturer&apos;s invoice price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 149.160 (1993).</Citation>
+<Description>All revenue from the tax on tobacco products other than cigarettes is deposited in the Health Initiatives Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 149.160 (1993).</Citation>
+<Description>All revenue from the tax on tobacco products other than cigarettes is deposited in the Health Initiatives Fund.  The tax on other tobacco products will sunset on July 1st following when and if the general assembly appropriates an amount equal to 25 percent of the net federal reimbursement allowance to the Health Initiatives Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1291</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.934 (2014).</Citation>
+<Description>The Division of Liquor Control shall have the authority to inspect stores and tobacco outlets for compliance with all laws related to access of tobacco products, alternative nicotine products or vapor products to minors.  The division may employ a person 17 years of age, with parental consent, to attempt to purchase tobacco for the purpose of inspection or enforcement of tobacco laws.  The Supervisor of the Division of Liquor Control shall establish mandatory guidelines for the use of minors in investigations by a state, county, municipal or other local law enforcement authority.  See the specified statute for details about the mandatory guidelines.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 407.929(4) &amp; 407.931 (2014).</Citation>
+<Description>It shall be unlawful for any person to sell, provide or distribute tobacco products, alternative nicotine products, vapor products (which as defined include most e-cigarettes) or rolling papers to persons under 18 years of age.  This shall not apply to the distribution by family members on property that is not open to the public.  Violation by any person, including but not limited to a sales clerk, owner or operator shall be subject to a fine of $25 for a first offense, $100 for the second offense and $250 for a third and subsequent offenses.  Any owner of the establishment who violates this law, in addition to the penalties above, shall be issued a reprimand for the first violation within two years; shall be prohibited from selling tobacco products, alternative nicotine products or vapor products for 24 hours for a second violation within two years; shall be prohibited from such products for 48 hours for a third violation within two years; and shall be prohibited from selling such products for five days for a fourth and subsequent violation within two years.  Owners shall be exempt from the above penalties if they have an employee compliance training program subject to specific guidelines.  This exemption will not apply to owners who have four or more violations per location within a two year period or knowingly violate the law.  It is an affirmative defense if the person accused reasonably relied on proof of age purporting to establish the person as 18 years of age or older.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 407.927 &amp; 407.931 (2014).</Citation>
+<Description>The owner of an establishments which sells tobacco products, alternative nicotine products or vapor products at retail shall cause to be conspicuously displayed at every display from which tobacco products are sold a sign stating &quot;IT IS A VIOLATION OF STATE LAW FOR CIGARETTES, OTHER TOBACCO PRODUCTS, ALTERNATIVE NICOTINE PRODUCTS OR VAPOR PRODUCTS TO BE SOLD OR OTHERWISE PROVIDED TO ANY PERSON UNDER THE AGE OF 18 OR FOR SUCH PERSON TO PURCHASE, ATTEMPT TO PURCHASE OR POSSESS CIGARETTES, OTHER TOBACCO PRODUCTS, ALTERNATIVE NICOTINE PRODUCTS OR VAPOR PRODUCTS&quot; and shall include a depiction of a pack of cigarettes defaced by a red diagonal diameter of a surrounding red circle, and the words &quot;UNDER 18.&quot;  Violators shall be fined $25 for the first offense, $100 for a second offense and $250 for subsequent offenses.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.933 (2014).</Citation>
+<Description>No person less than 18 years of age shall purchase, attempt to purchase or possess cigarettes, other tobacco products, alternative nicotine products or vapor products as defined unless as part of an employment obligation or for enforcement purposes by the state Division of Liquor Control.  Any person less than 18 years of age shall not misrepresent their age to purchase cigarettes, tobacco products, alternative nicotine products or vapor products.  A person who violates this law is guilty of an infraction and shall have any products confiscated.  For a second violation, in addition to confiscation of the product, the person shall also complete a tobacco education or smoking cessation program, if available.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.928 (2001).</Citation>
+<Description>No person or entity shall sell individual packs of cigarettes or smokeless tobacco products unless they are displayed behind the check-out counter or are within the unobstructed line of sight of the sales clerk or store attendant from the checkout counter.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.926 (2014).</Citation>
+<Description>Any person or entity that sells or distributes tobacco products, alternative nicotine products or vapor products as defined by mail or through the Internet to persons under age 18 shall be assessed a fine of $250 for the first violation and $500 for each subsequent violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.926(3) (2014).</Citation>
+<Description>Alternative nicotine products and vapor products shall only be sold to persons 18 years of age or older, shall be subject to local and state sales tax, but shall not be otherwise taxed or regulated as tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 407.934 et seq. (2001).</Citation>
+<Description>Except as specified below concerning youth tobacco investigations, stronger local laws/ordinances further restricting youth access to tobacco products are allowed.
+
+If the state, county, municipal or other local law enforcement authority uses minors in investigations or in enforcing or determining violations of this chapter or any local ordinance and does not comply with the mandatory guidelines established by the supervisor of the Department of Liquor Control, the supervisor shall not take any disciplinary action against the establishment or seller pursuant to this chapter based on an alleged violation discovered when using a minor and shall not cooperate in any way with the state, county, municipal or other local law enforcement authority in prosecuting any alleged violation discovered when using a minor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.931 (2001).</Citation>
+<Description>Distribution of tobacco products and rolling papers to minors is prohibited.  This subsection shall not apply to the distribution by family members on property that is not open to the public.  Violators shall be fined $25 for the first offense, $100 for a second offense and $250 for subsequent offenses.  In addition, the owner shall be prohibited from selling tobacco products for a specific number of days for multiple violations.  If an employee of a company conducting the sampling distributes a sample, such employee shall be guilty of an offense and responsible for the fine.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 149.200 (2002).</Citation>
+<Description>No person or entity shall sell, provide or distribute any individual cigarettes to any person in this state.  Violators shall be fined $25 for the first offense, $100 for a second offense and $250 for subsequent offenses.  In addition, the owner shall be prohibited from selling tobacco products for a specific number of days for multiple violations. 
+MO REV. STAT. § 407.931 (2001).
+
+It is unlawful for any person to sell or distribute in this state any cigarettes that do not comply with all requirements imposed by or pursuant to federal law and implementing regulations, including but not limited to the permanent imprinting on the primary packaging of the precise package warning labels in the precise format specified in Section Four of the Federal Cigarette Labeling and Advertising Act.  Violation is a Class D felony.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting sampling and minimum sales amounts of tobacco products are allowed.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.931(2) (2014).</Citation>
+<Description>All vending machines that dispense tobacco products, alternative nicotine products, or vapor products shall be located within the unobstructed line of sight and under the direct supervision of an adult responsible for preventing persons under 18 years old from purchasing any product or shall be equipped with a lock-out device to prevent the machine from being operated until the person responsible for monitoring sales from the machines disables the lock.  Such locking devices shall be of a design that prevents them from being left in an unlocked condition and which will allow only a single sale when activated.  A locking device shall not be required in machines located in areas where persons under 18 years old are not permitted or prohibited by law.  This law shall not apply to a vending machine if located in a factory, private club or other location not generally accessible to the public.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.931(4) (2001).</Citation>
+<Description>Any person whose vending machine is not in compliance with the placement provisions above is subject to a fine of $25 for a first offense, $100 for a second offense and $250 for a third and subsequent offenses.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 407.927 &amp; 407.931 (2014).</Citation>
+<Description>Signs shall be conspicuously posted on every vending machine where tobacco products, alternative nicotine products or vapor products are purchased stating &quot;IT IS A VIOLATION OF STATE LAW FOR CIGARETTES, OTHER TOBACCO PRODUCTS, ALTERNATIVE NICOTINE PRODUCTS OR VAPOR PRODUCTS TO BE SOLD OR OTHERWISE PROVIDED TO ANY PERSON UNDER THE AGE OF 18 OR FOR SUCH PERSON TO PURCHASE, ATTEMPT TO PURCHASE OR POSSESS CIGARETTES, OTHER TOBACCO PRODUCTS, ALTERNATIVE NICOTINE PRODUCTS OR VAPOR PRODUCTS&quot; and shall include a depiction of a pack of cigarettes defaced by a red diagonal diameter of a surrounding red circle, and the words &quot;UNDER 18.&quot;  Violators shall be fined $25 for the first offense, $100 for a second offense and $250 for subsequent offenses.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco products vending machines are allowed.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.934 (2014).</Citation>
+<Description>Wholesalers must obtain a license from the Director of the Department of Revenue to sell cigarettes or tobacco products, on or before February 15th of every year.
+MO. REV. STAT. § 149.035 (1993).
+
+No person shall sell cigarettes, tobacco products, alternative nicotine products or vapor products unless the person has a retail sales tax license.  The Department of Revenue shall permit persons to designate through the Internet or by including a place on all sales tax license applications for the applicant to designate themselves as a seller of such products and to provide a list of all locations where the applicant sells such products.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT.  §§ 149.035 (1993) &amp; 144.083 (2004).</Citation>
+<Description>Wholesaler&apos;s License: $100 each year.
+Retail Sales Tax License: No fee</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.931 (2001).</Citation>
+<Description>The owner of an establishment who sells, provides or distributes a tobacco product to a minor shall be prohibited from selling tobacco products for 24 hours for a second violation, for 48 hours for a third violation and five days for a fourth and subsequent violations within two years.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 290.145 (2005).</Citation>
+<Description>It shall be an improper employment practice for an employer to refuse to hire, to discharge, or to otherwise disadvantage any individual with respect to compensation, terms or conditions of employment because the individual uses lawful tobacco products off the premises of the employer during hours such individual is not working for the employer, unless such use interferes with the duties and performance of the employee, the employee&apos;s coworkers, or overall business operation; except that, nothing in this section shall prohibit an employer from providing or contracting for health insurance benefits at a reduced premium rate for employees who do not smoke or use tobacco products.  Religious organizations and nonprofit health promotion organizations are exempt from this section.  The provisions of this section shall not be deemed to create a cause of action for injunctive relief, damages or other relief.</Description>
+<Year>1992</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 512.085 (2003).</Citation>
+<Description>The total appeal bond or equivalent surety required to appeal a lawsuit judgment for a signatory, a successor of a signatory, or an affiliate of a signatory to the Master Settlement Agreement shall be set at $50 million, regardless of the value of the judgment.  If the appellee proves by a preponderance of the evidence that a party bringing an appeal or seeking a stay is purposefully dissipating or diverting assets outside of the ordinary course of its business for the purpose of avoiding ultimate payment of the judgment, the limitation granted may be rescinded and the court may enter such orders as are necessary to prevent dissipation or diversion of the assets.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 196.1100 to 196.1130 (2005).</Citation>
+<Description>Annual Master Settlement Agreement payments are distributed 25 percent to the Life Sciences Research Trust Fund and the remaining 75 percent to the Healthy Families Trust Fund through the annual appropriations process.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>135200000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>There is hereby established in the state treasury the &quot;Life Sciences Research Trust Fund&quot; to be held separate and apart from all other public moneys and funds of the state.  Twenty-five percent of all monies received from the Master Settlement Agreement between Missouri and certain cigarette companies are deposited into the fund starting in FY2007 and each fiscal year thereafter.  Moneys in the fund do not revert to the state general fund at the end of each biennium.  All moneys that are appropriated from the trust fund shall be appropriated to the life sciences research board to increase the capacity for quality of life sciences research at public and private not-for-profit institutions in the state of Missouri as specified.
+MO. REV. STAT. §§ 196.1100 to 196.1130 (2005).
+
+Note: The remaining 75 percent of the annual settlement revenue is directed to the Healthy Families Trust Fund through the annual appropriations process, and used to fund various health and social service programs/services.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Requires state, county, municipal and other local law enforcement authorities to adhere to the mandatory guidelines set out by the Supervisor of Liquor Control when using minors in tobacco retailer compliance inspections.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for tobacco control initiatives in Missouri comes from the state&apos;s annual Master Settlement Agreement payment.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2015 Department of Health and Senior Services Budget (H.B. 2010) enacted 6/24/14 and effective 7/1/14 (some line item vetoes overridden 9/10/14).</Citation>
+<Description>Missouri allocated $70,788 for tobacco prevention initiatives in FY2015 (July 1, 2014 to June 30, 2015) from the state general fund.  In FY2014, $76,364 was allocated.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>70788</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. §§ 320.350 to 320.374 (2011).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection 7 of section 320.353 Missouri Revised Statutes, no cigarettes shall be sold or offered for sale in Missouri or offered for sale or sold to persons located in Missouri unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 320.353 Missouri Revised Statutes; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 320.356 Missouri Revised Statutes; and 3) the cigarettes have been marked in accordance with section 320.359 Missouri Revised Statutes.</Description>
+<Year>2011</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 320.362 (2011).</Citation>
+<Description>A manufacturer, wholesaler, or other person or entity who knowingly sells or offers to sell cigarettes other than through retail sale in violation of the above standard shall be subject to a civil penalty not to exceed $100 for each pack of such cigarettes sold or offered for sale; provided that in no case shall the penalties against any such person or entity exceed $100,000 during any 30-day period.  A retail dealer who knowingly sells or offers to sell cigarettes in violation is subject to the same civil penalty as others above, but the penalty shall not exceed $25,000 during any 30-day period.   Any corporation, partnership, sole proprietorship, limited partnership, or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MO. REV. STAT. § 407.929 (2014).</Citation>
+<Description>A person or entity selling tobacco products, alternative nicotine products, vapor products or rolling papers or distributing samples of such products shall require proof of age from a prospective purchaser or recipient if an ordinary person would conclude on the basis of appearance that such prospective purchaser or recipient may be under the age of 18.  &quot;Proof of age&quot; means a driver&apos;s license or other generally accepted means of identification that contains a picture of the individual and appears on its face to be valid.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Not specifically to sell cigarettes; a retail sales tax license is required.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Not specifically to sell tobacco products; a retail sales tax license is required.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $70,788 for tobacco prevention and cessation initiatives in FY2015.
+FY2015 Department of Health and Senior Services Budget (H.B. 2010) enacted 6/24/14 and effective 7/1/14 (some line item vetoes overridden 9/10/14).
+
+E-Cigarettes/Sales to Minors: Prohibits the sale to and purchase/possession by persons under age 18 of alternative nicotine products and vapor products, which as defined include most e-cigarettes.  Applies virtually all laws limiting youth access to tobacco products to these products.  Requires retailers of the products to get a retail sales tax license.  Prohibits taxation or regulation of e-cigarettes as tobacco products.
+S.B. 841 enacted (by veto override) and effective 9/10/14.
+
+Tobacco Product Sales: Prohibits people receiving Temporary Assistance for Needy Families and Supplementary Nutrition Assistance Program benefits from being used to purchase tobacco products.  Also, prohibits retail stores from knowingly accepting such benefits to purchase tobacco products.
+S.B. 680 enacted 6/20/14 and effective 9/28/14.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $88,609,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Missouri</Name>
+<Abbrev>MO</Abbrev>
+<FipsCode>29</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $70,788 
+
+FY2015 Federal Funding for State Tobacco Control Programs: $2,182,765*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $2,253,553 
+
+Funding Level Recommended by CDC:                                        $72,900,000 
+
+Percentage of CDC-Recommended Level:                                   3.1%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>26</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

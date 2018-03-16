@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-14T11:59:36">
+<tblStatesALA>
+<ID>51</ID>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<LegislatureHyperlink>#http://legisweb.state.wy.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue Collected in Fiscal Year 2009 (July 1, 2008 to June 30, 2009): $22,992,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Wyoming State Govt. Non-Smoking Policy (1989).</Citation>
+<Description>No restrictions on smoking in state law; smoking is restricted in certain government buildings by policy of the Capitol Building Commission, see below.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions on smoking in state law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Description>Smoking is not permitted in any building under control of the Capitol Building Commission except in specially ventilated designated smoking areas.  
+Wyoming State Govt. Non-Smoking Policy (1989).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 39-18-104(a) (2003).</Citation>
+<Description>Tax rate per pack of 20: 60 cents
+Date last changed: July 1, 2003 -- 12 cents to 60 cents
+Year first enacted: 1951</Description>
+<NumericValue>0.6</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 39-18-111 (2005).</Citation>
+<Description>Revenue from cigarette taxes is distributed to cities/counties and the state general fund as specified below.</Description>
+<Year>2009</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>22992000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 39-18-111 (2005).</Citation>
+<Description>Revenue from 33 1/3 percent of 12 cents of the cigarette tax is distributed to incorporated cities and towns and to boards of county commissioners in the proportion the cigarette taxes derived from sales within each incorporated city or town or county bears to total cigarette taxes collected.  The remaining revenue is then distributed 61.75 percent to cities and counties as specified above and 38.25 percent to the state general fund.  The other 48 cents of the cigarette tax is distributed to the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 39-18-104(c) (1989) &amp; 39-18-104(e) (2009).</Citation>
+<Description>Moist snuff: 60 cents for up to an ounce and a proportionate rate on any fractional parts of more than one ounce;
+All other cigars, snuff and other tobacco products:  20% of the wholesale purchase price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 39-18-111 (2005).</Citation>
+<Description>All revenue from the tax on other tobacco products is distributed to the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 14-3-307 (2000).</Citation>
+<Description>The Department of Health, working with local law enforcement agencies and other local individuals and organizations at the discretion of the department, shall be the lead agency to ensure compliance with this article.  To coordinate the enforcement of state statutes relating to the prohibition of the sale of tobacco products to minors and to comply with applicable law, the Department of Health shall have authority to contract with or provide grants to local law enforcement agencies or other local individuals or entities to conduct random, unannounced inspections at retail locations where tobacco products are sold. Minors may be used with written consent of the minor&apos;s parents or guardian, and if specific guidelines for use of minors in such investigations are followed.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 14-3-302 (2000).</Citation>
+<Description>No individual shall sell, offer for sale, give away or deliver tobacco products to any person under the age of 18.  Any individual violating this section is guilty of a misdemeanor punishable by a fine of not more than $50 for a first violation; $250 for a second violation; and $750 for a third or subsequent violation committed within a 24-month period.  The court may allow the defendant to perform community service and be granted credit against their fine and court costs at the rate of $5 for each hour of work performed. 
+WYO. STAT. ANN. § 14-3-302 (2000).
+
+No retailer shall sell, permit the sale, offer for sale, give away or deliver tobacco products to any person less than 18 years of age.  Any person violating this section is guilty of a misdemeanor punishable by the same graduated fines listed for individuals above.  In addition, any retailer violating this section for a third or subsequent time within a two-year period may be prohibited from selling tobacco products for not more than 180 days by court injunction.  It is an affirmative defense to a prosecution under this section that, in the case of a sale, the person who sold the tobacco product was presented with, and reasonably relied upon, an identification card, which identified the person buying or receiving the tobacco product as being over 18 years of age.  No penalty will be enforced for a first violation if the retailer can show it had adopted and enforced a written policy against selling tobacco products to persons under the age of 18 years; informed its employees of the applicable laws regarding the sale of tobacco products to persons under the age of 18 years; required employees to verify the age of tobacco product customers by way of photographic identification or by means of an electronic transaction scan device; and established and imposed disciplinary sanctions for noncompliance.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<Citation>WYO. STAT. ANN.  § 14-3-303 (2000).</Citation>
+<Description>Any person who sells tobacco products shall post signs informing the public of the age restrictions for sales of tobacco products at or near every display of tobacco products.  Each sign shall be plainly visible and shall contain a statement communicating that the sale of tobacco products to persons under 18 years of age is prohibited by law.  Violation is a misdemeanor subject to the same penalties as selling or distributing tobacco products to minors, including possible license suspension.  Each day of continued violation is a separate offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. §§ 14-3-304 &amp; 14-3-305 (2000).</Citation>
+<Description>No person under the age of 18 shall possess, use, purchase or attempt to purchase tobacco products; or misrepresent their identity or age, or use any false or altered identification for the purpose of purchasing or attempting to purchase tobacco products.  Any person violating this section is guilty of a misdemeanor punishable by a fine of not more than $50 for a first violation; not more than $250 for a second violation; and not more than $750 for a third or subsequent violation committed within a 24-month period.  In lieu of the fine, the court may allow the defendant to perform community service or attend a tobacco cessation program and be granted credit against their fine and court costs at the rate of $5 for each hour of work performed or each hour of tobacco cessation program attended.  This does not apply to minors participating in compliance inspections.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN.  §§ 14-3-301 &amp; 14-3-303 (2007).</Citation>
+<Description>No person shall sell or offer tobacco products through a self-service display except in a business where entry by persons under 18 is prohibited.  &quot;Self service display&quot; means any display of tobacco products that is located in an area where customers are permitted and where the tobacco products are readily accessible to a customer without the assistance of a salesperson.  Violation is a misdemeanor, subject to the same penalties as selling or distributing tobacco products to minors, including possible license suspension.  Each day of continued violation is a separate offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 14-3-308 (2000).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are allowed, except for the state laws specified below.
+
+This article shall not be construed to prohibit the imposition by local law or ordinance of further regulation or prohibition upon the sale, use and possession of tobacco products to any person under 18 years of age, but the governmental entity shall not permit or authorize the sale, use or possession of tobacco products to any person under 18 years of age in violation of this article.  No governmental entity shall enact any law or ordinance which changes the standards provided by Wyoming Statutes sections 14-3-302(a) and (c), 14-3-303(a), 14-3-304(a) and 14-3-305(a).</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 14-3-302 (2000).</Citation>
+<Description>No person shall give away or deliver tobacco products to any person under the age of 18.  Violation is a misdemeanor subject to the same penalties as selling or distributing tobacco products to minors, including possible license suspension.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 14-3-308 (2000).</Citation>
+<Description>Stronger local laws/ordinances further restricting where the sampling of tobacco products can occur are allowed, but the age for giving away or delivering tobacco products can not be changed.  Stronger local laws/ordinances restricting minimum sales amounts of tobacco products are allowed as well.
+
+This article shall not be construed to prohibit the imposition by local law or ordinance of further regulation or prohibition upon the sale, use and possession of tobacco products to any person under 18 years of age, but the governmental entity shall not permit or authorize the sale, use or possession of tobacco products to any person under 18 years of age in violation of this article.  No governmental entity shall enact any law or ordinance which changes the standards provided by Wyoming Statutes sections 14-3-302(a) and (c), 14-3-303(a), 14-3-304(a) and 14-3-305(a).</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 14-3-303 (2000).</Citation>
+<Description>Vending machines are restricted to locations in a business, factory, office, or other place not generally open to the public, and in places where persons under 18 are not permitted, including areas where alcoholic beverages are sold or dispensed.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 14-3-303 (2000).</Citation>
+<Description>Violation is a misdemeanor subject to the same penalties as selling or distributing tobacco products to minors, including possible license suspension.  Each day of continued violation is a separate offense.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN.  § 14-3-303 (2000).</Citation>
+<Description>Signs must be posted on or upon every vending machine selling tobacco products.  The signs shall be plainly visible and inform the public that the sale of tobacco products to persons under 18 is prohibited by law.  Violation is a misdemeanor subject to the same penalties as selling or distributing tobacco products to minors including possible license suspension.  Each day of continued violation is a separate offense.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 14-3-308 (2000).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of tobacco product vending machines are allowed, but changing the sign posting requirements for vending machines are not allowed.
+
+This article shall not be construed to prohibit the imposition by local law or ordinance of further regulation or prohibition upon the sale, use and possession of tobacco products to any person under 18 years of age, but the governmental entity shall not permit or authorize the sale, use or possession of tobacco products to any person under 18 years of age in violation of this article.  No governmental entity shall enact any law or ordinance which changes the standards provided by Wyoming Statutes sections 14-3-302(a) and (c), 14-3-303(a), 14-3-304(a) and 14-3-305(a).</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. §§ 39-18-101, 39-18-106 &amp; 39-18-108 (2005).</Citation>
+<Description>Wholesalers, manufacturers and importers must obtain a license to sell tobacco products from the Department of Revenue.  The term wholesaler includes any person who sells or distributes for sale or resale cigarettes over the Internet or through any other means of direct or indirect mail solicitation or delivery.  The license is valid through June 30th of each year and a separate license is required for each place of business for wholesalers.  Selling or distributing tobacco products without a license is a misdemeanor subject to not more than a $100 fine and/or six months in county jail.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 39-18-106 (2005).</Citation>
+<Description>$10 annually for all licenses.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT ANN § 14-3-302 (2000).</Citation>
+<Description>For a third or subsequent violation of the sales to minors&apos; law within a two-year period, the court may grant an injunction against a retailer prohibiting the sale of tobacco products for a period of up to 180 days.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. §§ 27-9-101 et seq. (1992).</Citation>
+<Description>It is a discriminatory or unfair employment practice for an employer to require as a condition of employment that any employee or prospective employee use or refrain from using tobacco products outside the course of their employment, or otherwise to discriminate in matters of compensation or the terms, conditions or privileges of employment, unless it is a bona fide occupational qualification that a person not use tobacco products outside the workplace.  This shall not prohibit an employer from offering, imposing or having in effect a health, disability or life insurance policy distinguishing between employees for type or price of coverage based upon the use or nonuse of tobacco products, with certain conditions.  Any person claiming to be aggrieved by a discriminatory or unfair employment practice may file a complaint with the Department of Employment within 90 days of the alleged violation.  The department may order the respondent to hire, reinstate or upgrade the employee, with or without back pay.</Description>
+<Year>1992</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 9-4-1203 (2000).</Citation>
+<Description>Annual Master Settlement Agreement payments in Wyoming were deposited in a Tobacco Settlement Trust Fund through March 15, 2002 and in a Trust Fund Income Account after that. Money in the Trust Fund Income Account can be spent on specific programs as appropriated by the legislature.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>19500000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 9-4-1203 (2000).</Citation>
+<Description>Wyoming created the Wyoming tobacco settlement trust fund to receive annual payments from the MSA through March 15, 2002.  The principal is to remain forever inviolate, and the interest, and all payments received after March 15, 2002 go to a trust fund income account. The money in this account can be spent on efforts in prevention and cessation of tobacco use through school and community based programs and efforts to establish and implement programs to prevent, intervene in, and otherwise limit alcohol and substance abuse.  This money must be appropriated by the legislature.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Certain state laws restricting youth access to tobacco products cannot be changed by local law/ordinance.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Wyoming&apos;s tobacco control program comes from annual Master Settlement Agreement payments and the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2011-FY2012 Supplemental Appropriations (S.B. 1) enacted 3/2/11 and effective 7/1/11 (FY2012) &amp; 7/1/12 (FY2013).</Citation>
+<Description>Wyoming allocated $5,401,110 for tobacco prevention and cessation programs in FY2012 (July 1, 2011 to June 30, 2012). In FY2011, $5,401,109 was allocated.</Description>
+<Year>2012</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>5401110</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WYO. STAT. ANN. § 9-4-1204 (2000).</Citation>
+<Description>Wyoming directed the Department of Health to develop and implement comprehensive tobacco prevention, cessation and treatment programs for Wyoming, and also instructed the Department of Health to develop and implement a competitive grant program to support efforts to reduce the use of tobacco products by minors. The department shall give priority to the following programs in regard to tobacco use in the state: comprehensive community based programs; public education, including use of media campaigns; youth involvement programs; school and early childhood programs; enforcement of laws related to access to tobacco products by minors; programs to promote the cessation of tobacco use; and programs for the treatment of tobacco-related diseases.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Wyoming has enacted legislation requiring cigarettes sold in Wyoming to self-extinguish when not being smoked based on the performance standard specified in the bill to help prevent cigarette-caused fires.  The law will go into effect on July 1, 2011.
+S.B. 52 enacted 3/8/10 and effective 7/1/11.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No - local license may be required.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No - local license may be required.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $5,401,110 for tobacco prevention and cessation programs in FY2012.
+FY2011-FY2012 Supplemental Appropriations (S.B. 1) enacted and effective 3/2/11 (FY2011) &amp; 7/1/11 (FY2012).</Description>
+<Year>2011</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2011-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Age to Sell Tobacco Products to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Wyoming</Name>
+<Abbrev>WY</Abbrev>
+<FipsCode>56</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2012 State Funding for Tobacco Control Programs:              $5,401,110
+
+FY2012 Federal Funding for State Tobacco Control Programs: $1,305,119*
+
+FY2012 Total Funding for State Tobacco Control Programs:      $6,706,229
+
+Funding Level Recommended by CDC:                                        $9,000,000
+
+Percentage of CDC-Recommended Level:                                   74.5%
+
+*Includes regular funding from the Centers for Disease Control and Prevention as well as tobacco-related grants to states and communities from federal stimulus and health care reform funds.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>51</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

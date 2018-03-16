@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:51:32">
+<tblStatesALA>
+<ID>5</ID>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<LegislatureHyperlink>www.arkleg.state.ar.us#http://www.arkleg.state.ar.us#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 20-27-1801 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in most public places and enclosed areas of places of employment, including almost all restaurants.  See the definition of &quot;public place&quot; and &quot;place of employment&quot; under Arkansas Code section 20-27-1803 for more details on specific types of places covered.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 20-27-1801 et seq. (2015).</Citation>
+<Description>Exceptions to the law include: 1) private residences, except when used as a licensed child care, adult daycare, or health care facility; 2) designated guest smoking rooms in hotels/motels, except in hotels/motels with more than 25 rooms, no more than 20 percent of the rooms may be designated smoking; 3) all workplaces with fewer than three employees that are not public places; 4) a retail tobacco store, if secondhand smoke from the store does not infiltrate into places where smoking is prohibited; 5) areas in or outside long-term care facilities as specified; 6) outdoor areas of places of employment; 7) all workplaces of any manufacturer, importer or wholesaler of tobacco products, of any tobacco leaf dealer or processor and all tobacco storage facilities; 8) all restaurants and bars licensed by the state of Arkansas that prohibit at all times persons less than 21 years of age from entering the premises, if secondhand smoke does not infiltrate into areas where smoking is prohibited; and 9) designated smoking areas on the gaming floor of any franchisee of the Arkansas Racing Commission.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 20-27-1808 (2006).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+The above law is cumulative to and does not prohibit the enactment of any other general or local laws, rules, or regulations of state or local governing authorities or local ordinances prohibiting smoking that are more restrictive than or are in direct conflict with the state law prohibiting smoking in most public places and workplaces.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 22-3-220 (2000).</Citation>
+<Description>Smoking is prohibited in all vehicles and enclosed areas owned, leased, or operated by the state of Arkansas, its agencies and authorities, and any political subdivision of the state, municipal corporation, or local board or authority created by general, local, or special act of the General Assembly or by ordinance or resolution of the governing body of a county or municipal corporation individually or jointly with other political subdivisions or municipalities of the state.
+ARK. CODE ANN. § 20-27-1804 (2006).
+
+Smoking any cigarette, cigar, pipe, or other tobacco product in the state Capitol building is prohibited.  Violation is a misdemeanor punishable by a fine of $25.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 20-27-1804 (2006) &amp; 20-27-1805 (2015).</Citation>
+<Description>Smoking is prohibited in all enclosed areas of places of employment, including common work areas, auditoriums, classrooms, conference and meeting rooms, private offices, elevators, hallways, health care facilities, cafeterias, employee lounges, stairs, restrooms and all other enclosed areas.  The prohibitions on smoking shall be communicated to all current employees by their employer within 30 days of the effective date of this act, and to each prospective employee upon application for employment.  Workplaces with fewer than three employees as long as the workplace is not also a public place; workplaces of any manufacturer, importer, or wholesaler of tobacco products, of any tobacco leaf dealer or processor and all tobacco storage facilities; and outdoor places of employment are all exempt from these requirements.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 20-27-1803 (2015) &amp; 20-27-1804 (2006).</Citation>
+<Description>It is a violation for any person to use a tobacco product, vapor product, alternative nicotine product, or e-liquid product in or on the grounds of any school.  &quot;School&quot; means: Any buildings, parking lots, playing fields, playgrounds, school buses, or other school vehicles; or any off-campus school-sponsored or -sanctioned events with respect to any public, charter, or private school where children attend classes in kindergarten and grades 1-12.
+ARK. CODE ANN. § 26-57-254(b) (2015).
+
+Smoking tobacco, use of tobacco or tobacco products or the use of e-cigarettes as defined is prohibited in or on real property or in or on personal property, including on school buses, owned or leased by a public school district, including a public charter school. A copy of this statute shall be posted in a conspicuous location at every entrance to each building owned or leased by a public school district and every school bus used to transport public school students.  A person who violates this provision commits a violation punishable by a fine of $10 to $100.
+ARK. CODE ANN. § 6-21-609 (2013).
+
+Smoking or the use of e-cigarettes as defined is prohibited on the campus of each state-supported institution of higher education.  &quot;Campus&quot; means all property, including buildings and grounds that are owned or operated by the state-supported institution of higher education.  Any person in violation is guilty of a violation and subject to a fine of $100 to $500.
+ARK. CODE ANN. §§ 6-60-801 to 6-60-807 (2015).
+
+To the extent not covered above, smoking is prohibited in public places, the definition of which includes educational facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 20-78-217 (1997).</Citation>
+<Description>It is a violation for any person to use a tobacco product, vapor product, alternative nicotine product, or e-liquid product in or on the grounds of any child care facility as defined in section 20-78-202 Arkansas Code Annotated.
+ARK. CODE ANN. § 26-57-254(b) (2015).
+
+Smoking is prohibited entirely in all licensed child care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN §§ 20-27-704 et seq. (2013).</Citation>
+<Description>It is a violation for any person to use a tobacco product, vapor product, alternative nicotine product, or e-liquid product in or on the grounds of any healthcare facility as defined in section 20-27-1803 Arkansas Code Annotated.
+ARK. CODE ANN. § 26-57-254(b) (2015).
+
+Smoking is prohibited in public places, the definition of which includes health care facilities.  &quot;Health care facility&quot; is defined as an office or institution providing care or treatment of diseases, whether physical, mental or emotional, or other medical, physiological or psychological conditions, including weight control clinics, homes for the chronically ill, laboratories, and offices of surgeons, chiropractors, physical therapists, physicians, dentists and all specialists within these professions.  This includes the building or buildings in which a medical facility operates, together with all property owned or operated by a medical facility that is contiguous to the building or buildings in which medical services are provided.  Health care facility does not include medical facilities as defined below, psychiatric hospitals or long-term care facilities.  Smoking is allowed in an area of a long-term care facility designated for supervised patient and suprevisory staff smoking or in an outside area of long-term care facilities for visitors and staff that is at least 25 feet away from the primary entrance or opening.
+ARK. CODE ANN. §§ 20-27-1803 (2015) &amp; 20-27-1804 (2006).
+
+Smoking is prohibited in and on the grounds of all medical facilities in the state.  &quot;Medical facilities&quot; are defined as hospitals, including both inpatient and outpatient services, as well as hospital-owned and operated ambulatory surgery centers, free-standing medical clinics and human development centers as defined.  If a treating physician determines that an inpatient&apos;s treatment will be substantially impaired by the denial to that patient of the use of tobacco, the physician may enter a written order permitting the use of tobacco by that patient.  The order shall be consistent with the medical facilities staff bylaws, hospital regulations and any local ordinances.  Violation is a Class C misdemeanor.  Each medical facility shall post signs in prominent places in its facilities and on its property to explain the prohibition of smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 20-27-1801 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes restaurants.  The term restaurant includes the bar area of a restaurant.  Licensed restaurants that do not allow persons under 21 to enter at any time are exempt from these restrictions as long as smoke does not infiltrate into areas where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 20-27-1801 et seq. (2015).</Citation>
+<Description>Smoking is allowed in stand-alone bars as long as they do not allow people under 21 to enter at any time, and smoke does not infiltrate into areas where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Vehicles</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 20-27-1901 to 20-27-1904 (2011).</Citation>
+<Description>Smoking is prohibited in all motor vehicles in which a child who is less than 14 years of age is a passenger.  Violation is subject to a fine not to exceed $25.  Any person who proves to the court that they have entered into a smoking cessation program may have their fine eliminated for a first offense.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>16</SubcategoryDisplayOrder>
+<SubcategoryID>1282</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 20-27-1806, 20-27-1807 &amp; 20-27-1809 (2006).</Citation>
+<Description>&quot;No Smoking&quot; signs may be clearly and conspicuously posted by the owner, operator, manager or other person in control in every public place and place of employment where smoking is prohibited.  The owner, operator, manager, or other person in control of any area where smoking is prohibited shall also remove all ashtrays from the area, unless an ashtray is permanently affixed to an existing structure.  The Department of Health and Human Services and its authorized agents may enforce compliance with this subchapter and any rules and regulations adopted and promulgated under this subchapter by the state Board of Health.  Any person who violates any provision of this subchapter is guilty of a violation and upon conviction shall be punished by a fine of not less than $100 or more than $500.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 26-57-801 (1987).</Citation>
+<Description>Tax rate per pack of 20: $1.15
+Date last changed: March 1, 2009 -- from 59 cents to $1.15
+Year first enacted: 1925
+ARK. CODE ANN. §§ 26-57-208(1) (2009); 26-57-802 (2013); 26-57-803(a) (2009); &amp; 26-57-804 (2009); 26-57-806 (2009) &amp; 26-57-1101 (2007).
+
+Whenever there are two adjoining cities each with a population of 5,000 or more separated by a state line, the tax on cigarettes sold in such adjoining Arkansas city shall be at the rate imposed by law on cigarettes sold in the adjoining city outside of Arkansas not to exceed Arkansas&apos; existing cigarette tax.  This exemption also applies to cigarettes sold in Arkansas within 300 feet of a state line, in any Arkansas city which adjoins a state line, or in any Arkansas city or incorporated town whose corporate limits adjoin an Arkansas border city as defined.  This only applies to retail sales to individuals.  One cent of the cigarette tax is exempted from this requirement.
+ARK. CODE ANN. §§ 26-57-208(1) (2009); 26-57-802 (2013); 26-57-803(a) (2009); &amp; 26-57-804 (2009); 26-57-806 (2009) &amp; 26-57-1101 (2007).
+
+A tax is also levied on the sale of cigarette papers of 25 cents per package of approximately 32 sheets.</Description>
+<NumericValue>1.15</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 19-6-201(6) &amp; (65) (2011).</Citation>
+<Description>All revenue from the tax on cigarettes is considered general revenue.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>193665000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 26-57-208(2); 26-57-803(b); 26-57-805; 26-57-807 &amp; 26-57-1102 (2015).</Citation>
+<Description>Cigars: 68% of the invoice price, before discounts, not to exceed 50 cents per cigar;
+All other tobacco products: 68% of the invoice price, before discounts.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 19-6-201(6) &amp; (65) (2011).</Citation>
+<Description>All revenue from the tax on tobacco products other than cigarettes is considered general revenue.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 5-27-227(c) (2015).</Citation>
+<Description>Pursuant to a Memorandum of Agreement with the Arkansas Department of Health and Human Services - Division of Health (ADHHS-DOH), the Arkansas Tobacco Control Board (ATCB) shall administer the enforcement of youth access laws in Arkansas, including conducting unannounced investigations in retail establishments that sell tobacco products.
+MEMO OF AGREEMENT BETWEEN ADHHS-DOH &amp; ATCB (2009).
+
+Persons under age 18 are allowed to be used in compliance checks for sales of tobacco products, vapor products, alternative nicotine products, or e-liquid products as long as they appear to be under 18 years of age; if asked state their actual age and present their true identification; written consent has been received from a parent or guardian; and the minor is being directed by an employee of the Arkansas Tobacco Control Board or the state Office of Alcohol and Drug Abuse Prevention or an authorized representative of a business acting pursuant to a self-compliance program.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 5-27-227(d) (2015).</Citation>
+<Description>It is unlawful for any person to give, barter or sell tobacco in any form, cigarette paper, or a vapor product, alternative nicotine product, e-liquid product, or any component thereof to a person less than 18 years of age. Violation of the above by a person is a Class A misdemeanor. An employee or owner of an Arkansas retail cigarette and tobacco permit holder in violation while inside the store is subject to a fine of not more than $100 per violation. A retail permit holder or license holder is also subject to penalties from the Arkansas Tobacco Control Board as specified in the paragraph below. 
+ARK. CODE ANN. § 5-27-227(a&amp;i) (2015).
+
+The Arkansas Tobacco Control Board may assess penalties for selling tobacco products, vapor products, alternative nicotine products or e-liquid products to persons under age 18 or other youth access laws as follows: 1) after receipt of a notice from the Board or other enforcing agency as specified, a civil penalty not to exceed $250 for a first violation within a 48-month period; 2) a civil penalty not to exceed $500, and suspension of the permit or license to sell tobacco products for not more than two days for a second violation within a 48-month period; 3) a civil penalty not to exceed $1,000 and suspension of the permit or license to sell tobacco products for not more than seven days for a third violation in a 48-month period; 4) a civil penalty not to exceed $2,000 and suspension of the license or permit to sell tobacco products for a period not to exceed 14 days for a fourth or subsequent violations in a 48-month period; and after five or more violations within a 48 month period, a license or permit may be revoked in addition to any civil penalties. The board shall consider specific factors when reviewing a possible violation, including whether the business has adopted a written policy prohibiting the sale of tobacco products, vapor products, alternative nicotine products or e-liquid products to persons under 18 and has taken other specified actions to reduce illegal sales of these products.  An affirmative defense is available for a retailer or employee of a retailer if they reasonably relied on proof of age when making the sale.
+ARK. CODE ANN. § 26-57-256(d-k) (2015).
+
+A person who sells tobacco in any form; cigarette papers; or a vapor product, alternative nicotine product, e-liquid product, or any component thereof may deny the sale of such products to any person.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 5-27-227(e) (2015).</Citation>
+<Description>Signs must be posted in a conspicuous place by persons who have been issued a permit or license under the Arkansas Tobacco Products Tax Act of 1977 stating that the sale of tobacco products, or vapor products, alternative nicotine products, e-liquid products, or any component thereof to or purchase or possession of such products by a minor is prohibited by law. Violators are subject to the same penalties as for selling or distributing these products to persons under age 18 or for purchase and possession by persons under age 18.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 5-27-233 (c&amp;d) (2013).</Citation>
+<Description>It is unlawful for a persons under age 18 to use, possess, purchase or attempt to purchase tobacco in any form, cigarette papers, or a vapor product, alternative nicotine product, e-liquid product, or any component thereof. It is also unlawful to use falsified identification or someone else&apos;s identification for the purpose of obtaining or attempting to obtain such products. This does not apply if the person under 18 is acting as an agent of a retail permit holder within the scope of employment. This also does not prohibit persons under 18 from participating in compliance checks with state agencies or retail permit holders as specified, provided parental consent is obtained and other specified rules are followed. A tobacco product found in possession of a person under 18 may be confiscated by a certified law enforcement officer or a school official and immediately destroyed. A person under 18 found in violation of any state law and also found to be in possession of a tobacco product may be ordered by the court to perform up to three hours of community service and to enroll in a tobacco education program, in addition to any other punishment.
+ARK. CODE ANN. §§ 5-27-227(b&amp;c) (2015) &amp; 5-78-102 (2011).
+
+It is unlawful for a minor to use or possess or to purchase, or attempt to purchase an e-cigarette as defined or an e-cigarette product.  It is also unlawful to use falsified identification or someone else&apos;s identification for the purpose of obtaining or attempting to obtain e-cigarettes or e-cigarette products.  An e-cigarette or e-cigarette product found in the possession of a minor may be confiscated and destroyed by a law enforcement officer. It is not an offense if the minor was acting as an agent of a business within the scope of employment.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 5-27-227(g) (2015).</Citation>
+<Description>It is unlawful for a person who has been issued a permit or license under the Arkansas Tobacco Products Act of 1977, to sell or distribute a cigarette product; or vapor product, alternative nicotine product, e-liquid product, or any component through a self-service display.  &quot;Self-service display&quot; is defined as a display that contains these products that is located in an area where customers are permitted, and in which the product is readily accessible to a customer without the assistance of a salesperson.  This does not apply to a vending machine for these products in compliance with state law or a retail tobacco store or retail exclusive vapor product or alternative nicotine product store as defined. Violation is subject to the same penalties as for selling or distributing tobacco products to persons under 18.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>It is unlawful for any manufacturer or any person who has been issued a permit or license under the Arkansas Tobacco Products Act of 1977 to distribute free samples or coupons for samples of any tobacco product, vapor product, alternative nicotine product, e-liquid product, or any component thereof to any person under the age of 18 and to anyone in or on any public street or sidewalk within 500 feet of any playground, public school or other facility being used primarily by people under 18.  Violation is subject to the same penalties as for selling or distributing these products to persons under 18.
+ARK. CODE ANN. § 5-27-227(f) (2015).</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ATCB RULES &amp; REGS § 4.2 (2005).</Citation>
+<Description>Cigarettes sold in, into, or from the state shall be in packages of 20 or 25 cigarettes.  The purchase or sale of individual cigarettes is prohibited.
+ARK. CODE ANN. § 26-57-235(d) (2011).
+
+The sale of individual cigarettes or &quot;loosies&quot; is prohibited. Individual cigarettes or &quot;loosies&quot; are defined as any cigarette not contained in its original, unopened pack.  Violation is subject to the same penalties as selling/distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling or minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Tobacco product, vapor product, alternative nicotine product, or e-liquid product vending machines may not be placed in a public places as defined, but are allowed to be placed in: 1) restricted areas within a factory, business, office or other structure to which members of the general public are not given access; 2) in premises that have a permit for the sale of alcoholic beverages for on-site consumption; or 3) places where the vending machine is under the supervision of the owner or their employee.
+ARK. CODE ANN. § 5-27-227(h) (2015).</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 5-27-227(a&amp;i) (2015).</Citation>
+<Description>The owner of a vending machine that violates the restrictions on placement of tobacco product, vapor product, alternative nicotine product, or e-liquid product vending machines is subject to the same penalties as for selling or distributing tobacco products to a person under age 18.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 5-27-227(e) (2015).</Citation>
+<Description>It is unlawful for any person who has been issued a permit or a license under the Arkansas Tobacco Products Tax Act of 1977 to fail to display in a conspicuous manner on any tobacco product, vapor product, alternative nicotine product, or e-liquid product vending machine a sign stating that the sale of such products to or purchase or possession of such products by a minor is prohibited by law. Violators are subject to the same penalties as for selling tobacco products to persons under age 18.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting placement of or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 26-57-203, 26-57-214 to 26-57-233 &amp; 26-57-255 (2015).</Citation>
+<Description>A person shall not deal with, deliver or cause to be delivered to a retailer or consumer, including through vending machines, or otherwise do business in tobacco products, vapor products, alternative nicotine products or e-liquid products as defined in this state without having registered with the Director of Arkansas Tobacco Control and obtained a permit or license for that purpose with one exception for a person purchasing a retail location as specified. A manufacturer, wholesaler, retailer or general vendor who intends to sell these products at or from one or more places of business owned, rented, or leased by it shall obtain a separate license for each such place of business. All permits and licenses expire on the June 30 following the effective date of issuance and must be renewed annually. Buying, selling or otherwise doing business in these products without the appropriate license or permit is a Class A misdemeanor. Licenses or permits may also be suspended or revoked for violation and for vending machines selling these products, violation can also result in seizure of the machine. The Arkansas Tobacco Control Board acts as a rulemaking and adjudicatory body for Arkansas Tobacco Control and is responsible for issuance, suspension and revocation of licenses and permits.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 26-57-219 (2015).</Citation>
+<Description>Retail Cigarette, Tobacco, Vapor Product, and Alternative Nicotine Product Permit: $50;
+Retail Exclusive Vapor Product and Alternative Nicotine Product Permit: $100; 
+Wholesale Cigarette/Other Tobacco, Vapor Product or Alternative Nicotine Product Permit: $500;
+General Tobacco Products, Vapor Products and Alternative Nicotine Products Vending Permit: $100;
+Tobacco Products, Vapor Products and Alternative Nicotine Products Vending Machine License: $10 per machine
+Manufacturers Cigarette/Tobacco, Vapor Product and Alternative Nicotine Product permit: $500;
+Upon failure to timely renew a license or permit a late fee of two times the amount of the fees above shall be owed.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 26-57-256(d-k) (2015).</Citation>
+<Description>Retail permit or license holders that sell tobacco products, vapor products, alternative nicotine products, e-liquid products or any components thereof to persons under age 18 shall be guilty of a violation and in addition to fines shall have their license or permit suspended for a period not to exceed two days for a second violation within a 48-month period, not to exceed seven days for a third violation within a 48-month period, and not to exceed 14 days for a fourth violation within a 48-month period.  After five violations within a 48-month period, a license or permit may be revoked.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. § 16-55-214 (2005).</Citation>
+<Description>Appeal bonds shall be determined under Arkansas Code section 16-68-301 et seq., and Arkansas Rules of Appellate Procedure - Civil, Rule 8, except that the maximum appeal bond that may be required in any civil action under any legal theory shall be limited to $25 million, regardless of the amount of the judgment.  If a party proves by a preponderance of the evidence that the party who has posted a bond is purposely dissipating or diverting assets outside of the ordinary course of its business for the purpose of evading ultimate payment of the judgment, the court may enter orders as are necessary to prevent dissipation or diversion, including requiring that a bond be posted equal to the full amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 19-12-101 et seq. (2015).</Citation>
+<Description>Annual Master Settlement Agreement payments in Arkansas are deposited in a separate special fund, and distributed based on Initiated Act 1, approved by voters in 2000, including 31.6 percent dedicated to the state tobacco control program after an initial $5 million transfer to another purpose.  This percentage was reduced to 27.2 percent by legislation approved in 2015.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>50500000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 391 enacted 4/1/15 and effective 7/1/15.</Citation>
+<Description>Initiated Act 1 was passed in November 2000 by the voters of Arkansas, which created a fund, held separate from the state Treasury, known as the Tobacco Settlement Cash Holding Fund, to be administered by the state Board of Finance. All monies received as part of the Master Settlement Agreement (MSA) were directed to this fund. Beginning in 2002, tobacco settlement payments shall be distributed as follows: the first $5 million received in each calendar year shall be transferred to the Tobacco Settlement Debt Service Fund; and the amounts remaining shall be transferred to the Tobacco Settlement Program Fund. The funds in the Tobacco Settlement Program Fund will then be distributed as follows: 27.2 percent will go to the Prevention and Cessation program account to fund tobacco prevention and cessation programs administered by the Arkansas Department of Health, 15.8 percent to the Targeted State Needs program account, 22.8 percent to the Arkansas Biosciences Institute program account and 34.2 percent to the Medicaid Expansion program account.
+ARK. CODE ANN. §§ 19-12-101 to 19-12-119 (2015).
+
+Note: Under legislation approved in 2015, the percentage of MSA dollars going to the Prevention and Cessation Program Account was reduced from 31.6 percent to 27.2 percent and the percentage going to the Medicaid Expansion program account was increased from 29.8 percent to 34.2 percent.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Arkansas&apos; tobacco control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2015 Tobacco Prevention and Control Program Budget (H.B. 1055) enacted 2/25/14 and effective 7/1/14.</Citation>
+<Description>Arkansas allocated $16,767,665 for tobacco control and prevention programs in FY2015 (July 1, 2014 to June 30, 2015). In FY2014, $17,484,730 was allocated.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>16767665</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE. ANN. §§ 20-27-2101 to 20-27-1112 &amp; 19-6-811 (2013).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in section 20-27-2104(h) Arkansas Code, cigarettes shall not be offered for sale in Arkansas or offered for sale or sold to persons located in Arkansas unless: (1) The cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 20-27-2104 Arkansas Code; (2) a written certification has been filed by the manufacturer with the Director of the Arkansas Tobacco Control Board under Section 20-27-2105 Arkansas Code; and (3) the cigarettes have been marked in accordance with Section 20-27-2106 Arkansas Code.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE. ANN. §§ 20-27-2101 to 20-27-1112 (2013) &amp; 19-6-811 (2010).</Citation>
+<Description>A manufacturer, wholesaler, or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above requirements is subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties may not exceed $100,000 in any 30-day period.  A retail dealer is subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding:  Allocated $16,767,665 for tobacco prevention and cessation programs in FY2015.
+FY2015 Tobacco Prevention and Control Program Budget (H.B. 1055) enacted 2/25/14 and effective 7/1/14.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARK. CODE ANN. §§ 19-12-201 et seq. (2006).</Citation>
+<Description>Initiated Act 1 also directed the Arkansas Development Finance Authority (ADFA) to issue Tobacco Settlement Revenue Bonds, the proceeds of which shall be used to finance capital improvement projects at the University of Arkansas School for Medical Sciences Biosciences Research Building, the Arkansas State University Biosciences Research Building, the School of Public Health, and such other capital improvement projects related to the provision of health care services, health education, or health-related research as may be designated by the General Assembly.
+ARK. CODE ANN. § 19-12-106 (2000).
+
+The Arkansas Cancer Research Center of the University of Arkansas for Medical Sciences is designated as a Capital Improvement Project relating to health care services, health education, or health-related research for which tobacco settlement revenue bonds can be issued.  Additional tobacco settlement revenue bonds can be issued under the following conditions: no more than $5 million per year may be used on debt service for the project, allocation to debt service on the project shall not commence until the bonds issued in 2001 are no longer outstanding and no more than $40 million in bonds may be issued for the project.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $193,665,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arkansas</Name>
+<Abbrev>AR</Abbrev>
+<FipsCode>05</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $16,767,665 
+
+FY2015 Federal Funding for State Tobacco Control Programs: $2,084,966*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $18,852,631 
+
+Funding Level Recommended by CDC:                                        $36,700,000
+
+Percentage of CDC-Recommended Level:                                   51.4%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>5</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

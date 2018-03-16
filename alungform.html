@@ -1,0 +1,1189 @@
+<!doctype html>
+<html>
+<head>
+<title>Submit a Question to the Lung HelpLine</title>
+
+<link href="https://fonts.googleapis.com/css?family=Lato:400,400italic,700,900' rel='stylesheet" type="text/css">
+
+<style type="text/css">
+body {
+	font-family: 'Lato', sans-serif;
+    color: #555559;
+    -webkit-text-size-adjust: 100%;
+	line-height: 1;
+	margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+    color: #555559;
+	font-size: 18px;
+    line-height: 30px;
+	margin: 0;
+	margin-bottom: 20px;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+a {
+	color: #3a75c4;
+    text-decoration: none;
+	white-space: nowrap;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+i, em {
+    font-style: italic;
+}
+
+#support.helpline .form-item label .required {
+    color: #ed1b2d;
+}
+
+#support.helpline .form-item fieldset {
+    margin-bottom: 25px;
+	border: 0;
+    min-width: inherit;
+    display: block;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-before: 0;
+    -webkit-padding-start: 0;
+    -webkit-padding-end: 0;
+    -webkit-padding-after: 0;
+}
+
+#support.helpline .form-item fieldset legend {
+    width: inherit;
+	font-family: 'Lato', sans-serif;
+	color: #555559;
+	font-size: 20px;
+    font-weight: 700;
+    display: block;
+    vertical-align: top;
+    margin-right: 10px;
+    text-indent: 0px;
+    margin-top: 5px;
+    line-height: 28px;
+}
+
+#support.helpline .form-item label {
+    width: inherit;
+	font-family: 'Lato', sans-serif;
+	color: #555559;
+	font-size: 20px;
+    font-weight: 700;
+    display: block;
+    vertical-align: top;
+    margin-right: 10px;
+    text-indent: 0px;
+    margin-top: 5px;
+    line-height: 28px;
+}
+
+#support.helpline .form-item input[type="text"].form-text {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    color: #555559;
+    font-weight: 400;
+    width: 58%;
+    margin: 10px 0 30px 0;
+    padding: 6px 10px 7px;
+    border-radius: 0px;
+    border: 1px solid #a3a9ac;
+    -webkit-appearance: none;
+    position: relative;
+}
+
+#support.helpline .form-item textarea.form-textarea {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    color: #555559;
+    font-weight: 400;
+    width: 58%;
+    height: 150px;
+    margin: 10px 0 30px 0;
+    padding: 6px 10px 7px;
+    border-radius: 0px;
+    border: 1px solid #a3a9ac;
+    -webkit-appearance: none;
+    overflow: auto;
+    resize: none;
+    position: relative;
+}
+
+#support.helpline .form-item select {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    color: #555559;
+    font-weight: 400;
+    width: 60%;
+    margin: 10px 0 30px 0;
+    padding: 6px 35px 6px 10px;
+    border-radius: 0px;
+    border: 1px solid #a3a9ac;
+    -webkit-appearance: none;
+    background: url('http://www.lung.org/images/select-arrow.png') no-repeat right;
+    position: relative;
+    -moz-appearance: none;
+}
+
+#support.helpline #webform-component-birthday.form-item fieldset > span select {
+    width: 150px;
+    left: 0;
+	margin: 10px 5px 10px 0;
+}
+
+#support.helpline #webform-component-birthday.form-item fieldset > span:last-child select {
+    width: 155px;
+    left: 0;
+	margin: 10px 0 10px;
+}
+
+#support.helpline #webform-component-receive-call.form-item > span > select {
+    width: inherit;
+    margin: 10px 0;
+    display: inline-block;
+    left: 10px;
+}
+
+#support.helpline .form-item input[type="radio"].form-radio {
+    margin: 15px 5px 0 40px;
+    border-radius: inherit;
+    -webkit-appearance: radio;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#support.helpline .form-item input[type="radio"].form-radio:first-of-type {
+    margin: 15px 5px 0;
+}
+
+
+#support.helpline .form-item fieldset label {
+    font-family: 'Lato', sans-serif;
+	color: #555559;
+	display: inline-block;
+    font-weight: 400;
+    padding: 0;
+}
+
+#support.helpline .form-item legend .required {
+    color: #ed1b2d;
+}
+
+#support.helpline .form-item .other {
+    position: relative;
+    top: -20px;
+}
+
+#support.helpline .form-item .other span {
+    font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	color: #555559;
+	margin-left: 61px;
+    margin-right: 10px;
+}
+
+#support.helpline #webform-component-birthday.form-item fieldset > span {
+    display: block;
+    position: relative;
+    width: inherit;
+    float: left;
+    margin-right: 5px;
+}
+
+#support.helpline #webform-component-birthday.form-item fieldset > span label {
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#support.helpline #webform-component-association.form-item label.error {
+    vertical-align: bottom;
+    margin-bottom: 1px;
+    display: inline-block;
+}
+
+#support.helpline .form-item input[type="submit"].button.blue {
+    font-family: 'Lato', sans-serif;
+    background-color: #3A75C4;
+    border: 0 none;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    width: 160px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px 10px 0;
+    padding: 0 20px;
+    cursor: pointer;
+    position: relative;
+    left: 30px;
+}
+
+#support.helpline .form-item label.captcha {
+	margin-top: 30px; 
+	text-indent: 0;
+}
+
+#support.helpline #webform-component-captcha.form-item label {
+	width: 160px;
+}
+
+#support.helpline .form-item .captchaContainer img#captcha-image {
+	max-width: 200px; 
+	width: inherit; 
+	display: inline-block; 
+	margin: 10px 10px 10px 0; 
+	position: relative; 
+}
+
+#support.helpline .form-item .captchaContainer a.captchaLink {
+	display: inline-block; 
+	position: relative; 
+	left: 50px; 
+	top: -10px;
+}
+
+#support.helpline #webform-component-verify-captcha.form-item .form-item-submitted-verify-captcha-yes {
+	display: inline-block; 
+	background-color: #f6f8f9; 
+	vertical-align: top; 
+	margin: 20px 0px; 
+	border: 1px solid #dfe1e2; 
+	padding: 20px 35px 25px 30px; 
+	width: 53%;  
+	max-width: none; 
+	position: relative; 
+}
+
+#support.helpline #webform-component-verify-captcha.form-item #captcha {
+	top: 18px; 
+	float: left; 
+	width: 20px; 
+	position: relative; 
+	display: inline-block;
+}
+
+#support.helpline #webform-component-verify-captcha.form-item .form-item-submitted-verify-captcha-yes label.wrapable {
+	margin-right: 0px; 
+	font-size: 18px; 
+	line-height: 30px; 
+	display: inline-block; 
+	font-weight: 400; 
+	margin-bottom: 8px; 
+	left: 5px; 
+	position: relative; 
+	width: 90%;
+	max-width: none; 
+	float: left; 
+	margin-top: 12px; 
+	padding-left: 5px;
+}
+
+#support.helpline .form-item label.error {
+	width: auto !important; 
+	display: inline-block; 
+	color: #ed1e2f; 
+	border-radius: 0; 
+	margin-bottom: 0; 
+	min-width: 200px; 
+	max-width: 200px; 
+	margin-left: 15px; 
+	font-family: 'Lato', sans-serif !important; 
+	margin-right: 0 !important; 
+	font-size: 14px !important; 
+	font-weight: 400; 
+	float: none; 
+	line-height: 21px; 
+	margin-top: -4px; 
+	vertical-align: middle;
+}
+
+#support.helpline #webform-component-birthday.form-item label.error {
+    min-width: 250px;
+    max-width: 250px;
+    display: block;
+    float: left;
+    margin-left: 0;
+    vertical-align: top;
+    margin-top: 5px;
+    position: relative;
+    left: 0;
+}
+
+#support.helpline #webform-component-receive-call.form-item label.error, #support.helpline #webform-component-receive-email.form-item label.error, #support.helpline #webform-component-receive-print.form-item label.error, #support.helpline #webform-component-association.form-item label.error {
+    vertical-align: bottom;
+    margin-bottom: 1px;
+    display: inline-block;
+}
+
+#support.helpline .form-item input[type="submit"].button.blue:hover {
+    background-color: #bad80a;
+}
+
+input:focus::-webkit-input-placeholder {
+	color: transparent;
+}
+
+input:focus:-moz-placeholder { /* Firefox 18- */
+	color: transparent;
+}
+
+input:focus::-moz-placeholder { /* Firefox 19+ */
+    color: transparent;
+}
+
+input:focus:-ms-input-placeholder { /* oldIE ;) */
+	color:transparent;
+}
+
+textarea:focus::-webkit-input-placeholder {
+	color:transparent;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+	color: #817f7e;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+	color: #817f7e;
+}
+
+:-ms-input-placeholder { /* IE 10+ */
+	color: #817f7e;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+	color: #817f7e;
+}
+
+@media (max-width: 1024px) {
+	#support.helpline .form-item label p, #support.helpline .form-item input[type="text"].form-text, #support.helpline .form-item textarea.form-textarea {
+		/*width: 400px;*/
+	}
+	
+	#support.helpline .form-item select, #support.helpline .form-item select[multiple].form-select {
+		/*width: 422px;*/
+	}
+	
+	#support.helpline #webform-component-birthday.form-item fieldset > span select {
+		width: 140px;
+	}
+}
+
+@media (max-width: 800px) {
+	#support.helpline .form-item label p, #support.helpline .form-item input[type="text"].form-text, #support.helpline .form-item textarea.form-textarea {
+		/*width: 300px;*/
+	}
+	
+	#support.helpline .form-item select, #support.helpline .form-item select[multiple].form-select {
+		/*width: 322px;*/
+	}
+	
+	#support.helpline .form-item label.normal {
+		display: block; 
+		text-indent: 20px;
+	}
+	
+	#support.helpline .form-item label.normal.block {
+		text-indent: 0px;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item fieldset > span select {
+		width: 110px;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item label.error {
+		min-width: 200px;
+		max-width: 200px;
+	}
+}
+
+@media (max-width: 768px) {
+	#support.helpline .form-item label p, #support.helpline .form-item input[type="text"].form-text, #support.helpline .form-item textarea.form-textarea {
+		/*width: 450px;*/
+	}
+	
+	#support.helpline .form-item select, #support.helpline .form-item select[multiple].form-select {
+		/*width: 472px;*/
+	}
+	
+	#support.helpline #webform-component-birthday.form-item fieldset > span select {
+		width: 100px;
+	}
+}
+
+@media (max-width: 567px) {
+	p {
+	font-size: 14px;
+    line-height: 24px;
+}
+
+	#support.helpline #byDisease label, #support.helpline #byState label {
+		font-size: 16px;
+	}
+
+	#support.helpline #byDisease select, #support.helpline #byState select {
+		font-size: 15px;
+	}
+	
+	#support.helpline #finder {
+		padding: 20px 18px 20px; margin: 20px 0;
+	}
+	
+	#support.helpline #finder .inner {
+		padding: 25px 25px 25px; width: calc(100% - 52px);
+	}
+	
+	#support.helpline .form-item label p, #support.helpline .form-item input[type="text"].form-text, #support.helpline .form-item textarea.form-textarea {
+		/*width: 300px;*/
+	}
+	
+	#support.helpline .form-item select, #support.helpline .form-item select[multiple].form-select {
+		/*width: 322px;*/
+	}
+	
+	#support.helpline .form-item label, #support.helpline .form-item fieldset legend {
+		font-size: 16px; 
+		line-height: 24px;
+		padding-left: 0;
+	}
+	
+	#support.helpline .form-item label p, #support.helpline .form-item label.normal, #support.helpline .form-item .sub-label, #support.helpline .form-item .start-date, #support.helpline .form-item .end-date {
+		font-size: 16px; 
+		line-height: 24px;
+	}
+	
+	#support.helpline .form-item input[type="text"].form-text, #support.helpline .form-item input[type="text"].form-text.date, #support.helpline .form-item textarea.form-textarea, #support.helpline .form-item select, #support.helpline .form-item select[multiple].form-select {
+		font-size: 14px;
+		position: inherit;
+		left: 0;
+		margin: 10px 0 20px;
+	}
+	
+	#support.helpline .form-item input[type="radio"].form-radio {
+		margin: 12px 5px 0 0;
+	}
+	
+	#support.helpline .form-item input[type="submit"].button.red {
+		font-size: 16px; 
+		width: 110px; 
+		height: 40px; 
+		line-height: 40px; 
+		padding: 0 10px;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item fieldset > span label {
+		font-size: 14px; 
+		line-height: 18px;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item fieldset > span select {
+		/*width: 103px;*/
+	}
+	
+	#support.helpline .form-item label.error {
+		margin-bottom: 20px;
+		margin-top: -10px;
+		margin-left: 0;
+		padding-left: 0;
+		display: block;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item fieldset > span {
+		position: inherit;
+		left: 0;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item label.error {
+		margin-top: -10px !important;
+		margin-left: 0;
+		padding-left: 0;
+		min-width: 300px;
+		max-width: 300px;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item label.error:first-of-type {
+		margin-top: 5px !important;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item label.error:last-child {
+		margin-bottom: 0 !important;
+	}
+	
+	#support.helpline #webform-component-receive-call.form-item label.error, #support.helpline #webform-component-receive-email.form-item label.error, #support.helpline #webform-component-receive-print.form-item label.error, #support.helpline #webform-component-association.form-item label.error {
+		vertical-align: bottom; 
+		margin-bottom: 0; 
+		display: block; 
+		margin-top: 5px; 
+		padding-left: 0;
+	}
+	
+	#support.helpline #webform-component-verify-captcha.form-item .form-item-submitted-verify-captcha-yes {
+		margin: 0; 
+		padding: 10px 17px 12px 15px;
+		position: inherit;
+		left: 0;
+		width: 56%;;
+	}
+	
+	#support.helpline #webform-component-verify-captcha.form-item .form-item-submitted-verify-captcha-yes label.wrapable {
+		font-size: 14px; 
+		line-height: 24px; 
+		width: 85%;
+	}
+}
+
+@media (max-width: 480px) {
+	#support.helpline .form-item input[type="text"].form-text {
+		width: 90%;
+	}
+}
+
+@media (max-width: 414px) {
+	#support.helpline .form-item label, #support.helpline .form-item fieldset legend {
+		padding-left: 0;
+	}
+	
+	#support.helpline #byDisease select, #support.helpline #byState select {
+		font-size: 14px;
+	}
+	
+	#support.helpline .form-item label p, #support.helpline .form-item input[type="text"].form-text, #support.helpline .form-item textarea.form-textarea {
+		/*width: 85%; width: calc(100% - 40px); width: -webkit-calc(100% - 40px); width: -moz-calc(100% - 40px);*/ left: 0;
+	}
+	
+	#support.helpline .form-item select, #support.helpline .form-item select[multiple].form-select {
+		/*width: 85%; 
+		width: calc(100% - 20px); 
+		width: -webkit-calc(100% - 20px); 
+		width: -moz-calc(100% - 20px);*/
+		left: 0;
+	}
+	
+	#support.helpline .form-item select {
+		padding: 7px 35px 7px 10px;
+	}
+	
+	#support.helpline .form-item select[multiple].form-select {
+		-webkit-appearance: inherit;
+	}
+	
+	#support.helpline .form-item label.normal {
+		vertical-align: middle; 
+		margin: 10px 10px 10px 0; 
+		padding-left: 45px;
+	}
+	
+	#support.helpline .form-item input[type="radio"].form-radio {
+		margin: 10px 5px 0 0; 
+		border-radius: 20px;
+	}
+	
+	#support.helpline #webform-component-receive-call.form-item label, #support.helpline #webform-component-receive-email.form-item label, #support.helpline #webform-component-receive-print.form-item label, #support.helpline #webform-component-association.form-item label {
+		padding-left: 0;
+	}
+	
+	#support.helpline #webform-component-receive-call.form-item label.error, #support.helpline #webform-component-receive-email.form-item label.error, #support.helpline #webform-component-receive-print.form-item label.error, #support.helpline #webform-component-association.form-item label.error {
+		padding-left: 0;
+	}
+	
+	#support.helpline #webform-component-verify-captcha.form-item .form-item-submitted-verify-captcha-yes {
+		left: 0; 
+		/*width: calc(100% - 55px); 
+		width: -webkit-calc(100% - 55px); 
+		width: -moz-calc(100% - 55px);*/
+	}
+	
+	#support.helpline #webform-component-verify-captcha.form-item .form-item-submitted-verify-captcha-yes label.wrapable {
+		/*width: 87%;*/
+	}
+	
+	#support.helpline .form-item .captchaContainer img#captcha-image {
+		display: block; 
+		margin: 10px 10px 20px 0
+	}
+	
+	#support.helpline .form-item .captchaContainer a.captchaLink {
+		display: block; 
+		position: top: 0;
+	}
+	
+	#support.helpline .form-item input[type="submit"].button.red {
+		margin: 0 10px 0;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item fieldset > span {
+		left: 0;
+	}
+	
+	#support.helpline #webform-component-birthday.form-item fieldset > span select {
+		/*width: 100%;*/
+	}
+	
+	#support.helpline #webform-component-birthday.form-item label.error {
+		padding-left: 0;
+	}
+	
+	#support.helpline .form-item input[type="submit"].button.blue {
+		left: 0;
+	}
+}
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+      <!--
+      function isNumberKey(evt)
+      {
+         var charCode = (evt.which) ? evt.which : event.keyCode
+         if (charCode > 31 && (charCode < 48 || charCode > 57))
+            return false;
+
+         return true;
+      }
+      //-->
+ </script>
+
+</head>
+
+<body>
+<p>Submit your question online to The American Lung Association HelpLine staff. Upon receiving your question a staff member will seek out the answers and respond via email. To submit your question please complete the form below.</p>
+<p>If you'd prefer to speak directly to a staff member you may call <a href="tel:18005864872">1-800-LUNG-USA</a> during regular business hours.</p>
+<p><em>Required fields are marked with an asterisk (*).</em></p>
+
+<div id="support" class="helpline">
+<form class="webform-client-form hideSubmitButton-processed" method="post" action="" id="SignUpForm" name="SignUpForm" onsubmit="if (this.verifycheckbox.checked == false) { alert ('You must verify that the information provided is correct and that no attempt to spam is being made.'); return false; } else { return true; }">
+
+<div class="form-item" id="webform-component-association">
+<fieldset>
+<legend class="surveyLegend Explicit"><span>Are you associated with a business or corporation?</span><span class="required">*</span></legend>
+<span class="NetscapeFix form-radio-wrapper">
+<input type="radio" name="Corporatenote" class="form-radio" value="Yes" /> <label class="wrapable" for="Corporatenote">Yes</label> <input type="radio" name="Corporatenote" class="form-radio" value="No" /> <label class="wrapable" for="Corporatenote">No</label>
+ </span>
+</fieldset>
+</div>
+
+<div class="form-item" id="webform-component-firstname">
+<label for="FirstName">First Name<span class="required">*</span></label><input type="text" name="FirstName" id="FirstName" value="" placeholder="required" autofocus class="form-text required" size="32" maxlength="50">
+</div>
+
+<div class="form-item" id="webform-component-lastname">
+<label for="LastName">Last Name<span class="required">*</span></label><input type="text" name="LastName" id="LastName" value="" placeholder="required" autofocus class="form-text required" size="32" maxlength="50" />
+</div>
+
+<div class="form-item" id="webform-component-address1">
+<label for="Address1">Address</label><input type="text" name="Address1" id="Address1" value=""  class="form-text" size="32" maxlength="128">
+</div>
+
+<div class="form-item" id="webform-component-city">
+<label for="City">City<span class="required">*</span></label><input type="text" name="City" id="City" value="" placeholder="required" autofocus class="form-text required" size="32" maxlength="64" />
+</div>
+
+<div class="form-item" id="webform-component-state">
+<label for="State">State<span class="required">*</span></label>
+<select name="State" id="State" size="1" class="form-select">
+<option></option>
+<option value="AK">AK</option>
+<option value="AL">AL</option>
+<option value="AR">AR</option>
+<option value="AZ">AZ</option>
+<option value="CA">CA</option>
+<option value="CO">CO</option>
+<option value="CT">CT</option>
+<option value="DC">DC</option>
+<option value="DE">DE</option>
+<option value="FL">FL</option>
+<option value="GA">GA</option>
+<option value="HI">HI</option>
+<option value="IA">IA</option>
+<option value="ID">ID</option>
+<option value="IL">IL</option>
+<option value="IN">IN</option>
+<option value="KS">KS</option>
+<option value="KY">KY</option>
+<option value="LA">LA</option>
+<option value="MA">MA</option>
+<option value="MD">MD</option>
+<option value="ME">ME</option>
+<option value="MI">MI</option>
+<option value="MN">MN</option>
+<option value="MO">MO</option>
+<option value="MS">MS</option>
+<option value="MT">MT</option>
+<option value="NC">NC</option>
+<option value="ND">ND</option>
+<option value="NE">NE</option>
+<option value="NH">NH</option>
+<option value="NJ">NJ</option>
+<option value="NM">NM</option>
+<option value="NV">NV</option>
+<option value="NY">NY</option>
+<option value="OH">OH</option>
+<option value="OK">OK</option>
+<option value="OR">OR</option>
+<option value="PA">PA</option>
+<option value="RI">RI</option>
+<option value="SC">SC</option>
+<option value="SD">SD</option>
+<option value="TN">TN</option>
+<option value="TX">TX</option>
+<option value="UT">UT</option>
+<option value="VA">VA</option>
+<option value="VT">VT</option>
+<option value="WA">WA</option>
+<option value="WI">WI</option>
+<option value="WV">WV</option>
+<option value="WY">WY</option>
+<option value="None">None</option>
+</select>
+</div>
+
+<div class="form-item" id="webform-component-zip">
+<label for="ZIPCode">Zip Code<span class="required">*</span></label><input type="text" name="ZIPCode" id="ZIPCode" value="" placeholder="required" autofocus class="form-text required" size="15" maxlength="40" />
+</div>
+
+<div class="form-item" id="webform-component-phone">
+<label for="Phone">Telephone<span class="required">*</span></label> <input type="text" name="Phone" id="Phone" value="" placeholder="required" autofocus class="form-text required" size="15" maxlength="50" />
+</div>
+
+<div class="form-item" id="webform-component-email">
+<label for="EMailID">Email<span class="required">*</span></label><input type="text" name="EMailID" id="EMailID" value="" placeholder="required" autofocus class="form-text required" size="32" maxlength="255" />
+</div>
+
+<div class="form-item" id="webform-component-gender">
+<label for="Gender">Gender<span class="required">*</span></label> <select name="Gender" id="Gender" size="1">
+<option></option>
+<option value="Female">Female</option>
+<option value="Male">Male</option>
+</select>
+</div>
+
+<div class="form-item" id="webform-component-ethnicity">
+<label for="Ethnicity">Ethnicity</label> <select name="Ethnicity" id="Ethnicity" onchange="choiceSelected('Ethnicity', this.selectedIndex);">
+<option></option>
+<option value="African American/Black">African American/Black</option>
+<option value="Caucasian/White">Caucasian/White</option>
+<option value="Hispanic">Hispanic</option>
+<option value="Other">Other</option>
+</select>
+</div>
+
+<div class="form-item" id="webform-component-birthday">
+<fieldset>
+<legend>Date of Birth<span class="required">*</span></legend>
+
+<span>
+<label class="wrapable" for="Bmonth">Month</label>
+<select name="Bmonth" id="Bmonth" title="Month" class="form-select">
+<option></option>
+<option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+<option value="08">08</option>
+<option value="09">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+</select>
+</span>
+<span>
+<label class="wrapable" for="Bday">Day</label>
+<select name="Bday" id="Bday" title="Day" class="form-select">
+<option></option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+</span>
+<span>
+<label class="wrapable" for="Byear">Year</label>
+<select name="Byear" id="Byear" title="Year" class="form-select">
+<option></option>
+<option value="1900">&nbsp;1900</option>
+<option value="1901">&nbsp;1901</option>
+<option value="1902">&nbsp;1902</option>
+<option value="1903">&nbsp;1903</option>
+<option value="1904">&nbsp;1904</option>
+<option value="1905">&nbsp;1905</option>
+<option value="1906">&nbsp;1906</option>
+<option value="1907">&nbsp;1907</option>
+<option value="1908">&nbsp;1908</option>
+<option value="1909">&nbsp;1909</option>
+<option value="1910">&nbsp;1910</option>
+<option value="1911">&nbsp;1911</option>
+<option value="1912">&nbsp;1912</option>
+<option value="1913">&nbsp;1913</option>
+<option value="1914">&nbsp;1914</option>
+<option value="1915">&nbsp;1915</option>
+<option value="1916">&nbsp;1916</option>
+<option value="1917">&nbsp;1917</option>
+<option value="1918">&nbsp;1918</option>
+<option value="1919">&nbsp;1919</option>
+<option value="1920">&nbsp;1920</option>
+<option value="1921">&nbsp;1921</option>
+<option value="1922">&nbsp;1922</option>
+<option value="1923">&nbsp;1923</option>
+<option value="1924">&nbsp;1924</option>
+<option value="1925">&nbsp;1925</option>
+<option value="1926">&nbsp;1926</option>
+<option value="1927">&nbsp;1927</option>
+<option value="1928">&nbsp;1928</option>
+<option value="1929">&nbsp;1929</option>
+<option value="1930">&nbsp;1930</option>
+<option value="1931">&nbsp;1931</option>
+<option value="1932">&nbsp;1932</option>
+<option value="1933">&nbsp;1933</option>
+<option value="1934">&nbsp;1934</option>
+<option value="1935">&nbsp;1935</option>
+<option value="1936">&nbsp;1936</option>
+<option value="1937">&nbsp;1937</option>
+<option value="1938">&nbsp;1938</option>
+<option value="1939">&nbsp;1939</option>
+<option value="1940">&nbsp;1940</option>
+<option value="1941">&nbsp;1941</option>
+<option value="1942">&nbsp;1942</option>
+<option value="1943">&nbsp;1943</option>
+<option value="1944">&nbsp;1944</option>
+<option value="1945">&nbsp;1945</option>
+<option value="1946">&nbsp;1946</option>
+<option value="1947">&nbsp;1947</option>
+<option value="1948">&nbsp;1948</option>
+<option value="1949">&nbsp;1949</option>
+<option value="1950">&nbsp;1950</option>
+<option value="1951">&nbsp;1951</option>
+<option value="1952">&nbsp;1952</option>
+<option value="1953">&nbsp;1953</option>
+<option value="1954">&nbsp;1954</option>
+<option value="1955">&nbsp;1955</option>
+<option value="1956">&nbsp;1956</option>
+<option value="1957">&nbsp;1957</option>
+<option value="1958">&nbsp;1958</option>
+<option value="1959">&nbsp;1959</option>
+<option value="1960">&nbsp;1960</option>
+<option value="1961">&nbsp;1961</option>
+<option value="1962">&nbsp;1962</option>
+<option value="1963">&nbsp;1963</option>
+<option value="1964">&nbsp;1964</option>
+<option value="1965">&nbsp;1965</option>
+<option value="1966">&nbsp;1966</option>
+<option value="1967">&nbsp;1967</option>
+<option value="1968">&nbsp;1968</option>
+<option value="1969">&nbsp;1969</option>
+<option value="1970">&nbsp;1970</option>
+<option value="1971">&nbsp;1971</option>
+<option value="1972">&nbsp;1972</option>
+<option value="1973">&nbsp;1973</option>
+<option value="1974">&nbsp;1974</option>
+<option value="1975">&nbsp;1975</option>
+<option value="1976">&nbsp;1976</option>
+<option value="1977">&nbsp;1977</option>
+<option value="1978">&nbsp;1978</option>
+<option value="1979">&nbsp;1979</option>
+<option value="1980">&nbsp;1980</option>
+<option value="1981">&nbsp;1981</option>
+<option value="1982">&nbsp;1982</option>
+<option value="1983">&nbsp;1983</option>
+<option value="1984">&nbsp;1984</option>
+<option value="1985">&nbsp;1985</option>
+<option value="1986">&nbsp;1986</option>
+<option value="1987">&nbsp;1987</option>
+<option value="1988">&nbsp;1988</option>
+<option value="1989">&nbsp;1989</option>
+<option value="1990">&nbsp;1990</option>
+<option value="1991">&nbsp;1991</option>
+<option value="1992">&nbsp;1992</option>
+<option value="1993">&nbsp;1993</option>
+<option value="1994">&nbsp;1994</option>
+<option value="1995">&nbsp;1995</option>
+<option value="1996">&nbsp;1996</option>
+<option value="1997">&nbsp;1997</option>
+<option value="1998">&nbsp;1998</option>
+<option value="1999">&nbsp;1999</option>
+<option value="2000">&nbsp;2000</option>
+<option value="2001">&nbsp;2001</option>
+<option value="2002">&nbsp;2002</option>
+<option value="2003">&nbsp;2003</option>
+<option value="2004">&nbsp;2004</option>
+<option value="2005">&nbsp;2005</option>
+<option value="2006">&nbsp;2006</option>
+<option value="2007">&nbsp;2007</option>
+<option value="2008">&nbsp;2008</option>
+<option value="2009">&nbsp;2009</option>
+<option value="2010">&nbsp;2010</option>
+<option value="2011">&nbsp;2011</option>
+<option value="2012">&nbsp;2012</option>
+<option value="2013">&nbsp;2013</option>
+<option value="2014">&nbsp;2014</option>
+<option value="2015">&nbsp;2015</option>
+<option value="2016">&nbsp;2016</option>
+<option value="2017">&nbsp;2017</option>
+<option value="2018">&nbsp;2018</option>
+<option value="2019">&nbsp;2019</option>
+<option value="2020">&nbsp;2020</option>
+</select>
+</span>
+
+</fieldset>
+</div>
+
+<div class="form-item" id="webform-component-receive-call">
+<fieldset>
+<legend class="surveyLegend Explicit"><span>Would you like to receive a call from the Lung HelpLine?</span><span class="required">*</span></legend>
+<span class="NetscapeFix form-radio-wrapper">
+<input type="radio" name="ReceiveCall" id="ReceiveCallYes" class="form-radio" value="Yes" /> <label class="wrapable" for="ReceiveCall">Yes</label> <input type="radio" name="ReceiveCall" id="ReceiveCallNo" class="form-radio" value="No" /> <label class="wrapable" for="ReceiveCall">No</label>
+</span>
+</fieldset>
+  
+<span id="time-box" class="other" style="display: none;">
+<label class="wrapable" for="TimeToCall"></label>
+<span id="TimeToCall_t">When should we call?</span>
+
+<select name="TimeToCall" id="TimeToCall" onchange="choiceSelected('TimeToCall', this.selectedIndex);">
+<option value="No Response">--Select--</option>
+<option value="7AM - 10 AM">7AM - 10 AM</option>
+<option value="10AM - 1PM">10AM - 1PM</option>
+<option value="1PM - 4PM">1PM - 4PM</option>
+<option value="4PM - 7PM">4PM - 7PM</option>
+<option value="7PM - 9PM">7PM - 9PM</option>
+<option value="9PM - 11PM">9PM - 11PM</option>
+</select>
+</span>
+</div>
+
+<div class="form-item" id="webform-component-receive-email">
+<fieldset>
+<legend class="surveyLegend Explicit"><span>Would you like to receive an email response to your Lung Health questions?</span><span class="required">*</span></legend>
+<span class="NetscapeFix form-radio-wrapper">
+<input type="radio" name="ReceiveEmail"  value="Yes" class="form-radio"> <label class="wrapable" for="ReceiveEmail">Yes</label> <input type="Radio" name="ReceiveEmail" value="No" class="form-radio"> <label class="wrapable" for="ReceiveEmail">No</label>
+</span>
+</fieldset>
+</div>
+
+<div class="form-item" id="webform-component-receive-print">
+<fieldset>
+<legend class="surveyLegend Explicit"><span>Would you like to receive printed materials related to your question?</span><span class="required">*</span></legend>
+<span class="NetscapeFix form-radio-wrapper">
+<input type="radio" name="Printed" value="Yes" class="form-radio"> <label class="wrapable" for="Printed">Yes</label> <input type="Radio" name="Printed" value="No" class="form-radio"> <label class="wrapable" for="Printed">No</label>
+</span>
+</fieldset>
+</div>
+
+<div class="form-item" id="webform-component-question">
+<label class="wrapable" for="Question">Is there a specific problem you would like to discuss?</label> <textarea cols="50" rows="10" name="Question" id="Question" class="form-textarea" onKeyUp="limitArea(this, 255, 'Error: This text area is limited to 255 characters. Please modify your text accordingly.')" wrap="virtual"></textarea>
+</div>
+
+<div class="form-item" id="webform-component-referral">
+<label class="wrapable" for="How">How did you hear about the Lung HelpLine?</label> <input type="text" name="How" id="How" value="" class="form-text" size="32" maxlength="128">
+</div>
+
+<div class="form-item" id="webform-component-verify-captcha">
+<div id="edit-submitted-verify-captcha" class="form-checkboxes">
+<div class="form-item form-type-checkbox form-item-submitted-verify-captcha-yes">
+<div id="captcha" class="displayinline"></div><label for "captcha" class="wrapable"><span class="Explicit">I verify that this information is correct and that no attempt to spam is being made.</span></label>
+</div>
+</div> 
+</div>
+
+<div class="form-item" id="webform-component-button">
+<input type="submit" name="submit" id="submit" value="Submit" class="form-button button blue" />
+</div>
+
+<script language="JavaScript" type="text/javascript">
+var checkbox = document.createElement("input"); checkbox.type = "checkbox"; checkbox.name = "verifycheckbox"; checkbox.value= "1"; checkbox.id = "captchaText"; checkbox.class = "form-text required";
+var div = document.getElementById("captcha"); div.appendChild(checkbox);
+checkbox.checked = false;
+</script>
+
+</form>
+</div>
+
+<script src="https://secure3.convio.net/ala/lungforce/drupal/js/jquery.validate.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function () {
+	$('#SignUpForm').validate({ // initialize the plugin
+        rules : {
+            FirstName : {
+                required: true
+            },
+            LastName : {
+                required : true
+            },
+            EMailID : {
+                required : true,
+                email : true
+            },
+			City : {
+                required : true
+            },
+			State : {
+                required : true
+            },
+			ZIPCode : {
+                required : true,
+                number : true,
+                minlength : 5,
+                maxlength : 5
+            },
+			Phone : {
+                required : true,
+                phoneUS : true
+            },
+			Bmonth : {
+				required : true
+			},
+			Bday : {
+				required : true
+			},
+			Byear : {
+				required : true
+			},
+            Gender : {
+				required : true
+			},
+            ReceiveCall : {
+                required : true
+            },
+            Corporatenote : {
+                required : true
+            },
+            ReceiveEmail : {
+                required : true
+            },
+            Printed : {
+                required : true
+            }
+        },
+
+        messages : {
+           FirstName : {
+                required: 'First Name is required'
+            },
+            LastName : {
+                required : 'Last Name is required'
+            },
+            EMailID  : {
+                required : 'Email is required',
+                email : 'Email is not valid'
+            },
+			City : {
+                required : 'City is required'
+            },
+			State : {
+                required : 'State is required'
+            },
+            ZIPCode : {
+                required : 'Zip Code is required',
+                number : 'Zip Code must contain numbers only',
+                minlength : 'Zip Code must be 5 numbers',
+		maxlength : 'Zip Code cannot be more than 5 numbers'
+             },
+            Phone : {
+                required : 'Telephone is required',
+                phoneUS : 'Telephone must be a valid U.S. number'
+             },
+            Bmonth : {
+                required : 'Birth month is required'
+             },
+            Bday : {
+                required : 'Birth day is required'
+             },
+            Byear : {
+                required : 'Birth year is required'
+             },
+            Gender : {
+                required : 'Gender is required'
+             },
+            ReceiveCall : {
+                required : 'Answer is required'
+            },
+            Corporatenote : {
+                required : 'Answer is required'
+            },
+            ReceiveEmail : {
+                required : 'Answer is required'
+            },
+            Printed : {
+                required : 'Answer is required'
+            }
+        },
+		
+		errorPlacement: function(error, element) {
+            if ( element.is(":radio") ) {
+                error.appendTo( element.parents('fieldset') );
+				} else if ( element.attr("name") == "Bmonth") {
+				error.appendTo( element.parents('fieldset') );
+				} else if ( element.attr("name") == "Bday") {
+				error.appendTo( element.parents('fieldset') );
+				} else if ( element.attr("name") == "Byear") {
+				error.appendTo( element.parents('fieldset') );
+				} else {
+                error.insertAfter( element );
+            }
+         }
+		 
+    });
+});//]]>
+</script>
+
+<script type="text/javascript">
+$(function() {
+    $('input[name=ReceiveCall]').on('click init-post-format', function() {
+        $('#time-box').toggle($('#ReceiveCallYes').prop('checked'));
+    }).trigger('init-post-format');
+});
+</script>
+
+</body>
+</html>

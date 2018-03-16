@@ -1,0 +1,21 @@
+.stateWrap {font-family:'Gill Sans MT','Gill Sans','Verdana','Arial',sans-serif;}
+#searchResults {margin: 10px 0; width:80%;}
+#searchResults th {vertical-align:bottom; font-weight:bold; border-bottom:1px solid black;padding-left:5px; text-align:center;}
+#searchResults td {padding: 0 10px 0 0; border-top: 1px dashed #BDBDBD;}
+#searchResults td.stateComparisonHeader {padding: 10px 5px 10px 0; border-left:0;}
+#searchResults td.stateHeader {padding: 15px 5px 5px 0; border-left:0; border-top:1px solid #BDBDBD;}
+#searchResults td.cValue {text-align:center;}
+#searchResults td.cHeader {padding-left:15px; border-left:0;}
+#searchFields {margin:5px 0 10px;}
+#searchFields ul {list-style-type:none; background:none;}
+#searchFields ul li {list-style-type:none; background:none;}
+#searchFields li {margin-bottom: 5px;}
+img {padding: 5px 5px 0 0;}
+h1 {width:65%;}
+h4 {margin-top:12.0pt; margin-right:0in; margin-bottom:3.0pt; margin-left:0in; font-size:11.0pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-weight:bold; width:100%; color: #fff; background-color: #3F76C9; page-break-after: avoid;}
+ul {list-style-type:none; background:none; }
+li {list-style-type:none; background:none; }
+table {border:none;}
+td {border:none;}
+tr {border:none;}
+th {border:none;}

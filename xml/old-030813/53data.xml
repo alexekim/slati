@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-06-14T11:59:35">
+<tblStatesALA>
+<ID>48</ID>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<LegislatureHyperlink>#http://www.leg.wa.gov/wsladm/default.htm#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue Collected in Fiscal Year 2009 (July 1, 2008 to June 30, 2009): $392,428,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.160.010 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in virtually all public places, including restaurants, bars and non-tribal casinos.  &quot;Public place&quot; is defined as that portion of any building or vehicle used by and open to the public, regardless of whether the building or vehicle is owned in whole or in part by private persons or entities, the state of Washington, or other public entity, and regardless of whether a fee is charged for admission.  This includes a presumptively reasonable minimum distance of 25 feet from entrances, exits, windows that open and ventilation intakes that serve an enclosed area where smoking is prohibited.  See statute citation for a specific list of what are classified as &quot;public places.&quot;</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.160.010 et seq. (2005).</Citation>
+<Description>A public place does not include a private residence unless the private residence is used to provide licensed child care, foster care, adult care, or other similar social service care on the premises.  This chapter is also not intended to restrict smoking in private facilities which are occasionally open to the public except upon the occasions when the facility is open to the public.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>Entertainment Industry Coalition v. Tacoma-Pierce County Health Department et al., decided 2/10/05 (2005).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are not allowed due to a court decision by the Washington Supreme Court, see below.
+
+The Washington Supreme Court ruled unanimously that the prohibition on smoking in almost all public places and workplaces in Pierce County, WA can not go into effect because the ordinance prohibits what state statute specifically allows in this case prohibiting smoking where state law allows businesses to decide whether to allow smoking or not.  This means that localities in Washington are preempted from enacting clean indoor air ordinances stronger than state law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.160.010 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; which includes buildings and vehicles owned in whole or in part by the state of Washington or other public entity that are open to the public. Smoking is also prohibited in &quot;places of employment,&quot; which include any area under the control of a public employer which employees are required to pass through during the course of employment, including, but not limited to: entrances and exits to the places of employment.  Smoking is also prohibited within a presumptively reasonable minimum distance of 25 feet from entrances, exits, windows that open, and ventilation intakes that serve &quot;public places&quot; and &quot;places of employment.&quot;  The definition of &quot;public place&quot; also includes state legislative chambers and immediately adjacent hallways.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.160.010 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; which includes buildings and vehicles owned in whole or in part by private persons or entities that are open to the public, and regardless of whether a fee is charged for admission.  Smoking is also prohibited in &quot;places of employment,&quot; which include any area under the control of a private employer which employees are required to pass through during the course of employment, including, but not limited to, entrances and exits to the places of employment.  Smoking is also prohibited within a presumptively reasonable minimum distance of 25 feet from entrances, exits, windows that open, and ventilation intakes that serve &quot;public places&quot; and &quot;places of employment.&quot;  See statute for a specific list of what are classified as &quot;public places.&quot;</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.160.010 et seq. (2005).</Citation>
+<Description>Each school district board of directors must adopt a written policy prohibiting the use of all tobacco products on public school property.  The policy shall include, but not be limited to: a requirement that students and school personnel be notified of the prohibition; the posting of signs prohibiting the use of tobacco products; sanctions for students and school personnel who violate the policy; and a requirement that school district personnel enforce the prohibition.  
+WASH. REV. CODE § 28A.210.310 (1997).
+
+To the extent not covered by the restrictions above, smoking is prohibited in &quot;public places,&quot; the definition of which includes schools and educational facilities, and includes a presumptively reasonable minimum distance of 25 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed area where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WA ADMIN. CODE § 388-148-0185 (2004).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; which means any building or vehicle used by and open to the public, regardless of whether the building or vehicle is owned in whole or in part by private persons or entities, the state of Washington, or other public entity, including child care facilities.  A &quot;public place&quot; includes a private residence when used to provide licensed child care, foster care, adult care, or other similar social service care on the premises.  Smoking is also prohibited in &quot;places of employment,&quot; which include any area under the control of a public or private employer which employees are required to pass through during the course of employment, including, but not limited to, entrances and exits to the places of employment.  Smoking is also prohibited within a presumptively reasonable minimum distance of 25 feet from entrances, exits, windows that open, and ventilation intakes of &quot;public places&quot; and &quot;places of employment.&quot;  
+WASH. REV. CODE §§ 70.160.010 et seq. (2005).
+
+Smoking is prohibited in the living space of any home or facility caring for foster children and in motor vehicles while transporting foster children.  Adults are permitted to smoke outside away from children.  This does not apply to traditional or spiritual Native American or religious ceremonies involving the use of tobacco.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.160.010 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; the definition of which includes all hospitals, nursing homes, and health care facilities or clinics.  Smoking is also prohibited in &quot;places of employment,&quot; which include any area under the control of a public or private employer which employees are required to pass through during the course of employment, including, but not limited to, entrances and exits to the places of employment.  Smoking is also prohibited within a presumptively reasonable minimum distance of 25 feet from entrances, exits, windows that open, and ventilation intakes of &quot;public places&quot; and &quot;places of employment.&quot;</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.160.010 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; the definition of which includes restaurants.  Smoking is also prohibited in &quot;places of employment,&quot; which are defined as any area under the control of a public or private employer which employees are required to pass through during the course of employment.  Smoking is also prohibited within a presumptively reasonable minimum distance of 25 feet from entrances, exits, windows that open, and ventilation intakes of &quot;public places&quot; and &quot;places of employment.&quot;</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.160.010 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; the definition of which includes bars and taverns.  Smoking is also prohibited in &quot;places of employment,&quot; which are defined as any area under the control of a public or private employer which employees are required to pass through during the course of employment.  Smoking is also prohibited within a presumptively reasonable minimum distance of 25 feet from entrances, exits, windows that open, and ventilation intakes of &quot;public places&quot; and &quot;places of employment.&quot;</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.160.010 et seq. (2005).</Citation>
+<Description>Owners or the person in charge must post signs in a conspicuous place at the entrance to a public place prohibiting smoking.  Intentionally smoking in a &quot;public place&quot; or &quot;place of employment&quot; or removal or defacement of signs are punishable by a civil fine of up to $100.  Any person passing by or through a public place while on a public sidewalk or public right of way has not intentionally violated this chapter.  After an initial warning, violation by an owner or person in charge of a &quot;public place&quot; or &quot;place of employment&quot; is subject to up to a $100 civil fine each day the violation continues.  Local law enforcement agencies enforce the law against individual smokers and local health departments enforce the law against owners or persons in charge of &quot;public places&quot; or &quot;places of employment.&quot;  Owners, operators, managers, employers, or other persons who own or control a &quot;public place&quot; or &quot;place of employment&quot; may seek to rebut the presumption that 25 feet is a reasonable minimum distance by making application to the director of the local health department or district in which the &quot;public place&quot; or &quot;place of employment&quot; is located.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 82.24.020 (2010) &amp; 82.24.026 (2005).</Citation>
+<Description>Tax rate per pack of 20: $3.025 
+Date last changed: May 1, 2010 -- from $2.025 to $3.025
+Year first enacted: 1935</Description>
+<NumericValue>3.025</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 82.24.020 (2010) &amp; 82.24.026 (2011).</Citation>
+<Description>As of July 1, 2010, all revenue from the cigarette tax is deposited into the state general fund.</Description>
+<Year>2009</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>392428000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 82.26.020(1) (2010).</Citation>
+<Description>Little Cigars (cigar that has a cellulose acetate integrated filter): 15.125 cents/cigar;
+All other Cigars: 95% of the taxable sales price not exceeding 65 cents per cigar;
+Moist snuff: the greater of $2.526 or 83 1/2% of the cigarette tax multiplied by 20 for consumer sized cans or packages that weigh 1.2 ounces or less, for cans or packages that weigh more than 1.2 ounces a proportionate tax for each ounce or fractional part of an ounce above 1.2 ounces;
+Any other tobacco products:  95% of the taxable sales price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 82.26.020(3) (2010).</Citation>
+<Description>All revenue from other tobacco product taxes is deposited in the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.155.110 (1993) &amp; 70.155.080 (2002).</Citation>
+<Description>The Liquor Control Board and the board&apos;s authorized agents or employees shall have the full power to conduct random, unannounced inspections with local county health departments or districts and local law enforcement agents to assure compliance with these laws.  Persons under 18 may be used with parental authorization for participation in controlled purchases for enforcement purposes.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 26.28.080 (1994) &amp; 70.155.005 et seq. (1993).</Citation>
+<Description>Every person who sells or gives, or permits to be sold or given to any person under the age of 18 any cigar, cigarette, cigarette paper or wrapper, or tobacco in any form is guilty of a gross misdemeanor.  The Liquor Control Board may fine a licensed person who violates this provision $100 for the first violation within any two year period; $300 for the second violation within any two year period; $1,000 and suspension of license for a period of six months for the third violation within any two year period; $1,500 and suspension of license for one year for the fourth violation within any two year period, and revocation of a license with no chance of reinstatement for five years for the fifth or subsequent violation within any two year period.  Any person other than a licensee who commits an offense may be fined $50 for the first violation and $100 for any subsequent violation.  It is a defense to a prosecution under this section that the person making a sale reasonably relied on any of the officially issued identification specified in Revised Code of Washington section 70.155.090, subsection (1).</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.155.020 (1993) &amp; 70.155.100 (1998).</Citation>
+<Description>A licensee shall display a sign concerning the prohibition of tobacco sales to minors, which shall be posted so that it is clearly visible to any person purchasing tobacco products from the licensee.  The sign shall read: &quot;THE SALE OF TOBACCO PRODUCTS TO PERSONS UNDER AGE 18 IS STRICTLY PROHIBITED BY STATE LAW.  IF YOU ARE UNDER 18, YOU COULD BE PENALIZED FOR PURCHASING A TOBACCO PRODUCT; PHOTO ID REQUIRED.&quot;  Penalties for licensees and all other persons are the same as selling or giving tobacco products to a minor.  Penalties are assessed by the Liquor Control Board.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 70.155.080 (2002).</Citation>
+<Description>Individuals under 18 who purchase, possess, attempt to purchase or obtain any tobacco product are guilty of a Class Three civil infraction, punishable by a fine not to exceed $50, participation in up to four hours of community service, or both.  The court may also require participation in a smoking cessation program.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 70.155.140 (2009).</Citation>
+<Description>A person may not ship or transport, or cause to be shipped or transported, any tobacco product ordered or purchased by mail or through the Internet to anyone in this state other than a licensed wholesaler or retailer; or with knowledge or reason to know of the violation, provide substantial assistance to a person who is in violation of these requirements.  Violation is a Class C felony subject to a maximum fine of $5,000, a civil penalty of up to $5,000 may be imposed in lieu of or in addition to the criminal penalty.  The attorney general may seek an injunction in superior court to restrain a threatened or actual violation and compel compliance.  Any violation is also considered an unfair and deceptive act or practice and an unfair method of competition in the conduct of trade or commerce under Washington law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 70.155.130 (1993).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are generally not allowed, see below.
+
+This chapter preempts political subdivisions from adopting or enforcing requirements for the licensure and regulation of tobacco product promotions and sales within retail stores. No political subdivision may regulate or prohibit activities covered by Revised Code of Washington sections 70.155.020 through 70.155.080. This chapter does not otherwise preempt political subdivisions from adopting ordinances regulating the sale, purchase, use, or promotion of tobacco products not inconsistent with chapter 507, Laws of 1993.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.155.070 (1993) &amp; 70.155.100 (1998).</Citation>
+<Description>No person may distribute or offer to distribute samples in a public place.  However, sampling is permitted in areas where minors are not permitted, in stores that have a retailer&apos;s license, and at or adjacent to outdoor construction sites.  Sampling is also prohibited in or on a public street, sidewalk, park that is within 500 feet of a playground, school, or other facility being used primarily by persons under the age of 18.  No person shall engage in the business of sampling without receiving a license from the state Liquor Control Board.  Violation by licensees and by all others is a fine of $300 for each violation.     
+WASH. REV. CODE §§ 70.155.050 (1993), 70.155.060 (1993) &amp; 70.155.100 (1998).
+
+No person shall give or distribute coupons for tobacco products if such coupon is redeemed in any manner that does not require an in-person transaction in a retail store.  The penalty for licensees and all others is a fine of $1,000 for each violation.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 82.24.035 (1999).</Citation>
+<Description>No person shall sell or permit to be sold cigarettes not in the original unopened package to which the required stamp has been affixed.  This does not apply to the sale of loose leaf tobacco by a retail business that generates a minimum of 60 percent of annual gross sales from the sale of tobacco products.  Penalties assessed against the licensee by the Liquor Control Board for violation are the same as selling or giving tobacco products to minors.   Any person other than a licensee who commits a violation may be fined $100 for each offense.     
+WASH. REV. CODE §§ 70.155.040 (1993) &amp; 70.155.100 (1998).
+
+No stamp may be affixed to, or made upon, any container or package of cigarettes if the container or package differs in any respect with the requirements of the Federal Cigarette Labeling and Advertising Act for the placement of labels, warnings, or any other information upon a package of cigarettes that is to be sold within the United States.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 70.155.130 (1993).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are generally not allowed except ordinances prohibiting sampling enacted before 1993, see below.
+
+This chapter preempts political subdivisions from adopting or enforcing requirements for the licensure and regulation of tobacco product promotions and sales within retail stores, except that political subdivisions that have adopted ordinances prohibiting sampling by January 1, 1993, may continue to enforce these ordinances. No political subdivision may regulate or prohibit activities covered by Revised Code of Washington sections 70.155.020 through 70.155.080. This chapter does not otherwise preempt political subdivisions from adopting ordinances regulating the sale, purchase, use, or promotion of tobacco products not inconsistent with chapter 507, Laws of 1993.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 70.155.030 (1994).</Citation>
+<Description>Sales of tobacco products from vending machines are prohibited unless the machines are located at industrial work sites where minors are not employed or fully within premises where minors are not permitted.  Vending machines must not be less than ten feet from all entrances or exits on the premises except if architecturally impractical.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.155.100 (1998).</Citation>
+<Description>Violations of this provision by licensees and all others are punishable by a fine of $100 for each day the violation occurs.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 70.155.130 (1993).</Citation>
+<Description>Stronger local laws/ordinances concerning placement of or required sign posting on tobacco product vending machines are not allowed, see below.
+
+This chapter preempts political subdivisions from adopting or enforcing requirements for the licensure and regulation of tobacco product promotions and sales within retail stores. No political subdivision may regulate or prohibit activities covered by Revised Code of Washington sections 70.155.020 through 70.155.080. This chapter does not otherwise preempt political subdivisions from adopting ordinances regulating the sale, purchase, use, or promotion of tobacco products not inconsistent with chapter 507, Laws of 1993.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 82.26.150 to 82.26.190 (2009).</Citation>
+<Description>Wholesalers and retailers of cigarettes must obtain a license from the state Liquor Control Board.  Licenses shall expire on the master license expiration date, and shall be continued annually if the licensee has paid the required fee and complied with all specified requirements.  A separate license is required for each place of business.  Purchasing, selling, consigning, or distributing cigarettes in this state without a license is a Class C felony.  
+WASH. REV. CODE §§ 82.24.500 to 82.24.540 (2009).  
+
+Licenses must be obtained to distribute tobacco product samples at no or nominal cost from the Liquor Control Board.  A sampler&apos;s license expires on the thirtieth day of June of each year and must be renewed annually.  A copy of the license must be carried by the person at all times.  Sampling without a license is subject to a $300 fine for each violation.       
+WASH. REV. CODE §§ 70.155.050 (1993) &amp; 70.155.100 (1998).
+
+Distributors and retailers of tobacco products other than cigarettes must be licensed by the state Liquor Control Board.  Each license expires on the master license expiration date and shall be continued upon payment of the required fee and meeting of certain requirements.  Selling other tobacco products without a license is a Class C felony.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.155.050 (1993), 82.24.520 (1986), 82.24.530 (1992), 82.26.160 (2005) &amp; 82.26.170 (2005).</Citation>
+<Description>Cigarette wholesalers: $650 for the first place of business, $115 for any additional places of business; 
+Cigarette retailers: $93 annually, and an additional $30 for each vending machine;  
+Other Tobacco Product Distributors: $650 for the first place of business, $115 for any additional places of business (unless they hold a cigarette wholesaler license for the same place of business);
+Other Tobacco Product Retailers: $93 annually (unless they hold a cigarette wholesaler license for the same place of business);
+Manufacturers whose employees distribute samples: $500 annually;
+All other samplers: not less than $50 annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 70.155.005 et seq. (1993).</Citation>
+<Description>Starting with the third violation, the state Liquor Control Board may suspend or revoke a license if the licensee violates state laws concerning sale of tobacco products to minors, sign posting at the point of sale, or distribution of cigarettes outside of their original packages.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 43.340 (2006).</Citation>
+<Description>In civil litigation under any legal theory involving a signatory, a successor of a signatory or any affiliate of a signatory to the Master Settlement Agreement (MSA), the supersedeas bond to be furnished in order to stay the execution of the judgment during the entire course of appellate review shall be set in accordance with applicable laws or court rules, except that the total bond that is required of all appellants collectively shall not exceed $100 million, regardless of the value of the judgment.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating assets outside the ordinary course of business to avoid the payment of a judgment, a court may require the appellant to post a bond in an amount up to the amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 43.79.480 (2011).</Citation>
+<Description>Annual Master Settlement Agreement payments received by Washington are deposited in the tobacco settlement account except moneys that have been sold to the Tobacco Settlement Authority, see below. Moneys in this account may only be transferred to the state general fund or Tobacco Prevention and Control Account from there.  Additional MSA payments called strategic contribution payments received in 2008 through 2017 are distributed to the Life Sciences Discovery Fund although part of those payments have been diverted the last two bienniums.</Description>
+<Year>2010</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>157500000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 43.79.480 (2011).</Citation>
+<Description>Moneys received by the state of Washington in accordance with the settlement of the state’s legal action against tobacco product manufacturers, exclusive of costs and attorneys’ fees, shall be deposited in the tobacco settlement account except as these moneys are sold or assigned to the Tobacco Settlement Authority (see Securitization section below). Moneys in the tobacco settlement account may only be transferred to the state general fund, and to the Tobacco Prevention and Control Account to help fund the tobacco prevention and cessation program.  Master Settlement Agreement (MSA) strategic contribution payments received in 2008 through 2017 will be distributed to the Life Sciences Discovery Fund.  During the FY2010-FY2011 and FY2012-FY2013 bienniums less than the full MSA strategic contribution payments may be transferred to the Life Sciences Discovery Fund, and may transfer amounts attributable to those payments into the basic health plan stabilization account.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting smoking and youth access to tobacco products are generally not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Washington&apos;s tobacco control programs comes from the state general fund and retailer licensing fees.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2012-FY2013 Biennial Budget Adjustments (H.B. 2058, 2nd special session 2011) enacted and effective 12/20/11 (FY2012) &amp; 7/1/12 (FY2013).</Citation>
+<Description>Washington allocated $3,288,000 for tobacco prevention and cessation initiatives and the state Medicaid cessation coverage benefit in FY2012 (July 1, 2011 to June 30, 2012).  This is the first year of the FY2012-FY2013 biennium. In FY2011, $12,400,000 was allocated.</Description>
+<Year>2012</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>3288000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 19.305.010 to 19.305.110 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection 7 of section 19.305.020 Revised Code of Washington, cigarettes may not be sold or offered for sale in Washington or offered for sale or sold to persons located in Washington unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 19.305.020 Revised Code of Washington; 2) a written certification has been filed by the manufacturer with the State Director of Fire Protection in accordance with section 19.305.030 Revised Code of Washington, and the cigarettes have been marked in accordance with section 19.305.040 Revised Code of Washington.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 19.305.010 to 19.305.110 (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of section 19.305.020 above is subject to a civil penalty for each sale of such cigarettes of not to exceed $10,000 for a first offense and not to exceed $25,000 for any subsequent offenses.  Penalties shall not exceed $100,000 in any 30-day period.  A retail dealer that knowingly sells fewer than 1,000 cigarettes in violation of the section 19.305.020 above is subject to a civil penalty of not to exceed $500 for a first offense and not to exceed $2,000 for subsequent offenses.  A retail dealer that knowingly sells 1,000 or more cigarettes in violation of section 19.305.020 above is subject to a civil penalty of not to exceed $1,000 for a first offense and not to exceed $5,000 for subsequent offenses.  Penalties may not exceed $25,000 in any 30-day period.  In addition, any corporation, partnership, sole proprietor, limited partnership, or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of at least $75,000 for the first false certification and not to exceed $250,000 for each subsequent false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE § 70.155.090 (1993).</Citation>
+<Description>Where there may be a question of a person&apos;s right to purchase or obtain tobacco products by reason of age, the retailer or agent thereof, shall require the purchaser to present any one of a list of officially issued identification that shows the purchaser&apos;s age and bears their signature and photograph.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $3,288,000 for tobacco prevention and cessation initiatives and the Medicaid tobacco cessation coverage benefit in FY2012.
+FY2012-FY2013 Biennial Budget Adjustments (H.B. 2058, 2nd special session 2011) enacted and effective 12/20/11 (FY2012) &amp; 7/1/12 (FY2013).
+
+Use of Tobacco Settlement Dollars: Makes a small change to the way strategic contribution payments from the Master Settlement Agreement are distributed.
+H.B. 1087, sect. 947 enacted and effective 6/15/11.
+
+Tobacco Taxes: Deposits all revenue from 60 cents of the cigarette tax in the state general fund, previously some of the revenue was dedicated to the Education Legacy Trust Account.
+H.B. 2019 enacted and effective 5/12/11.</Description>
+<Year>2011</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2011-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Age to Sell Tobacco Products to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>WASH. REV. CODE §§ 43.340.005 et seq. (2002).</Citation>
+<Description>The securitization of part of the annual MSA payments was authorized to acquire a lump sum payment of $450 million up front.  The Tobacco Settlement Authority was created as an independent entity of the state to complete the transaction.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Washington</Name>
+<Abbrev>WA</Abbrev>
+<FipsCode>53</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2012 State Funding for Tobacco Control Programs:              $3,288,000
+
+FY2012 Federal Funding for State Tobacco Control Programs: $6,944,368*
+
+FY2012 Total Funding for State Tobacco Control Programs:      $10,232,368
+
+Funding Level Recommended by CDC:                                        $67,300,000
+
+Percentage of CDC-Recommended Level:                                  15.2%
+
+*Includes regular funding from the Centers for Disease Control and Prevention as well as tobacco-related grants to states and communities from federal stimulus and health care reform funds.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>48</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

@@ -1,0 +1,85 @@
+.stateWrap  {width: 560px; padding:10px;}
+.stateWrap button {cursor:pointer;}
+.stateWrap img {border:0;}
+.stateWrap form, fieldset {border:0;margin:0;padding:0; }
+.stateWrap h1 {float: left;padding-bottom:10px;}
+.stateWrap h4 {float:left; clear:both; margin-top:12.0pt; margin-right:0in; margin-bottom:3.0pt; margin-left:0in; page-break-after:avoid; font-size:11.0pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-weight:bold;}
+.stateWrap p {float:left; /*margin:0;*/}
+.stateWrap a {/*font-weight:bold;*/}
+/*.stateWrap a.btn {font-weight:bold; color:#FFF; background-color:#7F9FBF;padding:5px;}*/
+.stateWrap ul {margin:0px; padding:0px; background:none;}
+	.stateWrap li {list-style-type:none; padding-bottom: 4px; background:none; !important;}
+	.stateWrap ul.nobullets {padding-left:0px;}
+	.stateWrap ul.nobullets li {list-style-type:none;}
+    .stateWrap li.first {font-weight:bold;}
+.stateWrap table {margin:10px; width: 550px; border-collapse: collapse;}
+	.stateWrap th { width: 40%; font-size: 0.8em; text-align:left; font-weight:bold;padding:3px !important;}
+    .stateWrap th.second {width:20% !important;}
+	.stateWrap td {padding:3px; border:1px solid #aaa;}
+.stateWrap label {float:left; clear:left;width:250px;margin:3px;}
+.stateWrap select {float:left; margin:3px;}
+.stateWrap input {float:left;clear:both;}
+.stateWrap .header {width:100%; overflow:hidden;}
+.stateWrap .header .toolbar {width:100%; clear:both;}
+.stateWrap .left {float:left;}
+.stateWrap .right {float:right;}
+.stateWrap .center {margin-left:50px; text-align:center;}
+.stateWrap .alone {clear:both;}
+.stateWrap .breadcrumbs {margin-bottom:10px;}
+#legend {float:left; width:100%; padding: 10px 0; background-color:EEE;}
+#legend li {float:left; margin:0 10px 0 0;}
+#legend li.first {font-weight:bold;}
+.stateWrap .searchResults {float:left; clear:both;width:100%;margin:15px 0;}
+.searchResultsHeader {width:100%; overflow: hidden;}
+.stateWrap .tabBtn {padding:10px; float:left;}
+.stateWrap .mapWrap {margin-left:20px; margin-top:20px;width:500px;}
+	.stateWrap .mapWrap p, .stateWrap .mapWrap a {margin:10px; }
+    .stateWrap .mapWrap .intro {float:left; clear:both; width:100%;}
+.stateWrap .headers {font-weight:bold;}
+.stateWrap .stateList {width:260px; height:450px; float:left; overflow:hidden;}
+.stateWrap .tabBody {float:left; clear:both; overflow:hidden;width:560px;}
+	.stateWrap .tabBody h4 {float:left;width:100%; color: #fff; background-color: #3F76C9; padding: 3px 3px 3px 10px;}
+	.stateWrap .tabBody ul {float:left; margin:15px;}
+    .stateWrap .tabBody li img {margin:0 5px;}
+    .stateWrap .tabBody p {width:100%;}
+    .stateWrap .tabBody table {float:left; clear:both;}
+.stateWrap .utilLinks {float:right; margin-bottom: 10px;}
+	.stateWrap .utilLinks li {float: left; margin-left:10px;}
+	.stateWrap .utilLinks li a {display: block; padding: 5px; background-color: #5987C6; color: #fff; font-weight: bold; text-decoration: none;}
+	.stateWrap .utilLinks li a:hover {background-color: #0842AE;}
+.stateWrap .note {clear:both;}
+.stateWrap .overviewSection {width: 100%; float:left; clear:both; margin:5px 0; page-break-inside:avoid;overflow:hidden;}
+	.stateWrap .overviewSection p {float:left; clear:both; width:98%; margin:3px 10px;page-break-inside:avoid;}
+	.stateWrap .overviewSection h4 {width:100%;float:left; clear:both; color: #fff; background-color:#3F76C9;padding: 3px 3px 3px 10px;page-break-after:avoid;}
+	.stateWrap .overviewSection .moreDetails {float:right; clear:both; text-align: right; padding-top: 4px; font-size: 0.9em !important; font-weight: bold;}
+		.stateWrap .overviewSection .moreDetails a {float:left; }
+.stateWrap .searchForm {width:550px;margin:20px 0;}
+    .stateWrap .searchForm h3 {float:left; width:470px;}
+    .stateWrap .searchForm label {padding-top:6px; margin:0;}
+	.stateWrap .searchForm input {float:right;}
+    .stateWrap .searchForm select {width:200px;}
+    .stateWrap .searchForm .searchFieldWrap {float:left; clear:both; overflow:hidden; width:500px; margin-top:4px;}
+	.stateWrap .searchForm .submit {float:left; clear:both; margin-left:253px; margin-top:10px;}
+#overviewBtn {float: left; margin:0 15px 5px 0;}
+#pdfBtn {float:right; margin-top:20px;}
+#dbinfo {font-size:0.8em; clear:both;margin:10px;}
+#searchResults {margin: 10px 0; width:80%;}
+#searchResults th {vertical-align:bottom; font-weight:bold; border-bottom:1px solid black;padding-left:5px;}
+#searchResults td {padding: 0 10px 0 0; border-top: 1px dashed #BDBDBD;}
+#searchResults td.stateComparisonHeader {padding: 10px 5px 10px 0; border-left:0;}
+#searchResults td.stateHeader {padding: 15px 5px 5px 0; border-left:0; border-top:1px solid #BDBDBD;}
+#searchResults td.cValue {text-align:center;}
+#searchResults td.cHeader {padding-left:15px; border-left:0;}
+#searchFields {margin:5px 0 10px;}
+#searchFields li {margin-bottom: 5px;}
+.gecko #search .text {padding:0 0 0 20px;}
+
+.layout-section #content-well { margin-top:15px}
+#content-well table { border-collapse:separate; border-spacing:0;width:600px; }
+#content-well table thead, .even { background-color:#e8f3fc;  }
+#content-well table thead th {font-weight:bold;text-align:left}
+#stateLogo {display:block;height:100px;}
+#stateLogo {display:block;height:100px;}
+.cat {display:block;padding:10px;overflow:hidden;}
+th{vertical-align:bottom;}
+td.data, th.data{text-align: center !important;}

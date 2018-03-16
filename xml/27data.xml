@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:52:30">
+<tblStatesALA>
+<ID>24</ID>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<LegislatureHyperlink>#http://www.leg.state.mn.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 144.411 to 144.417 (2014).</Citation>
+<Description>Smoking is prohibited in almost all public places, public meetings, places of employment and public transportation.  See the definitions of &quot;public place,&quot; &quot;place of employment&quot; and &quot;public transportation&quot; in the statute sections cited below for more information.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 144.411 to 144.417 (2014).</Citation>
+<Description>Exceptions to the law include: 1) places of employment with less than two employees; 2) by a patient or resident in a nursing home, boarding care facility, or licensed residential facility for adults under certain conditions; 3) by drivers of public transportation vehicles when the vehicle is being used for personal use as defined; 4) by subjects in scientific studies of the health effects of smoking under certain conditions; 5) by Native Americans as part of a traditional Native American spiritual or cultural ceremony; 6) in private homes, private residences and private automobiles when not in use as a place of employment as defined; 7) in hotel/motel sleeping rooms rented to one or more guests; 8) in tobacco products shops as defined under specified conditions; 9) in heavy commercial vehicles as defined; 10) in farm vehicles and construction equipment as specified; 11) in or on family farms as defined; 12) in the disabled veterans rest camp in Washington County; and 13) by actors/actresses as part of a theatrical performance.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 144.417(4) (2007).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Nothing in sections 144.414 to 144.417 prohibits a statutory or home rule charter city or county from enacting and enforcing more stringent measures to protect individuals from secondhand smoke.  Except as specified by state law or restricted by local ordinance, smoking is permitted outside of restaurants, bars, and bingo halls.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 144.411 to 144.417 (2014).</Citation>
+<Description>Smoking is prohibited in places of employment, the definition of which includes government agencies with two or more employees. The use of electronic cigarettes, including the inhaling or exhaling of vapor from any electronic delivery device, as defined is prohibited in: 1) any building owned or operated by the state, home rule charter or statutory city, county, township, school district, or other political subdivision; 2) any facility owned by Minnesota State Colleges and Universities and the University of Minnesota; (3) any facility licensed by the Commissioner of Human Services or the Commissioner of Health, but only if the facility is also subject to federal licensing requirements.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 144.411 to 144.417 (2014).</Citation>
+<Description>Smoking is prohibited in places of employment defined as any indoor area where two or more employees perform any type of a service for consideration of payment under any type of contractual relationship, including, but not limited to, an employment relationship with or for a private corporation, partnership, individual, or government agency.  Vehicles used in whole or in part for work purposes are places of employment during hours of operation if more than one person is present.  A private residence is a place of employment if the homeowner uses the area exclusively and regularly as a principal place of business and has one or more on-site employees; or the homeowner uses the area exclusively and regularly as a place to meet or deal with patients, clients, or customers in the normal course of the homeowner&apos;s trade or business.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 144.411 to 144.417 (2014).</Citation>
+<Description>No person shall at any time smoke, chew or otherwise ingest tobacco products, or inhale or exhale vapor from an electronic delivery device as defined in public schools.  No person under the age of 18 shall possess any of the above items. This prohibition extends to all facilities, whether owned, rented, or leased, and all vehicles that a school district owns, leases, rents, contracts for, or controls.  This prohibition does not apply to the lighting of tobacco by an adult as part of a traditional Indian spiritual or cultural ceremony.  
+MINN. STAT. § 144.4165 (2014).
+
+Smoking is prohibited in public places, the definition of which includes all non-public educational facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 260C.215(9) (2014).</Citation>
+<Description>Smoking is prohibited in licensed day care centers and during the hours of operation in licensed family day care homes or group family day care provider homes.  For purposes of this section, the defintition of smoking includes electronic cigarettes, including the inhaling or exhaling of vapor from an electronic delivery device as defined.  The proprietor of a family home or group family day care provider must disclose to parents or guardians of children cared for on the premises if the proprietor permits smoking outside of its hours of operation. Disclosure must include posting on the premises a conspicuous written notice and orally informing parents or guardians.
+MINN. STAT. § 144.414(2) (2014).
+
+A child in foster care shall not be exposed to any type of secondhand smoke in: a licensed foster home or any enclosed space connected to the home, including a garage, porch, deck, or similar space; or a motor vehicle while a foster child is transported.  Smoking in outdoor areas on the premises of the home is permitted, except when a foster child is present and exposed to secondhand smoke.  Nothing in this subdivision shall delay the placement of a child with a relative as specified or be interpreted to interfere with traditional or spiritual Native American or religious ceremonies involving the use of tobacco.  If a child&apos;s best interests would most effectively be served by placement in a home which will not meet the above requirements, the failure to meet the requirements shall not be a cause to deny placement in that home.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 144.414(3) (2014).</Citation>
+<Description>Smoking is prohibited in any area of a hospital, health care clinic, doctor&apos;s office, licensed residential facility for children or other health care-related facility, except that a patient or resident in a nursing home, boarding care facility, or licensed residential facility for adults may smoke in a designated separate, enclosed room maintained in accordance with applicable state and federal laws.  Smoking by patients in locked psychiatric units is also allowed under certain specified conditions.  For purposes of this section, the defintition of smoking includes electronic cigarettes, including the inhaling or exhaling of vapor from an electronic delivery device as defined.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 144.411 to 144.417 (2014).</Citation>
+<Description>Smoking is prohibited in restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 144.411 to 144.417 (2014).</Citation>
+<Description>Smoking is prohibited in bars.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 327.742 (2008).</Citation>
+<Description>Smoking is prohibited in a hotel sleeping room designated as non-smoking.  A person who violates this law is guilty of a petty misdemeanor, and is liable to the innkeeper for the actual costs to restore the room to its pre-violation condition and a service charge of $30.  If the person does not reimburse the innkeeper within 30 days after the innkeeper mails the required notice, the innkeeper may seek a civil judgment for the cost of restoring the room to pre-violation condition, the service charge, and a civil penalty not to exceed $100.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 144.416 &amp; 114.417 (2007).</Citation>
+<Description>The proprietor or other person, firm, limited liability company, corporation, or other entity that owns, leases, manages, operates, or otherwise controls the use of a public place, public transportation, place of employment, or public meeting shall make reasonable efforts to prevent smoking by posting the appropriate signs, and taking certain specified actions for persons who are smoking illegally.  Any proprietor, person, or entity that owns, leases, manages, operates, or otherwise controls the use of an area, and that knowingly fails to comply with sections 144.414 to 144.417, is guilty of a petty misdemeanor.  A person who smokes in an area where smoking is prohibited is also guilty of a petty misdemeanor.  The state Commissioner of Health, a local board of health or any affected party may institute an action in any court with jurisdiction to enjoin repeated violations of the law.  The state Commissioner of Health shall adopt rules necessary and reasonable to implement the provisions of sections 144.411 to 144.417.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 297F.24 (2013).</Citation>
+<Description>Tax per pack of 20: $3.00
+Date last changed: January 1, 2016 -- from $2.90 to $3.00
+Year first enacted: 1947
+MINN. STAT. §§ 297F.05 (2014) &amp; 297F.25 (2013).
+
+Note: The definition of cigarette includes cigars that weigh 4 1/2 pounds per thousand or less and/or meets other specified characteristics.
+MINN. STAT. § 297F.01(3) (2013).
+
+A special tax is imposed on distributors on the sale of cigarettes by a cigarette distributor to a retailer or cigarette sub-jobber for resale in Minnesota.  This tax must be determined annually by November 1 and takes effect on January 1.   
+MINN. STAT. § 297F.25 (2013).
+
+A fee of 50 cents per pack is imposed upon the sale of nonsettlement cigarettes in this state.  The purpose of this fee is to ensure that manufacturers of nonsettlement cigarettes pay fees to the state that are comparable to costs attributable to the use of the cigarettes; prevent manufacturers of nonsettlement cigarettes from undermining the state&apos;s policy of discouraging underage smoking by offering nonsettlement cigarettes at prices substantially below the cigarettes of other manufacturers; and fund such other purposes as the legislature determines appropriate.</Description>
+<NumericValue>3</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 297F.10 (2011)</Citation>
+<Description>Revenue from the 48 cent cigarette tax is distributed to the Academic Health Center Special Revenue Fund, Medical Education and Research Costs Account and the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>322517000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 297F.10 (2011).</Citation>
+<Description>The revenue from the cigarette tax is distributed as follows: $22,250,000 is credited in FY2007 and each fiscal year thereafter to the Academic Health Center Special Revenue Fund and is annually appropriated to the Board of Regents at the University of Minnesota for Academic Health Center funding at the University of Minnesota; $3,937,000 in FY2012 and each fiscal year thereafter is credited to the Medical Education and Research Costs Account and is annually appropriated to the Commissioner of Health for specified programs; and the remaining revenue goes to the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Moist snuff: $2.83/container (container = smallest consumer-size can, package, or other container that is marketed or packaged by an entity for separate sale to a retail purchaser)
+Premium Cigars: 95% or $3.50 per cigar, whichever is less;
+All other tobacco products, including electronic cigarettes: 95% of the wholesale sales price.
+MINN. STAT. § 297F.05 (2013).
+
+Note: The state Department of Revenue has determined that e-cigarettes and e-liquid containing nicotine derived from tobacco meet the definition of tobacco product in section 297F.01 of the Minnesota Statutes.  Therefore they are taxed at the same rate as other tobacco products.  Please see this web page for further details: http://www.revenue.state.mn.us/businesses/tobacco/Pages/e-Cig.aspx</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 297F.10 (2011).</Citation>
+<Description>Revenue from the tax on tobacco products other than cigarettes goes to the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.12(5) (2014).</Citation>
+<Description>A county or municipal licensing authority shall conduct unannounced compliance checks at least once each calendar year at each location where tobacco, tobacco-related devices, electronic delivery devices, or nicotine or lobelia delivery products are sold.  Compliance checks must involve minors over the age of 15, but under the age of 18, who, with the prior written consent of a parent or guardian, attempt to purchase the above products/devices under the direct supervision of a law enforcement officer or an employee of the licensing authority.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.12 (2014).</Citation>
+<Description>Anyone who sells tobacco, tobacco-related devices or electronic delivery devices as defined to a person under the age of 18 years is guilty of a misdemeanor for the first violation, and a gross misdemeanor for subsequent violations within five years.  The definition of tobacco includes electronic smoking devices that use nicotine derived from tobacco.   It is an affirmative defense to the charge of selling tobacco to a minor, if the person relied in good faith upon specified proof of age.  Whoever furnishes tobacco, tobacco-related devices or electronic delivery devices to a minor is guilty of a misdemeanor for the first violation and a gross misdemeanor for any subsequent violation.  However, an Indian may furnish tobacco to an Indian minor as part of a traditional Indian spiritual or cultural ceremony.
+MINN. STAT. § 609.685 (2014).
+
+Anyone who sells a product containing or delivering nicotine or lobelia intended for human consumption, or any part of such a product, that is not tobacco or an electronic delivery device as defined to a person under the age of 18 years is guilty of a misdemeanor for the first violation, and a gross misdemeanor for subsequent violations within five years.  The same affirmative defense available for selling tobacco to a minor is available for these products.  A product described above may be sold to persons under age 18 if the product has been approved or otherwise certified for legal sale by the United States Food and Drug Administration for tobacco use cessation, harm reduction, or for other medical purposes, and is being marketed and sold solely for that approved purpose.
+MINN. STAT. § 609.6885 (2014).
+
+If a municipal licensee or employee of a municipal licensee sells tobacco, tobacco-related devices, electronic delivery devices or nicotine or lobelia delivery products to a minor the licensee shall be charged an administrative penalty of $75.  A second violation within 24 months after the initial violation is subject to an administrative penalty of $200.  A third violation within 24 months is subject to an administrative penalty of $250 and the license to sell tobacco products must be suspended for not less than seven days.  An individual who sells the above products/devices to a person under the age of 18 must be charged an administrative penalty of $50.  The penalty and license suspension cannot take effect until the alleged violator has had the opportunity for a court hearing.  It is an affirmative defense to the charge of selling the above products/devices to a minor, if the person relied in good faith upon specified proof of age.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 609.685 (2014) &amp; 340A.503 (2000).</Citation>
+<Description>A person under the age of 18 years who purchases or attempts to purchase tobacco, tobacco-related devices or electronic delivery devices and who uses a driver&apos;s license, permit, Minnesota identification card, or any type of false identification to misrepresent the person&apos;s age, is guilty of a misdemeanor.  Except as otherwise stated above, any minor that possesses, smokes, chews, or otherwise ingests, purchases, or attempts to purchase tobacco, tobacco-related devices or electronic delivery devices is guilty of a petty misdemeanor.  The penalties in this section do not apply to a person under the age of 18 years who purchases or attempts to purchase the above products/devices while under the direct supervision of a responsible adult for training, education, research, or enforcement purposes.  
+MINN. STAT. § 609.685 (2014).
+
+A minor found guilty of using a driver&apos;s license or other form of identification to purchase or attempt to purchase tobacco products, or of lending to another minor their driver&apos;s license to purchase tobacco products shall have their driver&apos;s license suspended for 90 days.  
+MINN. STAT. § 171.171 (2000). 
+
+A county or municipal licensing authority shall consult with interested educators, parents, children, and representatives of the court system to develop alternative penalties for minors who purchase, possess, and consume tobacco, tobacco-related devices, electronic delivery devices or nicotine or lobelia delivery products.  The licensing authority and the interested persons shall consider a variety of options, including, but not limited to, tobacco free education programs, notice to schools, parents, community service, and other court diversion programs. 
+MINN. STAT. § 461.12(4) (2014).
+
+A retailer of tobacco products may seize a form of identification listed in subsection 6 of section 340A.503 Minnesota Statutes, if the retailer has reasonable grounds to believe that the form of identification has been altered or falsified or is being used to violate any law.  A retailer that seizes a form of identification as authorized under this paragraph must deliver it to a law enforcement agency within 24 hours of seizing it.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.18(1) &amp; 461.12(2) (2014).</Citation>
+<Description>No person shall offer for sale tobacco, tobacco-related devices, electronic delivery devices or nicotine or lobelia delivery products in open displays which are accessible to the public without the intervention of a store employee.  This does not apply to retail stores that derive 90 percent of their revenue from tobacco and tobacco-related devices and where the retailer ensures that no person younger than 18 years of age is present, or permitted to enter, at any time.  Violation is subject to an administrative penalty of $75 for a first violation, $200 for a second violation within 24 months and $250 for a third violation within 24 months.  Upon the third violation, the license to sell tobacco products must also be suspended for not less than seven days.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Places restrictions on delivery sales of tobacco products, which are sales ordered by phone, fax or the Internet or delivered by mail.  Specifically, when accepting the first order for a delivery sale from a consumer, the tobacco retailer shall obtain a copy of a valid government-issued document that provides the person&apos;s name, current address, photograph, and date of birth; and a signed statement documenting certain information about the purchaser.  If an order is made as a result of advertisement over the Internet, the tobacco retailer shall request the e-mail address of the purchaser and shall receive payment by credit card or check prior to shipping.  Prior to shipping the tobacco products, the tobacco retailer shall verify the information provided against a commercially available database.  The tobacco retailer shall also utilize a delivery service that requires an adult of legal purchase age to sign to accept delivery, and show a valid government-issued ID with a photograph of the person that proves the person is of legal purchase age and resides at the delivery address.  Criminal penalties for violation are a cease and desist order for a first violation, a misdemeanor for a violation within two years of the cease and desist order, and a gross misdemeanor for subsequent violations.  Civil penalties for violation are not more than $1,000 for the first violation and not more than $5,000 for a second and subsequent violation.  Failure to pay taxes is an additional penalty of 50 percent of the tax due but unpaid.
+MINN. STAT. § 325F.781 (2013).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.21 (2015).</Citation>
+<Description>Sales of Tobacco Products/Electronic Delivery Devices from Mobile Locations: No person shall sell tobacco, tobacco-related devices, electronic delivery devices as defined or nicotine or lobelia delivery products as described in section 609.6855 Minnesota Statutes, from a moveable place of business. For the purposes of this section, a moveable place of business means any retail business whose physical location is not permanent, including, but not limited to, any retail business that is operated from a kiosk, other transportable structure, or a motorized or nonmotorized vehicle.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.19 (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are specifically allowed, see below.
+
+Nothing in subdivisions 1 to 3 of section 609.685 Minnesota statues shall supersede or preclude the continuation or adoption of any local ordinance which provides for more stringent regulation of the subject matter in subdivisions 1 to 3.
+MINN. STAT. § 609.685(4) (2014).
+
+Sections 461.12 to 461.18 do not preempt a local ordinance that provides for more restrictive regulation of sales of tobacco products, tobacco-related devices, electronic delivery devices, and nicotine and lobelia products. A governing body shall give notice of its intention to consider adoption or substantial amendment of any local ordinance required under section 461.12 or permitted under this section as specified.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 325F.77 (2010) &amp; 325F.78 (1986).</Citation>
+<Description>No person shall distribute promotional samples of smokeless tobacco products or cigarettes, cigars, pipe tobacco, or other tobacco products as defined to the general public.  Single serving samples of tobacco may be distributed in tobacco stores.  The court may impose a civil penalty of up to $5,000 for each offense.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 325D.421 (2000).</Citation>
+<Description>It is unlawful for any person to sell or distribute in this state any cigarettes the package of which does not comply with all requirements imposed by or pursuant to federal law regarding warnings and other information on packages of cigarettes manufactured, packaged, or imported for sale, distribution, or use in the United States, including, but not limited to, the precise warning labels specified in the federal Cigarette Labeling and Advertising Act.  Violation is a misdemeanor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.19 (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting tobacco product samples or minimum tobacco product sales amounts are specifically allowed, see below.
+
+Sections 461.12 to 461.18 do not preempt a local ordinance that provides for more restrictive regulation of sales of tobacco products, tobacco-related devices, electronic delivery devices, and nicotine and lobelia products. A governing body shall give notice of its intention to consider adoption or substantial amendment of any local ordinance required under section 461.12 or permitted under this section as specified.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.18(2) (2014).</Citation>
+<Description>Vending machines selling tobacco products, electronic delivery devices, or nicotine or lobelia delivery products are restricted to facilities that cannot be entered at any time by persons younger than age 18.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.12(2) (2010).</Citation>
+<Description>Violation is subject to an administrative penalty of $75 for a first violation, $200 for a second violation within 24 months and $250 for a third violation within 24 months of the first violation.  Upon the third violation, the license to sell tobacco products must also be suspended for not less than seven days.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 325E.07 (1963).</Citation>
+<Description>A warning shall be posted and maintained in a conspicuous place on each vending machine stating: &quot;ANY PERSON UNDER 18 YEARS OF AGE IS FORBIDDEN BY LAW TO PURCHASE CIGARETTES FROM THIS MACHINE.&quot;  Violation is a misdemeanor.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.19 (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting placement of and/or required sign posting on tobacco product vending machines are specifically allowed, see below.
+
+Sections 461.12 to 461.18 do not preempt a local ordinance that provides for more restrictive regulation of sales of tobacco products, tobacco-related devices, electronic delivery devices, and nicotine and lobelia products. A governing body shall give notice of its intention to consider adoption or substantial amendment of any local ordinance required under section 461.12 or permitted under this section as specified.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.12(1) (2014).</Citation>
+<Description>Distributors must obtain a license from the state Commissioner of Revenue to sell tobacco products.  A separate license is required for each place of business.  Licensing periods begin on January 1st of an even-numbered year and end on December 31st of the following year.  Selling tobacco products without a license is a misdemeanor. 
+MINN. STAT. §§ 297F.03 (2014) &amp; 297F.20 (2003).
+
+A town board or governing board of a home rule charter or statutory city may license and regulate the retail sale of tobacco, tobacco-related devices and electronic delivery devices as defined; nicotine and lobelia delivery products as specified; and establish a license fee for sales to recover the estimated cost of enforcement.  The county board shall license and regulate the sale of the above products/devices in unorganized territories and in a town or a home rule charter or statutory city if the town or city does not license and regulate retail sales.  Retail establishments licensed by a town or city to sell tobacco are not required to obtain a second license for the same location under the licensing ordinance of the county.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 297F.03 (1997) &amp; 461.12(1) (2010).</Citation>
+<Description>Distributors: $300 every even numbered year for a wholesale cigarette license; $75 every even-numbered year for a wholesale license to sell other tobacco products.  License fees for city/county tobacco retail licenses are set by the city/county.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.12(2) (2010).</Citation>
+<Description>Violation by a county or municipal retail licensee is punishable by set fines and no less than a seven day suspension of the license to sell tobacco products for the third violation within a 24-month period.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 181.938 (1992).</Citation>
+<Description>An employer may not refuse to hire a job applicant or discipline or discharge an employee because the applicant or employee engages in or has engaged in the use or enjoyment of lawful consumable products, including tobacco, off the premises of the employer during non-work hours.  It is not a violation for an employer to restrict the use of lawful consumable products by employees during nonworking hours if the employer&apos;s restriction relates to a bona fide occupational requirement and is reasonably related to employment activities or responsibilities of a particular employee or group of employees; or is necessary to avoid a conflict of interest or the appearance of a conflict of interest with any responsibilities owed by the employee to the employer.  It is also not a violation for an employer to refuse to hire an applicant or discipline or discharge an employee who refuses or fails to comply with the conditions established by a chemical dependency treatment or aftercare program; for an employer to offer, impose, or have in effect a health or life insurance plan that makes distinctions between employees for the type of coverage or the cost of coverage based upon the employee&apos;s use of lawful consumable products, provided that, to the extent that different premium rates are charged to the employees, those rates must reflect the actual differential cost to the employer; and for an employer to refuse to hire an applicant or discipline or discharge an employee on the basis of the applicant&apos;s or employee&apos;s past or present job performance.  The remedy for a violation is a civil action for damages limited to wages and benefits lost by the individual because of the violation.</Description>
+<Year>1992</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 461.17 (1997).</Citation>
+<Description>Each manufacturer of tobacco products sold in Minnesota shall provide the commissioner of health with an annual report, in a form and at a time specified by the commissioner, identifying, for each brand of such product, any of the following substances present in detectable levels in the product in its unburned stated and its burned state: ammonia or any compound of ammonia; arsenic; cadmium; formaldehyde; and lead.  Reports under this section are public data.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 550.36 (2004).</Citation>
+<Description>The amount of an appeal bond required to stay execution of a judgment must be in the amount of the judgment, or a lesser amount, but the total appeal bond required of all appellant(s) cannot be more than $150 million regardless of the value of the judgment.  If an appellee provides evidence that a judgment debtor may be dissipating assets to avoid payment of a judgment, a court may enter orders that are necessary to protect the appellee; and require the appellant(s) to post a bond in an amount up to the total amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A small portion of tobacco settlement dollars as specified below was transferred to ClearWay Minnesota (formerly the Minnesota Partnership for Action Against Tobacco) in 1998, interest from which provides most of the funding for state tobacco prevention and cessation activities.  All or a portion of the remaining tobacco settlement dollars have been sold to the Tobacco Securitization Authority or used by the state Commissioner of Management and Budget to issue appropriations bonds in 2011 for a lump sum payment up front.  See Securitization section below for more details.   
+
+Note: Minnesota was one of four states that settled separately in its lawsuit with the major tobacco companies, prior to the Master Settlement Agreement in 1998.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>166800000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>In 1998, Lawrence D. Cohen, chief judge of the Ramsey County District Court, approved the state of Minnesota&apos;s plan to establish the Minnesota Partnership for Action Against Tobacco (MPAAT), a nonprofit foundation which will receive $202 million dollars (about 3 percent of Minnesota&apos;s settlement money) over ten years to fund projects that seek to reduce tobacco use in the state.  MPAAT, now called ClearWay Minnesota, serves Minnesota through its grant-making program, QUITPLAN individual stop-smoking services and community outreach, which includes an advertising campaign.  The organization files an annual report with the Ramsey County District Court and the state legislature each year.
+State of Minnesota and Blue Cross/Blue Shield of Minnesota v. Philip Morris et al. (1998).
+
+Blue Cross &amp; Blue Shield of Minnesota, a co-plaintiff in Minnesota&apos;s settlement with the tobacco companies, is scheduled to receive $469 million total from the settlement subject to certain adjustments.  Due to these adjustments the actual amount received will be reduced.  The organization will be spending $252 million of this money over ten years to help reduce tobacco use, heart disease, and cancer in Minnesota.
+State of Minnesota and Blue Cross/Blue Shield of Minnesota v. Philip Morris et al. (1998).</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Minnesota&apos;s tobacco control initiatives comes from the state general fund and Clearway Minnesota, whose endowment was funded by state tobacco settlement dollars.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Minnesota allocated $22,340,333 for tobacco prevention and cessation programs in FY2015 (July 1, 2014 to June 30, 2015). In FY2014, $20,164,409 was allocated. This is the second year of the FY2014-FY2015 biennium.   
+FY2014-FY2015 Biennial Health and Human Services Budget (H.F. 1233) enacted 5/23/13 and effective 7/1/13 (FY2014) &amp; 7/1/14 (FY2015); FY2014-FY2015 Supplemental Appropriations (H.F. 3172) enacted 5/20/14 and effective 5/20/14 (FY2014) &amp; 7/1/14 (FY2015); and FY2015 ClearWay Minnesota Operating Budget.
+
+Note: Clearway Minnesota (formerly the Minnesota Partnership for Action Against Tobacco) allocates money for a statewide tobacco prevention program, but is not controlled by the state legislature.  It is overseen by the Ramsey County District Court, which heard the original tobacco settlement case brought by the state of Minnesota.</Description>
+<Year>2015</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>22340333</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. § 144.396 (2009).</Citation>
+<Description>In 1999, the legislature set a goal to reduce tobacco use among youth by 25 percent by the year 2005, and to promote statewide and local tobacco use prevention activities to help achieve this goal.  The Commissioner of Health, in consultation with other public, private, or nonprofit organizations involved in tobacco use prevention efforts, is required to establish measurable outcomes to determine the effectiveness of the grants receiving funds under this section in reducing the use of tobacco among youth, and a statewide assessment of tobacco-related behaviors and attitudes among youth to establish a baseline to measure the statewide effect of tobacco use prevention activities. The commissioner must also set up a grant program through the state Department of Health for statewide and local tobacco prevention grants to reduce tobacco use among youth, as well as local public health promotion and protection to local community health boards.  The legislature also required a biennial evaluation of these grant programs.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 299F.850 to 299F.859 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided, no cigarettes may be sold or offered for sale in Minnesota or offered for sale or sold to persons located in Minnesota unless: 1) the cigarettes have been tested in accordance with the test method and have met the performance standard specified in section 299F.851 Minnesota Statutes, 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 299F.852 Minnesota Statutes; and 3) the cigarettes have been marked in accordance with section 299F.853 Minnesota Statutes.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MINN. STAT. §§ 299F.850 to 299F.859 (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or any other person or entity that knowingly sells or offers to sell cigarettes other than through retail sale in violation of the above standard is subject to a civil penalty not to exceed $10,000 per each sale for a first violation, and not to exceed $25,000 per each sale for a second or subsequent violation.  Penalties against any such person or entity must not exceed $100,000 during any 30-day period.  A retail dealer that knowingly sells or offers to sell less than 1,000 cigarettes in violation is subject to a civil penalty not to exceed $500 per sale for a first violation, and not to exceed $2,000 per sale for a subsequent violation.  A retail dealer that knowingly sells or offers to sell 1,000 cigarettes or more in violation is subject to a civil penalty not to exceed $1,000 per sale for a first offense, and not to exceed $5,000 per sale for subsequent offenses.  The penalty against any retail dealer cannot exceed $25,000 in any 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $75,000 for a first violation and not to exceed $250,000 for a subsequent violation in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - issued by city or county</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - issued by city or county</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>2004 Annual Report, Minnesota State Board of Investment.</Citation>
+<Description>At its September 1998 meeting, the Minnesota State Board of Investment adopted a resolution that required each active and semi-passive equity manager to divest by September 2001 shares of any company which obtained more than 15 percent of its revenues from the manufacture of consumer tobacco products.  At the close of fiscal year 2001 (June 30, 2001), the board had divested from its active portfolios all shares of companies covered by this resolution.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $22,340,333 for tobacco prevention and cessation programs in FY2015.
+FY2014-FY2015 Biennial Health and Human Services Budget (H.F. 1233) enacted 5/23/13 and effective 7/1/13 (FY2014) &amp; 7/1/14 (FY2015); FY2014-FY2015 Supplemental Appropriations (H.F. 3172) enacted 5/20/14 and effective 5/20/14 (FY2014) &amp; 7/1/14 (FY2015); and FY2015 ClearWay Minnesota Operating Budget.
+
+Smokefree Air: Prohibits foster care children from being exposed to secondhand smoke in licensed foster care homes and enclosed spaces connected to the home and vehicles when foster care children are being transported.
+H.B. 2402, Art. 1, sect. 9 enacted 5/21/14 and effective 8/1/14.
+
+Use of E-Cigarettes in Certain Locations: Prohibits the use of electronic cigarettes/electronic delivery devices as defined in public schools, including vehicles and prohibits the possession by persons under age 18 of all tobacco products and electronic delivery devices.  The use of electronic cigarettes/electronic delivery devices is also prohibited in most state and local government buildings, child care facilities and health care facilities.
+H.B. 2402, Art. 6, sect. 4-7 enacted 5/21/14 and effective 8/1/14.
+
+E-Cigarettes/Sales and Licensing: Adds a new definition for electronic delivery devices, and applies all youth access and tobacco sales restrictions already in state law to them.  Requires electronic delivery device retailers to obtain a license from the county or city where they sell their products.
+H.B. 2402, Art. 6, sect. 28-30, 33 &amp; 34 enacted 5/21/14 and effective 8/1/14.
+
+E-Cigarettes/Child Resistant Packaging: Requires all liquid, whether or not it contains nicotine, intended for use in an electronic delivery device to be contained in child-resistant packaging as defined.
+H.B. 2402, sect. 31 enacted 5/21/14 and effective 1/1/15. 
+
+Tobacco Product Sales/Moveable Locations: Prohibits the sale of tobacco, tobacco-related devices or electronic delivery devices as defined from moveable places of business, including kiosks and motorized or non-motorized vehicles.
+H.B. 2402, sect. 32 enacted 5/21/14 and effective 8/1/14 or 1/1/15.</Description>
+<Year>2014</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2014-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The Commissioner of Management and Budget may sell and issue debt under either or both of sections 16A.95 (tobacco securitization bonds) and 16A.96 (appropriations bonds), but the net proceeds of bonds issued and sold under those sections together must not exceed $640 million during fiscal years 2012 and 2013.
+MINN. STAT. § 16A.94 (2011).
+
+During fiscal years 2012 and 2013 , the Commissioner of Management and Budget may sell, convey, or otherwise transfer to the Tobacco Securitization Authority the tobacco settlement revenues in exchange for the net proceeds of bonds and a right to the residual amount in the tobacco settlement revenues subaccount.  The authority shall have power and is hereby authorized to issue bonds from time to time in one or more series, in an aggregate principal amount no greater than $900 million, excluding refunding bonds sold and issued under this section, to provide funds not to exceed $640 million and subject to the limitation in Minnesota Statutes section 16A.94, for the purchase of all or a portion of the tobacco settlement revenues.  The authority shall establish the Tobacco Settlement Recovery Account, with several sub-accounts, and monies in those accounts are transferred or distributed as specified.  The powers, duties and legal existence of the Tobacco Securitization Authority are also outlined in this statute.
+MINN. STAT. § 16A.95 (2011).  
+
+The Commissioner of Management and Budget may also sell and issue appropriation bonds of the state for public purposes as provided by law. Proceeds of the bonds must be credited to a special appropriation bond proceeds fund in the state treasury. Net income from investment of the proceeds, as estimated by the commissioner, must be credited to the special appropriation bond proceeds fund.  Appropriation bonds may be sold and issued in amounts that, in the opinion of the commissioner, are necessary to provide sufficient funds, not to exceed $640 million and subject to the limitation in section 16A.94 Minnesota Statutes, for achieving specified purposes provided, however, that bonds issued and unpaid shall not exceed $800 million in principal amount, excluding refunding bonds sold and issued under subdivision 4 of this section.  The statute also outlines other requirements concerning appropriations bonds, including validation by the state Supreme Court.
+MINN. STAT. § 16A.96 (2011).</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $322,517,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Minnesota</Name>
+<Abbrev>MN</Abbrev>
+<FipsCode>27</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2015 State Funding for Tobacco Control Programs:              $22,340,333 
+
+FY2015 Federal Funding for State Tobacco Control Programs: $2,390,102*
+
+FY2015 Total Funding for State Tobacco Control Programs:      $24,730,435 
+
+Funding Level Recommended by CDC:                                        $52,900,000 
+
+Percentage of CDC-Recommended Level:                                   46.7%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>24</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>
