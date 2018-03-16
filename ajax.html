@@ -1,9 +1,8 @@
-<div class="info">
-
-</div>
+<div class="info"></div>
 
 <script type="text/javascript">
   $(document).ready(function() {
+    var currentState = Cookies.get("state");
     $.ajax({
       type: "GET",
       url: "http://www.lung.org/dev/slati/01data.xml",
