@@ -1,48 +1,47 @@
 <div class="info">
   <div class="smokingRestrictions">
-    <h2>Smoking Restrictions</h2>
+    <h2 class="sectionHeaderh2">Smoking Restrictions</h2 class="sectionHeaderh2">
   </div>
   <div class="tobaccoTaxes">
-    <h2>Tobacco Taxes</h2>
+    <h2 class="sectionHeaderh2">Tobacco Taxes</h2 class="sectionHeaderh2">
   </div>
   <div class="tobaccoControlProgramFunding">
-    <h2>Tobacco Control Program Funding</h2>
+    <h2 class="sectionHeaderh2">Tobacco Control Program Funding</h2 class="sectionHeaderh2">
   </div>
   <div class="lawsRestrictingYouthAccess">
-    <h2>Laws Restricting Youth Access to Tobacco Products</h2>
+    <h2 class="sectionHeaderh2">Laws Restricting Youth Access to Tobacco Products</h2 class="sectionHeaderh2">
   </div>
   <div class="tobaccoProductSamples">
-    <h2>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</h2>
+    <h2 class="sectionHeaderh2">Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</h2 class="sectionHeaderh2">
   </div>
   <div class="salesOfTobaccoProductsFromVendingMachines">
-    <h2>Sales of Tobacco Products from Vending Machines</h2>
+    <h2 class="sectionHeaderh2">Sales of Tobacco Products from Vending Machines</h2 class="sectionHeaderh2">
   </div>
   <div class="licensingRequirements">
-    <h2>Licensing Requirements for Tobacco Products</h2>
+    <h2 class="sectionHeaderh2">Licensing Requirements for Tobacco Products</h2 class="sectionHeaderh2">
   </div>
   <div class="smokingProtectionLaws">
-    <h2>Smoking Protection Laws</h2>
+    <h2 class="sectionHeaderh2">Smoking Protection Laws</h2 class="sectionHeaderh2">
   </div>
   <div class="advertisingAndPromotion">
-    <h2>Advertising & Promotion</h2>
+    <h2 class="sectionHeaderh2">Advertising & Promotion</h2 class="sectionHeaderh2">
   </div>
-  <div class="ProductDisclosure">
-    <h2>Product Disclosure</h2>
+  <div class="productDisclosure">
+    <h2 class="sectionHeaderh2">Product Disclosure</h2 class="sectionHeaderh2">
   </div>
   <div class="divestment">
-    <h2>Divestment</h2>
+    <h2 class="sectionHeaderh2">Divestment</h2 class="sectionHeaderh2">
   </div>
   <div class="liability">
-    <h2>Liability</h2>
+    <h2 class="sectionHeaderh2">Liability</h2 class="sectionHeaderh2">
   </div>
   <div class="useOfTobaccoSettlementDollars">
-    <h2>Use of Tobacco Settlement Dollars</h2>
+    <h2 class="sectionHeaderh2">Use of Tobacco Settlement Dollars</h2 class="sectionHeaderh2">
   </div>
   <div class="fireSafetyStandards">
-    <h2>Fire Safety Standards for Cigarettes</h2>
-  </div>
-  <div class="activity">
-    <h2>Activity</h2>
+    <h2 class="sectionHeaderh2">Fire Safety Standards for Cigarettes</h2 class="sectionHeaderh2">
+  </activity>
+    <h2 class="sectionHeaderh2">Activity</h2 class="sectionHeaderh2">
   </div>
 </div>
 
@@ -56,32 +55,19 @@
       success: function(xml) {
         var i = 0;
         $(xml).find('qryXMLSLATIDetail').each(function(i) {
-          i++;
-          $(".info").append("i: " + i);
+          // i++;
+          // $(".info").append("i: " + i);
 
           var Name = $(this).find('Name').text();
           // $(".info").append("<p class='name"+ i + "'><strong>name: </strong>" + Name + "</p>");
           var Abbrev = $(this).find('Abbrev').text();
           // $(".info").append("<p class='abbrev"+ i + "'><strong>abbrev: </strong>" + Abbrev + "</p>");
-          var FipsCode = $(this).find('FipsCode').text();
+          // var FipsCode = $(this).find('FipsCode').text();
           // $(".info").append("<p class='fipscode"+ i + "'><strong>fipscode: </strong>" + FipsCode + "</p>");
-
-          var Category = $(this).find('Category').text();
-          $(".info").append("<p class='category"+ i + "'><strong>category:</strong>" + Category + "</p>");
-          var Subcategory = $(this).find('Subcategory').text();
-          $(".info").append("<p class='subcategory"+ i + "'><strong>subcategory: </strong>" + Subcategory + "</p>");
-
           // var HasLawOrRestriction = $(this).find('HasLawOrRestriction').text();
           // $(".info").append("<p class='HasLawOrRestriction"+ i + "'><strong>HasLawOrRestriction</strong>" + HasLawOrRestriction + "</p>");
           // var HasLawOrRestrictionDescription = $(this).find('HasLawOrRestrictionDescription').text();
           // $(".info").append("<p class='HasLawOrRestrictionDescription"+ i + "'><strong>HasLawOrRestrictionDescription: </strong>" + HasLawOrRestrictionDescription + "</p>");
-
-          var Citation = $(this).find('Citation').text();
-          $(".info").append("<p class='Citation"+ i + "'><strong>citation: </strong>" + Citation + "</p>");
-
-          var Description = $(this).find('Description').text();
-          $(".info").append("<p class='Description"+ i + "'><strong>Description: </strong>" + Description + "</p>");
-
           // var CategoryDisplayOrder = $(this).find('CategoryDisplayOrder').text();
           // $(".info").append("<p class='CategoryDisplayOrder"+ i + "'><strong>CategoryDisplayOrder: </strong>" + CategoryDisplayOrder + "</p>");
           // var SubcategoryDisplayOrder = $(this).find('SubcategoryDisplayOrder').text();
@@ -93,8 +79,120 @@
           // var StateID = $(this).find('StateID').text();
           // $(".info").append("<p class='StateID"+ i + "'><strong>StateID: </strong>" + StateID + "</p>");
 
-          $(".info").append("<hr/>");
+          var Category = $(this).find('Category').text();
+          // $(".info").append("<p class='category"+ i + "'><strong>category:</strong>" + Category + "</p>");
+          var Subcategory = $(this).find('Subcategory').text();
+          // $(".info").append("<p class='subcategory"+ i + "'><strong>subcategory: </strong>" + Subcategory + "</p>");
+          var Description = $(this).find('Description').text();
+          // $(".info").append("<p class='Description"+ i + "'><strong>Description: </strong>" + Description + "</p>");
+          var Citation = $(this).find('Citation').text();
+          // $(".info").append("<p class='Citation"+ i + "'><strong>citation: </strong>" + Citation + "</p>");
 
+
+          switch (Category) {
+            case "Smoking Restrictions":
+              $(".smokingRestrictions").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".smokingRestrictions").append("<p class='description'>" + Description + "</p>");
+              $(".smokingRestrictions").append("<p class='citation'>" + Citation + "</p>");
+              $(".smokingRestrictions").append("<hr />");
+
+              break;
+            case "Tobacco Taxes":
+              $(".tobaccoTaxes").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".tobaccoTaxes").append("<p class='description'>" + Description + "</p>");
+              $(".tobaccoTaxes").append("<p class='citation'>" + Citation + "</p>");
+              $(".tobaccoTaxes").append("<hr /");
+
+              break;
+            case "Tobacco Control Program Funding":
+              $(".tobaccoControlProgramFunding").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".tobaccoControlProgramFunding").append("<p class='description'>" + Description + "</p>");
+              $(".tobaccoControlProgramFunding").append("<p class='citation'>" + Citation + "</p>");
+              $(".tobaccoControlProgramFunding").append("<hr/>");
+              break;
+            case "Laws Restricting Youth Access to Tobacco Products":
+              $(".lawsRestrictingYouthAccess").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".lawsRestrictingYouthAccess").append("<p class='description'>" + Description + "</p>");
+              $(".lawsRestrictingYouthAccess").append("<p class='citation'>" + Citation + "</p>");
+              $(".lawsRestrictingYouthAccess").append("<hr />");
+
+              break;
+            case "Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products":
+              $(".tobaccoProductSamples").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".tobaccoProductSamples").append("<p class='description'>" + Description + "</p>");
+              $(".tobaccoProductSamples").append("<p class='citation'>" + Citation + "</p>");
+              $(".tobaccoProductSamples").append("<hr />");
+
+              break;
+            case "Sales of Tobacco Products from Vending Machines":
+              $(".salesOfTobaccoProductsFromVendingMachines").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".salesOfTobaccoProductsFromVendingMachines").append("<p class='description'>" + Description + "</p>");
+              $(".salesOfTobaccoProductsFromVendingMachines").append("<p class='citation'>" + Citation + "</p>");
+              $(".salesOfTobaccoProductsFromVendingMachines").append("<hr />");
+              break;
+            case "Licensing Requirements for Tobacco Products":
+              $(".licensingRequirements").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".licensingRequirements").append("<p class='description'>" + Description + "</p>");
+              $(".licensingRequirements").append("<p class='citation'>" + Citation + "</p>");
+              $(".licensingRequirements").append("<hr />");
+
+              break;
+            case "Smoking Protection Laws":
+              $(".smokingProtectionLaws").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".smokingProtectionLaws").append("<p class='description'>" + Description + "</p>");
+              $(".smokingProtectionLaws").append("<p class='citation'>" + Citation + "</p>");
+              $(".smokingProtectionLaws").append("<hr />");
+              break;
+            case "Advertising & Promotion":
+              $(".advertisingAndPromotion").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".advertisingAndPromotion").append("<p class='description'>" + Description + "</p>");
+              $(".advertisingAndPromotion").append("<p class='citation'>" + Citation + "</p>");
+              $(".advertisingAndPromotion").append("<hr />");
+              break;
+            case "Product Disclosure":
+              $(".productDisclosure").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".productDisclosure").append("<p class='description'>" + Description + "</p>");
+              $(".productDisclosure").append("<p class='citation'>" + Citation + "</p>");
+              $(".productDisclosure").append("<hr />");
+
+              break;
+            case "Divestment":
+              $(".divestment").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".divestment").append("<p class='description'>" + Description + "</p>");
+              $(".divestment").append("<p class='citation'>" + Citation + "</p>");
+              $(".divestment").append("<hr />");
+
+              break;
+            case "Liability":
+              $(".liability").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".liability").append("<p class='description'>" + Description + "</p>");
+              $(".liability").append("<p class='citation'>" + Citation + "</p>");
+              $(".liability").append("<hr />");
+
+              break;
+            case "Use of Tobacco Settlement Dollars":
+              $(".useOfTobaccoSettlementDollars").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".useOfTobaccoSettlementDollars").append("<p class='description'>" + Description + "</p>");
+              $(".useOfTobaccoSettlementDollars").append("<p class='citation'>" + Citation + "</p>");
+              $(".useOfTobaccoSettlementDollars").append("<hr />");
+
+              break;
+            case "Fire Safety Standards for Cigarettes":
+              $(".fireSafetyStandards").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".fireSafetyStandards").append("<p class='description'>" + Description + "</p>");
+              $(".fireSafetyStandards").append("<p class='citation'>" + Citation + "</p>");
+              $(".fireSafetyStandards").append("<hr />");
+
+              break;
+            case "Activity":
+              $(".activity").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
+              $(".activity").append("<p class='description'>" + Description + "</p>");
+              $(".activity").append("<p class='citation'>" + Citation + "</p>");
+              $(".activity").append("<hr />");
+              break;
+            default:
+              console.warn("something went wrong in the content sort. maybe no category exists");
+          }
         });
 
       },
