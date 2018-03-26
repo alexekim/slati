@@ -1,4 +1,50 @@
-<div class="info"></div>
+<div class="info">
+  <div class="smokingRestrictions">
+    <h2>Smoking Restrictions</h2>
+  </div>
+  <div class="tobaccoTaxes">
+    <h2>Tobacco Taxes</h2>
+  </div>
+  <div class="tobaccoControlProgramFunding">
+    <h2>Tobacco Control Program Funding</h2>
+  </div>
+  <div class="lawsRestrictingYouthAccess">
+    <h2>Laws Restricting Youth Access to Tobacco Products</h2>
+  </div>
+  <div class="tobaccoProductSamples">
+    <h2>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</h2>
+  </div>
+  <div class="salesOfTobaccoProductsFromVendingMachines">
+    <h2>Sales of Tobacco Products from Vending Machines</h2>
+  </div>
+  <div class="licensingRequirements">
+    <h2>Licensing Requirements for Tobacco Products</h2>
+  </div>
+  <div class="smokingProtectionLaws">
+    <h2>Smoking Protection Laws</h2>
+  </div>
+  <div class="advertisingAndPromotion">
+    <h2>Advertising & Promotion</h2>
+  </div>
+  <div class="ProductDisclosure">
+    <h2>Product Disclosure</h2>
+  </div>
+  <div class="divestment">
+    <h2>Divestment</h2>
+  </div>
+  <div class="liability">
+    <h2>Liability</h2>
+  </div>
+  <div class="useOfTobaccoSettlementDollars">
+    <h2>Use of Tobacco Settlement Dollars</h2>
+  </div>
+  <div class="fireSafetyStandards">
+    <h2>Fire Safety Standards for Cigarettes</h2>
+  </div>
+  <div class="activity">
+    <h2>Activity</h2>
+  </div>
+</div>
 
 <script type="text/javascript">
   $(document).ready(function() {
@@ -14,25 +60,21 @@
           $(".info").append("i: " + i);
 
           var Name = $(this).find('Name').text();
-          $(".info").append("<p class='name"+ i + "'><strong>name: </strong>" + Name + "</p>");
-
+          // $(".info").append("<p class='name"+ i + "'><strong>name: </strong>" + Name + "</p>");
           var Abbrev = $(this).find('Abbrev').text();
-          $(".info").append("<p class='abbrev"+ i + "'><strong>abbrev: </strong>" + Abbrev + "</p>");
-
+          // $(".info").append("<p class='abbrev"+ i + "'><strong>abbrev: </strong>" + Abbrev + "</p>");
           var FipsCode = $(this).find('FipsCode').text();
-          $(".info").append("<p class='fipscode"+ i + "'><strong>fipscode: </strong>" + FipsCode + "</p>");
+          // $(".info").append("<p class='fipscode"+ i + "'><strong>fipscode: </strong>" + FipsCode + "</p>");
 
           var Category = $(this).find('Category').text();
           $(".info").append("<p class='category"+ i + "'><strong>category:</strong>" + Category + "</p>");
-
           var Subcategory = $(this).find('Subcategory').text();
           $(".info").append("<p class='subcategory"+ i + "'><strong>subcategory: </strong>" + Subcategory + "</p>");
 
-          var HasLawOrRestriction = $(this).find('HasLawOrRestriction').text();
-          $(".info").append("<p class='HasLawOrRestriction"+ i + "'><strong>HasLawOrRestriction</strong>" + HasLawOrRestriction + "</p>");
-
-          var HasLawOrRestrictionDescription = $(this).find('HasLawOrRestrictionDescription').text();
-          $(".info").append("<p class='HasLawOrRestrictionDescription"+ i + "'><strong>HasLawOrRestrictionDescription: </strong>" + HasLawOrRestrictionDescription + "</p>");
+          // var HasLawOrRestriction = $(this).find('HasLawOrRestriction').text();
+          // $(".info").append("<p class='HasLawOrRestriction"+ i + "'><strong>HasLawOrRestriction</strong>" + HasLawOrRestriction + "</p>");
+          // var HasLawOrRestrictionDescription = $(this).find('HasLawOrRestrictionDescription').text();
+          // $(".info").append("<p class='HasLawOrRestrictionDescription"+ i + "'><strong>HasLawOrRestrictionDescription: </strong>" + HasLawOrRestrictionDescription + "</p>");
 
           var Citation = $(this).find('Citation').text();
           $(".info").append("<p class='Citation"+ i + "'><strong>citation: </strong>" + Citation + "</p>");
@@ -40,21 +82,16 @@
           var Description = $(this).find('Description').text();
           $(".info").append("<p class='Description"+ i + "'><strong>Description: </strong>" + Description + "</p>");
 
-          var CategoryDisplayOrder = $(this).find('CategoryDisplayOrder').text();
-          $(".info").append("<p class='CategoryDisplayOrder"+ i + "'><strong>CategoryDisplayOrder: </strong>" + CategoryDisplayOrder + "</p>");
-
-          var SubcategoryDisplayOrder = $(this).find('SubcategoryDisplayOrder').text();
-          $(".info").append("<p class='SubcategoryDisplayOrder"+ i + "'><strong>SubcategoryDisplayOrder: </strong>" + SubcategoryDisplayOrder + "</p>");
-
-          var SubcategoryID = $(this).find('SubcategoryID').text();
-          $(".info").append("<p class='SubcategoryID"+ i + "'><strong>SubcategoryID: </strong>" + SubcategoryID + "</p>");
-
-          var CategoryID = $(this).find('CategoryID').text();
-          $(".info").append("<p class='CategoryID"+ i + "'><strong>CategoryID: </strong>" + CategoryID + "</p>");
-
-          var StateID = $(this).find('StateID').text();
-          $(".info").append("<p class='StateID"+ i + "'><strong>StateID: </strong>" + StateID + "</p>");
-
+          // var CategoryDisplayOrder = $(this).find('CategoryDisplayOrder').text();
+          // $(".info").append("<p class='CategoryDisplayOrder"+ i + "'><strong>CategoryDisplayOrder: </strong>" + CategoryDisplayOrder + "</p>");
+          // var SubcategoryDisplayOrder = $(this).find('SubcategoryDisplayOrder').text();
+          // $(".info").append("<p class='SubcategoryDisplayOrder"+ i + "'><strong>SubcategoryDisplayOrder: </strong>" + SubcategoryDisplayOrder + "</p>");
+          // var SubcategoryID = $(this).find('SubcategoryID').text();
+          // $(".info").append("<p class='SubcategoryID"+ i + "'><strong>SubcategoryID: </strong>" + SubcategoryID + "</p>");
+          // var CategoryID = $(this).find('CategoryID').text();
+          // $(".info").append("<p class='CategoryID"+ i + "'><strong>CategoryID: </strong>" + CategoryID + "</p>");
+          // var StateID = $(this).find('StateID').text();
+          // $(".info").append("<p class='StateID"+ i + "'><strong>StateID: </strong>" + StateID + "</p>");
 
           $(".info").append("<hr/>");
 
