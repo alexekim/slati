@@ -1,8 +1,12 @@
 <style media="screen">
+  hr {
+    display: none;
+  }
   .category h5, .category p{
     margin-left: 20px;
   }
   .backToTop {
+    display: none;
     color: #3a75c4;
   }
   .backToTop:hover{
@@ -16,9 +20,13 @@
     font-size: 10px;
     font-style: italic !important;
   }
+  .smokingRestrictions, .tobaccoTaxes, .tobaccoControlProgramFunding, .lawsRestrictingYouthAccess, .tobaccoProductSamples, .salesOfTobaccoProductsFromVendingMachines, .licensingRequirements, .smokingProtectionLaws, .advertisingAndPromotion, .productDisclosure, .divestment, .liability, .useOfTobaccoSettlementDollars, .fireSafetyStandards, .activity {
+    display: none;
+  }
+  </style>
 
-</style>
-
+<img id="loadSpinner" style="height: 50px; width: 50px;" src="http://awasudesign.vyqdy3k2nc1vkrjlhx.netdna-cdn.com/wp-content/uploads/2017/03/spinner-1.gif" />
+<h2 id="state"></h2>
 <div class="info">
   <div class="category smokingRestrictions">
     <h2 class="sectionHeaderh2">Smoking Restrictions</h2 class="sectionHeaderh2">
@@ -165,13 +173,18 @@
       url: "http://www.lung.org/dev/slati/01data.xml",
       dataType: "xml",
       success: function(xml) {
-        var i = 0;
+        $("#loadSpinner").remove();
+        $("hr").css("display", "block");
+        $(".backToTop").css("display", "block");
+        // var i = 0;
         $(xml).find('qryXMLSLATIDetail').each(function(i) {
           // i++;
           // $(".info").append("i: " + i);
 
           var Name = $(this).find('Name').text();
-          // $(".info").append("<p class='name"+ i + "'><strong>name: </strong>" + Name + "</p>");
+          if ($("#state").html() == "") {
+            $("#state").html(Name);
+          }
           var Abbrev = $(this).find('Abbrev').text();
           // $(".info").append("<p class='abbrev"+ i + "'><strong>abbrev: </strong>" + Abbrev + "</p>");
           // var FipsCode = $(this).find('FipsCode').text();
@@ -203,6 +216,7 @@
 
           switch (Category) {
             case "Smoking Restrictions":
+              $(".smokingRestrictions").fadeIn("slow");
               $(".smokingRestrictions").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".smokingRestrictions").append("<p class='description'>" + Description + "</p>");
               $(".smokingRestrictions").append("<p class='citation'>" + Citation + "</p>");
@@ -210,6 +224,7 @@
 
               break;
             case "Tobacco Taxes":
+              $(".tobaccoTaxes").fadeIn("slow");
               $(".tobaccoTaxes").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".tobaccoTaxes").append("<p class='description'>" + Description + "</p>");
               $(".tobaccoTaxes").append("<p class='citation'>" + Citation + "</p>");
@@ -217,12 +232,14 @@
 
               break;
             case "Tobacco Control Program Funding":
+              $(".tobaccoControlProgramFunding").fadeIn("slow");
               $(".tobaccoControlProgramFunding").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".tobaccoControlProgramFunding").append("<p class='description'>" + Description + "</p>");
               $(".tobaccoControlProgramFunding").append("<p class='citation'>" + Citation + "</p>");
               // $(".tobaccoControlProgramFunding").append("<hr/>");
               break;
             case "Laws Restricting Youth Access to Tobacco Products":
+              $(".lawsRestrictingYouthAccess").fadeIn("slow");
               $(".lawsRestrictingYouthAccess").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".lawsRestrictingYouthAccess").append("<p class='description'>" + Description + "</p>");
               $(".lawsRestrictingYouthAccess").append("<p class='citation'>" + Citation + "</p>");
@@ -230,6 +247,7 @@
 
               break;
             case "Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products":
+              $(".tobaccoProductSamples").fadeIn("slow");
               $(".tobaccoProductSamples").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".tobaccoProductSamples").append("<p class='description'>" + Description + "</p>");
               $(".tobaccoProductSamples").append("<p class='citation'>" + Citation + "</p>");
@@ -237,12 +255,14 @@
 
               break;
             case "Sales of Tobacco Products from Vending Machines":
+              $(".salesOfTobaccoProductsFromVendingMachines").fadeIn("slow");
               $(".salesOfTobaccoProductsFromVendingMachines").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".salesOfTobaccoProductsFromVendingMachines").append("<p class='description'>" + Description + "</p>");
               $(".salesOfTobaccoProductsFromVendingMachines").append("<p class='citation'>" + Citation + "</p>");
               $(".salesOfTobaccoProductsFromVendingMachines").append("<hr />");
               break;
             case "Licensing Requirements for Tobacco Products":
+              $(".licensingRequirements").fadeIn("slow");
               $(".licensingRequirements").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".licensingRequirements").append("<p class='description'>" + Description + "</p>");
               $(".licensingRequirements").append("<p class='citation'>" + Citation + "</p>");
@@ -250,18 +270,21 @@
 
               break;
             case "Smoking Protection Laws":
+              $(".smokingProtectionLaws").fadeIn("slow");
               $(".smokingProtectionLaws").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".smokingProtectionLaws").append("<p class='description'>" + Description + "</p>");
               $(".smokingProtectionLaws").append("<p class='citation'>" + Citation + "</p>");
               // $(".smokingProtectionLaws").append("<hr />");
               break;
             case "Advertising & Promotion":
+              $(".advertisingAndPromotion").fadeIn("slow");
               $(".advertisingAndPromotion").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".advertisingAndPromotion").append("<p class='description'>" + Description + "</p>");
               $(".advertisingAndPromotion").append("<p class='citation'>" + Citation + "</p>");
               // $(".advertisingAndPromotion").append("<hr />");
               break;
             case "Product Disclosure":
+              $(".productDisclosure").fadeIn("slow");
               $(".productDisclosure").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".productDisclosure").append("<p class='description'>" + Description + "</p>");
               $(".productDisclosure").append("<p class='citation'>" + Citation + "</p>");
@@ -269,6 +292,7 @@
 
               break;
             case "Divestment":
+              $(".divestment").fadeIn("slow");
               $(".divestment").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".divestment").append("<p class='description'>" + Description + "</p>");
               $(".divestment").append("<p class='citation'>" + Citation + "</p>");
@@ -276,6 +300,7 @@
 
               break;
             case "Liability":
+              $(".liability").fadeIn("slow");
               $(".liability").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".liability").append("<p class='description'>" + Description + "</p>");
               $(".liability").append("<p class='citation'>" + Citation + "</p>");
@@ -283,6 +308,7 @@
 
               break;
             case "Use of Tobacco Settlement Dollars":
+              $(".useOfTobaccoSettlementDollars").fadeIn("slow");
               $(".useOfTobaccoSettlementDollars").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".useOfTobaccoSettlementDollars").append("<p class='description'>" + Description + "</p>");
               $(".useOfTobaccoSettlementDollars").append("<p class='citation'>" + Citation + "</p>");
@@ -290,6 +316,7 @@
 
               break;
             case "Fire Safety Standards for Cigarettes":
+              $(".fireSafetyStandards").fadeIn("slow");
               $(".fireSafetyStandards").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".fireSafetyStandards").append("<p class='description'>" + Description + "</p>");
               $(".fireSafetyStandards").append("<p class='citation'>" + Citation + "</p>");
@@ -297,6 +324,7 @@
 
               break;
             case "Activity":
+              $(".activity").fadeIn("slow");
               $(".activity").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".activity").append("<p class='description'>" + Description + "</p>");
               $(".activity").append("<p class='citation'>" + Citation + "</p>");
@@ -309,7 +337,7 @@
 
       },
       error: function() {
-        console.log("An error occurred while processing XML file.");
+        console.warn("An error occurred while processing XML file.");
       }
     });
   });
