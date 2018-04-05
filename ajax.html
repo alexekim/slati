@@ -2,31 +2,74 @@
   hr {
     display: none;
   }
-  .category h5, .category p{
+
+  .category h5,
+  .category p {
     margin-left: 20px;
   }
+
   .backToTop {
     display: none;
     color: #3a75c4;
   }
-  .backToTop:hover{
+
+  .backToTop:hover {
     text-decoration: underline;
     cursor: pointer;
   }
-  .sectionHeaderh2{
+
+  .sectionHeaderh2 {
     color: red !important;
   }
-  .citation{
+
+  .citation {
     font-size: 10px;
     font-style: italic !important;
   }
-  .smokingRestrictions, .tobaccoTaxes, .tobaccoControlProgramFunding, .lawsRestrictingYouthAccess, .tobaccoProductSamples, .salesOfTobaccoProductsFromVendingMachines, .licensingRequirements, .smokingProtectionLaws, .advertisingAndPromotion, .productDisclosure, .divestment, .liability, .useOfTobaccoSettlementDollars, .fireSafetyStandards, .activity {
+
+  .smokingRestrictions,
+  .tobaccoTaxes,
+  .tobaccoControlProgramFunding,
+  .lawsRestrictingYouthAccess,
+  .tobaccoProductSamples,
+  .salesOfTobaccoProductsFromVendingMachines,
+  .licensingRequirements,
+  .smokingProtectionLaws,
+  .advertisingAndPromotion,
+  .productDisclosure,
+  .divestment,
+  .liability,
+  .useOfTobaccoSettlementDollars,
+  .fireSafetyStandards,
+  .activity {
     display: none;
   }
-  </style>
+
+  #viewDiff {
+    background: #3a75c4;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    font-size: 14px;
+    line-height: 40px;
+    font-weight: 700;
+    height: 40px;
+    cursor: pointer;
+    color: #fff;
+    padding: 0 20px;
+    display: inline-block;
+  }
+</style>
 
 <img id="loadSpinner" style="height: 50px; width: 50px;" src="http://awasudesign.vyqdy3k2nc1vkrjlhx.netdna-cdn.com/wp-content/uploads/2017/03/spinner-1.gif" />
 <h2 id="state"></h2>
+
+<div id="changeState">
+  <a id="viewDiff" onclick="document.getElementById('location').click()">View a different state</a>
+</div>
+
 <div class="info">
   <div class="category smokingRestrictions">
     <h2 class="sectionHeaderh2">Smoking Restrictions</h2 class="sectionHeaderh2">
@@ -166,25 +209,29 @@
 </div>
 
 <script type="text/javascript">
-  $(document).ready(function() {
+  var xmlSort = function(){
     var currentState = Cookies.get("state");
+    console.log("current state is: " + currentState);
     $.ajax({
       type: "GET",
-      url: "http://www.lung.org/dev/slati/01data.xml",
+      url: "http://www.lung.org/dev/slati/" + currentState + ".xml",
       dataType: "xml",
       success: function(xml) {
         $("#loadSpinner").remove();
         $("hr").css("display", "block");
         $(".backToTop").css("display", "block");
+        $(".subcategory").remove();
+        $(".description").remove();
+        $(".citation").remove();
         // var i = 0;
         $(xml).find('qryXMLSLATIDetail').each(function(i) {
           // i++;
           // $(".info").append("i: " + i);
 
           var Name = $(this).find('Name').text();
-          if ($("#state").html() == "") {
+          // if ($("#state").html() == "") {
             $("#state").html(Name);
-          }
+          // }
           var Abbrev = $(this).find('Abbrev').text();
           // $(".info").append("<p class='abbrev"+ i + "'><strong>abbrev: </strong>" + Abbrev + "</p>");
           // var FipsCode = $(this).find('FipsCode').text();
@@ -340,5 +387,16 @@
         console.warn("An error occurred while processing XML file.");
       }
     });
+  }
+  $(document).ready(function() {
+    xmlSort();
   });
+  $("[name='searchZip']").on("submit", function() {
+    console.log("zip changed");
+    setTimeout(xmlSort, 500);
+  })
+  $("#stateSelectList").on("change", function(){
+    console.log(" select changed");
+    xmlSort();
+  })
 </script>
