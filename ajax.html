@@ -3,6 +3,10 @@
     display: none;
   }
 
+  .info{
+    display: none;
+  }
+
   .category h5,
   .category p {
     margin-left: 20px;
@@ -64,31 +68,49 @@
 </style>
 
 <img id="loadSpinner" style="height: 50px; width: 50px;" src="http://awasudesign.vyqdy3k2nc1vkrjlhx.netdna-cdn.com/wp-content/uploads/2017/03/spinner-1.gif" />
-<h2 id="state"></h2>
-
-<div id="changeState">
-  <a id="viewDiff" onclick="document.getElementById('location').click()">View a different state</a>
-</div>
-
-<p>
-  <a href="#smokingRestrictions">Smoking Restrictions</a><br>
-  <a href="#tobaccoTaxes">Tobacco Taxes</a><br>
-  <a href="#tobaccoControlProgramFunding">Tobacco Control Program Funding</a><br>
-  <a href="#lawsRestrictingYouthAccess">Laws Restricting Youth Access to Tobacco Products</a><br>
-  <a href="#tobaccoProductSamples">Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</a><br>
-  <a href="#salesOfTobaccoProductsFromVendingMachines">Sales of Tobacco Products from Vending Machines</a><br>
-  <a href="#licensingRequirements">Licensing Requirements for Tobacco Products</a><br>
-  <a href="#smokingProtectionLaws">Smoking Protection Laws</a><br>
-  <a href="#advertisingAndPromotion">Advertising &amp; Promotion</a><br>
-  <a href="#productDisclosure">Product Disclosure</a><br>
-  <a href="#divestment">Divestment</a><br>
-  <a href="#liability">Liability</a><br><a href="#jump12">Use of Tobacco Settlement Dollars</a><br>
-  <a href="#fireSafetyStandards">Fire Safety Standards for Cigarettes</a><br>
-  <a href="#activity">Activity</a><br><br><br>
-</p>
 
 
 <div class="info">
+  <h2 id="state"></h2>
+
+  <div id="changeState">
+    <a id="viewDiff" onclick="document.getElementById('location').click()">View a different state</a>
+  </div>
+
+  <p>
+    <a href="#smokingRestrictions">Smoking Restrictions</a>
+    <br/>
+    <a href="#tobaccoTaxes">Tobacco Taxes</a>
+    <br/>
+    <a href="#tobaccoControlProgramFunding">Tobacco Control Program Funding</a>
+    <br/>
+    <a href="#lawsRestrictingYouthAccess">Laws Restricting Youth Access to Tobacco Products</a>
+    <br/>
+    <a href="#tobaccoProductSamples">Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</a>
+    <br/>
+    <a href="#salesOfTobaccoProductsFromVendingMachines">Sales of Tobacco Products from Vending Machines</a>
+    <br/>
+    <a href="#licensingRequirements">Licensing Requirements for Tobacco Products</a>
+    <br/>
+    <a href="#smokingProtectionLaws">Smoking Protection Laws</a>
+    <br/>
+    <a href="#advertisingAndPromotion">Advertising &amp; Promotion</a>
+    <br/>
+    <a href="#productDisclosure">Product Disclosure</a>
+    <br/>
+    <a href="#divestment">Divestment</a>
+    <br/>
+    <a href="#liability">Liability</a>
+    <br/>
+    <a href="#jump12">Use of Tobacco Settlement Dollars</a>
+    <br/>
+    <a href="#fireSafetyStandards">Fire Safety Standards for Cigarettes</a>
+    <br/>
+    <a href="#activity">Activity</a>
+    <br/>
+  </p>
+
+
   <a name="smokingRestrictions"></a>
   <div class="category smokingRestrictions">
     <h2 class="sectionHeaderh2">Smoking Restrictions</h2 class="sectionHeaderh2">
@@ -267,7 +289,8 @@
       dataType: "xml",
       success: function(xml) {
         $("#loadSpinner").css("display", "none");
-        $("hr").css("display", "block");
+        $(".info").css("display", "block");
+        // $("hr").css("display", "block");
         $(".backToTop").css("display", "block");
         $(".subcategory").remove();
         $(".description").remove();
@@ -355,7 +378,7 @@
               $(".salesOfTobaccoProductsFromVendingMachines").append("<h5 class='subcategory'>" + Subcategory +"</h5>");
               $(".salesOfTobaccoProductsFromVendingMachines").append("<p class='description'>" + Description + "</p>");
               $(".salesOfTobaccoProductsFromVendingMachines").append("<p class='citation'>" + Citation + "</p>");
-              $(".salesOfTobaccoProductsFromVendingMachines").append("<hr />");
+              // $(".salesOfTobaccoProductsFromVendingMachines").append("<hr />");
               break;
             case "Licensing Requirements for Tobacco Products":
               $(".licensingRequirements").fadeIn("slow");
@@ -442,12 +465,16 @@
   });
   $("[name='searchZip']").on("submit", function() {
     $("#loadSpinner").css("display", "block");
+    $(".info").hide();
     console.log("zip changed");
     setTimeout(xmlSort, 500);
+    // $(".info").show();
   })
   $("#stateSelectList").on("change", function(){
     $("#loadSpinner").css("display", "block");
+    $(".info").hide();
     console.log(" select changed");
     xmlSort();
+    // $(".info").show();
   })
 </script>
