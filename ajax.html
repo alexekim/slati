@@ -3,7 +3,7 @@
     display: none;
   }
 
-  .info{
+  .info {
     display: none;
   }
 
@@ -64,6 +64,11 @@
     color: #fff;
     padding: 0 20px;
     display: inline-block;
+  }
+
+  #viewDiff:hover {
+    text-decoration: none;
+    background: #a3a9ac;
   }
 </style>
 
@@ -476,5 +481,81 @@
     console.log(" select changed");
     xmlSort();
     // $(".info").show();
+  })
+</script>
+
+
+
+<style media="screen">
+  #circle{
+    display: none;
+
+    cursor: pointer;
+    position: fixed;
+    bottom: 14px;
+    right: 10px;
+    text-align: center;
+
+    /*color:white;
+    font-size: 30px;
+    font-weight: bold;*/
+
+    width:30px;
+    height: 30px;
+    background: rgba(0,112,205,0.7);
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+  }
+  #circle:hover{
+    background: rgba(0,112,205,1);
+  }
+  #circleText{
+    display: block;
+    margin-top: 2px;
+    text-align: center;
+
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently*/
+  }
+  #back{
+    font-size: 8px;
+  }
+</style>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+
+
+
+
+<div id="circle">
+  <span id="circleText">
+    <i class="fa fa-arrow-up" aria-hidden="true"></i>
+  </span>
+  <div id="back">TOP</div>
+</div>
+<script type="text/javascript">
+  $(document).on("scroll", function(){
+    var pos = $(document).scrollTop();
+    if (pos > 500) {
+      $("#circle").fadeIn("fast");
+    }
+    else{
+      $("#circle").fadeOut("fast");
+    }
+  });
+  $("#circle").on("click", function(){
+    // $(document).scrollTop(80);
+    var pos = $(window).scrollTop();
+    // $(window).scrollTop(pos-400);
+    // $("html, body").animate({ scrollTop: pos-700 }, 200);
+    $("html, body").animate({ scrollTop: pos-pos }, 200);
+
   })
 </script>
