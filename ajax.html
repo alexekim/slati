@@ -338,43 +338,24 @@
         $(".subcategory").remove();
         $(".description").remove();
         $(".citation").remove();
-        // var i = 0;
         $(xml).find('qryXMLSLATIDetail').each(function(i) {
-          // i++;
-          // $(".info").append("i: " + i);
-
           var Name = $(this).find('Name').text();
           // if ($("#state").html() == "") {
             $("#state").html(Name);
           // }
           var Abbrev = $(this).find('Abbrev').text();
-          // $(".info").append("<p class='abbrev"+ i + "'><strong>abbrev: </strong>" + Abbrev + "</p>");
           // var FipsCode = $(this).find('FipsCode').text();
-          // $(".info").append("<p class='fipscode"+ i + "'><strong>fipscode: </strong>" + FipsCode + "</p>");
           // var HasLawOrRestriction = $(this).find('HasLawOrRestriction').text();
-          // $(".info").append("<p class='HasLawOrRestriction"+ i + "'><strong>HasLawOrRestriction</strong>" + HasLawOrRestriction + "</p>");
           // var HasLawOrRestrictionDescription = $(this).find('HasLawOrRestrictionDescription').text();
-          // $(".info").append("<p class='HasLawOrRestrictionDescription"+ i + "'><strong>HasLawOrRestrictionDescription: </strong>" + HasLawOrRestrictionDescription + "</p>");
           // var CategoryDisplayOrder = $(this).find('CategoryDisplayOrder').text();
-          // $(".info").append("<p class='CategoryDisplayOrder"+ i + "'><strong>CategoryDisplayOrder: </strong>" + CategoryDisplayOrder + "</p>");
           // var SubcategoryDisplayOrder = $(this).find('SubcategoryDisplayOrder').text();
-          // $(".info").append("<p class='SubcategoryDisplayOrder"+ i + "'><strong>SubcategoryDisplayOrder: </strong>" + SubcategoryDisplayOrder + "</p>");
           // var SubcategoryID = $(this).find('SubcategoryID').text();
-          // $(".info").append("<p class='SubcategoryID"+ i + "'><strong>SubcategoryID: </strong>" + SubcategoryID + "</p>");
           // var CategoryID = $(this).find('CategoryID').text();
-          // $(".info").append("<p class='CategoryID"+ i + "'><strong>CategoryID: </strong>" + CategoryID + "</p>");
           // var StateID = $(this).find('StateID').text();
-          // $(".info").append("<p class='StateID"+ i + "'><strong>StateID: </strong>" + StateID + "</p>");
-
           var Category = $(this).find('Category').text();
-          // $(".info").append("<p class='category"+ i + "'><strong>category:</strong>" + Category + "</p>");
           var Subcategory = $(this).find('Subcategory').text();
-          // $(".info").append("<p class='subcategory"+ i + "'><strong>subcategory: </strong>" + Subcategory + "</p>");
           var Description = $(this).find('Description').text();
-          // $(".info").append("<p class='Description"+ i + "'><strong>Description: </strong>" + Description + "</p>");
           var Citation = $(this).find('Citation').text();
-          // $(".info").append("<p class='Citation"+ i + "'><strong>citation: </strong>" + Citation + "</p>");
-
 
           switch (Category) {
             case "Smoking Restrictions":
