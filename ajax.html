@@ -1,9 +1,17 @@
 <style media="screen">
-  hr {
+
+  .info {
     display: none;
   }
 
-  .info {
+  .topSlati{
+    border: 5px solid #e3e3e3;
+    padding: 20px;
+    margin-bottom: 35px;
+    border-radius: 20px 0px 20px 0px;
+  }
+
+  hr {
     display: none;
   }
 
@@ -50,6 +58,9 @@
     display: none;
   }
 
+  #changeState {
+    float: right;
+  }
   #viewDiff {
     background: #3a75c4;
     border-radius: 25px;
@@ -74,9 +85,9 @@
 
   #toc {
     margin: 20px 0 20px 0;
-    width: inherit;
+    width: 50%;
     padding: 10px;
-    border-radius: 30px;
+    font-family: 'Lato', sans-serif;
   }
 
 </style>
@@ -90,36 +101,39 @@
 
 
 <div class="info">
-  <h2 id="state"></h2>
+  <div class="topSlati">
+    <h2 id="state"></h2>
 
-  <div id="changeState">
-    <a id="viewDiff" onclick="document.getElementById('location').click()">View a different state</a>
-  </div>
+    <div id="changeState">
+      <a id="viewDiff" onclick="document.getElementById('location').click()">View a different state</a>
+    </div>
 
-
-  <select id="toc" name="">
-    <option value="#">Jump to...</option>
-    <option value="#smokingRestrictions">Smoking Restrictions</option>
-    <option value="#tobaccoTaxes">Tobacco Taxes</option>
-    <option value="#tobaccoControlProgramFunding">Tobacco Control Program Funding</option>
-    <option value="#lawsRestrictingYouthAccess">Laws Restricting Youth Access to Tobacco Products</option>
-    <option value="#tobaccoProductSamples">Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</option>
-    <option value="#salesOfTobaccoProductsFromVendingMachines">Sales of Tobacco Products from Vending Machines</option>
-    <option value="#licensingRequirements">Licensing Requirements for Tobacco Products</option>
-    <option value="#smokingProtectionLaws">Smoking Protection Laws</option>
-    <option value="#advertisingAndPromotion">Advertising &amp; Promotion</option>
-    <option value="#productDisclosure">Product Disclosure</option>
-    <option value="#divestment">Divestment</option>
-    <option value="#liability">Liability</option>
-    <option value="#useOfTobaccoSettlementDollars">Use of Tobacco Settlement Dollars</option>
-    <option value="#fireSafetyStandards">Fire Safety Standards for Cigarettes</option>
-    <option value="#activity">Activity</option>
-  </select>
-  <script type="text/javascript">
+    <select id="toc" name="">
+      <option value="#">Jump to...</option>
+      <option value="#smokingRestrictions">Smoking Restrictions</option>
+      <option value="#tobaccoTaxes">Tobacco Taxes</option>
+      <option value="#tobaccoControlProgramFunding">Tobacco Control Program Funding</option>
+      <option value="#lawsRestrictingYouthAccess">Laws Restricting Youth Access to Tobacco Products</option>
+      <option value="#tobaccoProductSamples">Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</option>
+      <option value="#salesOfTobaccoProductsFromVendingMachines">Sales of Tobacco Products from Vending Machines</option>
+      <option value="#licensingRequirements">Licensing Requirements for Tobacco Products</option>
+      <option value="#smokingProtectionLaws">Smoking Protection Laws</option>
+      <option value="#advertisingAndPromotion">Advertising &amp; Promotion</option>
+      <option value="#productDisclosure">Product Disclosure</option>
+      <option value="#divestment">Divestment</option>
+      <option value="#liability">Liability</option>
+      <option value="#useOfTobaccoSettlementDollars">Use of Tobacco Settlement Dollars</option>
+      <option value="#fireSafetyStandards">Fire Safety Standards for Cigarettes</option>
+      <option value="#activity">Activity</option>
+    </select>
+    <script type="text/javascript">
     $("#toc").on("change", function(){
       window.location = $(this).val();
     })
-  </script>
+    </script>
+  </div>
+
+
 
   <!-- <p>
     <a href="#smokingRestrictions">Smoking Restrictions</a>
@@ -453,6 +467,13 @@
               console.warn("something went wrong in the content sort. maybe no category exists");
           }
         });
+        // var changeStateDiv = $("#changeState");
+        var changeStateDiv = '<div id="changeState"><a id="viewDiff" onclick="document.getElementById(\'location\').click()">View a different state</a></div>';
+        $("#changeState").remove();
+        if ($("#changeState").length < 1) {
+          $("#state").append(changeStateDiv);
+        }
+        $("hr").css("display", "block");
 
       },
       error: function() {
