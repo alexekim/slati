@@ -1,366 +1,405 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2016-11-07T11:50:54">
-<tblStatesALA>
-<ID>2</ID>
-<Name>Alabama</Name>
-<Abbrev>AL</Abbrev>
-<FipsCode>01</FipsCode>
-<LegislatureHyperlink>www.legislature.state.al.us#http://www.legislature.state.al.us#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>3</ID>
-<Name>Alaska</Name>
-<Abbrev>AK</Abbrev>
-<FipsCode>02</FipsCode>
-<LegislatureHyperlink>www.legis.state.ak.us#http://www.legis.state.ak.us#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>4</ID>
-<Name>Arizona</Name>
-<Abbrev>AZ</Abbrev>
-<FipsCode>04</FipsCode>
-<LegislatureHyperlink>www.azleg.state.az.us#http://www.azleg.state.az.us#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>5</ID>
-<Name>Arkansas</Name>
-<Abbrev>AR</Abbrev>
-<FipsCode>05</FipsCode>
-<LegislatureHyperlink>www.arkleg.state.ar.us#http://www.arkleg.state.ar.us#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>6</ID>
-<Name>California</Name>
-<Abbrev>CA</Abbrev>
-<FipsCode>06</FipsCode>
-<LegislatureHyperlink>www.assembly.ca.gov#http://www.assembly.ca.gov#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>7</ID>
-<Name>Colorado</Name>
-<Abbrev>CO</Abbrev>
-<FipsCode>08</FipsCode>
-<LegislatureHyperlink>#http://www.state.co.us/gov_dir/stateleg.html#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>8</ID>
-<Name>Connecticut</Name>
-<Abbrev>CT</Abbrev>
-<FipsCode>09</FipsCode>
-<LegislatureHyperlink>www.cga.state.ct.us#http://www.cga.state.ct.us#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>9</ID>
-<Name>Delaware</Name>
-<Abbrev>DE</Abbrev>
-<FipsCode>10</FipsCode>
-<LegislatureHyperlink>#http://www.state.de.us/research/assembly.htm#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>10</ID>
-<Name>Florida</Name>
-<Abbrev>FL</Abbrev>
-<FipsCode>12</FipsCode>
-<LegislatureHyperlink>www.leg.state.fl.us#http://www.leg.state.fl.us#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>11</ID>
-<Name>Georgia</Name>
-<Abbrev>GA</Abbrev>
-<FipsCode>13</FipsCode>
-<LegislatureHyperlink>#http://www2.state.ga.us/Legis/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>12</ID>
-<Name>Hawaii</Name>
-<Abbrev>HI</Abbrev>
-<FipsCode>15</FipsCode>
-<LegislatureHyperlink>#http://www.capitol.hawaii.gov/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>13</ID>
-<Name>Idaho</Name>
-<Abbrev>ID</Abbrev>
-<FipsCode>16</FipsCode>
-<LegislatureHyperlink>#http://www2.state.id.us/legislat/legislat.html#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>14</ID>
-<Name>Illinois</Name>
-<Abbrev>IL</Abbrev>
-<FipsCode>17</FipsCode>
-<LegislatureHyperlink>#http://www.legis.state.il.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>15</ID>
-<Name>Indiana</Name>
-<Abbrev>IN</Abbrev>
-<FipsCode>18</FipsCode>
-<LegislatureHyperlink>#http://www.state.in.us/legislative/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>16</ID>
-<Name>Iowa</Name>
-<Abbrev>IA</Abbrev>
-<FipsCode>19</FipsCode>
-<LegislatureHyperlink>#http://www.legis.state.ia.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>17</ID>
-<Name>Kansas</Name>
-<Abbrev>KS</Abbrev>
-<FipsCode>20</FipsCode>
-<LegislatureHyperlink>#http://www.state.ks.us/public/legislative/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>18</ID>
-<Name>Kentucky</Name>
-<Abbrev>KY</Abbrev>
-<FipsCode>21</FipsCode>
-<LegislatureHyperlink>#http://www.lrc.state.ky.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>19</ID>
-<Name>Louisiana</Name>
-<Abbrev>LA</Abbrev>
-<FipsCode>22</FipsCode>
-<LegislatureHyperlink>#http://www.legis.state.la.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>20</ID>
-<Name>Maine</Name>
-<Abbrev>ME</Abbrev>
-<FipsCode>23</FipsCode>
-<LegislatureHyperlink>#http://janus.state.me.us/legis#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>21</ID>
-<Name>Maryland</Name>
-<Abbrev>MD</Abbrev>
-<FipsCode>24</FipsCode>
-<LegislatureHyperlink>#http://mlis.state.md.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>22</ID>
-<Name>Massachusetts</Name>
-<Abbrev>MA</Abbrev>
-<FipsCode>25</FipsCode>
-<LegislatureHyperlink>#http://www.magnet.state.ma.us/legis/legis.htm#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>23</ID>
-<Name>Michigan</Name>
-<Abbrev>MI</Abbrev>
-<FipsCode>26</FipsCode>
-<LegislatureHyperlink>#http://www.michiganlegislature.org/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>24</ID>
-<Name>Minnesota</Name>
-<Abbrev>MN</Abbrev>
-<FipsCode>27</FipsCode>
-<LegislatureHyperlink>#http://www.leg.state.mn.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>25</ID>
-<Name>Mississippi</Name>
-<Abbrev>MS</Abbrev>
-<FipsCode>28</FipsCode>
-<LegislatureHyperlink>#http://www.ls.state.ms.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>26</ID>
-<Name>Missouri</Name>
-<Abbrev>MO</Abbrev>
-<FipsCode>29</FipsCode>
-<LegislatureHyperlink>#http://www.moga.state.mo.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>27</ID>
-<Name>Montana</Name>
-<Abbrev>MT</Abbrev>
-<FipsCode>30</FipsCode>
-<LegislatureHyperlink>#http://leg.state.mt.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>28</ID>
-<Name>Nebraska</Name>
-<Abbrev>NE</Abbrev>
-<FipsCode>31</FipsCode>
-<LegislatureHyperlink>#http://www.unicam.state.ne.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>29</ID>
-<Name>Nevada</Name>
-<Abbrev>NV</Abbrev>
-<FipsCode>32</FipsCode>
-<LegislatureHyperlink>#http://www.leg.state.nv.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>30</ID>
-<Name>New Hampshire</Name>
-<Abbrev>NH</Abbrev>
-<FipsCode>33</FipsCode>
-<LegislatureHyperlink>#http://www.state.nh.us/gencourt/iegencourt.html#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>31</ID>
-<Name>New Jersey</Name>
-<Abbrev>NJ</Abbrev>
-<FipsCode>34</FipsCode>
-<LegislatureHyperlink>#http://www.njleg.state.nj.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>32</ID>
-<Name>New Mexico</Name>
-<Abbrev>NM</Abbrev>
-<FipsCode>35</FipsCode>
-<LegislatureHyperlink>#http://legis.state.nm.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>33</ID>
-<Name>New York</Name>
-<Abbrev>NY</Abbrev>
-<FipsCode>36</FipsCode>
-<LegislatureHyperlink>#http://assembly.state.ny.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>34</ID>
-<Name>North Carolina</Name>
-<Abbrev>NC</Abbrev>
-<FipsCode>37</FipsCode>
-<LegislatureHyperlink>#http://www.ncga.state.nc.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>35</ID>
-<Name>North Dakota</Name>
-<Abbrev>ND</Abbrev>
-<FipsCode>38</FipsCode>
-<LegislatureHyperlink>#http://www.state.nd.us/lr/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>36</ID>
-<Name>Ohio</Name>
-<Abbrev>OH</Abbrev>
-<FipsCode>39</FipsCode>
-<LegislatureHyperlink>#http://www.legislature.state.oh.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>37</ID>
-<Name>Oklahoma</Name>
-<Abbrev>OK</Abbrev>
-<FipsCode>40</FipsCode>
-<LegislatureHyperlink>#http://www.lsb.state.ok.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>38</ID>
-<Name>Oregon</Name>
-<Abbrev>OR</Abbrev>
-<FipsCode>41</FipsCode>
-<LegislatureHyperlink>#http://www.leg.state.or.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>39</ID>
-<Name>Pennsylvania</Name>
-<Abbrev>PA</Abbrev>
-<FipsCode>42</FipsCode>
-<LegislatureHyperlink>#http://www.legis.state.pa.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>40</ID>
-<Name>Rhode Island</Name>
-<Abbrev>RI</Abbrev>
-<FipsCode>44</FipsCode>
-<LegislatureHyperlink>#http://www.rilin.state.ri.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>41</ID>
-<Name>South Carolina</Name>
-<Abbrev>SC</Abbrev>
-<FipsCode>45</FipsCode>
-<LegislatureHyperlink>#http://www.lpitr.state.sc.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>42</ID>
-<Name>South Dakota</Name>
-<Abbrev>SD</Abbrev>
-<FipsCode>46</FipsCode>
-<LegislatureHyperlink>#http://legis.state.sd.us/index.cfm#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>43</ID>
-<Name>Tennessee</Name>
-<Abbrev>TN</Abbrev>
-<FipsCode>47</FipsCode>
-<LegislatureHyperlink>#http://www.legislature.state.tn.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>44</ID>
-<Name>Texas</Name>
-<Abbrev>TX</Abbrev>
-<FipsCode>48</FipsCode>
-<LegislatureHyperlink>#http://www.capitol.state.tx.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>45</ID>
-<Name>Utah</Name>
-<Abbrev>UT</Abbrev>
-<FipsCode>49</FipsCode>
-<LegislatureHyperlink>#http://www.le.state.ut.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>46</ID>
-<Name>Vermont</Name>
-<Abbrev>VT</Abbrev>
-<FipsCode>50</FipsCode>
-<LegislatureHyperlink>#http://www.leg.state.vt.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>47</ID>
-<Name>Virginia</Name>
-<Abbrev>VA</Abbrev>
-<FipsCode>51</FipsCode>
-<LegislatureHyperlink>#http://legis.state.va.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>48</ID>
-<Name>Washington</Name>
-<Abbrev>WA</Abbrev>
-<FipsCode>53</FipsCode>
-<LegislatureHyperlink>#http://www.leg.wa.gov/wsladm/default.htm#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>49</ID>
-<Name>West Virginia</Name>
-<Abbrev>WV</Abbrev>
-<FipsCode>54</FipsCode>
-<LegislatureHyperlink>#http://www.legis.state.wv.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>50</ID>
-<Name>Wisconsin</Name>
-<Abbrev>WI</Abbrev>
-<FipsCode>55</FipsCode>
-<LegislatureHyperlink>#http://www.legis.state.wi.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>51</ID>
-<Name>Wyoming</Name>
-<Abbrev>WY</Abbrev>
-<FipsCode>56</FipsCode>
-<LegislatureHyperlink>#http://legisweb.state.wy.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>53</ID>
-<Name>District of Columbia</Name>
-<Abbrev>DC</Abbrev>
-<FipsCode>11</FipsCode>
-<LegislatureHyperlink>#http://www.dccouncil.washington.dc.us/#</LegislatureHyperlink>
-</tblStatesALA>
-<tblStatesALA>
-<ID>54</ID>
-<Name>Puerto Rico</Name>
-<Abbrev>PR</Abbrev>
-<FipsCode>43</FipsCode>
-</tblStatesALA>
+  <tblStatesALA>
+    <ID>2</ID>
+    <Name>Alabama</Name>
+    <Abbrev>AL</Abbrev>
+    <FipsCode>01</FipsCode>
+    <LegislatureHyperlink>www.legislature.state.al.us#http://www.legislature.state.al.us#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>3</ID>
+    <Name>Alaska</Name>
+    <Abbrev>AK</Abbrev>
+    <FipsCode>02</FipsCode>
+    <LegislatureHyperlink>www.legis.state.ak.us#http://www.legis.state.ak.us#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>4</ID>
+    <Name>Arizona</Name>
+    <Abbrev>AZ</Abbrev>
+    <FipsCode>04</FipsCode>
+    <LegislatureHyperlink>www.azleg.state.az.us#http://www.azleg.state.az.us#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>5</ID>
+    <Name>Arkansas</Name>
+    <Abbrev>AR</Abbrev>
+    <FipsCode>05</FipsCode>
+    <LegislatureHyperlink>www.arkleg.state.ar.us#http://www.arkleg.state.ar.us#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>6</ID>
+    <Name>California</Name>
+    <Abbrev>CA</Abbrev>
+    <FipsCode>06</FipsCode>
+    <LegislatureHyperlink>www.assembly.ca.gov#http://www.assembly.ca.gov#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>7</ID>
+    <Name>Colorado</Name>
+    <Abbrev>CO</Abbrev>
+    <FipsCode>08</FipsCode>
+    <LegislatureHyperlink>#http://www.state.co.us/gov_dir/stateleg.html#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>8</ID>
+    <Name>Connecticut</Name>
+    <Abbrev>CT</Abbrev>
+    <FipsCode>09</FipsCode>
+    <LegislatureHyperlink>www.cga.state.ct.us#http://www.cga.state.ct.us#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>9</ID>
+    <Name>Delaware</Name>
+    <Abbrev>DE</Abbrev>
+    <FipsCode>10</FipsCode>
+    <LegislatureHyperlink>#http://www.state.de.us/research/assembly.htm#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>10</ID>
+    <Name>Florida</Name>
+    <Abbrev>FL</Abbrev>
+    <FipsCode>12</FipsCode>
+    <LegislatureHyperlink>www.leg.state.fl.us#http://www.leg.state.fl.us#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>11</ID>
+    <Name>Georgia</Name>
+    <Abbrev>GA</Abbrev>
+    <FipsCode>13</FipsCode>
+    <LegislatureHyperlink>#http://www2.state.ga.us/Legis/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>12</ID>
+    <Name>Hawaii</Name>
+    <Abbrev>HI</Abbrev>
+    <FipsCode>15</FipsCode>
+    <LegislatureHyperlink>#http://www.capitol.hawaii.gov/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>13</ID>
+    <Name>Idaho</Name>
+    <Abbrev>ID</Abbrev>
+    <FipsCode>16</FipsCode>
+    <LegislatureHyperlink>#http://www2.state.id.us/legislat/legislat.html#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>14</ID>
+    <Name>Illinois</Name>
+    <Abbrev>IL</Abbrev>
+    <FipsCode>17</FipsCode>
+    <LegislatureHyperlink>#http://www.legis.state.il.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>15</ID>
+    <Name>Indiana</Name>
+    <Abbrev>IN</Abbrev>
+    <FipsCode>18</FipsCode>
+    <LegislatureHyperlink>#http://www.state.in.us/legislative/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>16</ID>
+    <Name>Iowa</Name>
+    <Abbrev>IA</Abbrev>
+    <FipsCode>19</FipsCode>
+    <LegislatureHyperlink>#http://www.legis.state.ia.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>17</ID>
+    <Name>Kansas</Name>
+    <Abbrev>KS</Abbrev>
+    <FipsCode>20</FipsCode>
+    <LegislatureHyperlink>#http://www.state.ks.us/public/legislative/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>18</ID>
+    <Name>Kentucky</Name>
+    <Abbrev>KY</Abbrev>
+    <FipsCode>21</FipsCode>
+    <LegislatureHyperlink>#http://www.lrc.state.ky.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>19</ID>
+    <Name>Louisiana</Name>
+    <Abbrev>LA</Abbrev>
+    <FipsCode>22</FipsCode>
+    <LegislatureHyperlink>#http://www.legis.state.la.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>20</ID>
+    <Name>Maine</Name>
+    <Abbrev>ME</Abbrev>
+    <FipsCode>23</FipsCode>
+    <LegislatureHyperlink>#http://janus.state.me.us/legis#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>21</ID>
+    <Name>Maryland</Name>
+    <Abbrev>MD</Abbrev>
+    <FipsCode>24</FipsCode>
+    <LegislatureHyperlink>#http://mlis.state.md.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>22</ID>
+    <Name>Massachusetts</Name>
+    <Abbrev>MA</Abbrev>
+    <FipsCode>25</FipsCode>
+    <LegislatureHyperlink>#http://www.magnet.state.ma.us/legis/legis.htm#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>23</ID>
+    <Name>Michigan</Name>
+    <Abbrev>MI</Abbrev>
+    <FipsCode>26</FipsCode>
+    <LegislatureHyperlink>#http://www.michiganlegislature.org/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>24</ID>
+    <Name>Minnesota</Name>
+    <Abbrev>MN</Abbrev>
+    <FipsCode>27</FipsCode>
+    <LegislatureHyperlink>#http://www.leg.state.mn.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>25</ID>
+    <Name>Mississippi</Name>
+    <Abbrev>MS</Abbrev>
+    <FipsCode>28</FipsCode>
+    <LegislatureHyperlink>#http://www.ls.state.ms.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>26</ID>
+    <Name>Missouri</Name>
+    <Abbrev>MO</Abbrev>
+    <FipsCode>29</FipsCode>
+    <LegislatureHyperlink>#http://www.moga.state.mo.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>27</ID>
+    <Name>Montana</Name>
+    <Abbrev>MT</Abbrev>
+    <FipsCode>30</FipsCode>
+    <LegislatureHyperlink>#http://leg.state.mt.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>28</ID>
+    <Name>Nebraska</Name>
+    <Abbrev>NE</Abbrev>
+    <FipsCode>31</FipsCode>
+    <LegislatureHyperlink>#http://www.unicam.state.ne.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>29</ID>
+    <Name>Nevada</Name>
+    <Abbrev>NV</Abbrev>
+    <FipsCode>32</FipsCode>
+    <LegislatureHyperlink>#http://www.leg.state.nv.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>30</ID>
+    <Name>New Hampshire</Name>
+    <Abbrev>NH</Abbrev>
+    <FipsCode>33</FipsCode>
+    <LegislatureHyperlink>#http://www.state.nh.us/gencourt/iegencourt.html#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>31</ID>
+    <Name>New Jersey</Name>
+    <Abbrev>NJ</Abbrev>
+    <FipsCode>34</FipsCode>
+    <LegislatureHyperlink>#http://www.njleg.state.nj.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>32</ID>
+    <Name>New Mexico</Name>
+    <Abbrev>NM</Abbrev>
+    <FipsCode>35</FipsCode>
+    <LegislatureHyperlink>#http://legis.state.nm.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>33</ID>
+    <Name>New York</Name>
+    <Abbrev>NY</Abbrev>
+    <FipsCode>36</FipsCode>
+    <LegislatureHyperlink>#http://assembly.state.ny.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>34</ID>
+    <Name>North Carolina</Name>
+    <Abbrev>NC</Abbrev>
+    <FipsCode>37</FipsCode>
+    <LegislatureHyperlink>#http://www.ncga.state.nc.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>35</ID>
+    <Name>North Dakota</Name>
+    <Abbrev>ND</Abbrev>
+    <FipsCode>38</FipsCode>
+    <LegislatureHyperlink>#http://www.state.nd.us/lr/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>36</ID>
+    <Name>Ohio</Name>
+    <Abbrev>OH</Abbrev>
+    <FipsCode>39</FipsCode>
+    <LegislatureHyperlink>#http://www.legislature.state.oh.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>37</ID>
+    <Name>Oklahoma</Name>
+    <Abbrev>OK</Abbrev>
+    <FipsCode>40</FipsCode>
+    <LegislatureHyperlink>#http://www.lsb.state.ok.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>38</ID>
+    <Name>Oregon</Name>
+    <Abbrev>OR</Abbrev>
+    <FipsCode>41</FipsCode>
+    <LegislatureHyperlink>#http://www.leg.state.or.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>39</ID>
+    <Name>Pennsylvania</Name>
+    <Abbrev>PA</Abbrev>
+    <FipsCode>42</FipsCode>
+    <LegislatureHyperlink>#http://www.legis.state.pa.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>40</ID>
+    <Name>Rhode Island</Name>
+    <Abbrev>RI</Abbrev>
+    <FipsCode>44</FipsCode>
+    <LegislatureHyperlink>#http://www.rilin.state.ri.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+
+  <tblStatesALA>
+    <ID>41</ID>
+    <Name>South Carolina</Name>
+    <Abbrev>SC</Abbrev>
+    <FipsCode>45</FipsCode>
+    <LegislatureHyperlink>#http://www.lpitr.state.sc.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>42</ID>
+    <Name>South Dakota</Name>
+    <Abbrev>SD</Abbrev>
+    <FipsCode>46</FipsCode>
+    <LegislatureHyperlink>#http://legis.state.sd.us/index.cfm#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>43</ID>
+    <Name>Tennessee</Name>
+    <Abbrev>TN</Abbrev>
+    <FipsCode>47</FipsCode>
+    <LegislatureHyperlink>#http://www.legislature.state.tn.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>44</ID>
+    <Name>Texas</Name>
+    <Abbrev>TX</Abbrev>
+    <FipsCode>48</FipsCode>
+    <LegislatureHyperlink>#http://www.capitol.state.tx.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>45</ID>
+    <Name>Utah</Name>
+    <Abbrev>UT</Abbrev>
+    <FipsCode>49</FipsCode>
+    <LegislatureHyperlink>#http://www.le.state.ut.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>46</ID>
+    <Name>Vermont</Name>
+    <Abbrev>VT</Abbrev>
+    <FipsCode>50</FipsCode>
+    <LegislatureHyperlink>#http://www.leg.state.vt.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>47</ID>
+    <Name>Virginia</Name>
+    <Abbrev>VA</Abbrev>
+    <FipsCode>51</FipsCode>
+    <LegislatureHyperlink>#http://legis.state.va.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>48</ID>
+    <Name>Washington</Name>
+    <Abbrev>WA</Abbrev>
+    <FipsCode>53</FipsCode>
+    <LegislatureHyperlink>#http://www.leg.wa.gov/wsladm/default.htm#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>49</ID>
+    <Name>West Virginia</Name>
+    <Abbrev>WV</Abbrev>
+    <FipsCode>54</FipsCode>
+    <LegislatureHyperlink>#http://www.legis.state.wv.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>50</ID>
+    <Name>Wisconsin</Name>
+    <Abbrev>WI</Abbrev>
+    <FipsCode>55</FipsCode>
+    <LegislatureHyperlink>#http://www.legis.state.wi.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>51</ID>
+    <Name>Wyoming</Name>
+    <Abbrev>WY</Abbrev>
+    <FipsCode>56</FipsCode>
+    <LegislatureHyperlink>#http://legisweb.state.wy.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>53</ID>
+    <Name>District of Columbia</Name>
+    <Abbrev>DC</Abbrev>
+    <FipsCode>11</FipsCode>
+    <LegislatureHyperlink>#http://www.dccouncil.washington.dc.us/#</LegislatureHyperlink>
+  </tblStatesALA>
+  <tblStatesALA>
+    <ID>54</ID>
+    <Name>Puerto Rico</Name>
+    <Abbrev>PR</Abbrev>
+    <FipsCode>43</FipsCode>
+  </tblStatesALA>
 </dataroot>
