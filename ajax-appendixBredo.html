@@ -1,0 +1,51 @@
+<script type="text/javascript">
+  var states = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland",
+    "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania",
+    "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
+  ];
+
+
+  var xmlSort = function() {
+    $.each(states, function(currentState) {
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/dev/slati/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+            var Name = $(this).find('Name').text();
+            var Abbrev = $(this).find('Abbrev').text();
+            var FipsCode = $(this).find('FipsCode').text();
+            var HasLawOrRestriction = $(this).find('HasLawOrRestriction').text();
+            var HasLawOrRestrictionDescription = $(this).find('HasLawOrRestrictionDescription').text();
+            var Category = $(this).find('Category').text();
+            var Subcategory = $(this).find('Subcategory').text();
+
+            switch (Category) {
+              case "Smoking Restrictions":
+                $(".smokingRestrictions").show();
+                $(".smokingRestrictions").append("<h3 class='subcategory'>" + Subcategory + "</h3>");
+                $(".smokingRestrictions").append("<p class='description'>" + Description + "</p>");
+                $(".smokingRestrictions").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              default:
+                console.warn("something went wrong in the content sort. maybe no category exists");
+            }
+          });
+          // var changeStateDiv = $("#changeState");
+          var changeStateDiv = '<div id="changeState"><a id="viewDiff" onclick="document.getElementById(\'location\').click()">View a different state</a></div>';
+          $("#changeState").remove();
+          if ($("#changeState").length < 1) {
+            $("#state").append(changeStateDiv);
+          }
+          $("hr").css("display", "block");
+
+        },
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+        }
+      });
+    })
+  } //end xmlSort
+</script>
