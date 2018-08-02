@@ -589,7 +589,26 @@
               switch (Subcategory) {
                 case "Government Buildings":
                   document.getElementById(currentState + "dataGB").innerHTML = HasLawOrRestriction;
-                  break;
+                  switch (HasLawOrRestriction) {
+                    case "R":
+                    document.getElementById(currentState + "dataGB").classList.add("R");
+                    break;
+                    case "N"
+                    document.getElementById(currentState + "dataGB").classList.add("N");
+                    break;
+                    case "P"
+                    document.getElementById(currentState + "dataGB").classList.add("P");
+                    break;
+                    case "M"
+                    document.getElementById(currentState + "dataGB").classList.add("M");
+                    break;
+                    case "V"
+                    document.getElementById(currentState + "dataGB").classList.add("V");
+                    break;
+                    default:
+                    console.warn("something went wrong here");
+                  }
+                break;
                 case "Private Workplaces":
                   document.getElementById(currentState + "dataPW").innerHTML = HasLawOrRestriction;
                   break;
