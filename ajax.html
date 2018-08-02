@@ -352,6 +352,7 @@
       url: "//www.lung.org/dev/slati/" + currentState + ".xml",
       dataType: "xml",
       success: function(xml) {
+        console.log(xml);
         $("#loadSpinner").css("display", "none");
         $(".info").css("display", "block");
         // $("hr").css("display", "block");
@@ -359,6 +360,8 @@
         $(".subcategory").remove();
         $(".description").remove();
         $(".citation").remove();
+        var asdf = $(xml).find('Category');
+        console.log(asdf);
         $(xml).find('qryXMLSLATIDetail').each(function(i) {
           var Name = $(this).find('Name').text();
           // if ($("#state").html() == "") {
