@@ -1,17 +1,17 @@
 <style media="screen">
-  #content-well {
-    display: none;
-  }
+  #content-well { display: none; }
 
-  td,tr,th{
-    padding: 5px;
-  }
-  tr, td{
-    border: 1px solid gray;
-  }
-  .even{
-    background: #e5e5e5;
-  }
+  td,tr,th{ padding: 5px; }
+  td, tr, th{ border: 1px solid gray; }
+  tr{ /*background: #555559;*/ }
+
+  .tdCell{ font-weight: bold; }
+  .even{ background: #e5e5e5; }
+  .R{ color: navy; }
+  .N{ color: red; }
+  .P{ color: green }
+  .M{ color: orange }
+  .V{ color: fuchsia }
 </style>
 
 
@@ -550,6 +550,18 @@
         <td class="tdCell" id="DCdataB"></td>
       </tr>
     </tbody>
+    <thead>
+      <tr>
+        <th>State</th>
+        <th class="dataGB">Government<br>Buildings</th>
+        <th class="dataPW">Private<br>Workplaces</th>
+        <th class="dataS">Schools</th>
+        <th class="dataCCF">Child<br>Care<br>Facilities</th>
+        <th class="dataHCF">Health<br>Care<br>Facilities</th>
+        <th class="dataR">Restaurants</th>
+        <th class="dataB">Bars</th>
+      </tr>
+    </thead>
   </table><b><font color="#003366">R</font></b>
   <font size="1">=Restriction required;</font><b><font color="#003366">N</font></b>
   <font size="1">=No law, policy or restriction;</font><b><font color="#003366">P</font></b>
@@ -577,9 +589,6 @@
         dataType: "xml",
         success: function(xml) {
           $(xml).find('qryXMLSLATIDetail').each(function(i) {
-            // var Name = $(this).find('Name').text();
-            // var Abbrev = $(this).find('Abbrev').text();
-            // var FipsCode = $(this).find('FipsCode').text();
             var HasLawOrRestriction = $(this).find('HasLawOrRestriction').text();
             var HasLawOrRestrictionDescription = $(this).find('HasLawOrRestrictionDescription').text();
             var Category = $(this).find('Category').text();
@@ -588,44 +597,25 @@
             if (Category == "Smoking Restrictions") {
               switch (Subcategory) {
                 case "Government Buildings":
-                  document.getElementById(currentState + "dataGB").innerHTML = HasLawOrRestriction;
-                  switch (HasLawOrRestriction) {
-                    case "R":
-                    document.getElementById(currentState + "dataGB").classList.add("R");
-                    break;
-                    case "N"
-                    document.getElementById(currentState + "dataGB").classList.add("N");
-                    break;
-                    case "P"
-                    document.getElementById(currentState + "dataGB").classList.add("P");
-                    break;
-                    case "M"
-                    document.getElementById(currentState + "dataGB").classList.add("M");
-                    break;
-                    case "V"
-                    document.getElementById(currentState + "dataGB").classList.add("V");
-                    break;
-                    default:
-                    console.warn("something went wrong here");
-                  }
+                  document.getElementById(currentState + "dataGB").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
                 break;
                 case "Private Workplaces":
-                  document.getElementById(currentState + "dataPW").innerHTML = HasLawOrRestriction;
+                  document.getElementById(currentState + "dataPW").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
                   break;
                 case "Schools":
-                  document.getElementById(currentState + "dataS").innerHTML = HasLawOrRestriction;
+                  document.getElementById(currentState + "dataS").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
                   break;
                 case "Child Care Facilities":
-                  document.getElementById(currentState + "dataCCF").innerHTML = HasLawOrRestriction;
+                  document.getElementById(currentState + "dataCCF").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
                   break;
                 case "Health Care Facilities":
-                  document.getElementById(currentState + "dataHCF").innerHTML = HasLawOrRestriction;
+                  document.getElementById(currentState + "dataHCF").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
                   break;
                 case "Restaurants":
-                  document.getElementById(currentState + "dataR").innerHTML = HasLawOrRestriction;
+                  document.getElementById(currentState + "dataR").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
                   break;
                 case "Bars":
-                  document.getElementById(currentState + "dataB").innerHTML = HasLawOrRestriction;
+                  document.getElementById(currentState + "dataB").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
                   break;
                 default:
                   //something
