@@ -47,7 +47,7 @@
 
 
 <div id="content-well">
-  <table>
+  <table id="taxTable">
     <thead>
       <tr>
         <th>State</th>
@@ -290,7 +290,6 @@
 
             if (Subcategory == "Tax on Cigarettes") {
               var shortened = Name.replace(/\s+/g, '');
-              console.log("stateRow"+shortened);
               // document.getElementById("stateRow" + shortened).classList.add("bold");
               document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
               // var template = '<tr class=' + rowType +  '><td>' + Name + '</td><td>Youth Access (fix)</td><td>' + Description + '</tr>'
