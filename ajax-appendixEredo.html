@@ -1,51 +1,17 @@
-<style media="screen">
+<style>
   #content-well {
     display: none;
   }
+  /*.stateRow{
+    display: none;
+  }*/
 
-  td,
-  tr,
-  th {
-    padding: 5px;
-  }
+  td,tr,th{ padding: 5px; }
+  td, tr, th{ border: 1px solid gray; }
+  tr{ /*background: #555559;*/ }
 
-  td,
-  tr,
-  th {
-    border: 1px solid gray;
-  }
 
-  tr {
-    /*background: #555559;*/
-  }
 
-  .tdCell {
-    font-weight: bold;
-  }
-
-  .even {
-    background: #e5e5e5;
-  }
-
-  .R {
-    color: navy;
-  }
-
-  .N {
-    color: red;
-  }
-
-  .P {
-    color: green
-  }
-
-  .M {
-    color: orange
-  }
-
-  .V {
-    color: fuchsia
-  }
 </style>
 
 
@@ -69,171 +35,275 @@
         <th>Specific Provisions Preempted</th>
       </tr>
     </thead>
-    <tbody>
-      <tr>
-        <td>California</td>
-        <td>Youth Access</td>
-        <td>Only preempts the amount of fines localities may impose for violations of certain youth access laws.</td>
-      </tr>
-      <tr class="even">
+    <tbody id="tbody">
+      <!-- <tr>
         <td>Connecticut</td>
-        <td>Smoking Restrictions</td>
+        <td>Youth Access (fix)</td>
         <td>Any stronger local laws/ordinances further restricting smoking enacted after October 1, 1993 are not allowed.</td>
+      </tr> -->
+      <!-- content dynamically load here -->
+      <tr class="stateRow" id="stateRowAlabama" >
+        <td>Alabama</td>
+        <td class="tdCell" id="ALissue"></td>
+        <td class="tdCell" id="ALspecific"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowAlaska"  >
+        <td>Alaska</td>
+        <td class="tdCell" id="AKissue"></td>
+        <td class="tdCell" id="AKdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowArizona" >
+        <td>Arizona</td>
+        <td class="tdCell" id="AZissue"></td>
+        <td class="tdCell" id="AZdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowArkansas"  >
+        <td>Arkansas</td>
+        <td class="tdCell" id="ARissue"></td>
+        <td class="tdCell" id="ARdata">M</td>
+      </tr>
+      <tr class="stateRow" id="stateRowCalifornia" >
+        <td>California</td>
+        <td class="tdCell" id="CAissue"></td>
+        <td class="tdCell" id="CAdata">V</td>
+      </tr>
+      <tr class="stateRow" id="stateRowColorado"  >
+        <td>Colorado</td>
+        <td class="tdCell" id="COissue"></td>
+        <td class="tdCell" id="COdata">M</td>
+      </tr>
+      <tr class="stateRow" id="stateRowConnecticut" >
+        <td>Connecticut</td>
+        <td class="tdCell" id="CTissue"></td>
+        <td class="tdCell" id="CTdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowDelaware"  >
         <td>Delaware</td>
-        <td>Youth Access</td>
-        <td>Local laws/ordinances further restricting youth access to tobacco products enacted after June 30, 1996 are not allowed under state law.</td>
+        <td class="tdCell" id="DEissue"></td>
+        <td class="tdCell" id="DEdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowFlorida" >
         <td>Florida</td>
-        <td>Smoking Restrictions</td>
-        <td>State law supersedes any municipal or county ordinance on the subject of the regulation of smoking.</td>
+        <td class="tdCell" id="FLissue"></td>
+        <td class="tdCell" id="FLdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowGeorgia"  >
+        <td>Georgia</td>
+        <td class="tdCell" id="GAissue"></td>
+        <td class="tdCell" id="GAdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowHawaii" >
+        <td>Hawaii</td>
+        <td class="tdCell" id="HIissue"></td>
+        <td class="tdCell" id="HIdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowIdaho"  >
         <td>Idaho</td>
-        <td></td>
-        <td>Local communities cannot issue or require a permit or license for the sale or distribution of tobacco products.</td>
+        <td class="tdCell" id="IDissue"></td>
+        <td class="tdCell" id="IDdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowIllinois" >
+        <td>Illinois</td>
+        <td class="tdCell" id="ILissue"></td>
+        <td class="tdCell" id="ILdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowIndiana"  >
         <td>Indiana</td>
-        <td>Youth Access</td>
-        <td>Preempts local laws/ordinances concerning the sale, distribution or display of tobacco products.</td>
+        <td class="tdCell" id="INissue"></td>
+        <td class="tdCell" id="INdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowIowa" >
         <td>Iowa</td>
-        <td>Youth Access</td>
-        <td>Any stronger local law or regulation which is inconsistent with or conflicts with most state laws restricting youth access to tobacco products is prohibited.</td>
+        <td class="tdCell" id="IAissue"></td>
+        <td class="tdCell" id="IAdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowKansas"  >
+        <td>Kansas</td>
+        <td class="tdCell" id="KSissue"></td>
+        <td class="tdCell" id="KSdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowKentucky" >
         <td>Kentucky</td>
-        <td>Youth Access</td>
-        <td>Kentucky Revised Statutes section 438.305 to 438.340 preempts stronger local laws/ordinances concerning the use, display, sale and distribution of tobacco products enacted after March 5, 1996.</td>
+        <td class="tdCell" id="KYissue"></td>
+        <td class="tdCell" id="KYdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowLouisiana"  >
         <td>Louisiana</td>
-        <td>Youth Access</td>
-        <td>Stronger local laws/ordinances related to certain youth access laws restricting the sale, promotion and distribution of tobacco products are not allowed.</td>
+        <td class="tdCell" id="LAissue"></td>
+        <td class="tdCell" id="LAdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowMaine" >
+        <td>Maine</td>
+        <td class="tdCell" id="MEissue"></td>
+        <td class="tdCell" id="MEdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowMaryland"  >
+        <td>Maryland</td>
+        <td class="tdCell" id="MDissue"></td>
+        <td class="tdCell" id="MDdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowMassachusetts" >
         <td>Massachusetts</td>
-        <td>Youth Access</td>
-        <td>Stronger local laws/ordinances concerning the sale of cigarette rolling papers are not allowed.</td>
+        <td class="tdCell" id="MAissue"></td>
+        <td class="tdCell" id="MAdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowMichigan"  >
         <td>Michigan</td>
-        <td>Smoking Restrictions</td>
-        <td>Stronger local laws/ordinances on smoking in restaurants and bars are not allowed. Local communities also cannot regulate outdoor billboard advertising for smokeless tobacco products.</td>
+        <td class="tdCell" id="MIissue"></td>
+        <td class="tdCell" id="MIdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowMinnesota" >
+        <td>Minnesota</td>
+        <td class="tdCell" id="MNissue">M</td>
+        <td class="tdCell" id="MNdata">M</td>
+      </tr>
+      <tr class="stateRow" id="stateRowMississippi"  >
         <td>Mississippi</td>
-        <td>Youth Access</td>
-        <td>Stronger local laws/ordinances related to certain specified laws concerning the sale, promotion, and distribution of tobacco are not allowed.</td>
+        <td class="tdCell" id="MSissue">M</td>
+        <td class="tdCell" id="MSdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowMissouri" >
         <td>Missouri</td>
-        <td>Youth Access</td>
-        <td>Requires state, county, municipal and other local law enforcement authorities to adhere to the mandatory guidelines set out by the Supervisor of Liquor Control when using minors in tobacco retailer compliance inspections.</td>
+        <td class="tdCell" id="MOissue"></td>
+        <td class="tdCell" id="MOdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowMontana"  >
         <td>Montana</td>
-        <td>Youth Access</td>
-        <td>Enactment of stronger local youth access laws/ordinances concerning Montana Code sections 16-11-301 to 16-11-308 are not allowed.</td>
+        <td class="tdCell" id="MTissue"></td>
+        <td class="tdCell" id="MTdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowNebraska" >
         <td>Nebraska</td>
-        <td>Smoking Restrictions</td>
-        <td>Stronger local laws/ordinances concerning smoking in cigar bars are not allowed.</td>
+        <td class="tdCell" id="NEissue"></td>
+        <td class="tdCell" id="NEdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowNevada"  >
         <td>Nevada</td>
-        <td>Youth Access</td>
-        <td>Stronger local laws/ordinances related to the sale, distribution, marketing, display or promotion of tobacco products are not allowed.</td>
+        <td class="tdCell" id="NVissue"></td>
+        <td class="tdCell" id="NVdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowNewHampshire" >
         <td>New Hampshire</td>
-        <td>Smoking Restrictions</td>
-        <td>Local laws/ordinances on smoking more stringent than state law are not allowed.</td>
+        <td class="tdCell" id="NHissue"></td>
+        <td class="tdCell" id="NHdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowNewJersey"  >
+        <td>New Jersey</td>
+        <td class="tdCell" id="NJissue"></td>
+        <td class="tdCell" id="NJdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowNewMexico" >
         <td>New Mexico</td>
-        <td>Youth Access</td>
-        <td>All stronger local laws/ordinances further restricting youth access to tobacco products are not allowed.</td>
+        <td class="tdCell" id="NMissue"></td>
+        <td class="tdCell" id="NMdata">M</td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowNewYork"  >
         <td>New York</td>
-        <td>Youth Access</td>
-        <td>Stronger local laws/ordinances concerning the distribution of tobacco product samples only are not allowed.</td>
+        <td class="tdCell" id="NYissue"></td>
+        <td class="tdCell" id="NYdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowNorthCarolina" >
         <td>North Carolina</td>
-        <td>Smoking Restrictions; Youth Access</td>
-        <td>Stronger local laws/ordinances on smoking in private workplaces and other more specific locations and restricting youth access to tobacco products, except in relation to vending machines are not allowed.</td>
+        <td class="tdCell" id="NCissue"></td>
+        <td class="tdCell" id="NCdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowNorthDakota"  >
         <td>North Dakota</td>
-        <td>Youth Access</td>
-        <td>Local laws/ordinances must adhere to specified penalties concerning the purchase or use of tobacco products by minors.</td>
+        <td class="tdCell" id="NDissue"></td>
+        <td class="tdCell" id="NDdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowOhio" >
+        <td>Ohio</td>
+        <td class="tdCell" id="OHissue"></td>
+        <td class="tdCell" id="OHdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowOklahoma"  >
         <td>Oklahoma</td>
-        <td>Smoking Restrictions; Youth Access</td>
-        <td>Prohibits local governing bodies from enacting stronger laws/ordinances concerning the smoking/use of, sale, purchase, distribution, advertising, sampling, promotion, display, possession, licensing, or taxation of tobacco products.</td>
+        <td class="tdCell" id="OKissue"></td>
+        <td class="tdCell" id="OKdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowOregon" >
         <td>Oregon</td>
-        <td>Youth Access</td>
-        <td>Stronger local laws/ordinances concerning tobacco product vending machines are not allowed.</td>
+        <td class="tdCell" id="ORissue"></td>
+        <td class="tdCell" id="ORdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowPennsylvania"  >
         <td>Pennsylvania</td>
-        <td>Smoking Restrictions; Youth Access</td>
-        <td>Preempts all stronger local laws/ordinances further restricting smoking except Philadelphia's existing ordinance; also preempts all local laws/ordinances further restricting youth access to tobacco products enacted after January 1, 2002.</td>
+        <td class="tdCell" id="PAissue"></td>
+        <td class="tdCell" id="PAdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowRhodeIsland" >
+        <td>Rhode Island</td>
+        <td class="tdCell" id="RIissue"></td>
+        <td class="tdCell" id="RIdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowSouthCarolina"  >
         <td>South Carolina</td>
-        <td>Youth Access</td>
-        <td>All laws, ordinances or rules further restricting youth access to tobacco products may not supersede state law/regulation.</td>
+        <td class="tdCell" id="SCissue"></td>
+        <td class="tdCell" id="SCdata"></td>
+
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowSouthDakota" >
         <td>South Dakota</td>
-        <td>Smoking Restrictions; Youth Access</td>
-        <td>Stronger local laws/ordinances related to the use, distribution, marketing, promotion and sale of tobacco products are not allowed.</td>
+        <td class="tdCell" id="SDissue"></td>
+        <td class="tdCell" id="SDdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowTennessee"  >
         <td>Tennessee</td>
-        <td>Smoking Restrictions; Youth Access</td>
-        <td>Preempts local laws/ordinances/regulations further restricting smoking or youth access to tobacco products enacted or promulgated after March 15, 1994, except local governments, airport authorities, utility districts and special school districts
-          are allowed to regulate smoking in their buildings and on their property.</td>
+        <td class="tdCell" id="TNissue"></td>
+        <td class="tdCell" id="TNdata">M</td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowTexas" >
+        <td>Texas</td>
+        <td class="tdCell" id="TXissue"></td>
+        <td class="tdCell" id="TXdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowUtah"  >
         <td>Utah</td>
-        <td>Smoking Restrictions; Youth Access</td>
-        <td>Preempts local laws/ordinances concerning smoking that are not essentially identical to state law except for certain places of outdoor public access; preemption of youth access laws/ordinances only applies to placement of tobacco products, mail
-          order sales of tobacco products and tobacco product vending machines. Stronger local laws/ordinances dealing with advertising and promotion of tobacco products are also not allowed.</td>
+        <td class="tdCell" id="UTissue"></td>
+        <td class="tdCell" id="UTdata"></td>
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowVermont" >
+        <td>Vermont</td>
+        <td class="tdCell" id="VTissue"></td>
+        <td class="tdCell" id="VTdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowVirginia"  >
         <td>Virginia</td>
-        <td>Smoking Restrictions</td>
-        <td>Local smoking ordinances adopted after January 1, 1990 shall not contain provisions that exceed state smoking restrictions, except as specified.</td>
+        <td class="tdCell" id="VAissue"></td>
+        <td class="tdCell" id="VAdata"></td>
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowWashington" >
         <td>Washington</td>
-        <td>Smoking Restrictions; Youth Access</td>
-        <td>Stronger local laws/ordinances further restricting smoking and youth access to tobacco products are generally not allowed.</td>
+        <td class="tdCell" id="WAissue"></td>
+        <td class="tdCell" id="WAdata"></td>
+
       </tr>
-      <tr>
+      <tr class="stateRow" id="stateRowWestVirginia"  >
+        <td>West Virginia</td>
+        <td class="tdCell" id="WVissue"></td>
+        <td class="tdCell" id="WVdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowWisconsin" >
         <td>Wisconsin</td>
-        <td>Smoking Restrictions; Youth Access</td>
-        <td>Limited preemption of local laws/ordinances further restricting smoking in outdoor areas; local laws/ordinances restricting youth access to tobacco products must be the same as state law.</td>
+        <td class="tdCell" id="WIissue"></td>
+        <td class="tdCell" id="WIdata"></td>
+
       </tr>
-      <tr class="even">
+      <tr class="stateRow" id="stateRowWyoming"  >
         <td>Wyoming</td>
-        <td>Youth Access</td>
-        <td>Certain state laws restricting youth access to tobacco products cannot be changed by local law/ordinance.</td>
+        <td class="tdCell" id="WYissue"></td>
+        <td class="tdCell" id="WYdata"></td>
       </tr>
+      <tr class="stateRow" id="stateRowDistrictOfColumbia" >
+        <td>District of Columbia</td>
+        <td class="tdCell" id="DCissue"></td>
+        <td class="tdCell" id="DCdata"></td>
+      </tr>
+
     </tbody>
   </table>
+</div>
 
 <script type="text/javascript">
   var states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
@@ -251,41 +321,28 @@
         dataType: "xml",
         success: function(xml) {
           $(xml).find('qryXMLSLATIDetail').each(function(i) {
-            var HasLawOrRestriction = $(this).find('HasLawOrRestriction').text();
-            var HasLawOrRestrictionDescription = $(this).find('HasLawOrRestrictionDescription').text();
+            if (key%2 == 0) {
+              var rowType = "even";
+            } else {
+              var rowType = "odd";
+            }
+            // var rowType="hey";
+            var Name = $(this).find('Name').text();
+            var Abbrev = $(this).find('Abbrev').text();
             var Category = $(this).find('Category').text();
-            var Subcategory = $(this).find('Subcategory').text();
+            var Description = $(this).find('Description').text();
 
-            if (Category == "Smoking Restrictions") {
-              switch (Subcategory) {
-                case "Government Buildings":
-                  document.getElementById(currentState + "dataGB").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
-                  break;
-                case "Private Workplaces":
-                  document.getElementById(currentState + "dataPW").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
-                  break;
-                case "Schools":
-                  document.getElementById(currentState + "dataS").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
-                  break;
-                case "Child Care Facilities":
-                  document.getElementById(currentState + "dataCCF").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
-                  break;
-                case "Health Care Facilities":
-                  document.getElementById(currentState + "dataHCF").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
-                  break;
-                case "Restaurants":
-                  document.getElementById(currentState + "dataR").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
-                  break;
-                case "Bars":
-                  document.getElementById(currentState + "dataB").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
-                  break;
-                default:
-                  //something
-              }
+            if (Category == "Preemption") {
+              //  var shortened = Name.replace(/\s+/g, '');
+              //  var newID = "stateRow"+shortened;
+              //  $(newID).css("display", "table");
+              // //  document.getElementById("stateRow"+shortened).style.display = "";
+               document.getElementById(Abbrev+"issue").innerHTML = "youth access (fix)";
+               document.getElementById(Abbrev+"data").innerHTML = Description;
+              // var template = '<tr class=' + rowType +  '><td>' + Name + '</td><td>Youth Access (fix)</td><td>' + Description + '</tr>'
+              // $("#tbody").append(template);
             }
           });
-          $("#loadSpinner").hide();
-          $("#content-well").show();
         },
         error: function() {
           console.warn("An error occurred while processing XML file.");
@@ -293,6 +350,8 @@
         }
       });
     })
+    $("#loadSpinner").hide();
+    $("#content-well").show();
   } //end xmlSort
 
   $(document).ready(function() {
