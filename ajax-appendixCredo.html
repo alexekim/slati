@@ -169,6 +169,8 @@
       </tr>
       <tr class="even stateRow" id="stateRowNewHampshire" >
         <td>New Hampshire</td>
+        <td class="tdCell" id="NHTax"></td>
+
       </tr>
       <tr class="stateRow" id="stateRowNewJersey"  >
         <td>New Jersey</td>
@@ -188,6 +190,7 @@
       </tr>
       <tr class="stateRow" id="stateRowNorthDakota"  >
         <td>North Dakota</td>
+        <td class="tdCell" id="NDTax"></td>
       </tr>
       <tr class="even stateRow" id="stateRowOhio" >
         <td>Ohio</td>
@@ -253,7 +256,7 @@
         <td>Wyoming</td>
         <td class="tdCell" id="WYTax"></td>
     </tr>
-      <tr class="even stateRow" id="stateRowDistrictOfColumbia" >
+      <tr class="even stateRow" id="stateRowDistrictofColumbia" >
         <td>District of Columbia</td>
         <td class="tdCell" id="DCTax"></td>
     </tr>
@@ -270,31 +273,26 @@
 
   var xmlSort = function() {
     $.each(states, function(key, currentState) {
-      console.log("currentState: " + currentState);
+      // console.log("currentState: " + currentState);
       $.ajax({
         type: "GET",
         url: "//www.lung.org/dev/slati/" + currentState + ".xml",
         dataType: "xml",
         success: function(xml) {
           $(xml).find('qryXMLSLATIDetail').each(function(i) {
-            if (key % 2 == 0) {
-              var rowType = "even";
-            } else {
-              var rowType = "odd";
-            }
-            // var rowType="hey";
+
             var Name = $(this).find('Name').text();
             var Abbrev = $(this).find('Abbrev').text();
             var Subcategory = $(this).find('Subcategory').text();
             var NumericValue = $(this).find('NumericValue').text();
+            var NumericValueFixed = Number(NumericValue).toFixed(3);
+            // console.log(Name +  ": " + NumericValueFixed);
 
             if (Subcategory == "Tax on Cigarettes") {
               var shortened = Name.replace(/\s+/g, '');
-              var newID = "stateRow" + shortened;
-              $(newID).css("display", "table");
-              document.getElementById("stateRow" + shortened).classList.add("bold");
-              document.getElementById(Abbrev + "Tax").innerHTML = "youth access (fix)";
-              document.getElementById(Abbrev + "data").innerHTML = Description;
+              console.log("stateRow"+shortened);
+              // document.getElementById("stateRow" + shortened).classList.add("bold");
+              document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
               // var template = '<tr class=' + rowType +  '><td>' + Name + '</td><td>Youth Access (fix)</td><td>' + Description + '</tr>'
               // $("#tbody").append(template);
             }
