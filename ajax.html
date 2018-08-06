@@ -330,6 +330,17 @@
   </div>
   <hr />
 
+  <a name="preemption"></a>
+  <div class="category preemption">
+    <h2 class="sectionHeaderh2">Preemption</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
   <a name="activity"></a>
   <div class="category activity">
     <h2 class="sectionHeaderh2">Activity</h2 class="sectionHeaderh2">
@@ -465,6 +476,12 @@
               $(".fireSafetyStandards").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
               $(".fireSafetyStandards").append("<p class='description'>" + Description + "</p>");
               $(".fireSafetyStandards").append("<p class='citation'>" + Citation + "</p>");
+              break;
+            case "Preemption":
+              $(".preemption").show();
+              $(".preemption").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+              $(".preemption").append("<p class='description'>" + Description + "</p>");
+              $(".preemption").append("<p class='citation'>" + Citation + "</p>");
               break;
             case "Activity":
               $(".activity").show();
