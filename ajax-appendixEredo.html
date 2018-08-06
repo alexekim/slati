@@ -5,7 +5,14 @@
   /*.stateRow{
     display: none;
   }*/
-
+  .bold{
+    font-weight: bold;
+  }
+  .even{ background: #f2f2f2; }
+  th{
+    font-weight: bold;
+    border-bottom: 2px solid gray;
+  }
   td,tr,th{ padding: 5px; }
   td, tr, th{ border: 1px solid gray; }
   tr{ /*background: #555559;*/ }
@@ -42,7 +49,7 @@
         <td>Any stronger local laws/ordinances further restricting smoking enacted after October 1, 1993 are not allowed.</td>
       </tr> -->
       <!-- content dynamically load here -->
-      <tr class="stateRow" id="stateRowAlabama" >
+      <tr class="even stateRow" id="stateRowAlabama" >
         <td>Alabama</td>
         <td class="tdCell" id="ALissue"></td>
         <td class="tdCell" id="ALspecific"></td>
@@ -52,7 +59,7 @@
         <td class="tdCell" id="AKissue"></td>
         <td class="tdCell" id="AKdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowArizona" >
+      <tr class=even "stateRow" id="stateRowArizona" >
         <td>Arizona</td>
         <td class="tdCell" id="AZissue"></td>
         <td class="tdCell" id="AZdata"></td>
@@ -60,19 +67,19 @@
       <tr class="stateRow" id="stateRowArkansas"  >
         <td>Arkansas</td>
         <td class="tdCell" id="ARissue"></td>
-        <td class="tdCell" id="ARdata">M</td>
+        <td class="tdCell" id="ARdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowCalifornia" >
+      <tr class="even stateRow" id="stateRowCalifornia" >
         <td>California</td>
         <td class="tdCell" id="CAissue"></td>
-        <td class="tdCell" id="CAdata">V</td>
+        <td class="tdCell" id="CAdata"></td>
       </tr>
       <tr class="stateRow" id="stateRowColorado"  >
         <td>Colorado</td>
         <td class="tdCell" id="COissue"></td>
-        <td class="tdCell" id="COdata">M</td>
+        <td class="tdCell" id="COdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowConnecticut" >
+      <tr class="even stateRow" id="stateRowConnecticut" >
         <td>Connecticut</td>
         <td class="tdCell" id="CTissue"></td>
         <td class="tdCell" id="CTdata"></td>
@@ -82,7 +89,7 @@
         <td class="tdCell" id="DEissue"></td>
         <td class="tdCell" id="DEdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowFlorida" >
+      <tr class="even stateRow" id="stateRowFlorida" >
         <td>Florida</td>
         <td class="tdCell" id="FLissue"></td>
         <td class="tdCell" id="FLdata"></td>
@@ -92,7 +99,7 @@
         <td class="tdCell" id="GAissue"></td>
         <td class="tdCell" id="GAdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowHawaii" >
+      <tr class="even stateRow" id="stateRowHawaii" >
         <td>Hawaii</td>
         <td class="tdCell" id="HIissue"></td>
         <td class="tdCell" id="HIdata"></td>
@@ -102,7 +109,7 @@
         <td class="tdCell" id="IDissue"></td>
         <td class="tdCell" id="IDdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowIllinois" >
+      <tr class="even stateRow" id="stateRowIllinois" >
         <td>Illinois</td>
         <td class="tdCell" id="ILissue"></td>
         <td class="tdCell" id="ILdata"></td>
@@ -112,7 +119,7 @@
         <td class="tdCell" id="INissue"></td>
         <td class="tdCell" id="INdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowIowa" >
+      <tr class="even stateRow" id="stateRowIowa" >
         <td>Iowa</td>
         <td class="tdCell" id="IAissue"></td>
         <td class="tdCell" id="IAdata"></td>
@@ -122,7 +129,7 @@
         <td class="tdCell" id="KSissue"></td>
         <td class="tdCell" id="KSdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowKentucky" >
+      <tr class="even stateRow" id="stateRowKentucky" >
         <td>Kentucky</td>
         <td class="tdCell" id="KYissue"></td>
         <td class="tdCell" id="KYdata"></td>
@@ -132,7 +139,7 @@
         <td class="tdCell" id="LAissue"></td>
         <td class="tdCell" id="LAdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowMaine" >
+      <tr class="even stateRow" id="stateRowMaine" >
         <td>Maine</td>
         <td class="tdCell" id="MEissue"></td>
         <td class="tdCell" id="MEdata"></td>
@@ -142,7 +149,7 @@
         <td class="tdCell" id="MDissue"></td>
         <td class="tdCell" id="MDdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowMassachusetts" >
+      <tr class="even stateRow" id="stateRowMassachusetts" >
         <td>Massachusetts</td>
         <td class="tdCell" id="MAissue"></td>
         <td class="tdCell" id="MAdata"></td>
@@ -152,17 +159,17 @@
         <td class="tdCell" id="MIissue"></td>
         <td class="tdCell" id="MIdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowMinnesota" >
+      <tr class="even stateRow" id="stateRowMinnesota" >
         <td>Minnesota</td>
-        <td class="tdCell" id="MNissue">M</td>
-        <td class="tdCell" id="MNdata">M</td>
+        <td class="tdCell" id="MNissue"></td>
+        <td class="tdCell" id="MNdata"></td>
       </tr>
       <tr class="stateRow" id="stateRowMississippi"  >
         <td>Mississippi</td>
-        <td class="tdCell" id="MSissue">M</td>
+        <td class="tdCell" id="MSissue"></td>
         <td class="tdCell" id="MSdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowMissouri" >
+      <tr class="even stateRow" id="stateRowMissouri" >
         <td>Missouri</td>
         <td class="tdCell" id="MOissue"></td>
         <td class="tdCell" id="MOdata"></td>
@@ -172,7 +179,7 @@
         <td class="tdCell" id="MTissue"></td>
         <td class="tdCell" id="MTdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowNebraska" >
+      <tr class="even stateRow" id="stateRowNebraska" >
         <td>Nebraska</td>
         <td class="tdCell" id="NEissue"></td>
         <td class="tdCell" id="NEdata"></td>
@@ -182,7 +189,7 @@
         <td class="tdCell" id="NVissue"></td>
         <td class="tdCell" id="NVdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowNewHampshire" >
+      <tr class="even stateRow" id="stateRowNewHampshire" >
         <td>New Hampshire</td>
         <td class="tdCell" id="NHissue"></td>
         <td class="tdCell" id="NHdata"></td>
@@ -192,17 +199,17 @@
         <td class="tdCell" id="NJissue"></td>
         <td class="tdCell" id="NJdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowNewMexico" >
+      <tr class="even stateRow" id="stateRowNewMexico" >
         <td>New Mexico</td>
         <td class="tdCell" id="NMissue"></td>
-        <td class="tdCell" id="NMdata">M</td>
+        <td class="tdCell" id="NMdata"></td>
       </tr>
       <tr class="stateRow" id="stateRowNewYork"  >
         <td>New York</td>
         <td class="tdCell" id="NYissue"></td>
         <td class="tdCell" id="NYdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowNorthCarolina" >
+      <tr class="even stateRow" id="stateRowNorthCarolina" >
         <td>North Carolina</td>
         <td class="tdCell" id="NCissue"></td>
         <td class="tdCell" id="NCdata"></td>
@@ -212,7 +219,7 @@
         <td class="tdCell" id="NDissue"></td>
         <td class="tdCell" id="NDdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowOhio" >
+      <tr class="even stateRow" id="stateRowOhio" >
         <td>Ohio</td>
         <td class="tdCell" id="OHissue"></td>
         <td class="tdCell" id="OHdata"></td>
@@ -222,7 +229,7 @@
         <td class="tdCell" id="OKissue"></td>
         <td class="tdCell" id="OKdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowOregon" >
+      <tr class="even stateRow" id="stateRowOregon" >
         <td>Oregon</td>
         <td class="tdCell" id="ORissue"></td>
         <td class="tdCell" id="ORdata"></td>
@@ -232,7 +239,7 @@
         <td class="tdCell" id="PAissue"></td>
         <td class="tdCell" id="PAdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowRhodeIsland" >
+      <tr class="even stateRow" id="stateRowRhodeIsland" >
         <td>Rhode Island</td>
         <td class="tdCell" id="RIissue"></td>
         <td class="tdCell" id="RIdata"></td>
@@ -243,7 +250,7 @@
         <td class="tdCell" id="SCdata"></td>
 
       </tr>
-      <tr class="stateRow" id="stateRowSouthDakota" >
+      <tr class="even stateRow" id="stateRowSouthDakota" >
         <td>South Dakota</td>
         <td class="tdCell" id="SDissue"></td>
         <td class="tdCell" id="SDdata"></td>
@@ -251,9 +258,9 @@
       <tr class="stateRow" id="stateRowTennessee"  >
         <td>Tennessee</td>
         <td class="tdCell" id="TNissue"></td>
-        <td class="tdCell" id="TNdata">M</td>
+        <td class="tdCell" id="TNdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowTexas" >
+      <tr class="even stateRow" id="stateRowTexas" >
         <td>Texas</td>
         <td class="tdCell" id="TXissue"></td>
         <td class="tdCell" id="TXdata"></td>
@@ -263,7 +270,7 @@
         <td class="tdCell" id="UTissue"></td>
         <td class="tdCell" id="UTdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowVermont" >
+      <tr class="even stateRow" id="stateRowVermont" >
         <td>Vermont</td>
         <td class="tdCell" id="VTissue"></td>
         <td class="tdCell" id="VTdata"></td>
@@ -273,7 +280,7 @@
         <td class="tdCell" id="VAissue"></td>
         <td class="tdCell" id="VAdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowWashington" >
+      <tr class="even stateRow" id="stateRowWashington" >
         <td>Washington</td>
         <td class="tdCell" id="WAissue"></td>
         <td class="tdCell" id="WAdata"></td>
@@ -284,7 +291,7 @@
         <td class="tdCell" id="WVissue"></td>
         <td class="tdCell" id="WVdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowWisconsin" >
+      <tr class="even stateRow" id="stateRowWisconsin" >
         <td>Wisconsin</td>
         <td class="tdCell" id="WIissue"></td>
         <td class="tdCell" id="WIdata"></td>
@@ -295,13 +302,20 @@
         <td class="tdCell" id="WYissue"></td>
         <td class="tdCell" id="WYdata"></td>
       </tr>
-      <tr class="stateRow" id="stateRowDistrictOfColumbia" >
+      <tr class="even stateRow" id="stateRowDistrictOfColumbia" >
         <td>District of Columbia</td>
         <td class="tdCell" id="DCissue"></td>
         <td class="tdCell" id="DCdata"></td>
       </tr>
-
     </tbody>
+    <thead>
+      <tr>
+        <th>State</th>
+        <th>Issue Area Where Preemption Exists</th>
+        <th>Specific Provisions Preempted</th>
+      </tr>
+    </thead>
+
   </table>
 </div>
 
@@ -333,10 +347,10 @@
             var Description = $(this).find('Description').text();
 
             if (Category == "Preemption") {
-              //  var shortened = Name.replace(/\s+/g, '');
-              //  var newID = "stateRow"+shortened;
-              //  $(newID).css("display", "table");
-              // //  document.getElementById("stateRow"+shortened).style.display = "";
+               var shortened = Name.replace(/\s+/g, '');
+               var newID = "stateRow"+shortened;
+               $(newID).css("display", "table");
+               document.getElementById("stateRow"+shortened).classList.add("bold");
                document.getElementById(Abbrev+"issue").innerHTML = "youth access (fix)";
                document.getElementById(Abbrev+"data").innerHTML = Description;
               // var template = '<tr class=' + rowType +  '><td>' + Name + '</td><td>Youth Access (fix)</td><td>' + Description + '</tr>'
