@@ -47,6 +47,9 @@
 
 
 <div id="content-well">
+  <button type="button" id="xmlSortNumeric">sort by tax revenue</button>
+  <button type="button" id="xmlSortAlpha">sort by state</button>
+
   <table id="revenueTable">
     <thead>
       <tr>
@@ -54,8 +57,8 @@
         <th>Revenue Collected in FY2012</th>
       </tr>
     </thead>
-    <tbody>
-      <tr class="even stateRow" id="stateRowAlabama" >
+    <tbody id="tbody">
+      <!-- <tr class="even stateRow" id="stateRowAlabama" >
         <td>Alabama</td>
         <td class="tdCell" id="ALRevenue"><img style="margin: 0 auto; height: 10px; width: 10px;" src="http://awasudesign.vyqdy3k2nc1vkrjlhx.netdna-cdn.com/wp-content/uploads/2017/03/spinner-1.gif" /></td>
       </tr>
@@ -259,7 +262,7 @@
       <tr class="even stateRow" id="stateRowDistrictofColumbia" >
         <td>District of Columbia</td>
         <td class="tdCell" id="DCRevenue"><img style="margin: 0 auto; height: 10px; width: 10px;" src="http://awasudesign.vyqdy3k2nc1vkrjlhx.netdna-cdn.com/wp-content/uploads/2017/03/spinner-1.gif" /></td>
-    </tr>
+    </tr> -->
     </tbody>
   </table>
 </div>
@@ -271,9 +274,67 @@
   ];
 
 
-  var xmlSort = function() {
+  var xmlSortAlpha = function() {
+    if($(".stateRow")){ $(".stateRow").remove();}
     var giantObject = [];
     $.each(states, function(key, currentState) {
+      console.log("key: " + key);
+      // console.log("currentState: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/dev/slati/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+            var Name = $(this).find('Name').text();
+            var Abbrev = $(this).find('Abbrev').text();
+            var Subcategory = $(this).find('Subcategory').text();
+            var NumericValue = $(this).find('NumericValue').text();
+            var NumericValueFixed = Number(NumericValue);
+            if (Subcategory == "Use of Cigarette Tax Revenue - Summary") {
+              var mini = [Name, NumericValueFixed];
+              // console.log(mini);
+              giantObject.push(mini);
+              if (giantObject.length ==51) {
+                // console.log(giantObject.length+"!!!");
+                $("#loadSpinner").hide();
+                $("#content-well").show();
+                for (var j = 0; j < giantObject.length; j++) {
+                  if (j%2 == 0) {
+                    var rowType = "even";
+                  } else {
+                    var rowType = "odd";
+                  }
+                  var state = giantObject[j][0];
+                  var tax = giantObject[j][1].toLocaleString();
+                  $("#tbody").append('<tr class="'+ rowType+' stateRow" id="stateRowDistrictofColumbia"><td>' + state + '</td><td class="tdCell" id="DCRevenue">$'+ tax+'</td></tr>');
+                }
+              }
+            }
+            // var NumericValueFixed = Number(NumericValue).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            // var NumericValueFixed = Number(NumericValue).toLocaleString();
+            // if (Subcategory == "Use of Cigarette Tax Revenue - Summary"){
+            //   var shortened = Name.replace(/\s+/g, '');
+            //   document.getElementById(Abbrev + "Revenue").innerHTML = "$"+NumericValueFixed;
+            // }
+            giantObject.sort();
+          });
+        },
+        //end success
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+        }
+        //end error
+      }); // end $.ajax
+    }); // end $.each
+  } //end xmlSortAlpha
+
+  var xmlSortNumeric = function() {
+    if($(".stateRow")){ $(".stateRow").remove();}
+    var giantObject = [];
+    $.each(states, function(key, currentState) {
+      console.log("key: " + key);
       // console.log("currentState: " + currentState);
       $.ajax({
         type: "GET",
@@ -288,8 +349,25 @@
             var NumericValueFixed = Number(NumericValue);
             if (Subcategory == "Use of Cigarette Tax Revenue - Summary") {
               var mini = [NumericValueFixed, Name];
-              console.log(mini);
+              // console.log(mini);
               giantObject.push(mini);
+              giantObject.sort();
+              console.log(giantObject);
+              if (giantObject.length ==51) {
+                // console.log(giantObject.length+"!!!");
+                $("#loadSpinner").hide();
+                $("#content-well").show();
+                for (var j = 0; j < giantObject.length; j++) {
+                  if (j%2 == 0) {
+                    var rowType = "even";
+                  } else {
+                    var rowType = "odd";
+                  }
+                  var state = giantObject[j][1];
+                  var tax = giantObject[j][0].toLocaleString();
+                  $("#tbody").append('<tr class="'+ rowType+' stateRow" id="stateRowDistrictofColumbia"><td>' + state + '</td><td class="tdCell" id="DCRevenue">$'+ tax+'</td></tr>');
+                }
+              }
             }
             // var NumericValueFixed = Number(NumericValue).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             // var NumericValueFixed = Number(NumericValue).toLocaleString();
@@ -297,24 +375,27 @@
             //   var shortened = Name.replace(/\s+/g, '');
             //   document.getElementById(Abbrev + "Revenue").innerHTML = "$"+NumericValueFixed;
             // }
-            giantObject.sort();
-            console.log(giantObject);
-
-
-
           });
         },
+        //end success
         error: function() {
           console.warn("An error occurred while processing XML file.");
           $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
         }
-      });
-    });
-    $("#loadSpinner").hide();
-    $("#content-well").show();
-  } //end xmlSort
+        //end error
+      }); // end $.ajax
+    }); // end $.each
+  } //end xmlSortAlpha
 
   $(document).ready(function() {
-    xmlSort();
+    xmlSortAlpha();
   })
+
+  $("#xmlSortNumeric").on("click", function(){
+    xmlSortNumeric();
+  })
+
+    $("#xmlSortAlpha").on("click", function(){
+      xmlSortAlpha();
+    })
 </script>
