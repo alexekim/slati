@@ -272,6 +272,7 @@
 
 
   var xmlSort = function() {
+    var giantObject = [];
     $.each(states, function(key, currentState) {
       // console.log("currentState: " + currentState);
       $.ajax({
@@ -279,43 +280,36 @@
         url: "//www.lung.org/dev/slati/" + currentState + ".xml",
         dataType: "xml",
         success: function(xml) {
-          var giantObject = [];
-
           $(xml).find('qryXMLSLATIDetail').each(function(i) {
-
             var Name = $(this).find('Name').text();
             var Abbrev = $(this).find('Abbrev').text();
             var Subcategory = $(this).find('Subcategory').text();
             var NumericValue = $(this).find('NumericValue').text();
             var NumericValueFixed = Number(NumericValue);
             if (Subcategory == "Use of Cigarette Tax Revenue - Summary") {
-              var mini = [Name, NumericValueFixed];
+              var mini = [NumericValueFixed, Name];
               console.log(mini);
               giantObject.push(mini);
             }
-            // console.log(giantObject);
-
-
-
-
             // var NumericValueFixed = Number(NumericValue).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             // var NumericValueFixed = Number(NumericValue).toLocaleString();
             // if (Subcategory == "Use of Cigarette Tax Revenue - Summary"){
             //   var shortened = Name.replace(/\s+/g, '');
             //   document.getElementById(Abbrev + "Revenue").innerHTML = "$"+NumericValueFixed;
             // }
+            giantObject.sort();
+            console.log(giantObject);
 
 
 
           });
-          console.warn(giantObject);
         },
         error: function() {
           console.warn("An error occurred while processing XML file.");
           $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
         }
       });
-    })
+    });
     $("#loadSpinner").hide();
     $("#content-well").show();
   } //end xmlSort
