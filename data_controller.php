@@ -66,7 +66,7 @@ function getStateListData($filterIds = "none", $byFIPS = false){
         $id = $s["FipsCode"];
         if($id != "43"){ // always remove Puerto Rico
         	if(($filterIds == "none") || in_array($id, $filterIds)){
-                //if there is no filter or there is, but the state is included 
+                //if there is no filter or there is, but the state is included
                 if($byFIPS){//hash by FipsCode
                     $filteredStates[$id] = $s;
                 }else{
@@ -98,7 +98,7 @@ function getStateComparison($data){
         $tbl = $props['table'];
     	$coverageListArr[$props['title']] = $list["dataroot"][$tbl];
     }
-    
+
     $coverages = Array();
     foreach($coverageListArr as $cLTitle => $coverageList){
         foreach($coverageList as $c){
@@ -112,7 +112,7 @@ function getStateComparison($data){
             if(!isset($coverages[$cov])){
                 $coverages[$cov] = Array();
             }
-            
+
             $val = "";
     		if(isset($c["CoverageValue"])){
                 $val = strtolower($c["CoverageValue"]);
@@ -129,7 +129,7 @@ function getStateComparison($data){
             }
 	    }
     }
-    return renderCoverageResultsTable($s1, $s2, $coverages);    
+    return renderCoverageResultsTable($s1, $s2, $coverages);
 }
 
 function getTextBlock($id, $linkifyStates = true){
@@ -362,7 +362,7 @@ function getAppendixCData(){
         $taxRate3d = number_format(floatval($taxRate), 3);
         $taxRate2d = number_format(floatval($taxRate), 2);
         $taxRate = ($taxRate3d == $taxRate2d) ? $taxRate2d : $taxRate3d;
-        $dataArr = array('State' => $name, 'Tax Rate' => $taxRate); 
+        $dataArr = array('State' => $name, 'Tax Rate' => $taxRate);
         $appendixData['t1data'][$name] = $dataArr;
         $appendixData['t2data'][$taxRate.$name] = $dataArr;
     }
@@ -409,23 +409,23 @@ function getAppendixDData(){
 
 function getAppendixEData(){
     $states = getStateListData();
-    //$appendixData = array('data' => array()); 
+    //$appendixData = array('data' => array());
 	$appendixData = array();
     $headers = array();
-	
+
     foreach($states as $state){
         $name = $state['Name'];
         $stateData = getStateDataFromXML($state['FipsCode']);
         $stateData = parseToByCategory($stateData['qryXMLSLATIDetail']);
         $issueAreas = array();
         $description = "";
-	
+
         // Clean Indoor AirYes in others
-        // or yes, has a law policy or restriction” under:
+        // or yes, has a law policy or restriction under:
         // a) the State Preemption of Local Youth Access Laws subcategory under the Laws Restricting Youth Access to Tobacco Products category; or
         // b) the State Preemption of Local Youth Access Laws subcategory under the Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products category; or
         // c) the State Preemption of Local Vending Machines Laws subcategory in the Sales of Tobacco Products from Vending Machines category;
-        // or yes, has a law policy or restriction” in the Advertising Preemption subcategory under the Advertising & Promotion category.
+        // or yes, has a law policy or restriction in the Advertising Preemption subcategory under the Advertising & Promotion category.
 
             $catSubcatPairs = array(
                 array(
