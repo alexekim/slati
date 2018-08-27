@@ -54,7 +54,7 @@
         <th>Tax Rate</th>
       </tr>
     </thead>
-    <tbody>
+    <tbody id="tbody">
       <tr class="even stateRow" id="stateRowAlabama" >
         <td>Alabama</td>
         <td class="tdCell" id="ALTax"></td>
@@ -247,7 +247,7 @@
       <tr class="stateRow" id="stateRowWestVirginia"  >
         <td>West Virginia</td>
         <td class="tdCell" id="WVTax"></td>
-    </tr>
+      </tr>
       <tr class="even stateRow" id="stateRowWisconsin" >
         <td>Wisconsin</td>
         <td class="tdCell" id="WITax"></td>
@@ -272,6 +272,7 @@
 
 
   var xmlSort = function() {
+    var storage = [];
     $.each(states, function(key, currentState) {
       // console.log("currentState: " + currentState);
       $.ajax({
@@ -280,22 +281,22 @@
         dataType: "xml",
         success: function(xml) {
           $(xml).find('qryXMLSLATIDetail').each(function(i) {
-
             var Name = $(this).find('Name').text();
-            var Abbrev = $(this).find('Abbrev').text();
+            // var Abbrev = $(this).find('Abbrev').text();
             var Subcategory = $(this).find('Subcategory').text();
             var NumericValue = $(this).find('NumericValue').text();
             var NumericValueFixed = Number(NumericValue).toFixed(3);
             // console.log(Name +  ": " + NumericValueFixed);
 
             if (Subcategory == "Tax on Cigarettes") {
-              var shortened = Name.replace(/\s+/g, '');
-              // document.getElementById("stateRow" + shortened).classList.add("bold");
-              document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
-              // var template = '<tr class=' + rowType +  '><td>' + Name + '</td><td>Youth Access (fix)</td><td>' + Description + '</tr>'
-              // $("#tbody").append(template);
+              // var shortened = Name.replace(/\s+/g, '');
+              // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
+              storage.push([NumericValueFixed, Name]);
             }
           });
+          storage = storage.sort();
+          // console.log(storage);
+          // return storage;
         },
         error: function() {
           console.warn("An error occurred while processing XML file.");
@@ -303,6 +304,14 @@
         }
       });
     })
+
+    console.log(storage[52]);
+    console.log(storage.length);
+    for (var j = 0; j < storage.length; j++) {
+      console.log(j);
+      // console.log(storage[j][1]);
+      // $("#tbody").append('<tr id="stateRow'+ storage[j][1] +'"><td>' + storage[j][1] + '</td><td>' + storage[j][0] +'</td></tr>');
+    }
     $("#loadSpinner").hide();
     $("#content-well").show();
   } //end xmlSort
