@@ -49,7 +49,7 @@
 <div id="content-well">
   <button type="button" name="button" id="stateSort">Sort by State</button>
   <button type="button" name="button" id="taxSort">Sort by Tax Rate</button>
-  
+
   <table id="taxTable">
     <thead>
       <tr>
@@ -289,6 +289,9 @@
   }
 
   var xmlSortNumeric = function() {
+    $("#loadSpinner").show();
+    $("#content-well").hide();
+    $("#tbody").children().remove();
     var storage = [];
     $.each(states, function(key, currentState) {
       // console.log("currentState: " + currentState);
@@ -328,7 +331,74 @@
     // $("#content-well").show();
   } //end xmlSortNumeric
 
+
+
+  var appendAlpha = function(storage){
+    console.warn(storage);
+    console.warn(storage.length);
+    storage = storage.sort();
+    for (var j = 0; j < storage.length; j++) {
+      if (j%2 == 0) {
+        $("#tbody").append('<tr class="stateRow" id="stateRow'+ storage[j][0] +'"><td>' + storage[j][0] + '</td><td>' + storage[j][1] +'</td></tr>');
+      } else {
+        $("#tbody").append('<tr class="even stateRow" id="stateRow'+ storage[j][0] +'"><td>' + storage[j][0] + '</td><td>' + storage[j][1] +'</td></tr>');
+      }
+    }
+    $("#loadSpinner").hide();
+    $("#content-well").show();
+  }
+
+  var xmlSortAlpha = function() {
+    $("#loadSpinner").show();
+    $("#content-well").hide();
+    $("#tbody").children().remove();
+    var storage = [];
+    $.each(states, function(key, currentState) {
+      // console.log("currentState: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/dev/slati/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+            var Name = $(this).find('Name').text();
+            // var Abbrev = $(this).find('Abbrev').text();
+            var Subcategory = $(this).find('Subcategory').text();
+            var NumericValue = $(this).find('NumericValue').text();
+            var NumericValueFixed = Number(NumericValue).toFixed(3);
+            // console.log(Name +  ": " + NumericValueFixed);
+
+            if (Subcategory == "Tax on Cigarettes") {
+              // var shortened = Name.replace(/\s+/g, '');
+              // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
+              storage.push([Name, NumericValueFixed]);
+            }
+          });
+          storage = storage.sort();
+          // console.log(storage);
+          // return storage;
+        },
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+        }
+      });
+    })
+    setTimeout(function(){
+      appendAlpha(storage);
+    }, 2000);
+    // $("#loadSpinner").hide();
+    // $("#content-well").show();
+  } //end xmlSortNumeric
+
   $(document).ready(function() {
+    xmlSortAlpha();
+  })
+
+  $("#stateSort").on("click", function(){
+    xmlSortAlpha();
+  })
+  $("#taxSort").on("click", function(){
     xmlSortNumeric();
   })
 </script>
