@@ -47,6 +47,9 @@
 
 
 <div id="content-well">
+  <button type="button" name="button" id="stateSort">Sort by State</button>
+  <button type="button" name="button" id="taxSort">Sort by Tax Rate</button>
+  
   <table id="taxTable">
     <thead>
       <tr>
@@ -55,7 +58,7 @@
       </tr>
     </thead>
     <tbody id="tbody">
-      <tr class="even stateRow" id="stateRowAlabama" >
+      <!-- <tr class="even stateRow" id="stateRowAlabama" >
         <td>Alabama</td>
         <td class="tdCell" id="ALTax"></td>
       </tr>
@@ -259,7 +262,7 @@
       <tr class="even stateRow" id="stateRowDistrictofColumbia" >
         <td>District of Columbia</td>
         <td class="tdCell" id="DCTax"></td>
-    </tr>
+    </tr> -->
     </tbody>
   </table>
 </div>
@@ -270,8 +273,22 @@
     "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"
   ];
 
+  var appendNumeric = function(storage){
+    console.warn(storage);
+    console.warn(storage.length);
+    storage = storage.sort();
+    for (var j = 0; j < storage.length; j++) {
+      if (j%2 == 0) {
+        $("#tbody").append('<tr class="stateRow" id="stateRow'+ storage[j][1] +'"><td>' + storage[j][1] + '</td><td>' + storage[j][0] +'</td></tr>');
+      } else {
+        $("#tbody").append('<tr class="even stateRow" id="stateRow'+ storage[j][1] +'"><td>' + storage[j][1] + '</td><td>' + storage[j][0] +'</td></tr>');
+      }
+    }
+    $("#loadSpinner").hide();
+    $("#content-well").show();
+  }
 
-  var xmlSort = function() {
+  var xmlSortNumeric = function() {
     var storage = [];
     $.each(states, function(key, currentState) {
       // console.log("currentState: " + currentState);
@@ -304,19 +321,14 @@
         }
       });
     })
-
-    console.log(storage[52]);
-    console.log(storage.length);
-    for (var j = 0; j < storage.length; j++) {
-      console.log(j);
-      // console.log(storage[j][1]);
-      // $("#tbody").append('<tr id="stateRow'+ storage[j][1] +'"><td>' + storage[j][1] + '</td><td>' + storage[j][0] +'</td></tr>');
-    }
-    $("#loadSpinner").hide();
-    $("#content-well").show();
-  } //end xmlSort
+    setTimeout(function(){
+      appendNumeric(storage);
+    }, 2000);
+    // $("#loadSpinner").hide();
+    // $("#content-well").show();
+  } //end xmlSortNumeric
 
   $(document).ready(function() {
-    xmlSort();
+    xmlSortNumeric();
   })
 </script>
