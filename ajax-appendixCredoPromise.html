@@ -35,10 +35,12 @@
   tr {
     /*background: #555559;*/
   }
-  .th{
+
+  .th {
     color: #3a75c4;
   }
-  .th:hover{
+
+  .th:hover {
     cursor: pointer;
   }
 </style>
@@ -72,17 +74,20 @@
 <script type="text/javascript">
   var states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
     "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA",
-    "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"];
+    "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"
+  ];
+  var storage = [];
 
-  var appendNumeric = function(storage){
-    console.warn(storage);
-    console.warn(storage.length);
-    storage = storage.sort();
+  var appendNumeric = function(storage) {
+    $("#tbody").children().remove();
+    storage = storage.sort(function(a, b) {
+      return a[0] - b[0];
+    });
     for (var j = 0; j < storage.length; j++) {
-      if (j%2 == 0) {
-        $("#tbody").append('<tr class="stateRow" id="stateRow'+ storage[j][1] +'"><td>' + storage[j][1] + '</td><td>' + storage[j][0] +'</td></tr>');
+      if (j % 2 == 0) {
+        $("#tbody").append('<tr class="stateRow" id="stateRow' + storage[j][1] + '"><td>' + storage[j][1] + '</td><td>' + storage[j][0] + '</td></tr>');
       } else {
-        $("#tbody").append('<tr class="even stateRow" id="stateRow'+ storage[j][1] +'"><td>' + storage[j][1] + '</td><td>' + storage[j][0] +'</td></tr>');
+        $("#tbody").append('<tr class="even stateRow" id="stateRow' + storage[j][1] + '"><td>' + storage[j][1] + '</td><td>' + storage[j][0] + '</td></tr>');
       }
     }
     $("#loadSpinner").hide();
@@ -93,7 +98,6 @@
     $("#loadSpinner").show();
     $("#content-well").hide();
     $("#tbody").children().remove();
-    var storage = [];
     $.each(states, function(key, currentState) {
       // console.log("currentState: " + currentState);
       $.ajax({
@@ -113,11 +117,11 @@
               // var shortened = Name.replace(/\s+/g, '');
               // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
               storage.push([NumericValueFixed, Name]);
+              if (storage.length == 51) {
+                appendNumeric(storage);
+              }
             }
           });
-          storage = storage.sort();
-          // console.log(storage);
-          // return storage;
         },
         error: function() {
           console.warn("An error occurred while processing XML file.");
@@ -125,24 +129,18 @@
         }
       });
     })
-    setTimeout(function(){
-      appendNumeric(storage);
-    }, 2000);
-    // $("#loadSpinner").hide();
-    // $("#content-well").show();
   } //end xmlSortNumeric
 
 
 
-  var appendAlpha = function(storage){
-    console.warn(storage);
-    console.warn(storage.length);
+  var appendAlpha = function(storage) {
+    $("#tbody").children().remove();
     storage = storage.sort();
     for (var j = 0; j < storage.length; j++) {
-      if (j%2 == 0) {
-        $("#tbody").append('<tr class="stateRow" id="stateRow'+ storage[j][0] +'"><td>' + storage[j][0] + '</td><td>' + storage[j][1] +'</td></tr>');
+      if (j % 2 == 0) {
+        $("#tbody").append('<tr class="stateRow" id="stateRow' + storage[j][0] + '"><td>' + storage[j][0] + '</td><td>' + storage[j][1] + '</td></tr>');
       } else {
-        $("#tbody").append('<tr class="even stateRow" id="stateRow'+ storage[j][0] +'"><td>' + storage[j][0] + '</td><td>' + storage[j][1] +'</td></tr>');
+        $("#tbody").append('<tr class="even stateRow" id="stateRow' + storage[j][0] + '"><td>' + storage[j][0] + '</td><td>' + storage[j][1] + '</td></tr>');
       }
     }
     $("#loadSpinner").hide();
@@ -153,7 +151,6 @@
     $("#loadSpinner").show();
     $("#content-well").hide();
     $("#tbody").children().remove();
-    var storage = [];
     $.each(states, function(key, currentState) {
       // console.log("currentState: " + currentState);
       $.ajax({
@@ -173,11 +170,11 @@
               // var shortened = Name.replace(/\s+/g, '');
               // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
               storage.push([Name, NumericValueFixed]);
+              if (storage.length == 51) {
+                appendAlpha(storage);
+              }
             }
           });
-          storage = storage.sort();
-          // console.log(storage);
-          // return storage;
         },
         error: function() {
           console.warn("An error occurred while processing XML file.");
@@ -185,21 +182,18 @@
         }
       });
     })
-    setTimeout(function(){
-      appendAlpha(storage);
-    }, 2000);
-    // $("#loadSpinner").hide();
-    // $("#content-well").show();
   } //end xmlSortNumeric
 
   $(document).ready(function() {
     xmlSortAlpha();
   })
 
-  $("#stateSort").on("click", function(){
+  $("#stateSort").on("click", function() {
+    storage.splice(0, storage.length);
     xmlSortAlpha();
   })
-  $("#taxSort").on("click", function(){
+  $("#taxSort").on("click", function() {
+    storage.splice(0, storage.length);
     xmlSortNumeric();
   })
 </script>

@@ -72,10 +72,10 @@
     "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA",
     "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"
   ];
+  var storage = [];
 
   var appendN = function(storage) {
     $("#tbody").children().remove();
-    console.warn(storage);
     storage = storage.sort(function(a, b) {
       return a[0] - b[0];
     });
@@ -93,10 +93,6 @@
 
   var appendA = function(storage) {
     $("#tbody").children().remove();
-    console.warn(storage);
-    // storage = storage.sort(function(a, b) {
-    //   return a[0] - b[0];
-    // });
     storage = storage.sort();
     for (var i = 0; i < storage.length; i++) {
       var dollarAmount = "$" + Number(storage[i][1]).toLocaleString();
@@ -110,7 +106,6 @@
     $("#content-well").show();
   }
 
-  var storage = [];
   var xmlSortNum = function() {
     $("#loadSpinner").show();
     $("#content-well").hide();
