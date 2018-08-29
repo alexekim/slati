@@ -288,15 +288,15 @@
     console.log($(".stateRow").length)
   }
 
-
+  var storage = [];
   var xmlSort = function() {
-    var storage = [];
     $.each(states, function(key, currentState) {
       $.ajax({
         type: "GET",
         url: "//www.lung.org/dev/slati/" + currentState + ".xml",
         dataType: "xml",
         success: function(xml) {
+          $("#loadSpinnerMessage").html("Sorting data...");
           $(xml).find('qryXMLSLATIDetail').each(function(i) {
 
             var Name = $(this).find('Name').text();
@@ -309,9 +309,14 @@
 
             if (Subcategory == "Use of Cigarette Tax Revenue - Summary"){
               storage.push([NumericValue, Name]);
+              console.log(storage);
+              if(storage.length == 51){
+                appendN(storage);
+              } else {
+                console.log("not yet");
+              }
             }
             // storage = storage.sort(function(a,b){return a[0] - b[0];});
-            console.log(storage);
           });
         },
         error: function() {
@@ -320,14 +325,6 @@
         }
       });//endAJAX
     })//endEACH
-    $("#loadSpinnerMessage").html("Sorting data...");
-    setTimeout(function(){
-      appendN(storage);
-    }, 4000);
-    // appendN(storage);
-    // console.log(storage);
-    // $("#loadSpinner").hide();
-    // $("#content-well").show();
   } //end xmlSort
 
   $(document).ready(function() {
