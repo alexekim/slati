@@ -2,7 +2,7 @@
   #content-well { display: none; }
 
   td,tr,th{ padding: 5px; }
-  td, tr, th{ border: 1px solid gray; }
+  td, tr{ border: 1px solid gray; }
   tr{ /*background: #555559;*/ }
   th{ font-weight: bold;}
 
@@ -13,6 +13,26 @@
   .P{ color: green; }
   .M{ color: orange; }
   .V{ color: fuchsia; }
+  #table{
+    font-size: 16px;
+  }
+  .abbrev{
+    display: none;
+  }
+  @media(max-width: 1060px){
+    th{
+      transform: translate(-7px, -16px) rotate(55deg);
+      white-space: nowrap;
+    }
+    td,tr,th{ padding: 2px; }
+    #table {
+      font-size: 14px;
+    }
+    .full{ display: none;}
+    .abbrev{
+      display: block;
+    }
+  }
 </style>
 
 
@@ -32,12 +52,12 @@
   <b><font color="#003366">M</font></b><font size="1">=Smoking mostly restricted; </font>
   <b><font color="#003366">V</font></b><font size="1">=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </font>
 
-  <table>
+  <table id="table">
     <thead>
       <tr>
         <th>State</th>
-        <th class="dataGB">Government<br>Buildings</th>
-        <th class="dataPW">Private<br>Workplaces</th>
+        <th class="dataGB">Gov't<br>Buildings</th>
+        <th class="dataPW">Private<br>Work places</th>
         <th class="dataS">Schools</th>
         <th class="dataCCF">Child<br>Care<br>Facilities</th>
         <th class="dataHCF">Health<br>Care<br>Facilities</th>
@@ -47,7 +67,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>Alabama</td>
+        <td><span class="full">Alabama</span><span class="abbrev">AL</span></td>
         <td class="tdCell" id="ALdataGB"></td>
         <td class="tdCell" id="ALdataPW"></td>
         <td class="tdCell" id="ALdataS"></td>
@@ -57,7 +77,7 @@
         <td class="tdCell" id="ALdataB"></td>
       </tr>
       <tr class="even">
-        <td>Alaska</td>
+        <td><span class="full">Alaska</span><span class="abbrev">AK</span></td>
         <td class="tdCell" id="AKdataGB"></td>
         <td class="tdCell" id="AKdataPW"></td>
         <td class="tdCell" id="AKdataS"></td>
@@ -67,7 +87,7 @@
         <td class="tdCell" id="AKdataB"></td>
       </tr>
       <tr>
-        <td>Arizona</td>
+        <td><span class="full">Arizona</span><span class="abbrev">AZ</span></td>
         <td class="tdCell" id="AZdataGB"></td>
         <td class="tdCell" id="AZdataPW"></td>
         <td class="tdCell" id="AZdataS"></td>
@@ -77,7 +97,7 @@
         <td class="tdCell" id="AZdataB"></td>
       </tr>
       <tr class="even">
-        <td>Arkansas</td>
+        <td><span class="full">Arkansas</span><span class="abbrev">AR</span></td>
         <td class="tdCell" id="ARdataGB"></td>
         <td class="tdCell" id="ARdataPW">M</td>
         <td class="tdCell" id="ARdataS"></td>
@@ -87,7 +107,7 @@
         <td class="tdCell" id="ARdataB"></td>
       </tr>
       <tr>
-        <td>California</td>
+        <td><span class="full">California</span><span class="abbrev">CA</span></td>
         <td class="tdCell" id="CAdataGB"></td>
         <td class="tdCell" id="CAdataPW">V</td>
         <td class="tdCell" id="CAdataS">M</td>
@@ -97,7 +117,7 @@
         <td class="tdCell" id="CAdataB">V</td>
       </tr>
       <tr class="even">
-        <td>Colorado</td>
+        <td><span class="full">Colorado</span><span class="abbrev">CO</span></td>
         <td class="tdCell" id="COdataGB"></td>
         <td class="tdCell" id="COdataPW">M</td>
         <td class="tdCell" id="COdataS"></td>
@@ -107,7 +127,7 @@
         <td class="tdCell" id="COdataB"></td>
       </tr>
       <tr>
-        <td>Connecticut</td>
+        <td><span class="full">Connecticut</span><span class="abbrev">CT</span></td>
         <td class="tdCell" id="CTdataGB"></td>
         <td class="tdCell" id="CTdataPW"></td>
         <td class="tdCell" id="CTdataS"></td>
@@ -117,7 +137,7 @@
         <td class="tdCell" id="CTdataB"></td>
       </tr>
       <tr class="even">
-        <td>Delaware</td>
+        <td><span class="full">Delaware</span><span class="abbrev">DE</span></td>
         <td class="tdCell" id="DEdataGB"></td>
         <td class="tdCell" id="DEdataPW"></td>
         <td class="tdCell" id="DEdataS"></td>
@@ -127,7 +147,7 @@
         <td class="tdCell" id="DEdataB"></td>
       </tr>
       <tr>
-        <td>Florida</td>
+        <td><span class="full">Florida</span><span class="abbrev">FL</span></td>
         <td class="tdCell" id="FLdataGB"></td>
         <td class="tdCell" id="FLdataPW"></td>
         <td class="tdCell" id="FLdataS"></td>
@@ -137,7 +157,7 @@
         <td class="tdCell" id="FLdataB"></td>
       </tr>
       <tr class="even">
-        <td>Georgia</td>
+        <td><span class="full">Georgia</span><span class="abbrev">GA</span></td>
         <td class="tdCell" id="GAdataGB"></td>
         <td class="tdCell" id="GAdataPW"></td>
         <td class="tdCell" id="GAdataS"></td>
@@ -147,7 +167,7 @@
         <td class="tdCell" id="GAdataB"></td>
       </tr>
       <tr>
-        <td>Hawaii</td>
+        <td><span class="full">Hawaii</span><span class="abbrev">HI</span></td>
         <td class="tdCell" id="HIdataGB"></td>
         <td class="tdCell" id="HIdataPW"></td>
         <td class="tdCell" id="HIdataS"></td>
@@ -157,7 +177,7 @@
         <td class="tdCell" id="HIdataB"></td>
       </tr>
       <tr class="even">
-        <td>Idaho</td>
+        <td><span class="full">Idaho</span><span class="abbrev">ID</span></td>
         <td class="tdCell" id="IDdataGB"></td>
         <td class="tdCell" id="IDdataPW"></td>
         <td class="tdCell" id="IDdataS"></td>
@@ -167,7 +187,7 @@
         <td class="tdCell" id="IDdataB"></td>
       </tr>
       <tr>
-        <td>Illinois</td>
+        <td><span class="full">Illinois</span><span class="abbrev">IL</span></td>
         <td class="tdCell" id="ILdataGB"></td>
         <td class="tdCell" id="ILdataPW"></td>
         <td class="tdCell" id="ILdataS"></td>
@@ -177,7 +197,7 @@
         <td class="tdCell" id="ILdataB"></td>
       </tr>
       <tr class="even">
-        <td>Indiana</td>
+        <td><span class="full">Indiana</span><span class="abbrev">IN</span></td>
         <td class="tdCell" id="INdataGB"></td>
         <td class="tdCell" id="INdataPW"></td>
         <td class="tdCell" id="INdataS"></td>
@@ -187,7 +207,7 @@
         <td class="tdCell" id="INdataB"></td>
       </tr>
       <tr>
-        <td>Iowa</td>
+        <td><span class="full">Iowa</span><span class="abbrev">IA</span></td>
         <td class="tdCell" id="IAdataGB"></td>
         <td class="tdCell" id="IAdataPW"></td>
         <td class="tdCell" id="IAdataS"></td>
@@ -197,7 +217,7 @@
         <td class="tdCell" id="IAdataB"></td>
       </tr>
       <tr class="even">
-        <td>Kansas</td>
+        <td><span class="full">Kansas</span><span class="abbrev">KS</span></td>
         <td class="tdCell" id="KSdataGB"></td>
         <td class="tdCell" id="KSdataPW"></td>
         <td class="tdCell" id="KSdataS"></td>
@@ -207,7 +227,7 @@
         <td class="tdCell" id="KSdataB"></td>
       </tr>
       <tr>
-        <td>Kentucky</td>
+        <td><span class="full">Kentucky</span><span class="abbrev">KY</span></td>
         <td class="tdCell" id="KYdataGB"></td>
         <td class="tdCell" id="KYdataPW"></td>
         <td class="tdCell" id="KYdataS"></td>
@@ -217,7 +237,7 @@
         <td class="tdCell" id="KYdataB"></td>
       </tr>
       <tr class="even">
-        <td>Louisiana</td>
+        <td><span class="full">Louisiana</span><span class="abbrev">LA</span></td>
         <td class="tdCell" id="LAdataGB"></td>
         <td class="tdCell" id="LAdataPW"></td>
         <td class="tdCell" id="LAdataS"></td>
@@ -227,7 +247,7 @@
         <td class="tdCell" id="LAdataB"></td>
       </tr>
       <tr>
-        <td>Maine</td>
+        <td><span class="full">Maine</span><span class="abbrev">ME</span></td>
         <td class="tdCell" id="MEdataGB"></td>
         <td class="tdCell" id="MEdataPW"></td>
         <td class="tdCell" id="MEdataS"></td>
@@ -237,7 +257,7 @@
         <td class="tdCell" id="MEdataB"></td>
       </tr>
       <tr class="even">
-        <td>Maryland</td>
+        <td><span class="full">Maryland</span><span class="abbrev">MD</span></td>
         <td class="tdCell" id="MDdataGB"></td>
         <td class="tdCell" id="MDdataPW"></td>
         <td class="tdCell" id="MDdataS"></td>
@@ -247,7 +267,7 @@
         <td class="tdCell" id="MDdataB"></td>
       </tr>
       <tr>
-        <td>Massachusetts</td>
+        <td><span class="full">Massachusetts</span><span class="abbrev">MA</span></td>
         <td class="tdCell" id="MAdataGB"></td>
         <td class="tdCell" id="MAdataPW"></td>
         <td class="tdCell" id="MAdataS"></td>
@@ -257,7 +277,7 @@
         <td class="tdCell" id="MAdataB"></td>
       </tr>
       <tr class="even">
-        <td>Michigan</td>
+        <td><span class="full">Michigan</span><span class="abbrev">MI</span></td>
         <td class="tdCell" id="MIdataGB"></td>
         <td class="tdCell" id="MIdataPW"></td>
         <td class="tdCell" id="MIdataS"></td>
@@ -267,7 +287,7 @@
         <td class="tdCell" id="MIdataB"></td>
       </tr>
       <tr>
-        <td>Minnesota</td>
+        <td><span class="full">Minnesota</span><span class="abbrev">MN</span></td>
         <td class="tdCell" id="MNdataGB">M</td>
         <td class="tdCell" id="MNdataPW">M</td>
         <td class="tdCell" id="MNdataS"></td>
@@ -277,7 +297,7 @@
         <td class="tdCell" id="MNdataB"></td>
       </tr>
       <tr class="even">
-        <td>Mississippi</td>
+        <td><span class="full">Mississippi</span><span class="abbrev">MS</span></td>
         <td class="tdCell" id="MSdataGB">M</td>
         <td class="tdCell" id="MSdataPW"></td>
         <td class="tdCell" id="MSdataS">M</td>
@@ -287,7 +307,7 @@
         <td class="tdCell" id="MSdataB"></td>
       </tr>
       <tr>
-        <td>Missouri</td>
+        <td><span class="full">Missouri</span><span class="abbrev">MO</span></td>
         <td class="tdCell" id="MOdataGB"></td>
         <td class="tdCell" id="MOdataPW"></td>
         <td class="tdCell" id="MOdataS">M</td>
@@ -297,7 +317,7 @@
         <td class="tdCell" id="MOdataB"></td>
       </tr>
       <tr class="even">
-        <td>Montana</td>
+        <td><span class="full">Montana</span><span class="abbrev">MT</span></td>
         <td class="tdCell" id="MTdataGB"></td>
         <td class="tdCell" id="MTdataPW"></td>
         <td class="tdCell" id="MTdataS"></td>
@@ -307,7 +327,7 @@
         <td class="tdCell" id="MTdataB"></td>
       </tr>
       <tr>
-        <td>Nebraska</td>
+        <td><span class="full">Nebraska</span><span class="abbrev">NE</span></td>
         <td class="tdCell" id="NEdataGB"></td>
         <td class="tdCell" id="NEdataPW"></td>
         <td class="tdCell" id="NEdataS"></td>
@@ -317,7 +337,7 @@
         <td class="tdCell" id="NEdataB"></td>
       </tr>
       <tr class="even">
-        <td>Nevada</td>
+        <td><span class="full">Nevada</span><span class="abbrev">NV</span></td>
         <td class="tdCell" id="NVdataGB"></td>
         <td class="tdCell" id="NVdataPW"></td>
         <td class="tdCell" id="NVdataS"></td>
@@ -327,7 +347,7 @@
         <td class="tdCell" id="NVdataB"></td>
       </tr>
       <tr>
-        <td>New Hampshire</td>
+        <td><span class="full">New Hampshire</span><span class="abbrev">NH</span></td>
         <td class="tdCell" id="NHdataGB"></td>
         <td class="tdCell" id="NHdataPW"></td>
         <td class="tdCell" id="NHdataS">M</td>
@@ -337,7 +357,7 @@
         <td class="tdCell" id="NHdataB"></td>
       </tr>
       <tr class="even">
-        <td>New Jersey</td>
+        <td><span class="full">New Jersey</span><span class="abbrev">NJ</span></td>
         <td class="tdCell" id="NJdataGB"></td>
         <td class="tdCell" id="NJdataPW"></td>
         <td class="tdCell" id="NJdataS"></td>
@@ -347,7 +367,7 @@
         <td class="tdCell" id="NJdataB"></td>
       </tr>
       <tr>
-        <td>New Mexico</td>
+        <td><span class="full">New Mexico</span><span class="abbrev">NM</span></td>
         <td class="tdCell" id="NMdataGB"></td>
         <td class="tdCell" id="NMdataPW">M</td>
         <td class="tdCell" id="NMdataS"></td>
@@ -357,7 +377,7 @@
         <td class="tdCell" id="NMdataB"></td>
       </tr>
       <tr class="even">
-        <td>New York</td>
+        <td><span class="full">New York</span><span class="abbrev"></span></td>
         <td class="tdCell" id="NYdataGB"></td>
         <td class="tdCell" id="NYdataPW"></td>
         <td class="tdCell" id="NYdataS"></td>
@@ -367,7 +387,7 @@
         <td class="tdCell" id="NYdataB"></td>
       </tr>
       <tr>
-        <td>North Carolina</td>
+        <td><span class="full">North Carolina</span><span class="abbrev">NC</span></td>
         <td class="tdCell" id="NCdataGB"></td>
         <td class="tdCell" id="NCdataPW"></td>
         <td class="tdCell" id="NCdataS">M</td>
@@ -377,7 +397,7 @@
         <td class="tdCell" id="NCdataB"></td>
       </tr>
       <tr class="even">
-        <td>North Dakota</td>
+        <td><span class="full">North Dakota</span><span class="abbrev">ND</span></td>
         <td class="tdCell" id="NDdataGB"></td>
         <td class="tdCell" id="NDdataPW"></td>
         <td class="tdCell" id="NDdataS"></td>
@@ -387,7 +407,7 @@
         <td class="tdCell" id="NDdataB"></td>
       </tr>
       <tr>
-        <td>Ohio</td>
+        <td><span class="full">Ohio</span><span class="abbrev">OH</span></td>
         <td class="tdCell" id="OHdataGB"></td>
         <td class="tdCell" id="OHdataPW"></td>
         <td class="tdCell" id="OHdataS"></td>
@@ -397,7 +417,7 @@
         <td class="tdCell" id="OHdataB"></td>
       </tr>
       <tr class="even">
-        <td>Oklahoma</td>
+        <td><span class="full">Oklahoma</span><span class="abbrev">OK</span></td>
         <td class="tdCell" id="OKdataGB"></td>
         <td class="tdCell" id="OKdataPW"></td>
         <td class="tdCell" id="OKdataS"></td>
@@ -407,7 +427,7 @@
         <td class="tdCell" id="OKdataB"></td>
       </tr>
       <tr>
-        <td>Oregon</td>
+        <td><span class="full">Oregon</span><span class="abbrev">OR</span></td>
         <td class="tdCell" id="ORdataGB"></td>
         <td class="tdCell" id="ORdataPW"></td>
         <td class="tdCell" id="ORdataS"></td>
@@ -417,7 +437,7 @@
         <td class="tdCell" id="ORdataB"></td>
       </tr>
       <tr class="even">
-        <td>Pennsylvania</td>
+        <td><span class="full">Pennsylvania</span><span class="abbrev">PA</span></td>
         <td class="tdCell" id="PAdataGB"></td>
         <td class="tdCell" id="PAdataPW"></td>
         <td class="tdCell" id="PAdataS"></td>
@@ -427,7 +447,7 @@
         <td class="tdCell" id="PAdataB"></td>
       </tr>
       <tr>
-        <td>Rhode Island</td>
+        <td><span class="full">Rhode Island</span><span class="abbrev">RI</span></td>
         <td class="tdCell" id="RIdataGB"></td>
         <td class="tdCell" id="RIdataPW"></td>
         <td class="tdCell" id="RIdataS"></td>
@@ -437,7 +457,7 @@
         <td class="tdCell" id="RIdataB"></td>
       </tr>
       <tr class="even">
-        <td>South Carolina</td>
+        <td><span class="full">South Carolina</span><span class="abbrev">SC</span></td>
         <td class="tdCell" id="SCdataGB"></td>
         <td class="tdCell" id="SCdataPW"></td>
         <td class="tdCell" id="SCdataS"></td>
@@ -447,7 +467,7 @@
         <td class="tdCell" id="SCdataB"></td>
       </tr>
       <tr>
-        <td>South Dakota</td>
+        <td><span class="full">South Dakota</span><span class="abbrev">SD</span></td>
         <td class="tdCell" id="SDdataGB"></td>
         <td class="tdCell" id="SDdataPW"></td>
         <td class="tdCell" id="SDdataS"></td>
@@ -457,7 +477,7 @@
         <td class="tdCell" id="SDdataB"></td>
       </tr>
       <tr class="even">
-        <td>Tennessee</td>
+        <td><span class="full">Tennessee</span><span class="abbrev">TN</span></td>
         <td class="tdCell" id="TNdataGB"></td>
         <td class="tdCell" id="TNdataPW">M</td>
         <td class="tdCell" id="TNdataS"></td>
@@ -467,7 +487,7 @@
         <td class="tdCell" id="TNdataB"></td>
       </tr>
       <tr>
-        <td>Texas</td>
+        <td><span class="full">Texas</span><span class="abbrev">TX</span></td>
         <td class="tdCell" id="TXdataGB"></td>
         <td class="tdCell" id="TXdataPW"></td>
         <td class="tdCell" id="TXdataS"></td>
@@ -477,7 +497,7 @@
         <td class="tdCell" id="TXdataB"></td>
       </tr>
       <tr class="even">
-        <td>Utah</td>
+        <td><span class="full">Utah</span><span class="abbrev">UT</span></td>
         <td class="tdCell" id="UTdataGB"></td>
         <td class="tdCell" id="UTdataPW"></td>
         <td class="tdCell" id="UTdataS"></td>
@@ -487,7 +507,7 @@
         <td class="tdCell" id="UTdataB"></td>
       </tr>
       <tr>
-        <td>Vermont</td>
+        <td><span class="full">Vermont</span><span class="abbrev">VT</span></td>
         <td class="tdCell" id="VTdataGB"></td>
         <td class="tdCell" id="VTdataPW"></td>
         <td class="tdCell" id="VTdataS"></td>
@@ -497,7 +517,7 @@
         <td class="tdCell" id="VTdataB"></td>
       </tr>
       <tr class="even">
-        <td>Virginia</td>
+        <td><span class="full">Virginia</span><span class="abbrev">VA</span></td>
         <td class="tdCell" id="VAdataGB"></td>
         <td class="tdCell" id="VAdataPW"></td>
         <td class="tdCell" id="VAdataS">M</td>
@@ -507,7 +527,7 @@
         <td class="tdCell" id="VAdataB"></td>
       </tr>
       <tr>
-        <td>Washington</td>
+        <td><span class="full">Washington</span><span class="abbrev">WA</span></td>
         <td class="tdCell" id="WAdataGB"></td>
         <td class="tdCell" id="WAdataPW"></td>
         <td class="tdCell" id="WAdataS"></td>
@@ -517,7 +537,7 @@
         <td class="tdCell" id="WAdataB"></td>
       </tr>
       <tr class="even">
-        <td>West Virginia</td>
+        <td><span class="full">West Virginia</span><span class="abbrev">WV</span></td>
         <td class="tdCell" id="WVdataGB"></td>
         <td class="tdCell" id="WVdataPW"></td>
         <td class="tdCell" id="WVdataS">M</td>
@@ -527,7 +547,7 @@
         <td class="tdCell" id="WVdataB"></td>
       </tr>
       <tr>
-        <td>Wisconsin</td>
+        <td><span class="full">Wisconsin</span><span class="abbrev">WI</span></td>
         <td class="tdCell" id="WIdataGB"></td>
         <td class="tdCell" id="WIdataPW"></td>
         <td class="tdCell" id="WIdataS"></td>
@@ -537,7 +557,7 @@
         <td class="tdCell" id="WIdataB"></td>
       </tr>
       <tr class="even">
-        <td>Wyoming</td>
+        <td><span class="full">Wyoming</span><span class="abbrev">WY</span></td>
         <td class="tdCell" id="WYdataGB"></td>
         <td class="tdCell" id="WYdataPW"></td>
         <td class="tdCell" id="WYdataS"></td>
@@ -547,7 +567,7 @@
         <td class="tdCell" id="WYdataB"></td>
       </tr>
       <tr>
-        <td>District of Columbia</td>
+        <td><span class="full">District of Columbia</span><span class="abbrev">DC</span></td>
         <td class="tdCell" id="DCdataGB"></td>
         <td class="tdCell" id="DCdataPW"></td>
         <td class="tdCell" id="DCdataS"></td>
