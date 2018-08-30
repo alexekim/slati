@@ -17,6 +17,12 @@
   td, tr, th{ border: 1px solid gray; }
   tr{ /*background: #555559;*/ }
 
+  @media (max-width: 480px ){
+    #table{
+      font-size: 11px;
+    }
+    td,tr,th{ padding: 2px; }
+  }
 
 
 </style>
@@ -34,7 +40,7 @@
   <h2>Laws that Prevent Stronger Local Tobacco Control Laws</h2>
   <p>A number of states have laws in place that prevent local communities from passing stronger local tobacco control laws.&nbsp; The American Lung Association believes that local communities should be able to enact stronger measures than the state to protect
     their citizens from tobacco’s toll.</p>
-  <table>
+  <table id="table">
     <thead>
       <tr>
         <th>State</th>

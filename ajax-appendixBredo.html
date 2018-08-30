@@ -1,35 +1,86 @@
 <style media="screen">
-  #content-well { display: none; }
-
-  td,tr,th{ padding: 5px; }
-  td, tr{ border: 1px solid gray; }
-  tr{ /*background: #555559;*/ }
-  th{ font-weight: bold;}
-
-  .tdCell{ font-weight: bold; }
-  .even{ background: #e5e5e5; }
-  .R{ color: navy; }
-  .N{ color: red; }
-  .P{ color: green; }
-  .M{ color: orange; }
-  .V{ color: fuchsia; }
-  #table{
-    font-size: 16px;
-  }
-  .abbrev{
+  #content-well {
     display: none;
   }
-  @media(max-width: 1060px){
-    th{
-      transform: translate(-7px, -16px) rotate(55deg);
+
+  td,
+  tr,
+  th {
+    padding: 5px;
+  }
+
+  td,
+  tr {
+    border: 1px solid gray;
+  }
+
+  tr {
+    /*background: #555559;*/
+  }
+
+  th {
+    font-weight: bold;
+    transform: translate(49px, 89px) rotate(-54deg);
+    max-width: 30px;
+    height: 137px;
+  }
+
+  .tdCell {
+    font-weight: bold;
+  }
+
+  .even {
+    background: #e5e5e5;
+  }
+
+  .R {
+    color: navy;
+  }
+
+  .N {
+    color: red;
+  }
+
+  .P {
+    color: green;
+  }
+
+  .M {
+    color: orange;
+  }
+
+  .V {
+    color: fuchsia;
+  }
+
+  #table {
+    font-size: 16px;
+  }
+
+  .abbrev {
+    display: none;
+  }
+
+  @media(max-width: 1060px) {
+    th {
+      transform: translate(57px, 51px) rotate(-90deg);
+      /* transform: rotate(90deg); */
       white-space: nowrap;
+      height: 141px;
+      border: 1px solid gray;
     }
-    td,tr,th{ padding: 2px; }
+    td,
+    tr,
+    th {
+      padding: 2px;
+    }
     #table {
       font-size: 14px;
     }
-    .full{ display: none;}
-    .abbrev{
+    .full {
+      display: none;
+    }
+    .abbrev {
       display: block;
     }
   }
@@ -46,21 +97,26 @@
 
 <div id="content-well">
   <h2>State Laws Restricting Smoking by Location</h2>
-  <b><font color="#003366">R</font></b><font size="1">=Restriction required; </font>
-  <b><font color="#003366">N</font></b><font size="1">=No law, policy or restriction; </font>
-  <b><font color="#003366">P</font></b><font size="1">=Smoking prohibited; </font>
-  <b><font color="#003366">M</font></b><font size="1">=Smoking mostly restricted; </font>
-  <b><font color="#003366">V</font></b><font size="1">=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </font>
+  <b><font color="#003366">R</font></b>
+  <font size="1">=Restriction required; </font>
+  <b><font color="#003366">N</font></b>
+  <font size="1">=No law, policy or restriction; </font>
+  <b><font color="#003366">P</font></b>
+  <font size="1">=Smoking prohibited; </font>
+  <b><font color="#003366">M</font></b>
+  <font size="1">=Smoking mostly restricted; </font>
+  <b><font color="#003366">V</font></b>
+  <font size="1">=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </font>
 
   <table id="table">
     <thead>
       <tr>
         <th>State</th>
-        <th class="dataGB">Gov't<br>Buildings</th>
-        <th class="dataPW">Private<br>Work places</th>
+        <th class="dataGB">Gov't&nbsp;Buildings</th>
+        <th class="dataPW">Private&nbsp;Workplaces</th>
         <th class="dataS">Schools</th>
-        <th class="dataCCF">Child<br>Care<br>Facilities</th>
-        <th class="dataHCF">Health<br>Care<br>Facilities</th>
+        <th class="dataCCF">Child&nbsp;Care&nbsp;Facilities</th>
+        <th class="dataHCF">Health&nbsp;Care&nbsp;Facilities</th>
         <th class="dataR">Restaurants</th>
         <th class="dataB">Bars</th>
       </tr>
@@ -577,7 +633,7 @@
         <td class="tdCell" id="DCdataB"></td>
       </tr>
     </tbody>
-    <thead>
+    <!-- <thead>
       <tr>
         <th>State</th>
         <th class="dataGB">Government<br>Buildings</th>
@@ -588,13 +644,18 @@
         <th class="dataR">Restaurants</th>
         <th class="dataB">Bars</th>
       </tr>
-    </thead>
+    </thead> -->
   </table>
-  <b><font color="#003366">R</font></b><font size="1">=Restriction required; </font>
-  <b><font color="#003366">N</font></b><font size="1">=No law, policy or restriction; </font>
-  <b><font color="#003366">P</font></b><font size="1">=Smoking prohibited; </font>
-  <b><font color="#003366">M</font></b><font size="1">=Smoking mostly restricted; </font>
-  <b><font color="#003366">V</font></b><font size="1">=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </font>
+  <b><font color="#003366">R</font></b>
+  <font size="1">=Restriction required; </font>
+  <b><font color="#003366">N</font></b>
+  <font size="1">=No law, policy or restriction; </font>
+  <b><font color="#003366">P</font></b>
+  <font size="1">=Smoking prohibited; </font>
+  <b><font color="#003366">M</font></b>
+  <font size="1">=Smoking mostly restricted; </font>
+  <b><font color="#003366">V</font></b>
+  <font size="1">=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </font>
 </div>
 
 <script type="text/javascript">
@@ -621,25 +682,25 @@
             if (Category == "Smoking Restrictions") {
               switch (Subcategory) {
                 case "Government Buildings":
-                  document.getElementById(currentState + "dataGB").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
-                break;
+                  document.getElementById(currentState + "dataGB").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
+                  break;
                 case "Private Workplaces":
-                  document.getElementById(currentState + "dataPW").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
+                  document.getElementById(currentState + "dataPW").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
                   break;
                 case "Schools":
-                  document.getElementById(currentState + "dataS").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
+                  document.getElementById(currentState + "dataS").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
                   break;
                 case "Child Care Facilities":
-                  document.getElementById(currentState + "dataCCF").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
+                  document.getElementById(currentState + "dataCCF").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
                   break;
                 case "Health Care Facilities":
-                  document.getElementById(currentState + "dataHCF").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
+                  document.getElementById(currentState + "dataHCF").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
                   break;
                 case "Restaurants":
-                  document.getElementById(currentState + "dataR").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
+                  document.getElementById(currentState + "dataR").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
                   break;
                 case "Bars":
-                  document.getElementById(currentState + "dataB").innerHTML = '<span class="' + HasLawOrRestriction + '">'  +HasLawOrRestriction+'</span>';
+                  document.getElementById(currentState + "dataB").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
                   break;
                 default:
                   //something
