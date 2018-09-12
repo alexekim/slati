@@ -113,7 +113,7 @@
     $.each(states, function(key, currentState) {
       $.ajax({
         type: "GET",
-        url: "//www.lung.org/dev/slati/" + currentState + ".xml",
+        url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
         dataType: "xml",
         success: function(xml) {
           $("#loadSpinnerMessage").html("Sorting data...");
@@ -152,7 +152,7 @@
     $.each(states, function(key, currentState) {
       $.ajax({
         type: "GET",
-        url: "//www.lung.org/dev/slati/" + currentState + ".xml",
+        url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
         dataType: "xml",
         success: function(xml) {
           $("#loadSpinnerMessage").html("Sorting data...");
