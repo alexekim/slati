@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:13:21">
+<tblStatesALA>
+<ID>21</ID>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<LegislatureHyperlink>#http://mlis.state.md.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).</Citation>
+<Description>Smoking is prohibited in indoor areas open to the public; indoor places in which meetings are open to the public; a government-owned or government-operated means of mass transportation, including buses, vans, trains, taxicabs, and limousines; or an indoor place of employment.  This includes restaurants, bars, casinos/gaming establishments and private clubs.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).</Citation>
+<Description>Exceptions to the law include: 1) private homes, residences, including residences used as a business or place of employment, unless being used by a person who is licensed or registered to provide day care or child care, and private vehicles, unless being used for the public transportation of children, or as part of health care or day care transportation; 2) 25 percent of hotel/motel rooms; 3) a retail tobacco business, in which the primary activity is the retail sale of tobacco products and accessories, and the sale of other products is incidental; 4) any facility of a manufacturer, importer, wholesaler, or distributor of tobacco products or of any tobacco leaf dealer or processor; and 5) a research or educational laboratory for the purpose of conducting scientific research into the health effects of tobacco smoke.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. § 24-510 (2008).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Nothing in this subtitle shall be construed to preempt a county or municipal government from enacting and enforcing more stringent measures to reduce involuntary exposure to environmental tobacco smoke.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>Exec. Order 01.01.1992.20 (1992).</Citation>
+<Description>Smoking is prohibited in indoor places of employment defined as a place in or about which an employee is allowed to work.  Employee includes any individual employed by a governmental unit.  Smoking is also prohibited in a government-owned or government-operated means of mass transportation including buses, vans, trains, taxicabs and limousines.
+MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).
+
+By Executive Order, smoking is prohibited in all state buildings and facilities, in all space leased or rented by the state, and in government operated shuttle buses.  State employees are strongly encouraged to refrain from smoking in state vehicles and may not smoke when other nonsmoking passengers are present in the vehicle.  State officials or employees in charge of facilities housing clients, patients, inmates, or wards of the state may prohibit or restrict smoking by residents.  This order does not apply to the ground and first floor of the State House and spaces assigned to the legislative and judicial branches of government.  However, these branches are called upon to establish smokefree environments in those workspaces.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).</Citation>
+<Description>Smoking is prohibited in indoor places of employment defined as a place in or about which an employee is allowed to work.  An employer is defined as a person who is engaged in commerce, industry, trade, or other business in the state and employs at least one employee in that business.  The Maryland Department of Labor, Licensing and Regulation is required to adopt regulations to prohibit secondhand smoke in indoor places of employment not normally open to the general public.  Any facility of a manufacturer, importer, wholesaler, or distributor of tobacco products or of any tobacco leaf dealer or processor is exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).</Citation>
+<Description>The sale or use of tobacco in any form is prohibited in school buildings at all times. In addition, the sale or use of tobacco in any form is prohibited on school grounds during the official school day.  Each local superintendent of schools must certify in writing to the State Superintendent of Schools that all school buildings and grounds are tobacco free.  Each local school system must also post notification to students, staff, and the general public that school buildings and grounds are tobacco free.
+CODE of MD REGS. (COMAR) tit. 13A §§ 02.04 et seq. (1992).
+
+To the extent not covered above, smoking is prohibited in indoor areas open to the public and indoor places of employment, including schools and other educational facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).</Citation>
+<Description>Smoking is prohibited in indoor areas open to the public and indoor places of employment, including child care facilities.  Specifically included are home-based child care facilities that are licensed or registered as required by law, and vehicles used in day care transportation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).</Citation>
+<Description>Every director of a nursing home, health clinic, or physician&apos;s office shall make and carry out a plan that adequately protects the health of nonsmoking patients by regulating the smoking of tobacco products on the premises.  Smoking is prohibited in hospitals except for facilities for the treatment of mental disorders; a facility where the average patient stay is more than 30 days; or in an acute care hospital and the attending physician authorizes smoking, in writing, as part of the care for the patient.  Smoking permitted under this section shall be in designated areas that are considered safe and provide nonsmoking patients, family members and employees protection from tobacco smoke.  Smoking may not be permitted where nonsmoking patients sleep.
+MD. CODE ANN., HEALTH-GEN. § 24-205 (2008).
+
+Notwithstanding the above, smoking is prohibited in indoor areas open to the public and indoor places of employment, including health care facilities.  Vehicles used for health care transportation are specifically included.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).</Citation>
+<Description>Smoking is prohibited in restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).</Citation>
+<Description>Smoking is prohibited in bars/taverns.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., LAND USE § 17-207 (2015).</Citation>
+<Description>Smoking Prohibited in Certain Outdoor Areas:
+On or before June 30, 2016, the Maryland-National Capital Park and Planning Commission shall adopt regulations to prohibit the smoking of most tobacco products on property under its jurisdiction. Designated venues or facilities determined to be appropriate for the purpose of generating admission, rental or other charges for use may be exempted. A first infraction is subject a warning and a second or subsequent infraction a $25 fine.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 24-501 to 24-511 (2008) &amp; MD. CODE ANN., LAB. &amp; EMPLOY. §§ 5-101 &amp; 5-608 (2008).</Citation>
+<Description>Signs that state &quot;Smoking Permitted in This Room&quot; shall be prominently posted and properly maintained by the owner, operator, manager, or other person having control of the area where smoking is allowed.  Violation of the above law or regulation issued to enforce the law is subject to a written reprimand by the Secretary of the Department of Health and Mental Hygiene for a first violation, a civil penalty of $100 for a second violation and a civil penalty of not less than $250 for a subsequent violation.  The secretary may waive a penalty giving consideration to the seriousness of the violation and any demonstrated good faith measures to comply.  It is an affirmative defense to a complaint brought against a person if the person or an employee of the person:  posted a &quot;No Smoking&quot; sign as required; removed all ashtrays and other smoking paraphernalia from all areas where smoking is prohibited; and if the violation occurred in a bar, tavern or restaurant refused to seat or serve any individual who was smoking in a prohibited area; and if the individual continued to smoke after an initial warning, asked the individual to leave the establishment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., TAX-GEN. § 11-211(b)(18) (2000).</Citation>
+<Description>Tax rate per pack of 20: $2.00  
+Date last changed:  January 1, 2008 -- from $1.00 to $2.00  
+Year first enacted: 1958
+MD. CODE ANN.,TAX-GEN. § 12-105(a) (2008).
+
+The sales and use tax do not apply to a sale of nicotine patches, nicotine gum, or any other product intended for use as an aid in tobacco use cessation and approved by the U.S. Food and Drug Administration for that purpose.</Description>
+<NumericValue>2</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Information not available currently.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>397912000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., TAX-GEN. § 12-105(b) (2012).</Citation>
+<Description>Cigars: 70% of the wholesale price;
+Premium Cigars (as defined in Maryland Business Regulation code § 16.5-101): 15% of the wholesale price;
+All other tobacco products: 30% of the wholesale price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions in state law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. § 24-305 (2017).</Citation>
+<Description>A person engaged in selling or otherwise distributing tobacco products for commercial purposes may not distribute tobacco products or tobacco paraphernalia to persons under 18 years of age. No other person may purchase for, deliver or sell tobacco products or tobacco paraphernalia to a person under age 18. This does not apply to the distribution of a tobacco product or tobacco paraphernalia to a person under age 18 who is acting solely as the agent of the person&apos;s employer if the employer distributes tobacco products or tobacco paraphernalia for commercial purposes. Persons who violate the above are either guilty of a misdemeanor and subject to a fine or subject to a civil penalty of the same amounts. Those amounts are not more than $300 for the first violation, $1,000 for a second violation within two years, and $3,000 for subsequent violations within a two-year period. In both cases, it is a defense that the defendant examined the purchaser&apos;s or recipient&apos;s driver&apos;s license or other valid identification issued by an employer, government unit, or institution of higher education that positively identified the purchaser or recipient as at least 18 years of age. A person cannot be charged with criminal or civil penalties for the same violation. The owner or person in control of a tobacco vending machine that has the required sign displayed is not subject to these penalties if a person under 18 has purchased tobacco from their machine.
+MD. CODE ANN. CRIM. LAW § 10-107 &amp; MD CODE ANN. HEALTH GEN. § 24-307 (2017).
+
+A person may not sell, distribute or offer for sale to a person under age 18 an electronic nicotine delivery system as defined under section 16.7-101 of the Business Regulation Article. This does not apply to an electronic nicotine delivery system that has been approved by the U.S. Food and Drug Administration for sale as a tobacco cessation product, and is being marketed and sold solely for that approved purpose. Violation is a civil penalty of $300 for a first violation and $500 for any subsequent violations after the first one within 24 months of violation. It is a defense to prosecution if the person examined the purchaser or recipient&apos;s drivers license or other valid ID issued by an employer, government unit or institution of higher education.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., BUS. REGS. § 16-223 (2005) &amp; 16.5-217 (2012).</Citation>
+<Description>Except for the order, purchase, sale or shipment of premium cigars or pipe tobacco by a licensed other tobacco products retailer or tobacconist, no person engaged in the business of selling or distributing cigarettes or other tobacco products may sell, ship, or cause to be sold or shipped cigarettes ordered or purchased by mail or through a computer network, telephonic network or other electronic network by a consumer or other unlicensed recipient, directly to a consumer or other unlicensed recipient. A licensed retailer may deliver no more than two cartons of cigarettes and a licensed other tobacco products retailer or tobacconist may deliver no more than two packages of other tobacco products directly to a consumer if the delivery is made by the licensed retailer or tobacconist or an employee of the licensed retailer or tobacconist. A licensee who violates this section is subject to specified discipline by the state Comptroller, and is guilty of a felony and subject to a fine not exceeding $50 for each carton of cigarettes transported and/or imprisonment not exceeding two years. Unlicensed persons who violate this section are also guilty of a felony and subject to the same penalties listed above.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN. CRIM. LAW § 10-107 (2007).</Citation>
+<Description>A person engaged in the business of selling or otherwise distributing tobacco products for commercial purposes may not give away, offer or dispense tobacco products, cigarette rolling papers or a coupon redeemable for any tobacco product to a minor.  This does not apply to the distribution of a coupon that is redeemable for a tobacco product, if the coupon is contained in a newspaper, magazine, or other type of publication in which the coupon is incidental to the primary purpose of the publication; or the coupon is sent through the mail.  This also does not apply to the distribution of a tobacco product to a minor who is acting solely as the agent of the minor&apos;s employer if the employer distributes tobacco products for commercial purposes.  It is a defense that the defendant examined the purchaser&apos;s or recipient&apos;s driver&apos;s license or other valid identification issued by an employer, government unit, or institution of higher education that positively identified the purchaser or recipient as at least 18 years of age.  Persons who violate this law shall be subject to a fine of not more than $300 for the first violation, $1,000 for a second violation within two years, and $3,000 for subsequent violations within a two-year period.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., BUS. REGS. §§ 16-210 (2000), 16-222 (1999) &amp; 16.5-216 (2011); MD. CODE ANN., TAX-GEN. § 13-1015 (1999).</Citation>
+<Description>A retailer or vending machine operator may not purchase from a tobacco product manufacturer or sell, resell, distribute, dispense, or give away, and a wholesaler may not sell, resell, distribute, dispense, or give away to any person in this state an unpackaged cigarette defined as any cigarette not contained in a sealed package of 20 or more cigarettes.  This does not apply to an individual who produces unpacked cigarettes by using a mechanical rolling machine or a hand rolling device or procedure. Violation is a misdemeanor subject to a fine of up to $500 and/or not exceeding three months imprisonment.  Violation is also subject to a license suspension or revocation.
+MD. CODE ANN., COMM. LAW §§ 11-5A-01 et seq. (2011); &amp; MD. CODE ANN., BUS. REGS. § 16-210 (2000).
+
+A person who ships, imports, or sells cigarettes or other tobacco products into or within this state shall comply with any federal and state requirements concerning the placement of warning labels or other information on the containers or individual packages of cigarettes or other tobacco products.  Violation is a felony and subject to a fine of $50 for each carton of cigarettes transported and/or two years imprisonment.  The license to sell cigarettes or tobacco products may also be suspended or revoked.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling or minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., BUS. REGS. § 16-3A-02 (2000).</Citation>
+<Description>A person may not sell or dispense or offer to sell or dispense a tobacco product through a vending machine in Maryland unless the vending machine: (1) is located in an establishment that minors are prohibited by law from entering or an establishment that is a bona fide fraternal or veterans organization; or (2) can only be operated with a token, card, or similar device that an individual can only obtain or purchase from the owner or an employee or agent.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., BUS. REGS. § 16-3A-03 (2000).</Citation>
+<Description>Violating the restrictions on placement of tobacco product vending machines is a misdemeanor punishable by a fine of $100.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., BUS. REG. § 16-209 (b)(2)(ii) (2002).</Citation>
+<Description>A licensee who sells cigarettes through a vending machine shall display on a conspicuous label the prohibition and penalties for sales or distribution of tobacco products to minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances restricting the placement of and/or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., BUS. REGS. §§ 16.5-101 to 16.5-214 (2013).</Citation>
+<Description>Manufacturers, wholesalers, and vending machine operators must obtain an appropriate license to sell or distribute cigarettes from the state Comptroller. Each place of business and each vending machine selling cigarettes must obtain a county license to sell cigarettes, but still must pay a license fee to the state. A county license is effective for one year. A retailer&apos;s license is required for each place of business. Licenses must be renewed annually. Selling or distributing cigarettes without the appropriate license is a misdemeanor subject to a fine of $1,000, imprisonment for not more than 30 days, or both. Selling cigarettes without a county license is a misdemeanor subject to a fine of $100.
+MD. CODE ANN., BUS. REGS. §§ 16-201 et seq. (1997) &amp; 16-301 et seq. (1992).
+
+Manufacturers and wholesalers of other tobacco products and other tobacco product storage warehouses must obtain a license from the state Comptroller. Other tobacco product retailers and tobacconists must obtain a county license from the clerk of the circuit court. Licenses expire on the first April 30th after the effective date and can be renewed annually for a one-year term. Selling or dealing in tobacco products without a license is a misdemeanor subject to a fine not exceeding $1,000 and/or imprisonment not exceeding 30 days. Each day that a violation occurs is a separate offense.
+MD. CODE ANN., BUS. REGS. §§ 16.5-101 to 16.5-214 (2013).
+
+Manufacturers, wholesale distributors and importers of electronic nicotine delivery systems as defined must obtain a license from the state Comptroller. Retailers and vape shop vendors must obtain a county license from the clerk of the circuit court. Licenses expire on the date set by the issuing official and are renewable annually for a one-year term. Licenses are generally not transferable for electronic nicotine delivery system retailers and vape shop vendors, but other types of licensees can transfer the license after payment of a fee if they sell the business. Persons operating without a license are guilty of a misdemeanor and subject to a fine not to exceed $1,000 and/or imprisonment not exceeding 30 days.
+MD. CODE ANN., BUS. REGS. §§ 16.7-201 to 16.7-214 (2017).</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., BUS. REGS. §§ 16-204 (1994) &amp; 16.5-203 (2011).</Citation>
+<Description>Manufacturer&apos;s license (cigarettes and other tobacco products): $25 annually; 
+Retail Cigarette licenses: State - $30 annually, County -$25 annually except for Cecil County where license fee is $50 annually; 
+Retail Other Tobacco Products license: $15 annually (fee not required if applicant has a retail cigarette license)
+Wholesale cigarette license: $750 annually;
+Wholesale other tobacco products license: $250 annually (fee not required if applicant has a wholesale cigarette license)
+Cigarette Vending Machine Operator license: $500 annually.  
+In addition, cigarette licensees must pay a non-refundable application fee of $200 to the state Comptroller for initial issuance of a license, and a fee of $30 for renewal of a license.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., STATE FIN. &amp; PROCUREMENT § 7-317 (2007).</Citation>
+<Description>All monies received by Maryland from the Master Settlement Agreement are deposited in the Cigarette Restitution Fund, and allocated through the regular appropriations/budget process.  A portion of the money has gone to Maryland&apos;s tobacco prevention and cessation program each year.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>145800000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., STATE FIN. &amp; PROCUREMENT § 7-317 (2007).</Citation>
+<Description>The Cigarette Restitution Fund was established where all revenues from Master Settlement Agreement (MSA) payments and any monies collected under the law prohibiting smoking in public places and workplaces are deposited.  Expenditures from the fund are made by annual appropriation in the state budget.  The Cigarette Restitution Fund shall be used to fund the Tobacco Use Prevention and Cessation Program; the Cancer Prevention, Education, Screening, and Treatment Program; and other specified purposes.  The governor shall include in the annual budget bill appropriations from the fund equivalent to the lesser of $100 million or 90 percent of the funds estimated to be available to the fund in the fiscal year for which the appropriations are made.  In each fiscal year, at least 50 percent of the funds are to be appropriated for the purposes specified above, at least 30 percent of the funds are to be used for the Maryland Medical Assistance Program, and 0.15 percent of the funds are to be used to enforce the MSA.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Maryland&apos;s tobacco control program comes from annual Master Settlement Agreement payments and the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. § 13-1015 (2010).</Citation>
+<Description>Maryland allocated $10,559,922 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $10,561,204 was allocated. 
+FY2018 Annual Budget (H.B. 150) enacted (became law without the governor&apos;s signature) 4/18/17 and effective 7/1/17.
+
+In FY2011 &amp; FY2012, the Governor is required to include $6 million in the annual budget for activities aimed at reducing tobacco use in Maryland as recommended by the Centers for Disease Control and Prevention (CDC). This amount increases to $10 million in FY2013 and each fiscal year thereafter. Prior to FY2010, the required level was set at $21 million.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>10559922</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD. CODE ANN., HEALTH-GEN. §§ 13-1001 to 1014 (2017).</Citation>
+<Description>Establishes a tobacco use prevention and cessation program in the Department of Health with funds from the Cigarette Restitution Fund. It is the purpose of the program to coordinate the state’s use of the settlement moneys so as to create a lasting legacy of public health initiatives that result in a reduction of tobacco use in the state. Resources shall be allocated in a manner that is consistent with CDC recommendations regarding best practices for tobacco control programs. Beginning in FY2007, and every second fiscal year thereafter, the program is required to conduct a Tobacco Study to collect data on smoking rates.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD CODE ANN., BUS. REGS. §§ 16-601 to 16-610 (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, cigarettes may not be manufactured in Maryland or sold or offered for sale to any person in Maryland unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 16-602 Maryland Business Regulations Code; 2) the manufacturer has filed a written certification with the state Comptroller in accordance with section 16-603 Maryland Business Regulations Code; and 3) the cigarettes have also been marked in accordance with the requirements of section 16-604 Maryland Business Regulations Code.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MD CODE ANN., BUS. REGS. §§ 16-601 to 16-610 (2008).</Citation>
+<Description>A manufacturer or other person that knowingly sells or offers for sale cigarettes other than by retail sale in violation of the above is subject to a civil penalty not to exceed $100 for each package of cigarettes sold or offered for sale, provided that the total penalty assessed shall not exceed $100,000 in any 30-day period.  A retailer, sub-wholesaler, wholesaler, or other person that knowingly sells or offers to sell cigarettes in violation of the above is subject to a civil penalty not to exceed $100 for each package of cigarettes sold or offered for sale, provided that the total penalty assessed against a retailer shall not exceed $25,000 and against a sub-wholesaler, wholesaler or other person shall not exceed $100,000 in any 30-day period.  A manufacturer that knowingly makes a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each offense.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - county license</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - county license</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>	Tobacco Control Program Funding: Allocated $10,559,922 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (H.B. 150) enacted (became law without the governor&apos;s signature) 4/18/17 and effective 7/1/17.
+
+Youth Access: Prohibits the distribution of tobacco product or paraphernalia to a minor.
+H.B. 185 enacted 5/25/17 and effective 10/1/17.
+
+	E-Cigarettes/Licensing: Requires persons acting as an electronic nicotine delivery systems manufacturer, retailer, vape shop vendor, wholesale distributor or importer to have an appropriate license and prescribes process for obtaining a license.
+H.B. 523 enacted (became law without the governor&apos;s signature) 5/27/17 and effective 10/1/17.
+
+	Use of Tobacco Settlement Dollars: Alters information measured by the Baseline TobaccoStudy. Makes several changes to requirements for programs funded by Cigarette Restitution Fund dollars.
+H.B. 747 enacted 4/11/17 and effective 7/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $397,912,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Maryland</Name>
+<Abbrev>MD</Abbrev>
+<FipsCode>24</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $10,559,922
+
+FY2018 Federal Funding for State Tobacco Control Programs: $2,269,007*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $12,828,929
+
+Funding Level Recommended by CDC:                                        $48,000,000
+
+Percentage of CDC-Recommended Level:                                   26.7%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>21</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

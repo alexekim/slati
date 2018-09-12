@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:13:48">
+<tblStatesALA>
+<ID>29</ID>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<LegislatureHyperlink>#http://www.leg.state.nv.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483 (2011).</Citation>
+<Description>Smoking tobacco is prohibited in many indoor places of employment, including, but not limited to: child care facilities; movie theatres; video arcades; government buildings and public places; malls and retail establishments; all areas of grocery stores; all indoor areas within restaurants; and within all public and private school buildings and on all public and private school property.  Major exemptions include: bars, taverns and saloons; strip clubs and brothels; and areas of casinos where minors are prohibited from loitering.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483 (2011).</Citation>
+<Description>Exceptions to the law include: 1) areas within casinos where loitering by minors is prohibited by state law; 2) completely enclosed areas within stand-alone bars, taverns and saloons where persons under 21 are prohibited from entering; 3) age-restricted stand-alone bars, taverns and saloons as defined; 4) strip clubs or brothels; 5) retail tobacco stores as defined; 6) private residences, including those which may serve as an office workplace, except if used as a child care, adult day care or health care facility; and 7) the area of a convention facility in which a meeting or trade show is being held, if the meeting or trade show: is not open to the public, is being produced or organized by a business relating to tobacco or a professional association for convenience stores and involves the display of tobacco products.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483(8) (2011).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Nothing in state law shall be construed to restrict local control or otherwise prohibit a county, city or town from adopting and enforcing local tobacco control measures that meet or exceed the minimum applicable standards in the above law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483 (2011).</Citation>
+<Description>Smoking tobacco is prohibited in indoor places of employment, including government buildings, which are defined as any building or office space owned or occupied by: any component of the University and Community College System of Nevada and used for any purpose related to the system; the state of Nevada and used for any public purpose; or any county, city, school district or other political subdivision of the state and used for any public purpose.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483 (2011).</Citation>
+<Description>Smoking tobacco is prohibited in indoor places of employment.  Place of employment is defined as an enclosed area under the control of a public or private employer, which employees normally frequent during the course of employment including, but not limited to, work areas, restrooms, hallways, employee lounges, cafeterias, conference and meeting rooms, lobbies and reception areas.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483 (2011).</Citation>
+<Description>Smoking tobacco is prohibited within school buildings and on school property/grounds of any public or private school.  Smoking is also prohibited in any building or office space owned or occupied by any component of the University and Community College System of Nevada and used for any purpose related to the system.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483 (2011).</Citation>
+<Description>Smoking is prohibited in child care facilities, including private residences used as child care facilities.  &quot;Child care facility&quot; is defined as an establishment operated and maintained to furnish care on a temporary or permanent basis, during the day or overnight, to five or more children under 18 years of age, if compensation is received for the care of any of those children, an on-site child care facility or an outdoor youth program.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483 (2011).</Citation>
+<Description>Smoking is prohibited in indoor places of employment, which includes health care facilities.  Health care facilities in a private residence are specifically included.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483 (2011).</Citation>
+<Description>Smoking is prohibited in indoor places of employment, including all indoor areas within restaurants.  Restaurant is defined as a place that gives or offers for sale food, with or without alcoholic beverages, to the public, guests or employees, as well as kitchens and catering facilities in which food is prepared on the premises for serving elsewhere.  Completely-enclosed areas of stand-alone bars, taverns and saloons that do not allow persons under 21 to enter as well as age-restricted bars, taverns and saloons are exempt, which could mean smoking is allowed in restaurants or attached bars in restaurants all the time or at certain times.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2483 (2011).</Citation>
+<Description>Smoking is allowed in completely enclosed areas of stand-alone bars, taverns and saloons in which patrons under 21 are prohibited from entering, age-restricted stand-alone bars, taverns and saloons as well as strip clubs and brothels.  An age-restricted stand-alone bar, tavern or saloon is defined as an establishment devoted primarily to the sale of alcoholic beverages to be consumed on the premises, in which food service or sales may or may not be incidental food service or sales at the discretion of the operator, and in which patrons under 21 are prohibited from entering at all times.  In addition, an age-restricted stand-alone bar, tavern or saloon must be housed in either: 1) a physically independent building that does not share a common entryway or indoor area with a restaurant, public place or any other indoor workplaces where smoking is prohibited; or 2) a completely enclosed area of a larger structure, such as a strip mall or an airport, provided that indoor windows must remain shut at all times and doors must remain closed when not actively in use.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>All public places and places of employment where smoking is prohibited shall be designated by the specified signs.  A person who violates this law shall be guilty of a misdemeanor, and, in addition, liable for a civil penalty of $100 for each violation.  Supervisors on duty or employees of age-restricted bars, taverns and saloons or areas of bars, taverns and saloons where smoking is allowed shall not allow persons under 21 to loiter.  Violation by any person is a misdemeanor, and the age restricted bar, tavern and saloon or stand-alone bar, tavern or saloon is subject to a civil penalty of a $1,000 for the first offense and $2,000 for subsequent offenses.  Health authorities or local police officers shall, within their respective jurisdictions, enforce the provisions of this law.  
+NEV. REV. STAT. §§ 202.2483 (2011), 202.2492 (1999) &amp; 202.24925 (1999).
+
+Note: A court decision issued by a Nevada district court judge in January 2007 upheld Nevada&apos;s smokefree air law, but declared the criminal penalty provisions of the law unconstitutional.  That means violation of the law can be punished by the civil penalty of $100 only.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 370.165 (2015).</Citation>
+<Description>Tax rate per pack of 20: $1.80   
+Date last changed:  July 1, 2015 -- from 80 cents to $1.80
+Year first enacted: 1947</Description>
+<NumericValue>1.8</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 370.260 (2003).</Citation>
+<Description>After being used to pay tax collection costs, cigarette tax revenue is distributed to the state general fund and local governments in proportion to their population.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>94080000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 370.260 (2015).</Citation>
+<Description>Cigarette tax revenue is distributed to the Department of Taxation. After reimbursement to the Department for costs of the collecting the tax, revenue from $1.70 of the tax is distributed to the state general fund, and the remaining revenue is transmitted to the Local Government Tax Distribution Account and is allocated to Carson City and counties in Nevada in proportion to their respective populations.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. §§ 370.003, 370.0318 &amp; 370.054 (2015).</Citation>
+<Description>All other tobacco products: 30% of the wholesale price.
+NEV. REV. STAT. § 370.450 (2015).
+
+The definition of &quot;other tobacco products&quot; for tobacco taxation purposes specifically excludes &quot;alternative nicotine products&quot; and &quot;vapor products,&quot; which include most e-cigarettes.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 370.500 (1983).</Citation>
+<Description>Other tobacco product tax revenue is distibuted to the Department of Taxation, and is then transferred to the Account for the Tax on Products Made From Tobacco, Other Than Cigarettes in the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. §§ 202.2496 (2015) &amp; 202.2497 (1995).</Citation>
+<Description>As necessary to comply with any federal law, the state Attorney General shall conduct random, unannounced inspections at locations where tobacco products made or derived from tobacco, vapor products or alternative nicotine products are sold, distributed or offered for sale, to inspect for and enforce compliance with laws regarding sales to minors and restrictions on tobacco vending machines. The Attorney General may contract with local law enforcement officials or any other person who will perform the inspection in a fair and impartial manner. The inspector may enlist a child under 18 to assist with the inspection if written consent is obtained from the child&apos;s parent, the child states their true age if questioned during the inspection, the child&apos;s appearance is not altered to make them appear older and a picture is taken of the child immediately before the inspection and retained. No civil or criminal action based upon an alleged violation may be brought as a result of an inspection for compliance in which the assistance of a child has been enlisted unless the inspection has been conducted in accordance with the provisions of this section 202-.2496 Nevada Revised Statutes. The Attorney General shall compile the results of the inspections performed and submit the report as required by federal law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2493 (2015).</Citation>
+<Description>It is unlawful for any person to sell, distribute or offer to sell cigarettes, cigarette paper, tobacco of any description, products made or derived from tobacco, vapor products or alternative nicotine products to a child under the age of 18 years. Violators shall be punished by a fine of not more than $500 and a civil penalty of not more than $500. A person shall be deemed to be in compliance with this provision if, before they sell or distribute any of the above products demand valid proof of age, are presented with the required identification and reasonably relies upon the information presented to them. The employer of a child who is under 18 years of age may, for the purpose of allowing the child to handle or transport tobacco products made or derived from tobacco, alternative nicotine products or vapor products in the course of the child’s lawful employment, provide such products to the child. With respect to any sale made by their employee, the owner of a retail establishment shall be deemed to be in compliance with the provisions for sales or distribution to persons under 18 if they had no actual knowledge of the sale and establish and carry out a continuing program of training for their employees which is reasonably designed to prevent violations.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2493(6) (2015) &amp; 442.340 (2011).</Citation>
+<Description>The owner of a retail establishment shall, whenever any product made or derived from tobacco, vapor product or alternative nicotine product is being sold or offered for sale at the establishment, display prominently at the point of sale a notice indicating that the sale of cigarettes, other tobacco products, vapor products and altenative nicotine products to persons under age 18 is prohibited by law; and the retailer may ask for proof of age to comply with this prohibition. Retail establishments selling cigarettes must also post a sign or include on a existing sign in a location conspicuous to patrons a warning about the dangers of smoking during pregnancy in English and Spanish as specified in Nevada Revised Statute section 442.340. A person who violates this shall be punished by a fine of not more than $100.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. §§ 62E.440, 62C.075 &amp; 244.3572</Citation>
+<Description>No state requirement, but a board of county commissioners is allowed to adopt an ordinance that prohibits a child who is under 18 years of age from purchasing or attempting to pruchase, possessing or attempting to possess or use tobacco products; or falsely representing that they are 18 years of age or older to purchase, possess or obtain tobacco products. This ordinance can not apply to a child: 1) assisting in a compliance inspection pursuant to state law, 2) handling or transporting tobacco products in the course of their empoyment; 3) handling or transporting tobacco products in the presence of a parent, spouse or legal guardian that is 18 or older; and 4) possessing or using tobacco products for an established religious purpose. Violation of the ordinance is subject to: for a first offense a fine of $25 and attend and complete a tobacco awareness and cessation program; for a second offense a fine of $50 and attend and complete a tobacco awareness and cessation program; for a third offense a fine of $75, attend and complete a tobacco awareness and cessation program and suspension of the child&apos;s drivers license as specified.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2493(7) (2007).</Citation>
+<Description>It is unlawful for any retailer to sell cigarettes through the use of any type of display, which contains cigarettes and is located in any area to which customers are allowed access; and from which cigarettes are readily accessible to a customer without the assistance of the retailer, except a vending machine used in compliance with Nevada Revised Statute section 202.2494. A person who violates this subsection shall be punished by a fine of not more than $500.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A person must obtain a retail license to sell tobacco products before accepting an order for a delivery sale defined as sales of tobacco products by mail, phone, fax or over the Internet. A person shall not cause the mailing or shipment of cigarettes in connection with an order for a delivery sale unless the person first obtains from the prospective purchaser a certification, which includes reliable confirmation the person, is 18 or older and a statement attesting to this fact. The person must then make a good faith effort to verify the information using a federal or commercially available database. The person must also receive payment from the prospective purchaser by credit or debit card issued in that purchaser&apos;s name. Records of each delivery sale are required to be created and retained for three years. Violating the above provisions or knowingly submitting a false certification is a Class C felony punishable by up to a $10,000 fine and/or one to five years in state prison. The Department of Revenue may also impose a civil penalty of up to $1,000 for a first violation and $1,000 to $5,000 for subsequent violations as well as suspend or revoke the applicable license to sell tobacco products.
+NEV. REV. STAT. §§ 370.250 (2005), 370.321 to 370.323 (2009), 370.395 (2009) &amp; 370.425(b) (2009).
+
+It is unlawful for a person to knowingly sell or distribute cigarettes, cigarette paper, tobacco of any description or products made from tobacco to a child under the age of 18 years through the use of the Internet. Violators shall be punished by a fine of not more than $500, and a civil penalty of not more than $500. Every person who sells or distributes cigarettes, cigarette paper, tobacco of any description or products made from tobacco through the use of the Internet shall adopt a policy to prevent a child under the age of 18 years from obtaining these products from the person through the use of the Internet. The policy must include a method for ensuring that the person who delivers such items obtains the signature of a person who is over the age of 18 years when delivering the items, that the packaging or wrapping of the items when they are shipped is clearly marked with the word “cigarettes” or “tobacco products,” and that the person complies with the provisions of 15 U.S.C. § 376 (the Jenkins Act). A person who fails to adopt a policy is guilty of a misdemeanor and shall be punished by a fine of not more than $500.  
+NEV. REV. STAT. § 202.24935 (2001).
+
+Note: Some parts of the 2nd law referenced above may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.249(4&amp;5) (2003).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are not allowed, see below.
+
+An agency, board, commission or political subdivision of this state, including any agency, board, commission or governing body of a local government, shall not impose more stringent restrictions on the smoking, use, sale, distribution, marketing, display or promotion of tobacco or products made from tobacco than are provided by Nevada Revised Statutes sections 202.2491, 202.24915, 202.2492, 202.2493 and 202.2494.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2493 (2015).</Citation>
+<Description>It is unlawful for any person to distribute cigarettes, cigarette paper, tobacco of any description, products made or derived from tobacco, vapor products or alternative nicotine products to a child under the age of 18 years. Violators shall be punished by a fine of not more than $500 and a civil penalty of not more than $500.  A person shall be deemed to be in compliance with this provision if before they distribute any tobacco product to another person, they demand valid proof of age, are presented with the required identification and reasonably rely upon the information presented to them.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A person shall not sell, distribute or offer to sell cigarettes, any smokeless tobacco product made or derived from tobacco and any alternative nicotine product in any form other than in an unopened package that originated with the manufacturer and bears any health warning required by federal law. A person who violates this section shall be punished by a fine of $100 and a civil penalty of $100.
+NEV. REV. STAT. § 202.2493(1) (2015).</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.249(4&amp;5) (2003).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed, see below.
+
+An agency, board, commission or political subdivision of this state, including any agency, board, commission or governing body of a local government, shall not impose more stringent restrictions on the smoking, use, sale, distribution, marketing, display or promotion of tobacco or products made from tobacco than are provided by Nevada Revised Statutes sections 202.2491, 202.24915, 202.2492, 202.2493 and 202.2494.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2494 (2003).</Citation>
+<Description>A cigarette vending machine may be placed in a public area only if persons who are under 21 years of age are prohibited from loitering in that area. This applies to stand-alone bars and gaming facilities. A coin-operated vending machine containing cigarettes must not be used to dispense any product not made from tobacco.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.2493(7) (2007).</Citation>
+<Description>Violation is subject to a fine of not more than $500.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 202.249(4&amp;5) (2003).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are not allowed, see below.
+
+An agency, board, commission or political subdivision of this state, including any agency, board, commission or governing body of a local government, shall not impose more stringent restrictions on the smoking, use, sale, distribution, marketing, display or promotion of tobacco or products made from tobacco than are provided by Nevada Revised Statutes sections 202.2491, 202.24915, 202.2492, 202.2493 and 202.2494.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 370.445 (2013).</Citation>
+<Description>Manufacturers, retailers, wholesalers and vending machine operators must obtain a license to sell cigarettes from the Department of Revenue. A separate license is required for each place of business. Licenses are valid for the calendar year in which they were issued, and must be renewed annually. Violation is subject to Class C felony and is punishable by imprisonment for one to five years and/or up to a $10,000 fine. Counties, cities or towns may require a wholesale or retail license for cigarettes as well.
+NEV. REV. STAT. §§ 370.080 to 370.160 (2017) &amp; 370.382 (2009).
+
+Wholesale and retail dealers must obtain a license to sell tobacco products other than cigarettes from the Department of Revenue, except a retail dealer that has a retail dealer license to sell cigarettes need not obtain a license under this section. Dealing in tobacco products other than cigarettes without a license is a misdemeanor.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. §§ 370.150 (2005) &amp; 370.445 (1997).</Citation>
+<Description>Wholesale cigarette dealer&apos;s license: $150 annually;
+Retail cigarette dealer license: No fee; 
+Cigarette Manufacturer&apos;s license: No fee;  
+No fee specified for retail and wholesale licenses for other tobacco products.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 613.333 (1991).</Citation>
+<Description>It is an unlawful employment practice for an employer to fail or refuse to hire a prospective employee or discharge or otherwise discriminate against any employee concerning their compensation, terms, conditions or privileges of employment, because they engage in the lawful use in this state of any product outside the premises of the employer during non-working hours, if that use does not adversely affect their ability to perform their job or the safety of other employees.  Any wages and benefits lost as a result of a violation may be recovered by civil action.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 20.035 (2005).</Citation>
+<Description>If an appeal is taken of a judgment in a civil action involving a signatory, or a successor in interest or affiliate of a signatory, of the Master Settlement Agreement is required to give a bond in order to secure a stay of execution of the judgment during the pendency of any or all such appeals, the total cumulative sum of all the bonds required from all the appellants involved in the civil action must not exceed $50 million.  If the plaintiff proves by a preponderance of evidence that an appellant who posted a bond is purposefully dissipating or diverting assets outside of the ordinary course of its business to evade the ultimate payment of the judgment, the court may, if it determines that such an order is necessary to prevent such dissipation or diversion, require the appellant to post a bond in an amount that does not exceed the full amount of the judgment.  The provisions of this section do not limit the discretion of a court, for good cause shown, to set the bond on appeal in an amount less than the amount otherwise required by law.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. §§ 396.911 to 396.938 &amp; 439.600 to 439.665 (2010).</Citation>
+<Description>Portions of Nevada&apos;s annual Master Settlement Agreement payments are deposited into: the Fund for a Healthy Nevada (50%), Millennium Trust Fund (40%) and the Trust Fund for Public Health (10%). The money, or in the case of the Trust Fund for Public Health the interest and income, is dedicated to specific purposes and programs, including in previous years tobacco prevention/cessation programs. The legislature retains the power to transfer money from these funds to other purposes, including the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>40300000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>The Fund for a Healthy Nevada was created in the state Treasury to receive 50 percent of the annual Master Settlement Agreement payments.  The money in the fund remains in the fund and does not revert to the state General Fund at the end of any fiscal year, and interest and income earned on money in the fund also remains in the fund.  All money that is deposited or paid into the fund is hereby appropriated to be used for any purpose authorized by the legislature or by the Department of Health for expenditure or allocation as follows: 1) not more than 15 percent of available money in the fund for programs that are consistent with guidelines established by the Centers for Disease Control and Prevention of the U.S. Department of Health and Human Services relating to evidence-based best practices to prevent, reduce or treat the use of tobacco and the consequences of the use of tobacco as specified; 2) allocate not more than 30 percent of available revenues to pay for prescription drugs, pharmaceutical services and other benefits for senior citizens; 3) allocate not more than 30 percent of available revenues to the Aging Services Division of the department for programs that help seniors with independent living; 4) allocate $200,000 for funding assisted living facilities; 5) allocate not more than 10 percent of revenues for programs that improve health services for children; 6) allocate not more than 10 percent of available revenues for programs that help improve the health and well-being of persons with disabilities; and 7) not more than 5 percent to subsidize a portion of the cost of providing prescription drugs, pharmaceutical services or other benefits to persons with disabilities.  
+NEV. REV. STAT. §§ 439.600 to 439.665 (2010).
+
+Note: On February 28, 2010, $21.3 million and on July 1, 2010, $8,828,165 was transferred from the Fund for a Healthy Nevada to the General Fund Reserve Account.
+A.B. 3 (2nd special session 2010) enacted 2/28/10 and effective 2/28/10 and 7/1/10.
+
+The Millennium Trust Fund is established in the state treasury, and 40 percent of the proceeds from the MSA are deposited into the trust fund.  All interest and income earned on the money in the Trust Fund must, after deducting any applicable charges, be credited to the Trust Fund.  The money in the Trust Fund remains in the fund and does not revert to the state General Fund at the end of any fiscal year.  Money in the fund may be used for the Governor Guinn Millennium Scholarship Program as set forth in the law cited below or for any other purpose authorized by the legislature.
+NEV. REV. STAT. §§ 396.911 to 396.938 (2010).
+
+Note: On July 1, 2010, $5 million was transferred from the Millennium Trust Scholarship Fund to the General Fund Reserve Account.
+A.B. 3 (2nd special session 2010) enacted 2/28/10 and effective 2/28/10 and 7/1/10.
+
+The Trust Fund for Public Health was created in the state treasury, and 10 percent of proceeds from the MSA are deposited into the trust fund.  The interest and income earned on the money in the trust fund is hereby appropriated to the Board of Trustees of the Trust Fund for Public Health and must, after deducting any applicable charges, be credited to the Fund and accounted for separately.  Only the interest and income can be spent, and the money must be spent on: 1) Grants made pursuant to Nevada Revised Statutes section 439.615 for: (a)The promotion of public health and programs for the prevention of disease or illness, (b) Research on issues related to public health, and © The provision of direct health care services to children and senior citizens; 2) Expenses related to the operation of the Board of Trustees of the Trust Fund; 3) Actual costs incurred by the Health Division for providing administrative assistance to the Board; and 4) any other purpose authorized by the legislature.  Money in the trust fund does not revert to the state general fund in any fiscal year.
+NEV. REV. STAT. §§ 439.605 to 439.615 (2010).
+
+Note: On February 28, 2010, $5,922,687 and on July 1, 2010, $4,839,733 was transferred from the Trust Fund for Public Health to the General Fund Reserve Account.
+A.B. 3 (2nd special session 2010) enacted 2/28/10 and effective 2/28/10 and 7/1/10.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances related to the sale, distribution, marketing, display or promotion of tobacco products are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Nevada&apos;s tobacco control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018-FY2019 Biennial Budget (A.B. 518) enacted 6/5/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).</Citation>
+<Description>Nevada allocated $950,000 for state tobacco prevention and cessation initiatives in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $1,000,000 was allocated. This is the first year of the FY2018-FY2019 biennium.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>950000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. §§ 477.172 to 477.214 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as otherwise provided in section 477.192 Nevada Revised Statutes, a person shall not sell or offer to sell any cigarettes in this State unless: (a) The cigarettes have been tested in accordance with and meet the performance standard required by section 477.192 Nevada Revised Statutes; (b) The manufacturer has submitted to the State Fire Marshal, pursuant to Nevada Revised Statues section 477.194, a written certification in which the cigarettes are listed; and © The packages that contain the cigarettes have been marked pursuant to Nevada Revised Statutes 477.198.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEV. REV. STAT. § 477.202 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or other person who knowingly sells or offers to sell cigarettes other than through retail sale in violation of the above standard shall be subject to a civil penalty not to exceed $100 for each pack of such cigarettes sold or offered for sale; provided that in no case shall the penalties against any such person exceed $100,000 during any 30-day period.  A retail dealer who knowingly sells or offers to sell cigarettes in violation is subject to the same civil penalty as others above, but the penalty shall not exceed $25,000 during any 30-day period.   Any manufacturer that knowingly makes a false certification is subject to a civil penalty of not less than $75,000 or more than $250,000 for each false certification in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>	Tobacco Control Program Funding: Allocated $950,000 in state funding for tobacco prevention and cessation initiatives in FY2018.
+FY2018-FY2019 Biennial Budget (A.B. 518) enacted 6/5/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).
+
+Licensing/Tobacco Sales/Tobacco Settlement: Requires persons to secure a license to engage in business as a cigarette vending machine operator in the state. Requires the submission of monthly reports relating to the sale, transfer, shipment or delivery in or into the state of cigarettes, roll-your-own-tobacco and smokeless tobacco. Makes changes to laws implementing the Master Settlement Agreement.
+A.B. 62 enacted 5/27/17 and effective 7/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $94,080,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nevada</Name>
+<Abbrev>NV</Abbrev>
+<FipsCode>32</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $950,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $927,208*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $1,877,208
+
+Funding Level Recommended by CDC:                                        $30,000,000
+
+Percentage of CDC-Recommended Level:                                   6.3%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>29</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

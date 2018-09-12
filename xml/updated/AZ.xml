@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:11:56">
+<tblStatesALA>
+<ID>4</ID>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<LegislatureHyperlink>www.azleg.state.az.us#http://www.azleg.state.az.us#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 &amp; AZ ADMIN RULES §§ R9-2-101 to R9-2-112 (2007).</Citation>
+<Description>Smoking is prohibited in virtually all public places and workplaces, including restaurants, bars and non-tribal gaming establishments.  &quot;Public place&quot; is defined as any enclosed area to which the public is invited or permitted; see statute cited below for a detailed list.  By rule, smoking is also prohibited within 20 feet of entrances/exits, windows and ventilation intakes to public places and places of employment, excluding outdoor patios.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 (2007).</Citation>
+<Description>Exemptions to the law include: 1) private residences except when used as a licensed child care, adult day care or health care facility; 2) up to 50 percent of hotel/motel rooms; 3) retail tobacco stores as defined that are physically separated, so that smoke does not infiltrate into areas where smoking is prohibited; 4) veterans and fraternal clubs as defined when they are not open to the general public; 5) smoking as part of a Native American religious ceremony; 6) outdoor patios as long as smoke does not enter into places where smoking is prohibited; and 7) smoking as part of a theatrical performance.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass laws/ordinances restricting smoking stronger than state law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 &amp; AZ ADMIN RULES §§ R9-2-101 to R9-2-112 (2007).</Citation>
+<Description>Smoking is prohibited in places of employment, the definition of which includes public places of employment.  The definition of &quot;employer&quot; also includes the state of Arizona and its political subdivisions.  By rule, smoking is also prohibited within 20 feet of entrances/exits, windows and ventilation intakes to public places and places of employment, excluding outdoor patios.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 &amp; AZ ADMIN RULES §§ R9-2-101 to R9-2-112 (2007).</Citation>
+<Description>Smoking is prohibited in &quot;places of employment,&quot; which are defined as an enclosed area under the control of a public or private employer, which employees normally frequent during the course of employment, including office buildings, work areas, auditoriums, employee lounges, restrooms, conference rooms, meeting rooms, classrooms, cafeterias, hallways, stairs, elevators, health care facilities, private offices and vehicles owned and operated by the employer during working hours when the vehicle is occupied by more than one person.  A private residence is not a &quot;place of employment&quot; unless it is used as a child care, adult day care or health care facility.   By rule, smoking is also prohibited within 20 feet of entrances/exits, windows and ventilation intakes to public places, excluding outdoor patios.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 &amp; AZ ADMIN RULES §§ R9-2-101 to R9-2-112 (2007).</Citation>
+<Description>Tobacco products are prohibited on school grounds, inside school buildings, in school parking lots or playing fields, in school buses or vehicles, or at off-campus school-sponsored events.  &quot;School&quot; means any public, charter or private school where children attend classes in kindergarten programs or grades one through 12.  This does not apply to an adult who employs tobacco products as a necessary component of a school-sanctioned, tobacco prevention or cessation program established pursuant to Arizona Revised Statute section 15-712.  A person who violates this section is guilty of a petty offense. 
+ARIZ. REV. STAT § 36-798.03 (2000).
+
+To the extent not covered above, smoking is prohibited in &quot;public places,&quot; the definition of which includes educational facilities.  By rule, smoking is also prohibited within 20 feet of entrances/exits, windows and ventilation intakes to public places, excluding outdoor patios.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 &amp; AZ ADMIN RULES §§ R9-2-101 to R9-2-112 (2007).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; which are defined as any enclosed area to which the public is invited or permitted.  Smoking is also prohibited in &quot;places of employment,&quot; which are defined as an enclosed area under the control of a public or private employer, which employees normally frequent during the course of employment.  Although not specifically mentioned, these definitions do include child care facilities.  Smoking in private residences is specifically prohibited if it is a child care or adult day care facility.  By rule, smoking is also prohibited within 20 feet of entrances/exits, windows and ventilation intakes to public places, excluding outdoor patios.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 &amp; AZ ADMIN RULES §§ R9-2-101 to R9-2-112 (2007).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; the definition of which includes health care facilities.  Smoking is prohibited in &quot;places of employment,&quot; which are defined as an enclosed area under the control of a public or private employer, which employees normally frequent during the course of employment, including health care facilities.  Smoking in private residences is specifically prohibited if it is used as a health care facility.  By rule, smoking is also prohibited within 20 feet of entrances/exits, windows and ventilation intakes to public places and places of employment, excluding outdoor patios.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 &amp; AZ ADMIN RULES §§ R9-2-101 to R9-2-112 (2007).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; the definition of which includes restaurants.  Outdoor patios of restaurants are exempt as long as smoke does not enter areas where smoking is prohibited.  By rule, smoking is also prohibited within 20 feet of entrances/exits, windows and ventilation intakes to public places and places of employment, excluding outdoor patios.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 &amp; AZ ADMIN RULES §§ R9-2-101 to R9-2-112 (2007).</Citation>
+<Description>Smoking is prohibited in &quot;public places,&quot; the definition of which includes bars.  Outdoor patios of bars are exempt as long as smoke does not enter areas where smoking is prohibited.  By rule, smoking is also prohibited within 20 feet of entrances/exits, windows and ventilation intakes to public places and places of employment, excluding outdoor patios.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-601.01 &amp; AZ ADMIN RULES §§ R9-2-101 to R9-2-112 (2007).</Citation>
+<Description>&quot;No smoking&quot; signs shall be clearly and conspicuously posted by the owner or person in charge of a public place or place of employment.  All ashtrays shall be removed from public places and places of employment as well.  The state Department of Health shall implement and enforce the law.  The department shall impose a civil penalty of $100 to $500 for each offense, and each day an offense occurs is a separate offense.  The department may also apply for injunctive relief in the superior court in the county in which the violation occurred.  If the court finds the violations are willful or evidence of a pattern of noncompliance a fine of up to $5,000 may be imposed.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. §§ 42-3052 (2002), 42-3251(2002), 42-3251.01(2002), 42-3251.02 (2006) &amp; 42-3271 (2006).</Citation>
+<Description>Tax rate per pack of 20: $2.00
+Date last changed: December 4, 2006 -- from $1.18 to $2.00
+Year first enacted: 1933</Description>
+<NumericValue>2</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. §§ 8-1181 (2006), 36-601.01(L) (2006), 36-770 to 36-778 (2002), 42-3102 to 42-3104 (2010), 42-3251 (2002) &amp; 42-3251.01 (2002).</Citation>
+<Description>Most of the revenue from Arizona&apos;s cigarette tax is directed to several funds and dedicated to various purposes from there, including providing funding for the state tobacco prevention and cessation program and state Medicaid program.  A small portion also goes to the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>319027000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. §§ 42-3102 to 42-3104 (2010).</Citation>
+<Description>Two cents of the cigarette tax shall be deposited into the Smoke-Free Arizona Fund to fund enforcement of Arizona&apos;s smokefree air law.  Any money remaining after enforcement obligations have been met will be transferred to Arizona&apos;s Tobacco Education and Prevention Program.  This increase in the cigarette tax was passed by voters in 2006.
+ARIZ. REV. STAT. §§ 42-3251.02 &amp; 36-601.01(L) (2006).
+
+Eighty cents of the cigarette tax is distributed to the Early Childhood Development and Education Fund for use on specified early childhood education programs.  This increase in the cigarette tax was also passed by voters in 2006.
+ARIZ. REV. STAT. §§ 42-3272 &amp; 8-1181 (2006).
+
+Sixty cents of the cigarette tax is distributed to the Tobacco Products Tax Fund.  Forty-two cents of each $1.00 in the fund is deposited in the Proposition 204 Protection Account which helps fund health insurance coverage for more uninsured residents; five cents of each $1.00 is deposited in the Health Research Fund to be used for research into tobacco-related diseases; 27 cents of each $1.00 is deposited in the Medically Needy Account, which is used to provide health insurance for low-income residents; 20 cents of each $1.00 is deposited in the Emergency Health Services Account where it is to be used for reimbursement of uncompensated care, primary care services and trauma center readiness costs as appropriated by the legislature; four cents of each $1.00 is deposited in a health care adjustment account; and two cents of each $1.00 goes to the Health Education Account for tobacco prevention programs.  This increase in the cigarette tax was passed by voters in 2002.
+ARIZ. REV. STAT. §§ 36-770, 36-772, 36-774, 36-776 to 36-778 &amp; 42-3251.01 (2002).
+
+Forty cents of the cigarette tax is deposited into the Tobacco Tax and Health Care Fund.  Twenty-three cents of every $1.00 in the fund goes into a Health Education Account where it is used for tobacco control and prevention programs; five cents of each $1.00 in the fund goes into the Health Research Account where it is used for research on preventing and treating tobacco-related disease and addiction; 70 cents of each $1.00 in the fund goes into the Medically Needy Account (see above), and two cents of each $1.00 goes into an adjustment account.  This increase in the cigarette tax was passed by voters in 1994.
+ARIZ. REV. STAT. §§ 36-771 to 36-775 &amp; 42-3251 (2002).
+
+The remaining 18 cents of the cigarette tax is distributed as follows: 19.44 percent to state school aid, until June 30, 2015 - 11.11 percent to the corrections fund and the remainder to the general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. §§ 42-3052 (2002), 42-3251 (2002), 42-3251.01 (2002), 42-3371 (2006).</Citation>
+<Description>Chewing tobacco, smoking tobacco, and snuff: 22.25 cents/oz.;
+Cavendish, plug, or twist tobacco: 5.45 cents/oz.;
+On each 20 small cigars or fractional part weighing not more than three pounds per thousand: 44.05 cents;
+All other cigars: 21.8 cents/three cigars or 21.8 cents/cigar depending on the manufacturer&apos;s retail price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. §§ 8-1181 (2006), 36-770 &amp; 36-771 (2002), 42-3102 (2002), 42-3104 (2010), 42-3251 (2002), 42-3251.01 (2002) &amp; 42-3272 (2006).</Citation>
+<Description>Most of the revenue from taxes on tobacco products other than cigarettes is dedicated in the same way and for the same purposes as cigarette tax revenue.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. §§ 42-3102 (2002) &amp; 42-3104 (2010).</Citation>
+<Description>The revenue from the other tobacco product taxes levied by Arizona Revised Statute section 42-3271 is deposited in the Early Childhood Development and Education Fund where it is used in the same manner as 80 cents of the cigarette tax (see above).
+ARIZ. REV. STAT. §§ 42-3272 &amp; 8-1181 (2006).
+
+The revenue from the other tobacco product taxes levied by Arizona Revised Statute section 42-3251.01 is deposited in the Tobacco Products Tax Fund, where it is used in the same manner as 60 cents of the cigarette tax (see above).
+ARIZ. REV. STAT. §§ 42-3251.01 &amp; 36-770 (2002).
+
+The revenue from the other tobacco product taxes levied by Arizona Revised Statute section 42-3251 is deposited in the Tobacco Tax and Health Care Fund where it is distributed in the same manner as 40 cents of the cigarette tax (see above).
+ARIZ. REV. STAT. §§ 42-3251 &amp; 36-771 (2002).
+
+The revenue from the other tobacco product taxes levied in Arizona Revised Statute section 42-3052 is deposited 50 percent to the Corrections Fund and 50 percent to the general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1291</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ISA between Arizona Attorney General and ADHS-TEPP (2009).</Citation>
+<Description>The Arizona Attorney Generals&apos; office, through an interagency service agreement (ISA) with the Arizona Department of Health Services - Tobacco Education and Prevention Program (ADHS-TEPP), monitor compliance with and enforce laws restricting the availability and sale of tobacco products to minors.  The attorney general&apos;s office is required under this agreement to conduct compliance inspections, in coordination with local law enforcement agencies, of tobacco retailers in all 15 counties to determine whether they are illegally selling tobacco products to minors, and to recruit, train and coordinate youth volunteers to participate in these compliance inspections.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT § 13-3622(A) (2013).</Citation>
+<Description>A person who knowingly sells, gives or furnishes a tobacco product, a vapor product, including electronic cigarettes, or any instrument designed for the smoking or ingestion of tobacco or shisha, including a hookah or waterpipe, to a minor is guilty of a petty offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-798.01 (2000).</Citation>
+<Description>It is unlawful for a retail tobacco vendor to sell, furnish, give, or provide beedies or bidis to a minor.  Any person who violates this section is guilty of a Class Three misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 13-3622(B-D) (2013).</Citation>
+<Description>Minors who buy, possess, or knowingly accept a tobacco product as defined, a vapor product which includes electronic cigarettes or any instrument or paraphernalia designed for smoking or ingestion of tobacco or shisha, including a hookah or waterpipe are guilty of a petty offense and if the offense involves an instrument or paraphernalia descibed above shall pay a fine of not less than $100 or perform not less than 30 hours of community restitution. Minors who use written identification to misrepresent their age to induce a person to sell, give or furnish a tobacco product, a vapor product or any instrument or paraphernalia described above to the minor are guilty of a petty offense and pay a fine of up to $500. This does not apply if the tobacco product, instrument or paraphernalia is used in connection with a bona fide practive of a religious belief and as an integral part of a religious or ceremonial exercise. It also does not apply to instruments or paraphernalia that are given to or possessed by a minor as a gift and are not used or intended to be used to smoke or ingest tobacco or shisha.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-798.06 (2015).</Citation>
+<Description>A person shall not cause a tobacco product, excluding cigars or pipe tobacco, to be ordered or purchased by anyone other than a person licensed under section 42-3201 Arizona Statutes or a retailer who orders or purchases from a licensed person or knowingly provide substantial assistance to a person who violates these requirements. Order or purchase means by mail or delivery service, through the Internet or computer network, by telephone or through any other electronic method. A common carrier shall not knowingly transport a tobacco product for a person in violation of the above. Each order or purchase is a separate violation and in addition to any other penalty a person in violation is subject to a civil penalty not to exceed $5,000 for each violation, an injunction to restrain threatened or actual violation, recovery of state court costs as specified and all tobacco taxews due on the product. Violation is also a Class 6 felony.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-798.05 (2000).</Citation>
+<Description>It is unlawful for a person to deliver, or cause to be delivered, to any residence in this state, any tobacco products unsolicited by at least one adult who resides at that address. A person who knowingly violates this section is guilty of a Class Two misdemeanor and is subject to a civil penalty of up to $5,000 for each violation. Each delivery of a tobacco product shall constitute a separate violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass laws/ordinances further restricting youth access to tobacco products stronger than state law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT § 13-3622 (1978).</Citation>
+<Description>A person who knowingly gives or furnishes tobacco products to a minor is guilty of a petty offense.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-798.04 (2000).</Citation>
+<Description>It is unlawful to manufacture, sell, or distribute in this state, either a package or other container of cigarettes with fewer than 20 cigarettes or a package of roll-your-own tobacco that contains less than 0.6 ounces of tobacco. This does not prohibit the sale or distribution of such products in specially licensed tobacco stores that only admit people over 21 years of age. A violation of this section is a Class Three misdemeanor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass laws/ordinances restricting sampling or minimum sales amounts of tobacco products stronger than state law.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-798.02 (2000).</Citation>
+<Description>Tobacco vending machines are restricted to bars and employee lounges that are not open to the public and if the business does not employ minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-798.02 (2000).</Citation>
+<Description>Violation of the restrictions on tobacco product vending machines is a petty offense.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-798.02 (2000).</Citation>
+<Description>Tobacco vending machines must have a sign measuring at least 80 square inches that states &quot;IT IS ILLEGAL FOR A MINOR TO PURCHASE CIGARETTES OR TOBACCO PRODUCTS AND, UPON CONVICTION, A FINE UP TO $300 MAY BE IMPOSED.&quot;</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Local communities are specifically allowed to pass laws/ordinances further restricting the placement of or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 42-3401 (2015).</Citation>
+<Description>Distributors must be licensed by the Department of Revenue to sell tobacco products on which a tax is imposed. The license is non-transferable, valid for one year unless suspended or revoked and must be displayed in a conspicuous place in the applicant&apos;s place of business. Violation is subject to license suspension or revocation.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 42-3201 (2014).</Citation>
+<Description>$25 annually for each place of business.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT § 36-2901.02 (2001).</Citation>
+<Description>The state&apos;s annual Master Settlement Agreement payments are deposited in the Arizona Tobacco Litigation Settlement Fund where it is used mostly to fund certain benefits under the state Medicaid program.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>101100000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT § 36-2901.02 (2001).</Citation>
+<Description>The Arizona Tobacco Litigation Settlement Fund is established consisting of all monies received by Arizona from the Master Settlement Agreement between the state and certain cigarette companies.  The Director of the Arizona Health Care Cost Containment System Administration shall administer the fund.  Monies in the fund do not revert to the state general fund and are continuously appropriated.  Monies in the fund are allocated to the following purposes in the following order: 1) to fully implement and fund programs and services required as a result of the expanded definition of an &quot;eligible person&quot; under the Arizona Health Care Cost Containment System (state Medicaid program); 2) to health-related programs specified in section 5-22(E) of the Arizona Revised Statutes; and 3) any remaining funds can be used for expanded programs in the Arizona Health Care Cost Containment System.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Arizona&apos;s tobacco prevention and cessation program comes from tobacco tax revenues.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 General Appropriations (S.B. 1522) enacted 5/12/2017 and effective 7/1/2017.</Citation>
+<Description>Arizona allocated $17,784,700 for tobacco control and prevention programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $18,434,700 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>17784700</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. § 36-779 (2011).</Citation>
+<Description>A tobacco revenue use spending and tracking commission is established consisting of twelve members, six members each being appointed by the Speaker of the House of Representatives and President of the Senate.  The commission will advise and consult with the Department of Health Services on the goals, objectives and activities of programs receiving certain tobacco tax revenues, including the state tobacco prevention and cessation program.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. §§ 41-2170 to 41.2170.08 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, cigarettes may not be sold or offered for sale in Arizona or offered for sale or sold to persons located in Arizona unless: 1) the cigarettes are tested pursuant to the test method and meet the performance standard prescribed in section 41-2170.01 Arizona Revised Statutes; 2) the manufacturer files a written certification with the state fire marshal pursuant to section 41-2170.02 Arizona Revised Statutes; and 3) the cigarettes are marked pursuant to section 41-2170.03 Arizona Revised Statutes.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ARIZ. REV. STAT. §§ 41-2170 to 41.2170.08 (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above requirements is subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties may not exceed $25,000 in any 30-day period.  A retail dealer is subject to the same civil penalty for violation, but penalties may not exceed $1,000 in any 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $25,000 and not to exceed $100,000 for each false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $17,784,700 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 General Appropriations (S.B. 1522) enacted 5/12/2017 and effective 7/1/2017.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $319,027,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Arizona</Name>
+<Abbrev>AZ</Abbrev>
+<FipsCode>04</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $17,784,700
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,848,394*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $19,633,094
+
+Funding Level Recommended by CDC:                                        $64,400,000
+
+Percentage of CDC-Recommended Level:                                   30.5%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>4</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

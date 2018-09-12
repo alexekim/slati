@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:14:05">
+<tblStatesALA>
+<ID>33</ID>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<LegislatureHyperlink>#http://assembly.state.ny.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW §§ 1399-n to 1399-x (2017).</Citation>
+<Description>Smoking and the use of electronic cigarettes as defined is prohibited in virtually all public places and places of employment, including restaurants, bars and gaming establishments, see New York Public Health Law section 1399-o for a detailed list of places covered.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW §§ 1399-n to 1399-x (2017).</Citation>
+<Description>Exceptions to the law include: 1) private homes, private residences and private automobiles; 2) hotel and motel rooms; 3) retail tobacco businesses as defined; 4) separate, enclosed rooms of residential health and mental health care facilities as specified; 5) membership organizations as defined that have no compensated work staff; 6) cigar bars as defined under certain conditions; 7) outdoor dining areas under certain conditions; 8) specified enclosed places where the public is invited for the primary purpose of promoting and sampling tobacco products, and the service of food and drink is incidental to such purpose; and 9) retail electronic cigarette stores devoted primarily to the sale of electronic cigarettes, and in which the sale of other products is merely incidental.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-r(3) (2017).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Smoking and the use of electronic cigarettes may not be permitted where prohibited by any other law, rule or regulation of any state agency or any political subdivision of the state. Nothing herein shall be construed to restrict the power of any county, city, town, or village to adopt and enforce additional local law, ordinances, or regulations which comply with at least the minimum applicable standards set forth in the above law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW §§ 1399-n to 1399-x (2017).</Citation>
+<Description>Smoking and the use of electronic cigarettes is prohibited in places of employment. The definition of &quot;employer&quot; includes the legislative, executive and judicial branches of state government and any political subdivision of the state.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW §§ 1399-n to 1399-x (2017).</Citation>
+<Description>Smoking and the use of electronic cigarettes is prohibited in all places of employment. &quot;Place of employment&quot; means any indoor area or portion thereof under the control of  an employer in which employees of the employer perform services, and shall include, but not be limited to, offices, school grounds, retail stores, banquet  facilities, theaters, food stores, banks, financial institutions, factories, warehouses, employee cafeterias, lounges, auditoriums, gymnasiums, restrooms, elevators, hallways, museums, libraries, bowling establishments, employee medical facilities, rooms or areas containing photocopying equipment or other office equipment used in common, and company vehicles.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-o(3) (2017).</Citation>
+<Description>Tobacco use, including smoking, shall not be permitted on school grounds. &quot;School grounds&quot; means any building, structure and surrounding outdoor grounds, including entrances and exits, contained within a public or private preschool, nursery school, elementary or secondary school’s legally defined property boundaries as registered in a county clerk’s office, and any vehicles used to transport children or school personnel. 
+N.Y. [EDUC.] LAW §§ 409(2) (2013) &amp; N.Y. [PUB. HEALTH] LAW §§ 1399-n(6) (2003).
+
+Use of an electronic cigarette or e-cigarette shall not be permitted on school grounds. &quot;School grounds&quot; has the same meaning as the paragraph above.
+N.Y. [PUB. HEALTH] LAW §§ 1399-o(5) (2017) &amp; 1399-n(6) (2003).
+
+Smoking and the use of electronic cigarettes is prohibited in all public and private colleges, universities and other educational and vocational institutions, including dormitories, residence halls and other group residential facilities that are owned or operated by such colleges, universities and other educational/vocational institutions. These restrictions do not apply to off-campus housing occupied by a person who is not enrolled as an undergraduate student in such college, university or other educational/vocational institution.
+N.Y. [PUB. HEALTH] LAW § 1399-o(m) (2017).
+
+Smoking and the use of electronic cigarettes is prohibited within 100 feet of the entrances, exits or outdoor areas of any public or private elementary or secondary schools. This does not apply in or within the property boundaries of a residence, and the requirement to post non-smoking signs does not apply either.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-o (2017).</Citation>
+<Description>Smoking and the use of electronic cigarettes are prohibited in all facilities that provide child care services, child day care centers and group homes for children as defined. This does not apply to child care services provided in a private home when no children enrolled in such day care are present.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-o(2)(b) (2017).</Citation>
+<Description>Smoking and the use of electronic cigarettes is prohibited in general hospitals and residential health care facilities as defined as well as other health care facilities licensed by the state in which persons reside. This does not prohibit smoking and vaping by patients in separate enclosed rooms of residential health care facilities, adult care facilities established or certified under social services law, community mental health residences established under mental hygiene law, or facilities where day treatment programs are provided.
+N.Y. [PUB. HEALTH] LAW §§ 1399-n to 1399-x (2017).
+
+In addition to the above, smoking and use of electronic cigarettes is prohibited on the grounds of general hospitals and residential health care facilities as defined, within 15 feet of a building entrance or exit or the entrance to or exit from the grounds of any such hospital or facility. Smoking areas are allowed to be designated on the grounds of residential health care facilities as long as they are not within 30 feet of any building structure, including any overhang, canopy, awning, entrance, exit, window, intake or exhaust.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW §§ 1399-n to 1399-x (2017).</Citation>
+<Description>Smoking and the use of electronic cigarettes is prohibited in all indoor food service establishments. Smoking and the use of electronic cigarettes is permitted in outdoor areas of food service establishments with no roof or ceiling enclosure as long as the smoking area constitutes no more than 25 percent of the total outdoor seating area, is at least three feet away from the non-smoking outdoor area, and is clearly designated by written signage.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW §§ 1399-n to 1399-x (2017).</Citation>
+<Description>Smoking and the use of electronic cigarettes is prohibited in bars. A cigar bar that makes 10 percent of its gross income from the on-site sale of tobacco products and the rental of on-site humidors, not including vending machines sales are exempt. The cigar bar must also be registered with the appropriate enforcement officer, which will remain in effect for one year. The registration will only be renewable if in the preceding calendar year the cigar bar continued to make 10 percent of its gross income from the on-site sale of tobacco products and the rental of on-site humidors and has not expanded its size or changed its location from its size or location since December 31, 2002.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-o(4) (2017).</Citation>
+<Description>Economic Hardship Waiver from Smoking Restrictions: 
+The designated enforcement officer may grant a waiver from the above law prohibiting smoking in public places and workplaces, provided that prior to the granting of any such waiver the applicant for a waiver shall establish that compliance would cause undue financial hardship; or other factors exist which would render compliance unreasonable.  Every waiver granted shall be subject to such conditions or restrictions as may be necessary to minimize the adverse effects of the waiver upon persons subject to involuntary exposure to secondhand smoke and to ensure that the waiver is consistent with the general purpose of this article.
+N.Y. [PUB. HEALTH] LAW § 1399-u (2017).
+
+Smoking and Use of Electronic Cigarettes Prohibited in Outdoor Public Transit Areas:
+Smoking and the use of electronic cigarettes is prohibited in the ticketing, boarding or platform areas of railroad stations operated by the metropolitan transportation authority or its subsidiaries.
+N.Y. [PUB. HEALTH] LAW § 1399-o(2)(a) (2017).
+
+Smoking and Use of Electronic Cigarettes Prohibited at Playgrounds at Certain Times:
+Smoking is prohibited during the hours between sunrise and sunset, when one or more persons under the age of 12 are present at any playground.  &quot;Playground&quot; means an improved area designed, equipped, and set aside for play of six or more children, which is not intended for use as an athletic playing field or court, and shall include all areas of the playground as specified. 
+N.Y. [PUB. HEALTH] LAW § 1399-o-1 (2017).
+
+Smoking and Use of Electronic Cigarettes Prohibited Near After-School Programs:
+Smoking and the use of electronic cigarettes is prohibited within 100 feet of the entrances, exits or outdoor areas of any after-school program. This applies only on the days and during the hours in which the after-school program is operational and does not apply to smoking in a residence, or within the real property boundary lines of such residential real property.
+N.Y. [PUB. HEALTH] LAW § 1399-o(4) (2017).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW §§ 1399-n to 1399-x (2017).</Citation>
+<Description>Signs shall be prominently posted and maintained indicating where smoking and the use of electronic cigarettes are prohibited under this law. Failure to comply with any of the provisions of this article, including persons who smoke in areas where smoking is prohibited, is punishable by a civil penalty up to $1,000 if imposed by the state and up to $500 if imposed by a local enforcement officer. Several affirmative defenses against violation are available if specific conditions are met. Each county&apos;s board of health or a designated enforcement officer in counties with no local board of health shall enforce these provisions. If no such designation is made, the county will be deemed to have designated the state Department of Health and Mental Hygiene as its enforcement officer. In cities of over one million people the city&apos;s Board of Health shall enforce these provisions within the city.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [TAX] LAW § 471 (2010).</Citation>
+<Description>Tax rate per pack of 20: $4.35
+Date last changed:  July 1, 2010 -- from $2.75 to $4.35
+Year first enacted: 1939</Description>
+<NumericValue>4.35</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [TAX] LAW § 482 (2011).</Citation>
+<Description>Cigarette tax revenue is distributed in accordance with section 171-a of New York Tax law, except on and after July, 1, 2010, 76 percent is distributed to the tobacco control and insurance initiatives pool, which is spent in accordance with section 2807-v of New York Public Health law.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>1529089000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [TAX] LAW § 471-b (2010).</Citation>
+<Description>Little Cigars (weighing less than 4 lbs./thousand): 21.75 cents/cigar
+Snuff: $2.00/oz. and a proportionate rate on fractional parts of an ounce, provided that cans or packages of snuff with a net weight of less than one ounce shall be taxed at the equivalent rate of cans or packages weighing one ounce;
+All other tobacco products: 75% of the wholesale price</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>New York State Dept. of Health, Youth Tobacco Enforcement and Prevention Annual Application and Agreement (2010).</Citation>
+<Description>The commissioner of the state Department of Health shall develop, plan and implement a comprehensive program to reduce the prevalence of tobacco use, particularly among persons less than 18 years of age.  This program shall include, but not be limited to, support for enforcement of article thirteen-F of this chapter (youth access laws.)  An enforcement officer, as defined, may annually, on specific dates fixed by the commissioner, submit an application for such monies as are made available for such purpose.  Such application shall include, but not be limited to, plans regarding random spot checks, including the number and types of compliance checks that will be conducted, and other activities to determine compliance.
+N.Y. [PUB. HEALTH] LAW § 1399-hh (1997).
+
+A contract between the state Department of Health and municipalities specifies that local enforcement officers perform at least one compliance check annually for all places where tobacco products are sold in that municipality using youth ages 15 to 17.  Additional compliance checks are required when a place that sells tobacco products has past violations.  Enforcement officers also check for violations of other youth access laws pursuant to Article 13-F of the New York Public Health Law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [TAX] LAW § 1607-h (2000).</Citation>
+<Description>The sale of tobacco products, herbal cigarettes, shisha, liquid nicotine, electronic cigarettes or smoking paraphernalia as defined to minors by any person operating a place of business wherein any of these products are sold or offered for sale is prohibited.  Any person operating a place of business wherein tobacco products, herbal cigarettes, liquid nicotine, electronic cigarettes or shisha are sold or offered for sale may perform a transaction scan as a precondition for such purchases.  In any instance where the information deciphered by the transaction scan fails to match the information printed on the driver&apos;s license or non-driver identification card, or if the transaction scan indicates that the information is false or fraudulent, the attempted transaction shall be denied.  It shall be an affirmative defense to prosecution that a person had produced a driver&apos;s license or non-driver ID apparently issued by a governmental entity, successfully completed a transaction scan and that the tobacco product, herbal cigarette or liquid nicotine had been sold, delivered, or given to such person in reasonable reliance upon such identification and transaction scan.  In evaluating the applicability of such affirmative defense the commissioner shall take into consideration any written policy adopted and implemented by the seller.  Use of a transaction scan shall not excuse any person operating a place of business selling the above products from using reasonable diligence. 
+N.Y. [PUB. HEALTH] LAW § 1399-cc (2014).
+
+If an enforcement officer determines, after a hearing, that a violation of the above provision occurred, a civil penalty of $300, but not to exceed $1,000, shall be imposed for a first violation; and a minimum of $500, but not to exceed $1,500 for each subsequent violation.  The enforcement officer shall also assign two points to a retailer&apos;s record for violation if the individual committing the violation has not completed a state certified tobacco sales training program and one point if the individual has.  Points remain on the retailer&apos;s record for 36 months.  If the state Department of Health determines that a retailer has accumulated three points or more, the department shall direct the Commissioner of Taxation and Finance to suspend such dealer&apos;s registration for six months.  The three points serving as the basis for a suspension shall be erased upon the completion of the six month penalty.  If the enforcement officer determines the retailer has violated the above provisions four or more times in a three year period, they shall direct the Commissioner of Taxation and Finance to revoke the retailer&apos;s registration for one year.  If a retail dealer was selling tobacco products or herbal cigarettes while their registration was either suspended or permanently revoked, a civil penalty of $2,500 shall be imposed.   The Commissioner of Taxation and Finance shall also permanently revoke the dealer&apos;s registration and not permit the dealer to obtain a new registration in the case of selling with a suspended license.  A $50 surcharge shall also be imposed for each violation to be used for enforcement purposes. 
+N.Y. [PUB. HEALTH] LAW § 1399-ee (2001).
+
+In addition, the enforcement officer shall promptly notify the Director of the Division of the Lottery of any determination that a violation of the article regulating the sale of tobacco products/sales to minors has occurred. The lottery license shall be suspended for a period of six months upon notification to the division by the Commissioner of Health of a lottery sales agent&apos;s accumulating three points or more. A license shall be revoked for one year upon notification of a lottery sales agent&apos;s fourth violation within a three year period.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-cc(2) (2014).</Citation>
+<Description>Any person operating a business wherein tobacco products, liquid nicotine, herbal cigarettes, shisha or electronic cigarettes are sold or offered for sale shall post in a conspicuous place a sign upon which there shall be imprinted the following statement, &quot;SALE OF CIGARETTES, CIGARS, CHEWING TOBACCO, POWDERED TOBACCO, SHISHA, OR OTHER TOBACCO PRODUCTS, HERBAL CIGARETTES, LIQUID NICOTINE, ELECTRONIC CIGARETTES, ROLLING PAPERS OR SMOKING PARAPHERNALIA, TO PERSONS UNDER 18 YEARS OF AGE IS PROHIBITED BY LAW.&quot; Violation is subject to a civil penalty of $300, but not to exceed $1,000 for the first violation; and a minimum of $500, but not to exceed $1,500 for each subsequent violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-LL (2000).</Citation>
+<Description>No person shall knowingly sell or provide bidis to any other person.  &quot;Bidis&quot; means a  product containing tobacco that is wrapped in temburni leaf or tendra leaf or any other product offered to consumers as &quot;beedies&quot; or &quot;bidis.&quot;  Any person who violates the provisions of this subdivision shall be subject to a civil fine of not more than $500. This does not apply to a tobacco business.  This law further prohibits tobacco businesses from selling bidis to minors, and directs posting of a sign in a conspicuous place upon which there shall be imprinted the following statement, &quot;SALE OF BIDIS TO PERSONS UNDER 18 YEARS OF AGE IS PROHIBITED BY LAW.&quot; The sign is to be printed on a white card in red letters at least one half inch in height.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-cc(7) (2013).</Citation>
+<Description>No person operating a place of business wherein tobacco products, herbal cigarettes, liquid nicotine, electronic cigarettes or shisha are sold or offered for sale shall sell, permit to be sold, offer for sale or display for sale any of these products in any manner, unless such products are stored for sale behind a counter in an area accessible only to the personnel of such business, or in a locked container; however, such restriction shall not apply to tobacco businesses as defined and to places to which admission is restricted to persons 18 years of age or older. Violation is subject to a civil penalty of $300, but not to exceed $1,000 for the first violation; and a minimum of $500, but not to exceed $1,500 for each subsequent violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-ll (2013).</Citation>
+<Description>It is unlawful for any person to knowingly transport cigarettes to any person in this state, other than (a) a person licensed as a cigarette tax agent or wholesale dealer or registered retail dealer; (b) an export warehouse proprietor or an operator of a customs bonded warehouse; or (c) a person who is an officer, employee or agent of the United States government, this state or a department, agency, instrumentality or political subdivision of the United States or this state, and presents themselves as such, when such person is acting in accordance with their official duties. Any person who violates subdivisions 1 or 2 shall be guilty of a Class A misdemeanor and for a second or subsequent violation shall be guilty of a Class E felony. In addition to the criminal penalty, any person who violates subdivisions 1 to 3 shall be subject to a civil penalty not to exceed the greater of $5,000 for each violation or $100 for each pack of cigarettes shipped, caused to be shipped or transported in violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-aa (2005).</Citation>
+<Description>The sale of &quot;Gutka&quot; (a tobacco product containing lime paste, spices, areca, and tobacco) is prohibited except at a &quot;tobacco business.&quot;  It is unlawful to sell &quot;gutka&quot; at a tobacco business to a person less than 18 years of age.  Violation is a civil penalty of not more than $500.
+N.Y. [PUB. HEALTH] LAW § 1399-mm (2003).
+
+Nicotine water, bottled water that is laced with nicotine, was added to the definition of tobacco product thus prohibiting its sale to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are generally allowed; however, no local laws are allowed concerning the sampling of tobacco products, see below.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-bb (1992).</Citation>
+<Description>No person engaged in the business of selling or otherwise distributing tobacco products or herbal cigarettes for commercial purposes, or any agent or employee of such person, shall knowingly distribute without charge any tobacco products or herbal cigarettes to any individual; or distribute coupons which are redeemable for tobacco products or herbal cigarettes to any individual, provided that this shall not apply to: a) coupons contained in newspapers, magazines or other types of publications; b) coupons obtained through the purchase of tobacco products or herbal cigarettes or obtained at locations which sell tobacco products or herbal cigarettes provided that such distribution is confined to a designated area; or c) to coupons sent through the mail.  Sampling restrictions shall not apply at all to: 1) private social functions when seating arrangements are under the control of the sponsor of the function; 2) conventions and trade shows, provided that the distribution is confined to designated areas generally accessible only to persons over the age of 18; 3) events sponsored by tobacco or herbal cigarette manufacturers provided that the distribution is confined to designated areas generally accessible only to persons over the age of 18; 4) bars; 5) tobacco  businesses; and 6) factories, provided that  the distribution is confined to designated areas generally accessible only to persons over the age of 18.  No person shall distribute tobacco products or herbal cigarettes at trade shows, events sponsored by tobacco or herbal cigarette manufacturers or factories unless such person gives five days written notice to an enforcement officer.  Before distribution a photographic ID is required for any person who appears to be under the age of 25.  Violation is subject to a civil penalty of $300, but not to exceed $1,000 for the first violation; and a minimum of $500, but not to exceed $1,500 for each subsequent violation.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-gg (2004).</Citation>
+<Description>All cigarettes must be sold or offered for sale in the package or container provided by the manufacturer, which bears all health warnings required by applicable law.  No person shall sell or distribute any package or other container of cigarettes containing fewer than 20 cigarettes; any package of roll-your-own tobacco containing less than 0.6 of an ounce of tobacco; or any package or other container of cigarette wrapping papers, wrapping leaves or tubes containing fewer than 20 sheets, leaves, or tubes.  Violation is subject to a civil penalty of $300, but not to exceed $1,000 for the first violation; and a minimum of $500, but not to exceed $1,500 for each subsequent violation.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-bb (1992).</Citation>
+<Description>Stronger local laws/ordinances concerning the sampling of tobacco products are not allowed (see below), but stronger local laws/ordinances concerning minimum sales amounts of tobacco products are allowed.
+
+The provisions of sections 1399-bb of article 13-F of New York Public Health Law restricting sampling of tobacco products shall govern and take precedence over the provisions of any local law, ordinance, rule, regulation, resolution, charter or administrative code hereafter enacted by any political subdivision of the state.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-dd (2013).</Citation>
+<Description>Vending machines that sell tobacco products, herbal cigarettes or electronic cigarettes are restricted to locations such as bars or bar areas of food service establishments with valid, on-premises full liquor licenses; private clubs; tobacco businesses; and workplaces that have an insignificant portion of its regular workforce comprised of minors and only in such locations that are not accessible to the general public.  However, vending machines located in such places of employment must be in plain view and under the direct supervision and control of the person in charge of the location or their designated employee.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-ee (1992).</Citation>
+<Description>Violation is subject to a civil penalty of $300, but not to exceed $1,000 for the first violation; and a minimum of $500, but not to exceed $1,500 for each subsequent violation.  In addition, if it is determined that a vending machine operator has violated this article three times within a two year period, or four times cumulatively, the Commissioner of Taxation and Finance shall suspend the vendor&apos;s registration for one year.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law related to placement of and/or required sign posting on tobacco product vending machines; stronger local laws/ordinances are likely allowed.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [TAX] LAW § 480-a (2011).</Citation>
+<Description>Wholesale dealers are required to obtain a license from the Department of Taxation and Finance. The license must be displayed in the wholesaler&apos;s place of business. Licenses are valid indefinitely unless suspended or revoked.
+N.Y. [TAX] LAW § 480 (2000).
+
+Retail dealers are required to obtain and display a certificate of registration from the Department of Taxation and Finance. Retail dealers are defined as all other people dealing in cigarettes and tobacco products besides wholesalers. All vending machines must also be registered with the department and have a registration certificate affixed to it. Registrations for retail dealers and vending machines are valid for a calendar year unless suspended or revoked and must be renewed each year. Violation of any of these requirements by retail dealers is subject to a civil fine of $5,000 to $25,000 for the first violation and $10,000 to $35,000 for the second or subsequent violations within three years of the first violation. Violation by owners or operators of vending machines is subject to a civil fine of $750 to $2,000 for the first violation and $2,000 to $6,000 for the second or subsequent violations within three years of the first violation.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 2811, Part T, sect. 3-b, enacted 3/31/11 and effective retroactive to 9/1/09.</Citation>
+<Description>Wholesale license: $1,500;
+Retail Dealer Certificate of Registration: $300 annually;
+Vending Machine Certificate of Registration: $100 annually.
+N.Y. [TAX] LAW §§ 480 (2000) &amp; 480-a (2011).
+
+The Commissioner of Taxation and Finance shall refund an application fee paid with respect to the registration of a vending machine or a retail place of business in this state through which cigarettes or tobacco products were to be sold if for calendar years 2010 and 2011, the retail dealer or vending machine operator paid a fee in an amount greater than the fees shown above.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-ee (1992).</Citation>
+<Description>Retailers are subject to a suspension or revocation of their certificate of registration based on a point system for violation.  Retailers receive two points for violation if the individual seller has not completed a state certified tobacco sales training program and one point if the seller has.  Three points or more is subject to a six-month registration certificate suspension.  Four violations in a three year period is subject to a license revocation for one year.  A vending machine operator that violates the sales to minors&apos; law three times within a two year period, or four or more times cumulatively shall have the registration certificate for the vending machine(s) suspended for a year.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [LABOR] LAW § 201-d (1992).</Citation>
+<Description>It shall be unlawful for any employer or employment agency to refuse to hire, employ or license, or to discharge from employment or otherwise discriminate against an individual in compensation, promotion, or terms, conditions or privileges of employment because of an individual’s legal use of consumable products prior to the beginning or after the conclusion of the employee’s work hours and off of the employer’s premises and without use of the employer’s equipment or property.  This does not apply to activities that create a material conflict of interest related to the employer’s trade secrets, proprietary information or other proprietary or business interest; state employees when the activity could conflict with performance of their official duties under specified circumstances; and when the activity is in violation of a collective bargaining agreement.  This shall not prohibit an organization or employer from offering, imposing or having in effect a health, disability or life insurance policy that makes distinctions between employees for the type of coverage or the price of coverage based upon the employees&apos; recreational activities or use of consumable products, provided that differential premium rates charged employees reflect a differential cost to the employer and that employers provide employees with a statement delineating the differential rates used by the carriers providing insurance for the employer, and provided further that such distinctions in type or price of coverage shall not be utilized to expand, limit or curtail the rights or liabilities of any party with regard to a civil cause of action.  The attorney general may apply for an order enjoining or restraining the commission or continuance of the alleged unlawful acts.  The court may impose a civil penalty in the amount of $300 for the first violation and $500 for subsequent violations.  An aggrieved individual may commence an action for equitable relief and damages as well.</Description>
+<Year>1992</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The rights to virtually all of New York&apos;s Master Settlement Agreement payments have been sold as bonds to obtain a smaller lump sum payment up front.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>737700000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances concerning the distribution of tobacco product samples only are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for New York&apos;s tobacco control program comes from state general fund dollars.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 State Operations Budget (A.B. 3000) enacted and effective 4/20/17.</Citation>
+<Description>New York allocated $39,330,600 for tobacco prevention and cessation programs in FY2018 (April 1, 2017 to March 31, 2018). In FY2017, the same amount was appropriated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>39330600</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [EXEC.] LAW § 156-c (2000).</Citation>
+<Description>By rule of the Office of Fire Prevention and Control, after June 28, 2004, cigarettes sold in New York state are required to self-extinguish if left unattended to help prevent cigarette caused fires.  Cigarettes are required to be tested in accordance with the American Society of Testing and Materials standard E2187-02b &quot;Standard Test Method for Measuring the Ignition Strength of Cigarettes,&quot; subject to the modifications stated in Appendix A.  When tested no more than 25 percent of the cigarettes shall exhibit full length burns.  A certification is required from each manufacturer stating that each cigarette has been tested and has met the performance standard.
+NYCRR Title 19, Part 429 (2004).
+
+By 2002, the Office of Fire Prevention and Safety shall promulgate fire safety standards for cigarettes sold or offered for sale in this state. The standards shall insure that such cigarettes will stop burning within a time period specified by the standards if the cigarettes are not smoked during that period or will meet performance standards which limit the risk that such cigarettes will ignite upholstered furniture, mattresses or household furnishings. On or after the date such standards are promulgated by the Office of Fire Prevention and Control, it will be unlawful to sell in the state cigarettes that do not meet the required standards.</Description>
+<Year>2004</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.Y. [PUB. HEALTH] LAW § 1399-cc(3) (2014).</Citation>
+<Description>The sale of tobacco products, herbal cigarettes, liquid nicotine, electronic cigarettes or shisha other than by a vending machine, shall be made only to an individual who demonstrates, through a driver&apos;s license or other photographic identification issued by a government entity or educational institution indicating that the individual is at least 18 years of age. Such identification need not be required of any individual who reasonably appears to be at least 25 years of age, provided that such appearance shall not constitute a defense in any proceeding alleging  the sale of the above products to an individual less than 18 years of age.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>	Tobacco Control Program Funding: Allocated$39,330,600 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 State Operations Budget (A.B. 3000) enacted and effective 4/20/17.
+
+E-Cigarettes/Smokefree Air: Prohibits use of electronic cigarettes in almost all public places and workplaces where smoking is already prohibited. Exempts retail electronic cigarette stores where 25 percent or less of their sales come from items other than electronic cigarettes. 
+S.B. 2543 enacted 10/23/17 and effective 11/22/17.
+
+E-Cigarettes/Smokefree Air: Prohibits the use of electronic cigarettes on school grounds.
+S.B. 750 enacted and effective 7/25/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Note: New York has securitized virtually all of its Master Settlement Agreement payments, but we have been unable to locate any statute/law that spells out the details of this action.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $1,529,089,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New York</Name>
+<Abbrev>NY</Abbrev>
+<FipsCode>36</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $39,330,600
+
+FY2018 Federal Funding for State Tobacco Control Programs: $3,155,603*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $42,486,203
+
+Funding Level Recommended by CDC:                                        $203,000,000
+
+Percentage of CDC-Recommended Level:                                   20.9%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>33</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:13:04">
+<tblStatesALA>
+<ID>16</ID>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<LegislatureHyperlink>#http://www.legis.state.ia.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 (2008).</Citation>
+<Description>Smoking is prohibited in almost all public places and enclosed areas of places of employment, including restaurants and bars.  Smoking is also prohibited in the seating areas of outdoor sports arenas, stadiums, amphitheaters and other entertainment venues where members of the general public assemble to witness entertainment events; outdoor seating or serving areas of restaurants; public transit stations, platforms, and shelters under the authority of the state or its political subdivisions; and the grounds of any public buildings owned, leased, or operated by or under the control of the state government or its political subdivisions with a few exceptions.  The one major exemption is the gaming floors of casinos.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 (2008).</Citation>
+<Description>Exceptions to the law include: 1) private residences unless used as child care facility, child care home or health care provider location; 2) 25 percent of hotel/motel rooms subject to specified conditions; 3) retail tobacco stores as defined as long as smoke does not infiltrate into smokefree areas; 4) private and semiprivate rooms in long-term care facilities under certain conditions; 5) private clubs with no employees except when being used for a function to which the general public is invited, and as long as smoke does not infiltrate into smokefree areas, and the club is not set up to avoid compliance with the law; 6) outdoor areas of places of employment except where prohibited above; 7) limousines under private hire; 8) vehicles owned, leased, or provided by a private employer that are for the sole use of the driver and are not used by more than one person in the course of employment either as a driver or passenger; 9) privately owned vehicles not otherwise defined as a place of employment or public place; 10) cabs of motor trucks or truck tractors if no nonsmoking employees are present; 11) an enclosed area within a place of employment or public place that provides a smoking cessation program or a medical or scientific research or therapy program, if smoking is an integral part of the program; 12) farm tractors, farm trucks, and implements of husbandry when being used for their intended purposes; 13) gaming floors of casinos, not including bars or restaurants on the gaming floor; and 14) the Iowa veterans home.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger law/ordinances further restricting smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 (2008).</Citation>
+<Description>Smoking is prohibited in public places, which includes public buildings and vehicles owned, leased, or operated by or under the control of the state government or its political subdivisions and including the entirety of the private residence of any state employee any portion of which is open to the public.  Smoking is also prohibited on the grounds of any public buildings owned, leased, or operated by or under the control of the state government or its political subdivisions except: 1) the Iowa state fairgrounds, or fairgrounds as defined in section 174.1 of the Iowa Code, 2) institutions administered by the Department of Corrections, except that smoking on the grounds shall be limited to designated smoking areas and 3) facilities of the Iowa national guard as defined in section 29A.1 of the Iowa Code, except that smoking on the grounds shall be limited to designated smoking areas.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 (2008).</Citation>
+<Description>Smoking is prohibited in all enclosed areas within places of employment including but not limited to work areas, private offices, conference and meeting rooms, classrooms, auditoriums, employee lounges and cafeterias, hallways, medical facilities, restrooms, elevators, stairways and stairwells, and vehicles owned, leased, or provided by the employer.  Place of employment does not include a private residence, unless the private residence is used as a child care facility, a child care home, or as a health care provider location.  This also does not apply to vehicles owned, leased, or provided by a private employer that are for the sole use of the driver and are not used by more than one person in the course of employment either as a driver or passenger.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 (2008).</Citation>
+<Description>Smoking is prohibited in public places, which includes all public and private educational facilities.  Smoking is also prohibited on school grounds, including parking lots, athletic fields, playgrounds, tennis courts, and any other outdoor area under the control of a public or private educational facility, including inside any vehicle located on such school grounds.  These provisions apply to public and private colleges and universities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 &amp; 237A.3B (2008).</Citation>
+<Description>Smoking is prohibited in public places, which includes child care facilities and child care homes.  Private residences that serve as a child care facility or child care home are specifically included.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 (2008).</Citation>
+<Description>Smoking is prohibited in public places, including health care provider locations.  Health care provider location is defined as an office or institution providing care or treatment of disease, whether physical, mental, or emotional, or other medical, physiological, or psychological conditions, including but not limited to a hospital as defined; a long-term care facility; an adult day services program as defined; clinics, laboratories, and the locations of professionals regulated pursuant to Title IV, subtitle III, and includes all enclosed areas of the location including waiting rooms, hallways, other common areas, private rooms, semiprivate rooms, and wards within the location.  Smoking is allowed in private and semiprivate rooms in long-term care facilities, occupied by one or more individuals, all of whom are smokers and have requested in writing to be placed in a room where smoking is permitted as long as smoke does not infiltrate into smokefree areas.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 (2008).</Citation>
+<Description>Smoking is prohibited in public places, which includes restaurants. Restaurant means eating establishments, including private and public school cafeterias, which offer food to the public, guests, or employees, including the kitchen and catering facilities in which food is prepared on the premises for serving elsewhere, and including a bar area within a restaurant.  Smoking is also prohibited in the outdoor seating and service areas of restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 (2008).</Citation>
+<Description>Smoking is prohibited in public places, which includes bars.  &quot;Bar&quot; means an establishment where one may purchase alcoholic beverages for consumption on the premises and in which the serving of food is only incidental to the consumption of those beverages.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142D.1 to 142D.9 (2008).</Citation>
+<Description>The owner, operator, manager, or other person having custody or control of a public place, place of employment, area declared a nonsmoking place pursuant to section 142D.5, or outdoor area where smoking is prohibited shall clearly and conspicuously post in and at every entrance &quot;no smoking&quot; signs or the international &quot;no smoking&quot; symbol.  This requirement includes vehicles that are covered.  All ashtrays shall be removed as well.  This law shall be enforced by the Department of Public Health as specified.  An employee or private citizen may bring legal action to enforce this chapter.  Owners, operators, managers or other persons in charge that fail to comply shall pay a civil penalty of not more than $100 for the first violation, not more than $200 for a second violation with one year and not more than $500 for any subsequent violation in one year.  In addition, violation may result in suspension or revocation of applicable permits/licenses.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Tax rate per pack of 20: $1.36
+Date last changed: March 15, 2007 -- from 36 cents to $1.36
+Year first enacted: 1921
+IOWA CODE § 453A.6(1) (2007).</Description>
+<NumericValue>1.36</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 453A.35 (2013) &amp; 453A.35A (2007).</Citation>
+<Description>All revenue from the tax on cigarettes is directed to a Health Care Trust Fund created in the state treasury to be spent on health-related purposes, which can include tobacco prevention and control programs.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>198758000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 453A.35 (2013) &amp; 453A.35A (2007).</Citation>
+<Description>All revenue from the cigarette tax is credited to the Health Care Trust Fund created in the office of the state Treasurer.  Moneys in the fund shall be separate from the General Fund of the state and shall not be considered part of the General Fund of the state.  Moneys in the fund shall be used only for purposes related to health care, substance abuse treatment and prevention, and tobacco use prevention, cessation, and control.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Little Cigars: $1.36 per 20 cigars;
+Snuff: $1.19/oz. and a proportionate rate on fractional parts of an ounce;
+All other tobacco products: 50% of the wholesale sales price.
+IOWA CODE § 453A.43 (2007).</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 453A.35 (2013) &amp; 453A.35A (2007).</Citation>
+<Description>Revenue from taxes on tobacco products other than cigarettes is distributed to the Health Care Trust Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2015 Appropriations for Health and Human Services (H.F. 2463, sec. 3) enacted 5/30/14 and effective 7/1/14.</Citation>
+<Description>A person shall not be guilty of smoking, using, possessing, purchasing or attempting to purchase any cigarettes, tobacco, tobacco products, alternative nicotine products or vapor products if conduct that would otherwise constitute a violation is performed to assess compliance with such laws if: (1) The compliance effort is conducted by or under the supervision of law enforcement officers; (2) The compliance effort is conducted with the advance knowledge of law enforcement officers and reasonable measures are adopted by those conducting the effort to ensure that use of such products by individuals under 18 years of age does not result from participation in the compliance effort.
+IOWA CODE § 453A.2 (2014).
+
+For FY2015, the terms of the memorandum of understanding, entered into between the Division of Tobacco Use Prevention and Control of the Department of Public Health and the Alcoholic Beverages Division of the Department of Commerce, governing compliance checks conducted to ensure licensed retail tobacco outlet conformity with tobacco laws, regulations, and ordinances relating to persons under 18 years of age, shall continue to restrict the number of such checks to one check per retail outlet, and one additional check for any retail outlet found to be in violation during the first check.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 453A.2 (2014), 453A.22 (2011) &amp; 805.8C(3)(b) (2014).</Citation>
+<Description>A person shall not sell, give or otherwise supply cigarettes, tobacco, tobacco products, alternative nicotine products or vapor products as defined to any person less than 18 years of age. This also applies to sales of such products through a vending machine. For a person, other than a retailer, violation is a simple misdemeanor. For violations of youth access laws by an employee of a retailer, the scheduled fine is as follows: $100 for a first offense, $250 for a second offense and $500 for a third offense. If a retailer or employee of a retailer commits a violation, the Department of Revenue and Finance, a local authority, or the Alcoholic Beverages Division of the Department of Commerce shall also assess a civil penalty of $300 for a first violation. Failure to pay the fine shall result in automatic suspension of the permit for a period of 14 days. For a second violation within a period of two years, the retailer shall be assessed a $1,500 fine or the retailer&apos;s permit shall be suspended for a period of 30 days based on the retailer&apos;s preference. For a third violation within three years, the retailer shall be assessed a fine of $1,500 and have their permit suspended for 30 days. For a fourth violation within three years, the retailer will be assessed a fine of $1,500 and have their permit suspended for 60 days. For a fifth violation in four years, the retailer&apos;s permit shall be revoked. If an employee of a retailer commits a violation, the retailer shall not be charged with a violation if the employee took the state tobacco compliance employee training program or an in-house training program substantially similar to it. This defense may only be asserted once every four years for violations occurring at the same business location.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.4 (2014).</Citation>
+<Description>A person under age 18 shall not smoke, use, possess, purchase or attempt to purchase any cigarettes, tobacco, tobacco products, alternative nicotine products and vapor products as defined. This does not apply if a minor employee possesses the products as part of their employment responsibilities, and are employed by a person who holds a valid retail tobacco product permit. The penalty for a first offense is $50, for the second offense $100 and $250 for the third or subsequent offenses. In addition, a person who violates this section is subject to the following: For a first offense, performance of eight hours of community work requirements, unless waived by the court; for a second offense, performance of 12 hours of community work requirements; for a third or subsequent offense, performance of 16 hours of community work requirements. A person shall not be guilty of a violation if conduct that would otherwise constitute a violation is performed, under the supervision of law enforcement, to assess compliance with cigarette and tobacco products laws.  
+IOWA CODE §§ 453A.2 (2014), 453A.3 (2004), 453A.56 (1991) &amp; 805.8C (4) (2010). 
+
+A person who is under the age of 18, who alters or displays or has in the person&apos;s possession a fictitious or fraudulently altered driver&apos;s license or nonoperator&apos;s identification card and who uses the license or card to purchase or attempt to purchase tobacco products commits a simple misdemeanor punishable by a fine of $100.
+IOWA CODE §§ 321.216C (2010) &amp; 805.8A (4) (2010).
+
+If a retailer or employee of a retailer has reasonable belief that a driver’s license or other identification offered by a person seeking to buy cigarettes, tobacco, tobacco products, alternative nicotine products or vapor products as defined is altered or falsified, they may retain the license or identification. It must be forwarded within 24 hours to the appropriate law enforcement agency of the holder’s jurisdiction for further investigation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.36A (2014).</Citation>
+<Description>Except through vending machines as specified below, retailers are prohibited from selling cigarettes, tobacco, tobacco products, alternative nicotine products or vapor products through the use of a self-service display. Violation is grounds for revocation of the retailer’s permit.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.5 (2014).</Citation>
+<Description>The Alcoholic Beverages Division of the Iowa Department of Commerce shall develop a tobacco compliance employee training program not to exceed two hours in length for employees and prospective employees of tobacco retailers to inform the employees about state and federal laws and regulations regarding the sale of cigarettes, tobacco, tobacco products alternative nicotine products and vapor products as defined to persons less than 18 years of age.  The training program shall be free of cost.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.56 (1991).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are not allowed, see below.
+
+Enforcement of this chapter shall be implemented in an equitable manner throughout the state. For the purpose of equitable and uniform implementation, application, and enforcement of state and local laws and regulations, the provisions of this chapter shall supersede any local law or regulation which is inconsistent with or conflicts with the provisions of this chapter.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.39 (2014).</Citation>
+<Description>A person shall not give away any cigarettes, tobacco, tobacco products, alternative nicotine products or vapor products as defined to any person under 18 years of age or at all within 500 feet of any playground, school, high school, or other facility when such facility is being used primarily by persons under 18 for recreational, educational, or other purposes.  Proof of age shall be required if a reasonable person could conclude on the basis of outward appearance that a prospective recipient of a sample may be under 18 years of age.  Cigarette samples must have a cigarette tax stamp affixed to them as specified.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.6(7) (2012).</Citation>
+<Description>Cigarettes shall be sold or dispensed only in packages or quantities of only 20 or more cigarettes.  No penalty is specified for violation.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.56 (1991).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed, see below.
+
+Enforcement of this chapter shall be implemented in an equitable manner throughout the state. For the purpose of equitable and uniform implementation, application, and enforcement of state and local laws and regulations, the provisions of this chapter shall supersede any local law or regulation which is inconsistent with or conflicts with the provisions of this chapter.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.36 (2014).</Citation>
+<Description>Vending machines selling cigarettes, tobacco, tobacco products, alternative nicotine products or vapor products as defined are restricted to places where the retailer ensures that no person younger than 18 years of age is present or permitted to enter at any time.  Such products shall also not be sold from vending machines if they are placed together with any nontobacco product, other than matches.  Cigarettes sold in vending machines must also be properly stamped or metered.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.22 (2011).</Citation>
+<Description>Violation of the restrictions on the placement of tobacco product vending machines by a retailer is subject to the civil penalties listed under the &quot;Penalties for Sales to Minors&quot; section.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 453A.56 (1991).</Citation>
+<Description>Stronger local laws/ordinances further restricting theplacement of and/or required sign posting on tobacco product vending machines are not allowed, see below.
+
+Enforcement of this chapter shall be implemented in an equitable manner throughout the state. For the purpose of equitable and uniform implementation, application, and enforcement of state and local laws and regulations, the provisions of this chapter shall supersede any local law or regulation which is inconsistent with or conflicts with the provisions of this chapter.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 453A.44 (2011) &amp; 453A.47A (2014).</Citation>
+<Description>Wholesalers, distributors, and vendors of cigarettes, alternative nicotine products or vapor products as defined must obtain a state permit from the Department of Revenue. Cities shall issue retail permits to retailers within their respective limits. County boards of supervisors shall issue retail permits to retailers in their respective counties, outside of the corporate limits of cities. All permits expire on June 30 of each year. Selling or distributing cigarettes without a valid permit is subject to a civil penalty of $200 for a first violation, $500 for a second violation and $1,000 for a third and subsequent violations. The permit shall, at all times, be publicly displayed by the distributor, wholesaler, or retailer at the place of business so as to be easily seen by the public and the persons authorized to inspect the place of business.  
+IOWA CODE §§ 453A.13 (2014) &amp; 453A.31 (2008).
+
+Distributors of other tobacco products must obtain a state license from the Director of the Department of Revenue. Retailers of tobacco, tobacco products, alternative nicotine products or vapor products as defined must obtain a permit from the respective city or county where they are located, except a retailer who already has a retailer cigarette permit under Iowa Code section 453A.13 need not obtain a separate retailer permit under this section. A separate license is required for each place of business, and licenses expire on June 30th following the date of issue unless sooner revoked.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 453A.13 (2000) &amp; 453A.44 (1994).</Citation>
+<Description>Retailer cigarette permit: $50 to $100 annually, depending on local population size;
+Wholesaler, distributor, or cigarette vendor permit: $100 annually;
+Tobacco products distributor license: $100 annually unless the person already has a permit of any kind to deal in cigarettes.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 453A.2 (2014), 453A.22 (2011) &amp; 805.8C(3)(b) (2014).</Citation>
+<Description>If a retailer or employee of a retailer commits a violation of the sales to minors&apos; law, including vending machine violations, the Department of Revenue and Finance, a local authority, or the Department of Public Health shall assess a civil penalty for a first violation. Failure to pay the fine shall result in automatic suspension of the permit for a period of 14 days. For a second violation within a period of two years, the retailer shall be assessed a fine or have his permit suspended for a period of 30 days, whichever the retailer prefers. For a third violation within three years, the retailer shall have his permit suspended for 30 days. For a fourth violation within three years, the retailer shall have his permit suspended for 60 days. For a fifth violation in four years, the retailer shall have his permit revoked.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 625A.9 (2) (2004).</Citation>
+<Description>If a judgment or order appealed from is for money, the supersedeas bond required shall not exceed 110 percent of the amount of the money judgment except the court may set a higher bond amount based on specific findings.  However, in no case shall a bond exceed $100 million, regardless of the value of the money judgment. This limitation shall not apply in cases where the court finds that the defendant intentionally dissipated the defendant&apos;s assets outside the ordinary course of business for the purpose of evading payment of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 12E.12 (2008).</Citation>
+<Description>All of Iowa&apos;s annual Master Settlement Agreement payments go into a Tobacco Settlement Trust Fund maintained by the state-created Tobacco Settlement Authority.  Most of Iowa&apos;s annual payments have been securitized, and therefore most of the money is used to pay off bonds.  Dollars from any part of the annual settlement payment not sold to the Tobacco Settlement Authority are put in a specific account and then transferred to the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>65700000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE § 12E.12 (2008).</Citation>
+<Description>A Tobacco Settlement Trust Fund was established, separate and apart from all other public moneys of the state, under control of the Tobacco Settlement Authority.  The fund shall consist of Master Settlement Agreement moneys paid to the authority and not pledged to the payment of bonds or otherwise obligated.  The fund consists of three accounts: 1) the Tax-Exempt Bonds Proceeds Restricted Capital Funds Account where most of the net proceeds from tax exempt bonds issued due to the original securitization of MSA payments were deposited; 2) the FY 2009 Tax-Exempt Bond Proceeds Restricted Capital Funds Account where the net proceeds from tax-exempt bonds issued after July 1, 2008 as a result of the securitization of any remaining tobacco settlement payments were deposited; and 3) the Endowment for Iowa&apos;s Health Account where the net proceeds of any taxable or tax-exempt bonds issued to provide funds for the purposes specified in section 12E.3A Iowa Code, any portion of the state&apos;s MSA payments not sold to the Tobacco Settlement Authority and any additional money appropriated by the state were deposited.  For FY2010 and each fiscal year thereafter, the moneys deposited in the Endowment for Iowa&apos;s Health Account are transferred to the state general fund, and shall be used as specified in section 12E.3A Iowa Code, including for the tobacco use prevention and control initiative.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Any stronger local law or regulation which is inconsistent with or conflicts with most state laws restricting youth access to tobacco products is prohibited.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Iowa&apos;s tobacco prevention and control program comes from the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Appropriations for Health and Human Services (S.F. 653) enacted 5/12/17 and effective 7/1/17.</Citation>
+<Description>Iowa allocated $4,076,225 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, the $5,248,361 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>4076225</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 142A.1 to 142A.10 (2011).</Citation>
+<Description>Iowa established a comprehensive tobacco use prevention and control initiative that will specifically address reduction of tobacco use by youth and pregnant women and enhancement of the capacity of youth to make healthy choices. The initiative shall allow extensive involvement of youth in attaining these results. The initiative will be administered by a division of Tobacco Use Prevention and Control, which was required to be established in the Iowa Department of Public Health.  A Commission on Tobacco Use Prevention and Control was also created in the Department of Public Health consisting of 14 members, among others three appointed by the governor from tobacco-control related organizations, members of youth organizations and state legislators from the House of Representatives and Senate.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 101B.1 to 101B.10 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, beginning January 1, 2009, cigarettes shall not be sold or offered for sale to any person in Iowa unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 101B.4; 2) a written certification has been filed by the manufacturer with the department and in accordance with section 101B.5 Iowa Code; and 3) the cigarettes have been marked in accordance with section 101B.7 Iowa Code.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 101B.1 to 101B.10 (2009).</Citation>
+<Description>A manufacturer, wholesaler, agent, or other person who knowingly sells cigarettes at wholesale in violation of the above is subject to a civil penalty not to exceed $5,000 for a first offense and not to exceed $10,000 for subsequent offenses for each sale of cigarettes, provided that the total penalty assessed shall not exceed $50,000 in any 30-day period.  A retailer that knowingly sells or offers to sell cigarettes in violation of the above is subject to a civil penalty not to exceed $500 for a first offense and $2,000 for subsequent offenses for each sale or offer for sale of less than 1,000 cigarettes and a civil penalty not to exceed $1,000 for a first offense and $5,000 for subsequent offenses for each sale or offer for sale of more than 1,000 cigarettes.  The penalty against a retailer cannot exceed $25,000 in a 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $25,000 for a first offense and not to exceed $100,000 for a second or subsequent offense.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - issued by county or city.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - issued by county or city</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $4,076,225 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Appropriations for Health and Human Services (S.F. 653) enacted 5/12/17 and effective 7/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IOWA CODE §§ 12E.1 to 12E.18 (2008).</Citation>
+<Description>The Tobacco Settlement Authority was created as a public instrumentality and agency of the state to sell, pledge, or assign, as security or consideration, all or a portion of the state&apos;s share of the Master Settlement Agreement.  The authority shall issue tax-exempt bonds as necessary in amounts determined by the authority for deposit in the Tax-Exempt Bond Proceeds Restricted Capital Funds Account of the Tobacco Settlement Trust Fund, to be used for capital projects, certain debt service on outstanding obligations which funded capital projects, and attorney fees related to the Master Settlement Agreement.  The authority may also issue taxable bonds or tax-exempt bonds to provide additional funding for the Healthy Iowans Tobacco Trust.  In addition, the authority may issue tax-exempt bonds if the securitization of any remaining tobacco settlement payments will result in the deposit of not less than $183 million for tax-exempt bonds issued after July 1, 2008.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $198,758,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Iowa</Name>
+<Abbrev>IA</Abbrev>
+<FipsCode>19</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $4,076,225
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,573,819*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $5,650,044
+
+Funding Level Recommended by CDC:                                        $30,100,000
+
+Percentage of CDC-Recommended Level:                                   18.8%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>16</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

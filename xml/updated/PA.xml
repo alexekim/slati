@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:14:23">
+<tblStatesALA>
+<ID>39</ID>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<LegislatureHyperlink>#http://www.legis.state.pa.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>Smoking is prohibited in many public places, defined by the law as an enclosed area which serves as a workplace, commercial establishment or an area where the public is invited or permitted.  See the definition of &quot;public place&quot; in Title 35 Pennsylvania Statutes section 637.2 below for a more detailed list of specific types of places covered.  Smoking can still occur in parts of some restaurants, bars and casinos/gaming establishments among a number of other exemptions, see below.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>Exceptions to the law include: 1) a private home, private residence or private vehicle except when used for specified purposes, including child care services; 2) designated quarters within a lodging establishment accounting for no more than 25 percent of the total number of lodging units in a single place or within a full-service truck stop as defined; 3) a tobacco shop as defined, as long as the process for obtaining an exemption is followed; 4) a workplace of a manufacturer, importer or wholesaler of tobacco products, a manufacturer of tobacco-related products, including lighters, a tobacco leaf dealer or processor, or a tobacco storage facility; 5) residential long-term care facilities as specified; 6) a separate enclosed room or designated smoking room in a residential adult care facility, community mental health care facility, drug and alcohol facility or other residential health care facility; 7) a designated smoking room in a facility which provides day treatment programs; 8) a private club except when it is open to the public by general advertisement for a club-sponsored event or the club is leased or used for an event that is not club-sponsored, to qualify for this exemption a private club must take and record a vote of its officers under the bylaws to address smoking in the private club&apos;s facilities; 9) a place where a fundraiser is conducted by a nonprofit and charitable organization one time per year under certain conditions; 10) an exhibition hall, conference room, catering hall or similar facility used exclusively for an event to which the public is invited for the primary purpose of promoting or sampling tobacco products under certain conditions; 11) a cigar bar as defined, as long as the process for obtaining an exemption is followed; 12) a drinking establishment as defined, as long as the process for obtaining an exemption is followed; 13) 25 percent of the gaming floor at a licensed gambling facility, which can be increased to up to 50 percent of the gaming floor if certain conditions are met; and 14) a designated outdoor smoking area within the confines of a sports or recreational facility, theater or performance establishment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT § 637.11 (2008).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are not allowed, except for Philadelphia, which can keep its current stronger ordinance, but not strengthen it.  State law supersedes Philadelphia&apos;s law concerning casinos/gaming establishments as well.
+
+The law above shall supersede any ordinance, resolution or regulation adopted by a political subdivision concerning smoking in a public place.  No political subdivision shall have the authority to adopt or enforce any ordinance, regulation or resolution which is in conflict with the above law.  This shall not apply to a city of the first class; however, a city of the first class may not change or amend its ordinance to conflict with any provision of the law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>Smoking is prohibited in public places, which as defined in the law includes workplaces.  Workplace is defined as an indoor area serving as a place of employment, occupation, business, trade, craft, professional or volunteer activity.  Although not specifically mentioned in the law, this definition includes state and local government workplaces.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>Smoking is prohibited in public places, which as defined in the law includes workplaces.  Workplace is defined as an indoor area serving as a place of employment, occupation, business, trade, craft, professional or volunteer activity.   A workplace of a manufacturer, importer or wholesaler of tobacco products, a manufacturer of tobacco-related products, including lighters, a tobacco leaf dealer or processor, or a tobacco storage facility are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>Tobacco use or possession by pupils is prohibited in school buildings; and school buses or buses, vans or other vehicles owned by, leased by or under the control of a school district; and on school property owned by, leased by or under the control of a school district.  Tobacco use by any person other than a pupil is prohibited in school buildings; and on buses, vans or other vehicles owned by, leased by or under the control of a school district; and on property owned by, leased by or under the control of a school district. The board of school directors may designate certain areas on property owned by, leased by or under the control of the school district where tobacco use by persons other than pupils is permitted. Such areas shall be no less than 50 feet from school buildings, stadiums or bleachers.  The board of school directors may designate smoking areas for employees and shall establish policy to enforce the prohibition of tobacco use under this section and may further establish a policy relating to tobacco use at school-sponsored events which are held off school premises.  This section supersedes any municipal ordinance or school board regulation to the contrary.
+35 PA. STAT. § 1223.5 (2000).
+
+To the extent not covered by the above restrictions, smoking is prohibited in public places, which as defined in the law includes all facilities that provide education-related services.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>Smoking is prohibited in public places, which as defined in the law, includes child care facilities.  Private homes, private residences and private vehicles when used for the provision of child care services, adult day care services or services related to the care of children and youth in state or county custody are specifically covered.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>Smoking is prohibited in public places, which as defined in the law includes all facilities that provide healthcare-related services.  Exceptions include: 1) a long-term care facility regulated under federal law Title 42 Code of Federal Regulations 483.15; 2) a separate enclosed room or designated smoking room in a residential adult care facility, community mental health care facility, drug and alcohol facility or other residential health care facility that does not fall under the first exemption; and 3) a designated smoking room in a facility which provides day treatment programs.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>V</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Enclosed, separately ventilated areas required, or smoking is banned entirely.</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>Smoking is prohibited in public places, which as defined in the law includes facilities that provide food-related services (restaurants) as well as places where the public is invited or permitted.  This does not apply to an enclosed area within an establishment that: a) operates pursuant to an eating place license, restaurant license or retail dispenser license under the Liquor Code; b) is a physically connected or directly adjacent enclosed area which is separate from the eating area, has a separate air system and has a separate outside entrance; c) has total annual sales of food sold for on-premises consumption of less than or equal to 20 percent of the combined gross sales within the permitted smoking area of the establishment; and d) does not permit individuals under 18 years of age to enter.  To claim this exemption, an establishment must submit a letter, accompanied by verifiable supporting documentation, to the department claiming an exception.  Exception shall be based upon the establishment&apos;s books, accounts, revenues or receipts, including those reported to the Department of Revenue for sales tax purposes, from the previous year or stated projected annual revenues, which shall be verified within six months.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>Smoking is allowed in drinking establishments, which as defined in the law is an establishment, which: 1) operates pursuant to an eating place license, restaurant license or retail dispenser license under the Liquor Code; has total annual sales of food sold for on-premises consumption of less than or equal to 20 percent of the combined gross sales of the establishment; and does not permit individuals under 18 years of age to enter.  2) Or an enclosed area in an establishment that: a) operates pursuant to an eating place license, restaurant license or retail dispenser license under the Liquor Code; b) is a physically connected or directly adjacent enclosed area which is separate from the eating area, has a separate air system and has a separate outside entrance; c) has total annual sales of food sold for on-premises consumption of less than or equal to 20 percent of the combined gross sales within the permitted smoking area of the establishment; and d) does not permit individuals under 18 years of age to enter.  Smoking is also allowed in cigar bars, which as defined in the law are either: 1) an establishment which operates pursuant to an eating place retail dispenser&apos;s or restaurant liquor license under the Liquor Code, and is physically connected by a door, passageway or other opening and directly adjacent to a tobacco shop; or 2) an establishment which, at any time, operates pursuant to an eating place retail dispenser&apos;s license, malt or brewed beverage distributor&apos;s license or restaurant liquor license under the Liquor Code, and has total annual sales of tobacco products, including tobacco, accessories or cigar storage lockers or humidors of at least 15 percent of the combined gross sales of the establishment. To claim an exemption as a drinking establishment or cigar bar, an establishment must submit a letter, accompanied by verifiable supporting documentation, to the department claiming an exception.  Exception shall be based upon the establishment&apos;s books, accounts, revenues or receipts, including those reported to the Department of Revenue for sales tax purposes, from the previous year or stated projected annual revenues, which shall be verified within six months.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT §§ 637.1 to 637.11 (2008).</Citation>
+<Description>&quot;Smoking&quot; or &quot;No Smoking&quot; signs or the international &quot;No Smoking&quot; symbol shall be prominently posted and properly maintained where smoking is prohibited by the owner, operator, manager or other person having control of the area. A &quot;Smoking Permitted&quot; sign shall be prominently posted and maintained at every entrance to a public place where smoking is permitted.  The law can be enforced by the state Department of Health or state licensing agency, county board of health or law enforcement agency as specified.  Violation is subject to a fine or penalty of not to exceed $250 for a first violation, not to exceed $500 for a second violation within one year of receiving a first violation and not to exceed $1,000 for a third violation within one year of a second violation.  An affirmative defense is available if when the violation occurred, the actual control of the public place was not exercised by the owner, operator or manager but by a lessee or the owner, operator or manager made a good faith effort to prohibit smoking.  Complaints can be made to the Department of Health or local law enforcement agency as specified.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>53 PA. CONS. STAT. § 8722 (2014).</Citation>
+<Description>Tax rate per pack of 20: $2.60 
+Date last changed:  August 1, 2016 -- from $1.60 to $2.60  
+Year first enacted: 1935
+2016 Act 84, sect. 17 (2016).
+
+A school district may, if authorized by ordinance of the governing body of a city of the first class (Philadelphia) adopted prior to or after the effective date of this section, impose and assess an excise tax upon the sale or possession of cigarettes within the school district at a rate of 10 cents per cigarette. The authorization expires on June 30, 2019.</Description>
+<NumericValue>2.6</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Receipts from the tax on cigarettes shall be deposited into the General Fund and used as follows: (1) $25,485,000 shall be transferred annually to the Agricultural Conservation Easement Purchase Fund; (2) $30,730,000 shall be transferred annually to the Children&apos;s Health Fund for health care for uninsured children; and (3) transfers to the Local Cigarette Tax Fund as specified.
+H.B. 1198, sect. 17.1, enacted and effective 7/13/16 (2016).</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>1116658000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>2016 Act 84, sect. 17 &amp; 18 (2016).</Citation>
+<Description>Little cigars (weighing under 4 lbs/thousand): 13 cents per cigar;
+Electronic cigarettes: 40% of the purchase price charged to the retailer;
+Roll-your-Own and Smokeless Tobacco: 55 cents/oz. on all fractional parts of an ounce; the tax imposed on 
+these products that weigh less than 1.2 ounces per container is equal to the amount of the tax imposed on 
+these products that weigh 1.2 ounces;
+Cigars (weighing over 4 lbs./thousand): No tax levied.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>18 PA. CONS. STAT. § 6305 (2002).</Citation>
+<Description>Compliance checks conducted by the state Department of Health, a single county authority created pursuant to the Pennsylvania Drug and Alcohol Abuse Control Act, a county or municipal health department or a primary contractor pursuant to Chapter seven of the Tobacco Settlement Act to assess compliance with federal and state law shall be conducted only in consultation with the Department of Health and local law enforcement agency for the municipality where the compliance check is being conducted and shall only be conducted once every 30 days.   A minor participating in a compliance check must be at least 14 years of age, complete a course of training approved by the Department of Health and furnish the Department of Health with a signed, written parental consent agreement allowing the minor to participate in the compliance check.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>18 PA. CONS. STAT. § 6305 (2002).</Citation>
+<Description>A person is guilty of a summary offense if they sell or furnish tobacco products to a minor.  Violators will be fined between $100 and $250 for a first offense, $250 to $500 for a second offense, and $500 to $1,000 for subsequent offenses.  Retailers will be fined between $100 and $500 for a first offense, $500 to $1,000 for a second offense, $1,000 to $3,000 for a third offense, and $3,000 to $5,000 for subsequent offenses.  In addition, upon the third conviction of a retailer in a 24-month period, the Department of Health may, after the opportunity for a hearing, suspend the retailer&apos;s cigarette license for up to 30 days.  Upon a fourth conviction in any 24 month period, the department may, after the opportunity for a hearing, suspend the license for up to 60 days.  An affirmative defense is available for retailers if prior to the date of the alleged violation the retailer has adopted and implemented a written policy, which includes specific requirements relating to the sale of tobacco products by employees, see statute cited for more detailed information. This affirmative defense may be used by a retailer no more than three times at each retail location in a 24-month period.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>18 PA. CONS. STAT. § 6305 (2002).</Citation>
+<Description>A minor is guilty of a summary offense if the minor purchases or attempts to purchase a tobacco product; or knowingly falsely represents himself to be at least 18 years of age to a person for the purpose of purchasing or receiving a tobacco product. A minor who violates this section shall be sentenced to any or all of the following: to not more than 75 hours of community service; to complete a tobacco use prevention and cessation program approved by the Department of Health; a fine not to exceed $200; or a 30-day suspension of motor vehicle operating privileges. This does not apply to minors used to test compliance as long as they don&apos;t use or consume the tobacco product.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>18 PA. CONS. STAT. § 6305 (2002).</Citation>
+<Description>A person may not display or offer for sale tobacco products in any manner which enables an individual other than the retailer or an employee of the retailer to physically handle tobacco products prior to purchase unless the tobacco products are located within the line of sight, or under the control, of a cashier or other employee during business hours, except that this paragraph shall not apply to retail stores which derive 75 percent or more of sales revenues from tobacco products. Violation is subject to the same penalties as for selling or furnishing tobacco products to a minor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>It shall be unlawful for any person in the business of selling cigarettes to take an order for cigarettes through the mail or through any telecommunications means, including by telephone, facsimile or the Internet, if in providing for the sale or delivery of the cigarettes pursuant to the order the person mails the cigarettes, or ships the cigarettes sold by him to the purchaser by carrier in or affecting interstate commerce, and the person fails to comply with each of the following procedures. Before mailing or shipping the cigarettes, the person receives from the purchaser a copy of a valid government-issued document that provides the name, address and date of birth of the purchaser; and a signed statement from the purchaser stating that they are of legal minimum age.  The person shall also verify the age of the purchaser against a commercially available database, or obtain a photocopy of their government-issued identification. In the case of an order for cigarettes that occurs pursuant to an advertisement on the Internet or in any newspaper or print or other media, the person receives payment by credit card or check for the order before mailing or shipping the cigarettes. Payment must be made by credit card issued to, or check issued by, the person purchasing the cigarettes. The person employs a method of mailing or shipping the cigarettes requiring that the purchaser be the addressee and be the person who signs for the delivery of the cigarettes. A first violation is subject to a fine of not more than $1,000. The second or subsequent violations are subject to a fine of $1,000 to $5,000. Any person who knowingly violates this section or submits a certification in another person&apos;s name shall be fined $10,000 and/or imprisoned for not more than five years. Failure to pay the required tax is 50 percent of the tax due but unpaid, in addition to any other penalty.
+72 PA. STAT. § 231-A (2005).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>53 PA. CONS. STAT. § 301 (2002).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are not allowed, see below.
+
+The provisions of 18 Pennsylvania Consolidated Statute section 6305 (relating to sale of tobacco) shall preempt and supersede any local ordinance or rule concerning the subject matter of that statute.  This does not prohibit local regulation enacted prior to January 1, 2002.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>18 PA. CONS. STAT. § 6305 (2002).</Citation>
+<Description>A person is guilty of a summary offense if they furnish tobacco products to a minor.  Violation is subject to the same penalties as for selling or furnishing tobacco products to a minor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>18 PA. CONS. STAT. § 6305 (2002).</Citation>
+<Description>A person may not display or offer for sale a cigarette out of a pack of cigarettes.  Violation is subject to the same penalties as for selling or furnishing tobacco products to a minor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>53 PA. CONS. STAT. § 301 (2002).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed, see below.
+
+The provisions of 18 Pennsylvania Consolidated Statute section 6305 (relating to sale of tobacco) shall preempt and supersede any local ordinance or rule concerning the subject matter of that statute.  This does not prohibit local regulation enacted prior to January 1, 2002.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>18 PA. CONS. STAT. § 6305 (2002).</Citation>
+<Description>A vending machine containing a tobacco product may not be located or placed in a location accessible to minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>18 PA. CONS. STAT. § 6305 (2002).</Citation>
+<Description>Violation is a summary offense and is subject to the same penalties as for selling or furnishing tobacco products to a minor.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>53 PA. CONS. STAT. § 301 (2002).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are not allowed, see below.
+
+The provisions of 18 Pennsylvania Consolidated Statute section 6305 (relating to sale of tobacco) shall preempt and supersede any local ordinance or rule concerning the subject matter of that statute.  This does not prohibit local regulation enacted prior to January 1, 2002.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>2016 Act 84, section 18 (2016).</Citation>
+<Description>Retailers and wholesalers must obtain and must conspicuously display at their place of business a license from the Department of Revenue to sell cigarettes.A license is also required for each vending machine. Licenses are valid for one year and must be renewed annually.Any person selling or distributing cigarettes without a license is subject to a fine of $250 to $1,000, costs of prosecution and/or imprisonment for not more than 30 days.
+18 PA. CONS. STAT. § 6305 (2002).
+
+No person, unless all sales of tobacco products are exempt from Pennsylvania tobacco products tax, shall sell, transfer or deliver any tobacco products in this Commonwealth without first obtaining the proper license provided for in this article. This includes wholesalers, retailers and manufacturers of tobacco products. Each tobacco products vending machine shall also have a current retail license which shall be conspicuously and visibly placed on the machine. A license shall expire on the last day of February next succeeding the date upon which it was issued unless suspended, surrendered or revoked. Any person who shall engage in purchasing, selling, distributing tobacco products without a license commits a summary offense and is subject to paying costs of prosecution and a fine of not less than $250 nor more than $1,000, or to imprisonment for not more than 30 days, or both, at the discretion of the court hearing the case.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Retail cigarette or tobacco product license: $25 annually; 
+Wholesale cigarette license: $500 annually;
+Manufacturer or wholesale tobacco product license: $1,500 annually
+Cigarette or tobacco product vending machine license: $25 annually.
+72 PA. CONS. STAT. § 208-A (1993) and Act 84, section 18 (2016).</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Upon the third conviction of a retailer for violating the law prohibiting the sale or distribution of tobacco products to minors in a 24 month period, the Department of Health may, after the opportunity for a hearing, suspend the retailer&apos;s cigarette license for up to 30 days.  Upon a fourth conviction in any 24 month period, the department may, after the opportunity for a hearing, suspend the license for up to 60 days.  
+18 PA. CONS. STAT. § 6305 (2002).</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>PA STAT. § 5701.309 (2003).</Citation>
+<Description>The appeal bond required to appeal a lawsuit judgment for a signatory, a successor of a signatory or an affiliate of a signatory to the Master Settlement Agreement (MSA) is limited to $100 million, regardless of the value of the judgment.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating assets outside the ordinary course of business to avoid payment of a judgment, the court may enter an order that is necessary to protect the appellee and that requires the appellant to post an appeals bond in an amount up to the total amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Public Law 755, Number 77 (Tobacco Settlement Act) §§ 301, 302 &amp; 308 (2014) &amp; 2017 Act 43, sect. 45.1 (2017).</Citation>
+<Description>The portion of payments received from the Master Settlement Agreement (MSA) that have been sold to investors for a lump sum payment up front are set aside in a special account in the general fund or otherwise set aside to fulfill obligations. Any remaining amounts from the annual MSA payment are deposited in the Tobacco Settlement Fund. Money is then transferred to other programs and purposes based on allocations made in an annual bill making changes to the fiscal code.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>337400000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A special fund known as the Tobacco Settlement Fund was established to receive annual payments received from the Master Settlement Agreement (MSA) not otherwise obligated. In general, MSA revenues are divided among specific programs/purposes set out in the Tobacco Settlement Act of 2001 based on percentages of actual money received from the MSA annual payment each year. For FY2018, those percentages were 4.5 percent goes to the Department of Health for tobacco use prevention and cessation programs, 13 percent to the Department of Public Welfare for home and community-based care services, 13.6 percent total for health and related research efforts under sections 906 and 909 of the Tobacco Settlement Act, 8.18 percent to the uncompensated care payment program, 30 percent for the purchase of Medicaid benefits for workers with disabilities and 30.72 percent shall remain in the fund to be separately appropriated for health-related purposes. All other payments and revenue received in the fund other than from the annual MSA payment shall remain in the fund. 
+Public Law 755, Act 77 (Tobacco Settlement Act) (2001), Public Law 574, Act 71 (2013) &amp; H.B. 574, sect. 8, enacted and effective 10/30/17.
+
+Note: The portion of annual MSA payments pledged against bonds or sold under sales agreements under the 2017 law authorizing the securitization of MSA payments are either deposited in the Tobacco Revenue Bond Debt Service Account or otherwise diverted and sent to the appropriate parties as authorized.
+Public Law 672, Act 43, sect. 45.1 (2017).</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Preempts all stronger local laws/ordinances further restricting smoking except Philadelphia&apos;s existing ordinance; also preempts all local laws/ordinances further restricting youth access to tobacco products enacted after January 1, 2002.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Pennsylvania&apos;s tobacco control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<Citation>FY2018 Allocation based on H.B. 574, sect. 8, enacted and effective 10/30/17.</Citation>
+<Description>Pennsylvania allocated $15,822,000 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018) from a portion of the state&apos;s annual MSA payment. In FY2017, $13,914,000 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>15822000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>PA STAT. §§ 5701.701 to 5701.710 (2001).</Citation>
+<Description>A comprehensive Tobacco Use Prevention and Cessation Program was created within the Department of Health.  Components of the program include: statewide, community, and school programs to reduce tobacco use, chronic disease programs to reduce the burden of tobacco-related diseases, enforcement of youth access laws, efforts designed to counter tobacco influences and increase health-related messages, tobacco cessation programs with a priority for serving the uninsured and low income population, program evaluation, and effective administration to coordinate state and local programs.  The Tobacco Use Prevention and Cessation Advisory Committee was also established within the Department of Health, whose powers and duties are to collect and review information relating to tobacco use prevention and cessation, and make annual recommendations to the Department regarding program priorities.  Consideration shall be given to: prevention and cessation programs operating in minority communities and those demographic groups which suffer from disproportionately high rates of lung cancer or other tobacco-related diseases; efforts which would lower tobacco use among school-age children; and the delivery of cessation services by approved health care practitioners.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT. §§ 1254.1 to 1254.11 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided under subsection (g) of section 1254.4 Pennsylvania Statutes, no cigarettes may be sold or offered for sale in Pennsylvania or offered for sale or sold to persons located in Pennsylvania unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 1254.4 Pennsylvania Statutes; 2) a written certification has been filed by the manufacturer with the Department of Revenue in accordance with section 1254.5 Pennsylvania Statutes; and 3) the cigarettes have been marked in accordance with section 1254.6 Pennsylvania Statutes.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>35 PA. STAT. §§ 1254.1 to 1254.11 (2009).</Citation>
+<Description>Any manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above shall be subject to a civil penalty not to exceed $10,000 for a first offense and not to exceed $25,000 for a subsequent offense for each sale of cigarettes.  A penalty against any such person or entity may not exceed $100,000 during any 30-day period.  Any retail dealer who knowingly sells cigarettes in violation is subject to a civil penalty not to exceed $500 for a first offense and not to exceed $5,000 for a subsequent offense for each sale of cigarettes.  A penalty against a retail dealer shall not exceed $25,000 in any 30-day period.  In addition, an entity engaged in the manufacture of cigarettes that knowingly makes a false certification shall be subject to a civil penalty of not less than $75,000 and not more than $250,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $13,722,000 in state funding for tobacco prevention and cessation programs in FY2016.
+FY2018 Allocation based on H.B. 574, sect. 8, enacted and effective 10/30/17.
+
+Use of Tobacco Settlement Dollars/Securitization: Securitizes a portion of the annual tobacco Master Settlement Agreement (MSA) payments to obtain a lump sum payment to offset state general fund deficits.
+H.B. 542 enacted and effective 10/30/17.
+
+Use of Tobacco Settlement Dollars: Specifies how MSA dollars in the Tobacco Settlement Fund will be disbursed in FY2018.
+H.B. 574, sect. 8, enacted and effective 10/30/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>2017 Act 43, sect. 45.1 (2017).</Citation>
+<Description>The Commonwealth Financing Authority is authorized to enter into a sales agreement on behalf of the Commonwealth or to issue bonds backed by a portion of annual payments from the tobacco Master Settlement Agreement (MSA), the proceeds of either of which shall be deposited in the General Fund to provide General Fund budgetary relief. Bonds issued or a sales agreement entered into shall not be a debt or liability of the Commonwealth and shall be payable solely from revenues or funds pledged or available for repayment or payment as authorized under this law. If the Commonwealth Financing Authority issues bonds or enters into a sales agreement , they may do so in a maximum aggregate principal amount sufficient to raise net proceeds of $1.5 billion in 2017-2018 fiscal year. The terms of bonds issued may not exceed 30 years and a sales agreement may not commit in excess of 10 years worth of MSA payments. The Commonwealth Financing Authority shall not issue any bonds under this article, except refunding bonds, or enter into sales agreements after June 30, 2018.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $1,116,658,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Pennsylvania</Name>
+<Abbrev>PA</Abbrev>
+<FipsCode>42</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $15,822,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $3,017,955*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $18,839,955
+
+Funding Level Recommended by CDC:                                        $140,000,000
+
+Percentage of CDC-Recommended Level:                                   13.5%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>39</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:12:52">
+<tblStatesALA>
+<ID>12</ID>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<LegislatureHyperlink>#http://www.capitol.hawaii.gov/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2016).</Citation>
+<Description>Smoking, the definition of which includes the use of an electronic smoking device as also defined, is prohibited in all enclosed and partially enclosed places open to the public, including all restaurants and bars, see section 328J-3 Hawaii Revised Statutes for a detailed list. Smoking is also prohibited in all enclosed or partially enclosed areas of places of employment, and enclosed or partially enclosed areas and in seating areas of sports arenas, outdoor arenas, stadiums, and amphitheaters. Smoking is also prohibited within a presumptively reasonable minimum distance of 20 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed or partially enclosed area where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2016).</Citation>
+<Description>Exceptions to the law include: 1) private residences, except when used as a licensed child care, adult day care, or health care facility; 2) 20 percent of hotel/motel rooms rented to guests as specified; 3) retail tobacco stores as defined, provided that smoke from these places shall not infiltrate into areas where smoking is prohibited; 4) private and semiprivate rooms in nursing homes and long-term care facilities as specified; 5) outdoor areas of places of employment; 6) all areas covered by this chapter when smoking is part of a production being filmed; and 7) state correctional facilities, provided that smoking is only allowed by employees and volunteers of a correctional facility in an area outside the secure confines of the facility restricted from access by inmates or detainees.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 328J-15 (2006).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Nothing in this chapter shall be construed to supersede or in any manner affect a county smoking ordinance; provided that the ordinance is at least as protective of the rights of nonsmokers as this chapter, and nothing in this chapter shall prohibit a county from enacting ordinances more stringent than this chapter.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2016).</Citation>
+<Description>Smoking shall be prohibited in all enclosed or partially enclosed areas, including buildings and vehicles owned, leased, or operated by the state or any county.  Smoking is also prohibited within a presumptively reasonable minimum distance of 20 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed or partially enclosed area where smoking is prohibited.  Smoking areas for employees and volunteers are allowed outside the secure confines of state correctional facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2016).</Citation>
+<Description>Smoking shall be prohibited in all enclosed or partially enclosed areas of places of employment. &quot;Place of employment&quot; is defined as an area under the control of a public or private employer that employees normally frequent during the course of employment, including but not limited to auditoriums, cafeterias, classrooms, clubs, common work areas, conference rooms, elevators, employee lounges, hallways, medical facilities, meeting rooms, private offices, restrooms, and stairs. A private residence is not a &quot;place of employment&quot; unless it is used as a child care, adult day care, or health care facility. Smoking is also prohibited within a presumptively reasonable minimum distance of 20 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed or partially enclosed area where smoking is prohibited. Outdoor areas of places of employment are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2016).</Citation>
+<Description>Use of tobacco is prohibited in all public schools and at all public school functions, grades kindergarten through 12th grade.  The Department of Education shall provide affected public employees with breaks throughout the work day during which they may smoke at locations off-campus.  The Department of Education shall also provide a smoking cessation program for public employees who are interested in participating.
+HAW. REV. STAT. § 302A-102 (2004).
+
+To the extent not covered above, smoking shall be prohibited in all enclosed or partially enclosed areas open to the public, including both public and private educational facilities.  Smoking is also prohibited within a presumptively reasonable minimum distance of 20 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed or partially enclosed area where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2009).</Citation>
+<Description>Smoking shall be prohibited in all enclosed or partially enclosed areas open to the public, including licensed child care and adult day care facilities.  Home-based child care facilities are included.  Smoking is also prohibited within a presumptively reasonable minimum distance of 20 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed or partially enclosed area where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2016).</Citation>
+<Description>Smoking shall be prohibited in all enclosed or partially enclosed areas open to the public, including health care facilities.  &quot;Health care facility&quot; is defined as an office or institution, including all waiting rooms, hallways, private rooms, semiprivate rooms, and wards, which provides care or treatment of diseases, whether physical, mental, or emotional, or other medical, physiological, or psychological conditions, including but not limited to hospitals, rehabilitation hospitals or other clinics, including weight control clinics, nursing homes, homes for the aging or chronically ill, laboratories, and offices of surgeons, chiropractors, physical therapists, physicians, dentists, and all specialists within these professions.  Health care facilities in private residences are specifically included.  Smoking is also prohibited within a presumptively reasonable minimum distance of 20 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed or partially enclosed area where smoking is prohibited.  Private and semiprivate rooms in nursing homes and long-term care facilities that are occupied by one or more persons, all of whom are smokers and have requested in writing to be placed in a room where smoking is permitted, are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2016).</Citation>
+<Description>Smoking shall be prohibited in all enclosed or partially enclosed areas open to the public, including restaurants.  &quot;Restaurant&quot; is defined as an eating establishment, including but not limited to coffee shops, cafeterias, sandwich stands, and private and public school cafeterias, which gives or offers for sale food to the public, guests, or employees, as well as kitchens and catering facilities in which food is prepared on the premises for serving elsewhere. The term &quot;restaurant&quot; includes a bar area within the restaurant and outdoor areas of restaurants.  Smoking is also prohibited within a presumptively reasonable minimum distance of 20 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed or partially enclosed area where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2016).</Citation>
+<Description>Smoking shall be prohibited in all enclosed or partially enclosed areas open to the public, including bars and nightclubs.  &quot;Bar&quot; is defined as an establishment that is devoted to the serving of alcoholic beverages for consumption by guests on the premises regardless of whether food is served, including but not limited to taverns, cocktail lounges, and cabarets, including outdoor areas of bars.  &quot;Nightclub&quot; is defined as an establishment in which live entertainment is provided or facilities for dancing by patrons either by live entertainment or recorded music may be provided, regardless of whether alcoholic beverages are served.  Smoking is also prohibited within a presumptively reasonable minimum distance of 20 feet from entrances, exits, windows that open, and ventilation intakes that serve an enclosed or partially enclosed area where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Smoking in Low Income Housing: Smoking shall be prohibited in any public housing project, elder or elderly household as defined, or state low-income housing project as defined in section 356D-51 in: 1) each individual living unit, 2) all common areas, 3) community facilities and 4) within 20 feet of each individual building and from any entrance, exit, window and ventilation intake serving enclosed or partially enclosed areas.  The Hawaii Public Housing Authority may designate one or more permissible smoking areas at least 20 feet away from any residential or other building, or any greater distance away as may ensure that secondhand smoke does not infiltrate any dwelling unit.  The authority shall place and maintain &quot;No smoking&quot; signage at all entrances and exits of the property, and may display additional signage.  A third violation can result in eviction, violations by visitors count as violations towards the resident.
+HAW. REV. STAT. § 356D-6.5 (2014).
+
+Smoking/Use of Medical Marijuana in Rental Housing: Voids provisions in rental agreements allowing for eviction of a tenant who has a valid certificate for the medical use of marijuana as specified, unless the rental agreement also allows for eviction for smoking tobacco and the medical marijuana is used by means of smoking.  This shall not apply where the articles of incorporation, declaration, bylaws, administrative rules, house rules, association documents, or a similar document of a condominium property regime or planned community association prohibits the medical use of marijuana.
+HAW. REV. STAT. § 521-39 (2014).
+
+Smoking/Use of Tobacco Products in State Parks:
+Within the Hawaii state park system, it shall be unlawful for any person to engage in smoking, including the use of electronic smoking devices or the use of tobacco products as defined provided that the Department of Land and Natural Resources may designate exclusive use areas that shall not be subject to these restrictions. Clearly legible signs shall be conspicuously posted at each state park. No penalty is specified for violation.
+HAW. REV. STAT. § 184-4.5 (2015).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 328J-1 to 328J-15 (2016).</Citation>
+<Description>Clearly legible signs that include the words &quot;Smoking Prohibited by Law&quot; or the international &quot;No Smoking&quot; symbol shall be clearly and conspicuously posted in and at the entrance to every place open to the public and place of employment where smoking is prohibited by the owner, operator, manager, or other person in control of that place.  A person who smokes in an area where smoking is prohibited shall be guilty of a violation and fined not more than $50.  Police officers are empowered to issue citations.  A person who owns, manages, operates, or otherwise controls any place or facility designated by this chapter and fails to comply with this chapter shall be guilty of a violation and fined not more than $100 for a first violation, not more than $200 for a second violation within one year of the first violation and $500 for each additional violation within one year of the first violation.  Violation may also result in the suspension or revocation of any permit or license issued to the person or the place for the premises on which the violation occurred.  Each day on which a violation occurs will be considered a separate offense.  Enforcement of this law will be under the jurisdiction of the Department of Health.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 1193 enacted and effective 6/21/13.</Citation>
+<Description>Tax rate per pack of 20: $3.20 
+Date last changed: July 1, 2010 - from $3.00 to $3.20 
+Year first enacted: 1939
+HAW. REV. STAT. § 245-3 (2010).
+
+Note: The exemption from the general sales tax for amounts received from the sale of cigarettes was repealed effective starting with tax year 2014.</Description>
+<NumericValue>3.2</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 245-15 (2010).</Citation>
+<Description>All cigarette tax revenue is directed to the state general fund except revenue from 80 cents of the cigarette tax is deposited in several funds related to cancer research, the state trauma system, community health centers and emergency medical services.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>130995000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 245-15 (2015).</Citation>
+<Description>All moneys collected shall be paid into the state treasury as state realizations, provided that of the moneys collected under the tax imposed pursuant to section 245-3(a)(11) Hawaii statutes after June 30, 2015 - 2 cents per cigarette to the Hawaii Cancer Research Special Fund, 1.125 cents per cigarette but not more than $7.4 million in a fiscal year to the Trauma System Special Fund, 1.25 cents per cigarette but not more than $8.8 million in a fiscal year to the Community Health Centers Special Fund and 1.25 cents per cigarette but not more than $8.8 million in a fiscal year to the Emergency Medical Services Special Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 1193 enacted and effective 6/21/13.</Citation>
+<Description>Little cigars (less than 4 pounds/thousand): 15 cents/cigar;
+Large cigars: 50% of the wholesale price;
+All other tobacco products: 70% of the wholesale price.
+HAW. REV. STAT. § 245-3 (2010).
+
+Note: The exemption from the general sales tax for amounts received from the sale of tobacco products was repealed effective starting with tax year 2014.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 245-15 (2010).</Citation>
+<Description>All revenue from the taxes on tobacco products other than cigarettes is directed to the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Annual Memorandums of Agreement with Police Departments (2010).</Citation>
+<Description>The Hawaii Department of Health, Alcohol and Drug Abuse Division has a cooperative agreement with the University of Hawaii, Cancer Research Center of Hawaii to give technical assistance to police departments in conducting tobacco sale inspections to enforce section 709-908 of the Hawaii Revised Statutes.  They are required to complete a minimum number of compliance checks per contract year, and recruit minor volunteers ages 15 to 17 to assist with the inspections.  The Cancer Research Center must follow certain requirements concerning minor volunteers such as obtaining written parental consent and ensure that minors do not carry false identification or lie during compliance checks.
+Annual Memorandum of Agreement (2010).
+
+The Hawaii Department of Health, Alcohol and Drug Abuse Division, has a cooperative agreement with police departments across the islands to enforce HAW REV. STAT. § 709-908 by conducting a certain number of inspections by minor volunteers of places where tobacco products are sold at retail.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 709-908 (2016).</Citation>
+<Description>It shall be unlawful to sell or furnish a tobacco product, or an electronic smoking device as defined to a person less than 21 years of age. Any person who violates this law shall be fined not more than $500 for the first offense and $500 to $2,000 for subsequent offenses. Retail clerks and not the owner of the store are cited for violations.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 709-908(2) (2016).</Citation>
+<Description>Signs using the statement, &quot;THE SALE OF TOBACCO PRODUCTS OR ELECTRONIC SMOKING DEVICES TO PERSONS UNDER 21 IS PROHIBITED,&quot; shall be posted at or near the point of sale where tobacco products or electronic cigarettes are sold in letters at least one-half inch high. Any person who violates this law shall be fined $500 for the first offense and $500 to $2,000 for subsequent offenses.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 321-211 to 321-214 &amp; 709-908 (2016).</Citation>
+<Description>It shall be unlawful for a person under 21 years of age to purchase any tobacco product or electronic smoking device as defined. Possession or consumption of a tobacco product by a person under 21 years of age in a public place shall also be prohibited. Any person under age 21 in violation shall be fined $10 for the first offense and $50 or 48 to 72 hours of community service when not at work or school for subsequent offenses. This provision does not apply if a person under the age of 21, with parental notification, is participating in a controlled purchase as part of a law enforcement activity or a study authorized by the Department of Health to determine the level of tobacco sales to persons under 21; or possession by a person under 21 years of age in the course of delivery, pursuant to the direction of the person&apos;s employer.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>It is unlawful to ship cigarettes to a person or entity that is not: 1) licensed to sell or possess tobacco products by the state, 2) an export warehouse proprietor or 3) an operator of a customs-bonded warehouse. This does not apply if the cigarettes are exempt from taxes, all applicable Hawaii taxes are paid, or the person or entity has fully complied with the federal Jenkins Act and includes a specified notice on the shipping container. Violation is a Class C felony if 1,000 or more cigarettes are shipped illegally, and a misdemeanor if less than 1,000 cigarettes are shipped illegally. A delivery service is exempt if it is not a knowing participant in violating this law. Other tobacco products are excluded from these requirements. 
+HAW. REV. STAT. § 245-16 (2004).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 328K-22 (1999).</Citation>
+<Description>It is unlawful to distribute sample tobacco products on or in any public street, sidewalk, or park or within 1,000 feet of any school attended by minors. The distribution of tobacco promotional materials or tobacco coupons within 1,000 feet of any school attended by minors is prohibited. This statute does not apply to commercial establishments where distribution is not visible to the public or establishments that prohibit minors. Violators will be fined not more than $1,000.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 245-51 (2003) &amp; 245-53 (2000).</Citation>
+<Description>It is unlawful to sell single cigarettes or packs of cigarettes containing less than 20 cigarettes.  It is unlawful to sell cigarettes other than in sealed packages originating with the manufacturer and bearing the health warning required by law.  Violators will be fined no more than $2,500 for the first offense and $100-$5,000 for any subsequent offense.  Knowingly violating this section is a Class C felony.
+HAW. REV. STAT. § 712-1257 (2000).
+
+It shall be unlawful for an entity to possess, keep, store, retain, transport, sell, or offer to sell, distribute, acquire, hold, own, import, or cause to be imported into the state any cigarette the package of which does not comply with all requirements imposed by federal law regarding warnings and other information on packages of cigarettes manufactured, packaged, or imported for sale, distribution, or use in the United States, including, but not limited to, the specific warning labels specified in the federal Cigarette Labeling and Advertising Act.  Any person who knowingly violates this section shall be guilty of a Class C felony, and upon conviction thereof, shall be fined not more than $10,000, and/or may be imprisoned for one to five years.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling and minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 328K-21 (1996).</Citation>
+<Description>The sale of cigarettes from vending machines is prohibited unless the vending machine is located in a bar, cabaret, or any other establishment for which the minimum age of admission is 18. It is also unlawful to sell cigarettes from a lunch wagon within 1,000 feet of any public or private elementary or secondary school grounds.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 328K-21 (1996).</Citation>
+<Description>Violations are subject to a fine of up to $1,000 per day for each violation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 709-908 (2015).</Citation>
+<Description>A sign stating &quot;THE SALE OF TOBACCO PRODUCTS OR ELECTRONIC SMOKING DEVICES TO PERSONS UNDER 21 IS PROHIBITED&quot; shall be posted on or near any vending machine in letters at least one-half inch high.  A person who fails to post the appropriate sign shall be fined $500 for the first offense and $500 to $2,000 for subsequent offenses.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 245-2.5 to 245-2.7 (2009).</Citation>
+<Description>It shall be unlawful for any person to engage in the business of a wholesaler or dealer of cigarette and tobacco products in the state without having received a license issued by the Department of Taxation; provided that this section shall not be construed to supersede any other law relating to licensing of persons in the same business. The license shall be renewable annually on July 1st for the 12 months ending the succeeding June 30th. The license may be suspended, revoked or not renewed by the department for specified reasons.
+HAW. REV. STAT. § 245-2 (2005).
+
+Every retailer engaged in the retail sale of cigarettes and other tobacco products shall obtain a retail tobacco permit. Permits shall be valid for one year, from December 1 to November 30, and renewable annually. A separate retail tobacco permit shall be obtained for each place of business owned, controlled, or operated by a retailer. A retail tobacco permit shall be non-assignable and nontransferable from one entity to another, and shall be displayed at all times in a conspicuous place at the place of business.  Sales of cigarettes and tobacco products from vending machines are subject to the licensing requirements. A person or entity that knowingly fails to obtain the required permit and, for the purposes of retail sale, recklessly sells, possesses, stores, acquires, distributes, or transports 5,000 or more cigarettes is guilty of unlawful tobacco retailing in the 1st degree punishable as a misdemeanor for the 1st offense and a Class C felony for subsequent offenses within five years of the first offense. A person or entity that knowingly fails to obtain the required permit and, for the purposes of retail sale, recklessly sells, possesses, stores, acquires, distributes, or transports fewer than 5,000 cigarettes or any tobacco products is guilty of unlawful tobacco retailing in the 2nd degree punishable as a petty misdemeanor for the 1st offense and a misdemeanor for subsequent offenses within five years of the first offense.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 245-2 &amp; 245-2.5(c) (2005).</Citation>
+<Description>Wholesalers and dealers: $2.50 per license application; 
+Retailers: $20 per permit.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provision</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 607-26 (2006).</Citation>
+<Description>In civil litigation under any legal theory involving a signatory, a successor of a signatory, or an affiliate of a signatory to the Master Settlement Agreement (MSA), the supersedeas bond to be furnished to stay the execution of the judgment during the entire course of appellate review shall be set in accordance with applicable laws or court rules, except that the total bond that is required of all appellants collectively shall not exceed $150 million, regardless of the amount of the judgment.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating assets outside the ordinary course of business to avoid the payment of a judgment, a court may require the appellant to post a bond in an amount up to the full amount of the judgment.
+HAW. REV. STAT. § 328L-7 (2004).
+
+In any civil action brought under any legal theory, the amount of a supersedeas bond or other form of security necessary to stay execution of a judgment granting legal, equitable, or any other form of relief during the entire course of all appeals or discretionary review of that judgment by all appellate courts shall be set in accordance with applicable law, except that the total amount of the supersedeas bond or other form of security that is required of any party shall not exceed $25 million regardless of the amount of the judgment that is appealed.  If the party posting the bond is a &quot;small business concern,&quot; the required supersedeas bond is capped at $1 million.  If a party in whose favor the judgment has been entered proves to a court by a preponderance of the evidence that an appellant who has posted a supersedeas bond is intentionally dissipating assets outside the ordinary course of its business for the purpose of avoiding payment of the judgment, a court may require the appellant to post a supersedeas bond in an amount up to the total amount of the judgment appealed.  This statute does not apply to MSA signatories, which are covered by a separate, existing statute (see above).</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 328L-2 (2015).</Citation>
+<Description>All Master Settlement Agreement dollars are deposited into the Tobacco Settlement Special Fund, and distributed to several funds/purposes from there, including the Hawaii Tobacco Prevention and Control Trust Fund which receives 12.5 percent of these dollars.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>48600000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 328L-5 (2015).</Citation>
+<Description>Hawaii established the Tobacco Settlement Special Fund into which all monies received from the Master Settlement Agreement are deposited as well as interest and earnings from this money. The first $350,000 of this money goes into the Tobacco Enforcement Special Fund. The remaining money is distributed as follows: 1) 15 percent to the Emergency and Budget Reserve Fund; 2) 12.5 percent to the Hawaii Tobacco Prevention and Control Trust Fund; 3) 26 percent into a University Revenue Undertakings Fund; and 4) any remaining amounts are credited to the state general fund.
+HAW. REV. STAT. § 328L-2 (2015).
+
+There is established the Hawaii Tobacco Prevention and Control Trust Fund as a separate fund of a nonprofit entity having a board of directors and qualifying under section 501(c)(3) of the Internal Revenue Code of 1986, as amended, into which shall be deposited a set percentage of the annual MSA payments. Up to 50 percent of the total market value of the trust fund on the preceding June 30th, may be spent for tobacco prevention and control, including but not limited to, reducing cigarette smoking and tobacco use among youth and adults through education and enforcement activities, and controlling and preventing chronic diseases where tobacco is a risk factor.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Hawaii&apos;s tobacco prevention and control program comes from tobacco Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Allocation for calendar year 2017 from Hawaii Tobacco Prevention and Control Trust Fund.</Citation>
+<Description>Allocated $6,594,437 for tobacco prevention and cessation programs in FY2018 from Master Settlement Agreement (MSA) moneys expended by the Hawaii Tobacco Prevention and Control Trust Fund. In FY2017, $5,284,750 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>6594437</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. § 328L-6 (1999).</Citation>
+<Description>Hawaii established a Tobacco Prevention and Control Advisory Board to develop, in collaboration with the state Department of Health, a strategic plan for tobacco prevention and control.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 132C-1 to 132C-9 (2011).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in sections 132C-7 and 132C-8 Hawaii Revised Statutes, no cigarettes may be sold or offered for sale in Hawaii or offered for sale or sold to persons located in Hawaii unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 132C-3 Hawaii Revised Statutes; 2) the manufacturer has filed a written certification with the state Fire Council in accordance with section 132C-4(a) Hawaii Revised Statutes; and 3) the cigarettes have been marked in accordance with section 132C-4(b) Hawaii Revised Statutes.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>HAW. REV. STAT. §§ 132C-1 to 132C-8 (2009).</Citation>
+<Description>A manufacturer, wholesaler or any other person or entity that knowingly sells cigarettes, except by licensed retail sales, in violation of the above requirements is subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties may not exceed $100,000 in any 30-day period.  A dealer is subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  A manufacturer that knowingly makes a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $6,760,005 in state funding for tobacco prevention and cessation programs in 2015/2016.
+Allocation for calendar year 2015 from Hawaii Tobacco Prevention and Control Trust Fund &amp; portion of other Master Settlement Agreement (MSA) funds allocated pursuant to HAW. REV. STAT. § 328L-2.
+
+Minimum Age: Increases the minimum age to sell or purchase tobacco products to 21 years of age. Prohibits the possession or consumption of tobacco products by a person under 21 years of age. Includes electronic smoking devices.
+S.B. 1030 enacted 6/19/15 and effective 1/1/16.
+
+Smokefree Air: Prohibits smoking and the use of tobacco or electronic smoking devices within the state park system except exclusive use areas may be designated by the Department of Land and Natural Resources.
+H.B. 525 enacted 6/19/15 and effective 7/1/15.
+
+Smokefree Air/E-Cigarettes: Prohibits the use of electronic smoking devices in all public places and workplaces where smoking is already prohibited.
+H.B. 940 enacted 4/23/15 and effective 1/1/16.
+
+Use of Tobacco Settlement Dollars: Changes the way tobacco Master Settlement Agreement dollars are allocated, including increasing the percentage allocation for the Tobacco Prevention and Control Trust Fund but eliminating the allocation to the Department of Health for chronic disease prevention programs.
+S.B. 101 enacted 6/12/15 and effective 7/1/15.
+
+Tobacco Taxes: Changes the way cigarette tax revenue is distributed by establishing maximum dollar amounts for several funds that receive such cigarette tax revenues.
+S.B. 1297 enacted (became law without the governor&apos;s signature) 7/14/15 and effective retoractive to 7/1/15.</Description>
+<Year>2015</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2015-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $6,594,437 in state funding for tobacco prevention and cessation programs in 2017/2018.
+Allocation for calendar year 2017 from Hawaii Tobacco Prevention and Control Trust Fund, source tobacco Master Settlement Agreement dollars.
+
+Smokefree Air/Smokefree Multi-Unit Housing: Requests that the Hawaii Public Housing Authority continue to document violations of the prohibition on smoking in and around public housing
+H.R. 68 passed by Hosue of Representatives and adopted 4/6/17.
+
+Tobacco Settlement Funding: Removes specific percentage of money from the tobacco Master Settlement Agreement to be deposited into the emergency and budget reserve fund.
+S.B. 942 enacted and effective 4/26/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>21</Description>
+<NumericValue>21</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $130,995,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Hawaii</Name>
+<Abbrev>HI</Abbrev>
+<FipsCode>15</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $6,594,437
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,413,899*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $8,008,336
+
+Funding Level Recommended by CDC:                                        $13,700,000
+
+Percentage of CDC-Recommended Level:                                   58.5%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>12</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

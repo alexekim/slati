@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:13:13">
+<tblStatesALA>
+<ID>19</ID>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<LegislatureHyperlink>#http://www.legis.state.la.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1291.1 to 1291.24 (2015).</Citation>
+<Description>Smoking is prohibited in most public places, any enclosed place of employment, any public building or any school.  &quot;Public place&quot; is defined as an enclosed area to which the public is invited or in which the public is permitted which is not a public building, including restaurants.  Major exemptions include stand-alone bars and most areas of casinos/gaming establishments.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1291.1 to 1291.24 (2015).</Citation>
+<Description>Exceptions to the law include: 1) private homes, private residences and private automobiles except if being used for child care or day care; 2) limousines under private hire; 3) up to 50 percent of hotel/motel guest rooms; 4) retail tobacco businesses as defined; 5) bars as defined; 6) outdoor areas of places of employment; 7) private or semiprivate rooms or apartments in assisted living and long-term care facilities; 8) gaming establishments except smoking is prohibited within restaurants in the gaming establishment; 9) all workplaces of any manufacturer, importer, wholesaler or distributor of tobacco products, of any tobacco leaf dealer or processor, and all tobacco storage facilities; 10) convention facilities under certain conditions; 11) designated and well-ventilated smoking rooms in nursing homes under certain conditions; 12) a hotel or motel room operated by a gaming operation; and 13) outdoor patios.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1291.11(D) (2015).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Nothing in the law above shall be construed to restrict the power of any parish, city, town, or village to adopt and enforce additional local laws, ordinances, or regulations that comply with at least the minimum applicable standards to establish smokefree public places as set forth above.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Description>Smoking is prohibited in all public buildings, which are defined as any building owned by the legislative, executive or judicial branches of state government; any parish, city or town, or instrumentality thereof, or any other political subdivision of the state, special district, authority, commission or agency; and any other separate corporate instrumentality or entity of state or local government.  State correctional facilities became smokefree on August 15, 2009.
+LA REV. STAT. ANN. §§ 40:1291.1 to 1291.24 (2015).
+
+In addition to the smoking restrictions above, smoking is prohibited in outdoor areas within 25 feet of public entrances to state office buildings and wheelchair ramps or other structures that facilitate access to state office buildings for persons with disabilities.  Violation is subject to the same penalties contained in the Louisians Smokefree Air Act.
+LA REV. STAT. ANN. §§§ 40:1291.22 &amp; 40:1293.3 (2015).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1291.1 to 1291.24 (2015).</Citation>
+<Description>Smoking is prohibited within any enclosed area of a place of employment, which is defined as an area under the control of an employer that employees normally frequent during the course of employment, including, but not limited to, work areas, employee lounges, restrooms, conference rooms, meeting rooms, classrooms, employee cafeterias, hallways, and vehicles. A private residence is not a place of employment unless it is used as a licensed child care, adult day care, or health care facility.  Outdoor areas of places of employment; and workplaces of any manufacturer, importer, wholesaler or distributor of tobacco products, of any tobacco leaf dealer or processor, and all tobacco storage facilities are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 17:240 (2017).</Citation>
+<Description>Smoking is prohibited in any school, which is defined as any elementary or secondary school building, the campus of any school, any buildings on the campus, and all school buses. Smoking is also prohibited within 200 feet of the entrances, exits and outdoor areas of any public or private elementary or secondary school except on private property by persons of legal age or in moving vehicles. Violations is subject to fine of $25 for the first offense, $50 for a second offense and $100 for third and subsequent offenses.
+LA REV. STAT. ANN. §§ 40:1291.1 to 1291.24 (2015).
+
+No person shall smoke, chew, inhale, ingest, absorb, or otherwise consume any tobacco or tobacco product in any elementary or secondary school building or on any other school property as defined. No person shall smoke or carry a lighted cigar, cigarette, pipe, or any other form of smoking object or device, including but not limited to e-cigs, e-cigarettes, electronic cigarettes, advanced personal vaporizers, vape pens, and vape mods on any school property. The use of tobacco or any tobacco product is also prohibited on any school bus or school vehicle transporting children to or from school. The governing authority of each public and private school may provide for appropriate penalties, including but not limited to disciplinary action or a fine not to exceed $200, or both.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1291.1 to 1291.24 (2015).</Citation>
+<Description>Smoking is prohibited in places of employment, the definition of which covers child care facilities.  Private residences, homes or vehicles are specifically included if they are being used as child care or day care facilities or for day care transportation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1291.1 to 1291.24 (2015).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes health care facilities.  Private and semiprivate rooms or apartments in assisted living residences, and other long-term care facilities that are occupied by one or more persons, who are all smokers and who have requested in writing to be placed in a room where smoking is permitted; provided that smoke from such rooms or apartments does not infiltrate into areas where smoking is prohibited are exempt.  Also exempt are designated and well ventilated smoking rooms in nursing homes which permit smoking, provided that the designated smoking room is not the reception area, lobby, waiting room, dining room, or any other room or area defined as a public place.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1291.1 to 1291.24 (2015).</Citation>
+<Description>Smoking is prohibited in restaurants.  &quot;Restaurant&quot; is defined as an eating establishment, including but not limited to, coffee shops, cafeterias, sandwich stands, and school cafeterias, which gives or offers for sale food to the public, guests, or employees, as well as kitchens and catering facilities in which food is prepared on the premises for serving elsewhere. The bar area of a restaurant is specifically included.  Restaurants in gaming establishments are covered as well.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1291.1 to 1291.24 (2015).</Citation>
+<Description>Smoking is allowed in bars, which are defined as a business that holds a Class A-General retail permit and the primary purpose of such business is to serve alcoholic beverages for consumption by guests on the premises and in which the serving of food is only incidental to the consumption of those beverages, including, but not limited to, taverns, nightclubs, cocktail lounges and cabarets.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Vehicles</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 32:300.3 (2006).</Citation>
+<Description>It shall be unlawful for the operator or any passenger in a motor vehicle to smoke cigarettes, pipes, or cigars in a motor vehicle, passenger van, or pick-up truck, when a child who is required to be restrained in a rear-facing child safety seat, a forward-facing child safety seat, a booster seat, or a motor vehicle&apos;s safety belt as required in Louisiana Revised Statutes section 32:295 is also present in such vehicle, regardless of whether windows of the motor vehicle are down.  Violation is subject to a fine of $150 per offense, or, at the discretion of the judge may be sentenced to no less than 24 hours of community service.  Violation is considered a primary offense, so police officers may stop but not search a vehicle if a violation is occurring.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>16</SubcategoryDisplayOrder>
+<SubcategoryID>1282</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1300.261 (2007) &amp; 1300.262 (2014).</Citation>
+<Description>No smoking signs or the international &quot;No smoking&quot; symbol shall be clearly and conspicuously posted by the owner, operator, manager, or other person in control in every public building, public place and place of employment where smoking is prohibited.  All ashtrays shall also be removed.  Any violation may be cited by any law enforcement officer by the issuance of a citation and summons to appear before a court of proper jurisdiction.  A person who smokes in a place where smoking is prohibited shall be fined $25 for a first offense, $50 for second offense and $100 for a third or subsequent offense.  Any employer who knowingly allows smoking in a place of employment shall be fined $100 for a first offense, $250 for a second offense and $500 for a third or subsequent offense.  The Department of Health and Hospitals may treat a violation as a deficiency to be assessed against any licensee or facility over which it has statutory jurisdiction.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA. REV. STAT. ANN. § 47:841(B) (2016).</Citation>
+<Description>Tax rate per pack of 20: $1.08
+Date last changed: April 1, 2016 -- from 86 cents to $1.08
+Year first enacted: 1926</Description>
+<NumericValue>1.08</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA. REV. STAT. ANN. § 47:841(G) (2015), 47:841.1 (2010) &amp; 47:841.2 (2015).</Citation>
+<Description>Revenue from 50 cents of the cigarette tax is distributed to the state Medicaid program. Revenue from 12 cents of the cigarette tax is dedicated to a Tobacco Tax Health Care Fund, and distributed to certain programs from there, including a tobacco prevention and cessation program. A very small portion is also dedicated to the enforcement of tobacco regulations.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>112163000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA. REV. STAT. ANN. § 47:841.1 (2002).</Citation>
+<Description>The Tobacco Tax Medicaid Match Fund was created in the state treasury. Revenue from 50 cents of the cigarette tax shall be annually deposited into the Fund. All unexpended and unencumbered monies in the fund at the end of the fiscal year shall remain in the fund. Monies in the Fund are appropriated to the state Department of Health and Hospitals for the state Medicaid program.
+LA. REV. STAT. ANN. § 47:841.2 (2015).  
+
+The Tobacco Regulation Enforcement Fund was created in the state treasury. From the existing cigarette tax, 0.25 of one cent is dedicated to the fund to be used solely by the Office of Alcohol and Tobacco Control for tobacco regulation enforcement. 
+LA. REV. STAT. ANN. § 47:841(F) (2006).
+
+Twelve cents of the cigarette tax is deposited into a fund called the &quot;Tobacco Tax Health Care Fund.&quot; Subject to appropriation by the legislature, seven cents of the proceeds in this fund are distributed as follows: 1) 29.2 percent for funding prevention mass media programs and evidence-based tobacco control programs within the public hospital system and the public school system and community development programs directed at cessation among children and pregnant women and the screening, prevention and treatment of tobacco use and dependence among individuals with diseases caused or exacerbated by tobacco use; 2) 42.8 percent for funding for the Louisiana Cancer Research Center of Louisiana State University Health Sciences Center in New Orleans/Tulane Health Sciences Center; and 3) 28 percent to provide funding for the Cancer Center of Louisiana State University Health Sciences Center in Shreveport;
+The remaining five cents is distributed as follows: 1) 20 percent to the Office of Addictive Disorders in the state Department of Health and Hospitals; 2) 20 percent to fund the Louisiana State University Agricultural Center and the Southern University Agricultural Research and Extension Center; 3) 20 percent to Drug Abuse Resistance Programs (DARE) and: 4) 40 percent to the Office of State Police in the Department of Public Safety and Corrections.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA. REV. STAT. ANN. § 47:854 (2015).</Citation>
+<Description>Cigars: 8% to 20% depending on the manufacturer&apos;s invoice price;
+Smokeless tobacco: 20% of the invoice price;
+Smoking Tobacco: 33% of the invoice price;
+Electronic Cigarettes/Vapor Products: 5 cents/milliliter of consumable nicotine liquid solution or other material containing nicotine that is depleted as a vapor product is used.
+LA. REV. STAT. ANN. § 47:841(A),(C),(E)&amp;(F) (2015).
+
+Note: From January 1, 2013 to December 31, 2025, cigars and pipe tobacco sampled on the premises of the International Premium Cigar and Pipe Retailers Association convention are not subject to the tax on cigars or smoking tobacco above.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 26:793 (1997).</Citation>
+<Description>The Commissioner of the Office of Alcohol and Tobacco Control in the Department of Revenue and Taxation shall annually conduct random, unannounced inspections of all locations where tobacco products are sold or distributed.  Minors may be enlisted to test compliance only if the testing is conducted under the direct supervision of the local law enforcement department and written parental consent has been provided.  Any person under the age of 18 shall either carry the person&apos;s own identification showing the person&apos;s correct date of birth or shall carry no identification.  A person under the age of 18 who carries identification shall, on request, present it to any seller of tobacco products.  In addition, any person under the age of 18 shall truthfully answer any questions about the person&apos;s age.  Any other use of persons under the age of 18 to test compliance shall be unlawful.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 26:917 (2014).</Citation>
+<Description>It is unlawful for any manufacturer, distributor, retailer, or other person knowingly to sell or distribute any tobacco product, alternative nicotine product or vapor product to a person under 18.  However, it shall not be unlawful for a person under the age of 18 to accept receipt of these products from an employer when required in the performance of such person&apos;s duties.  A person who sells tobacco products to minors shall be fined not more than $50 for the first violation, $100 for the second violation, $250 for the third violation and $400 for any subsequent violations.  Stronger local laws/ordinances concerning the above are not allowed.
+LA REV. STAT. ANN. § 14:91.8 (2014).
+
+Violation by a holder of a permit or certificate from the Commissioner of the Office of Alcohol and Tobacco Control may be subject to suspension or revocation of the required certificate or permit by the Commissioner of the Office of Alcohol and Tobacco Control and/or civil penalties of $50 to $500 for the first offense, $250 to $1,000 for the second offense in two years and $500 to $2,500 for a third offense within two years in addition to the penalties above.
+LA REV. STAT. ANN. §§ 26:909 (2014) &amp; 26:918 (1997).
+
+Sale of tobacco products, alternative nicotine products or vapor products to a person under age 18 by a retail dealer&apos;s agent, associate, employee, representative, or servant shall be considered an act of the retail dealer for purpose of suspension, revocation or assessment of civil penalties unless the employee attends a Commissioner of the Office of Alcohol and Tobacco Control approved training program and the employer does not directly or indirectly encourage the employee to violate the prohibited sales provision.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 26:909 (2014) &amp; 26:918 (1997).</Citation>
+<Description>Signs are required at the point of purchase stating that: &quot;LOUISIANA LAW PROHIBITS THE SALE OF TOBACCO PRODUCTS, ALTERNATIVE NICOTINE PRODUCTS, OR VAPOR PRODUCTS TO PERSONS UNDER AGE 18.&quot;  Owners of the establishment where a violation of this provision occurs shall be fined not more than $50 for the first violation, $100 for the second violation, $250 for the third violation and $500 for any subsequent violations.  Stronger local laws/ordinances concerning the above are not allowed.
+LA REV. STAT. ANN. § 14:91.8 (2014).
+
+Violation by a holder of a permit or certificate from the Commissioner of the Office of Alcohol and Tobacco Control may be subject to suspension or revocation of the required certificate or permit by the Commissioner of the Office of Alcohol and Tobacco Control and/or civil penalties of $50 to $500 for the first offense, $250 to $1,000 for the second offense in two years and $500 to $2,500 for a third offense within two years in addition to the penalties above.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 14:91.8 (2014).</Citation>
+<Description>It is unlawful for any person under the age of 18 to buy or possess any tobacco product, alternative nicotine product or vapor product as defined. It is not unlawful for a minor to possess these products if: a) accompanied by a parent, spouse, or legal guardian, b) in a private residence or c) during the scope of the minor&apos;s employment. A minor who buys tobacco products shall be fined not more than $50 for the first violation, $100 for the second violation, $250 for the third violation and $400 for any subsequent violations. A minor who possesses tobacco products shall be fined not more than $50 for each violation. Stronger local laws/ordinances concerning the above are not allowed.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 26:910.1 (2014).</Citation>
+<Description>The sale or delivery of tobacco products, alternative nicotine products or vapor products through a self-service display is prohibited unless the machine is a vending machine that complies with applicable state law. Self-service display means any display that contains the above products and is located in an area openly accessible to the retail dealer&apos;s customers and from which such customers can readily access such products without the assistance of a salesperson, excluding locked display cases. These provisions do not apply to retail tobacco businesses or tobacconists at a particular outlet as defined.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No person who is engaged in the business of selling or distributing cigarettes may ship or transport, or cause to be shipped or transported, cigarettes to any consumer in the state. The provisions of this section shall apply regardless of whether the person engaged in the business of selling or distributing cigarettes is located inside or outside the state. A first violation is punishable by a fine of $1,000 or five times the retail value of the cigarettes involved, whichever is greater. A second or subsequent violation is a $5,000 fine or five times the retail value of the cigarettes involved, whichever is greater. A knowing violation is a fine of $10,000 or five times the retail value of the cigarettes involved, whichever is greater, and/or up to five years in prison.  
+LA REV. STAT. ANN. §§ 47:871 to 47:872 &amp; 47:876 to 47:878 (2013).</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 14:91.6 (2014).</Citation>
+<Description>Stronger local laws/ordinances related to criminal penalties for selling tobacco products, alternative nicotine products or vapor products to persons under age 18, sign posting requirements at the point of purchase and purchase/possession of the above products by persons under 18 are not allowed, see below.  There is no provision concerning preemption on other laws restricting youth access to tobacco products, alternative nicotine products or vapor products, so stronger local laws/ordinances may be allowed.
+
+It is the intent of the legislature that enforcement of section 14:91.8 of the Louisiana Revised Statutes shall be implemented in an equitable manner throughout the state.  For the purpose of equitable and uniform implementation and application of state and local laws and regulations, the provisions of this section shall supersede existing or subsequently adopted local ordinances or regulations which relate to the sale, promotion, and distribution of tobacco products, alternative nicotine products or vapor products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 26:909 (2014) &amp; 26:918 (1997).</Citation>
+<Description>No person shall distribute or cause to be distributed to persons under 18 years of age a promotional sample of any tobacco product, alternative nicotine product or vapor product.  Violators shall be fined not less than $100 or more than $500 upon conviction.  Stronger local laws/ordinances concerning the above are not allowed.
+LA REV. STAT. ANN. § 14:91.6 (2014).
+
+Violation by a holder of a permit or certificate from the Commissioner of the Office of Alcohol and Tobacco Control may be subject to suspension or revocation of the required certificate or permit by the Commissioner of the Office of Alcohol and Tobacco Control and/or civil penalties of $50 to $500 for the first offense, $250 to $1,000 for the second offense in two years and $500 to $2,500 for a third offense within two years in addition to the penalties above.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 26:909 (2014), 26:911(C) (2012), 26:918 (2013) &amp; 47:843 (2013).</Citation>
+<Description>No retail dealer shall sell to the public single cigarettes.  Packages of cigarettes containing less than 20 cigarettes are prohibited.  No smoking tobacco intended for use as roll-your-own smoking tobacco for cigarettes shall be sold or distributed in individual packages containing less than 0.6 of an ounce of smoking tobacco.  Cigarettes or smokeless tobacco products must be sold in an unopened package originating with the manufacturer bearing the health warning required by federal law.  Violation may be subject to suspension or revocation of the required certificate or permit by the Commissioner of the Office of Alcohol and Tobacco Control and/or civil penalties of $50 to $500 for the first offense, $250 to $1,000 for the second offense in two years and $500 to $2,500 for a third offense within two years.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 14:91.6 (2014).</Citation>
+<Description>Stronger local laws/ordinances related to tobacco product, alternative nicotine product or vapor product samples are not allowed, see below.  There is no provision concerning preemption for minimum tobacco product sales amounts, so stronger local laws/ordinances may be allowed.
+
+It is the intent of the legislature that enforcement of section 14:91.8 of the Louisiana Revised Statutes shall be implemented in an equitable manner throughout the state.  For the purpose of equitable and uniform implementation and application of state and local laws and regulations, the provisions of this section shall supersede existing or subsequently adopted local ordinances or regulations which relate to the sale, promotion, and distribution of tobacco products, alternative nicotine products or vapor products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 26:910 (2014).</Citation>
+<Description>Vending machines selling tobacco products, alternative nicotine products are not allowed unless they are located in an establishment to which persons under the age of 18 are denied access or is located in an establishment where the dealer ensures that no person younger than 18 years of age is present or permitted to enter at any time and the machine is located within the unobstructed line of sight of a dealer or a dealer&apos;s agent or employee who is responsible for preventing persons younger than 18 from purchasing from the machine.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 26:909 (2014) &amp; 26:918 (1997).</Citation>
+<Description>Violation may be subject to suspension or revocation of the required certificate or permit by the Commissioner of the Office of Alcohol and Tobacco Control and/or civil penalties of $50 to $500 for the first offense, $250 to $1,000 for the second offense in two years and $500 to $2,500 for a third offense within two years.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 14:91.8 (2014).</Citation>
+<Description>Tobacco vending machines must display signs or stickers stating:&quot;LOUISIANA LAW PROHIBITS THE SALE OF TOBACCO PRODUCTS, ALTERNATIVE NICOTINE PRODUCTS, OR VAPOR PRODUCTS TO PERSONS UNDER AGE 18.&quot;  The owner of a vending machine in violation of this provision shall be fined not more than $50 for the first violation, $100 for the second violation, $250 for the third violation and $500 for any subsequent violations.  Stronger local laws/ordinances concerning the above are not allowed.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 14:91.6 (1997).</Citation>
+<Description>Stronger local laws/ordinances related to required sign posting on tobacco product vending machines are not allowed, see below.  There is no specific provision concerning preemption concerning the placement of tobacco product vending machines, so stronger local laws/ordinances may be allowed.
+
+It is the intent of the legislature that enforcement of section 14:91.8 of the Louisiana Revised Statutes shall be implemented in an equitable manner throughout the state.  For the purpose of equitable and uniform implementation and application of state and local laws and regulations, the provisions of this section shall supersede existing or subsequently adopted local ordinances or regulations which relate to the sale, promotion, and distribution of tobacco products, alternative nicotine products or vapor products.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 26:901 to 26:924 (2014).</Citation>
+<Description>The Commissioner of the Office of Alcohol and Tobacco Control shall issue retail dealer permits for each retail outlet where cigars, cigarettes, other tobacco products, alternative nicotine products or vapor products as defined are offered for sale either over the counter or by vending machine; vending machine operator permits for the operator of one or more vending machines; vending machine permits for each vending machine; tobacconist permits for retail outlets receiving bulk smoking tobacco for the purpose of blending such tobacco where 50 percent or more of the total purchases for the preceding 12 months were purchases of tobacco products, excluding cigarettes; and wholesale dealer permits for each wholesale place of business operated by the wholesale dealer. Except for applicants in &quot;good standing&quot; with the Office of Alcohol and Tobacco Control as defined by rule, each permit requires renewal annually. Permits cannot be transferred, assigned or inherited. No person shall perform any action for which a permit is required unless they hold the proper permit. Each day of business which is conducted without such a valid, unsuspended permit shall constitute a separate violation. Violation of any of the above provisions is subject to fines and/or suspension/revocation of a permit.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 26:903 (2012).</Citation>
+<Description>Retail dealer permit: $25 annually;
+Vending machine operator permit: $75 annually;
+Permit for each vending machine: $5 annually;
+Wholesaler dealer permit: $75 annually.
+Tobacconist (as defined): $100.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 26:909 (2014).</Citation>
+<Description>The Commissioner of the Office of Alcohol and Tobacco Control may suspend a permit previously issued or may refuse to grant a permit if, after a hearing, it is proven that a permittee has violated any of the limits prohibiting the sale or limiting youth access to tobacco products, alternative nicotine products or vapor products as defined.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 23:966 (1991).</Citation>
+<Description>As long as an individual, during the course of employment, complies with applicable law and any adopted workplace policy regulating smoking it shall be unlawful for an employer to discriminate against the individual with respect to discharge, compensation, promotion, any personnel action or other condition, or privilege of employment because the individual is a smoker or nonsmoker or require, as a condition of employment, that the individual abstain from smoking or otherwise using tobacco products outside the course of employment.   Any employer who violates the provisions of this law shall be fined up to $250 for the first offense and up to $500 for any subsequent offenses.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 39:98.6 (2003).</Citation>
+<Description>In order to secure and protect the monies to be received as a result of the Master Settlement Agreement (MSA), in civil litigation under any legal theory involving a signatory, successor of a signatory, or affiliate of a signatory to the MSA, except for litigation related to the MSA or any litigation where the state is a party, the security to be furnished for an appeal of any judgment in civil litigation that is required to stay the execution thereon during the course of appeal shall be determined in accordance with the Code of Civil Procedure except that the total amount of security required shall not exceed $50 million.  However, if it is proved by a preponderance of the evidence that the appellant for whom the bond has been limited is intentionally dissipating or diverting assets outside of the ordinary course of its business for the purpose of avoiding payment of the judgment, the court shall enter such orders as are necessary to prevent dissipation or diversion of assets, including but not limited to, requiring the bond be posted equal to the full amount of security.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA CONST., Art. VII, Sect. 10.8 (2011), 10.9 (2000) &amp; 10.10 (2000).</Citation>
+<Description>Sixty percent of Louisiana&apos;s future Master Settlement Agreement payments have been sold to the Tobacco Settlement Financing Corporation for a lump sum payment up front.  The remaining 40 percent of the annual payment is distributed to the Millennium Trust and Louisiana Fund, and directed to several additional funds from there.  Five hundred thousand dollars are dedicated annually to a tobacco prevention/cessation program at the Louisiana Department of Health &amp; Hospitals.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>141200000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Louisiana established the Millennium Trust, a permanent trust fund in the state treasury.  After allocation of money to the Bond Security and Redemption Fund, a portion of the proceeds not sold to the Tobacco Settlement Financing Corporation from the Master Settlement Agreement (75 percent in FY2003 and each fiscal year thereafter) and all dividend and interest income and all realized capital gains on investment of the monies in the Millennium Trust shall be allocated to the Millennium Trust.  However, beginning in FY2012, after the balance in the Millennium Trust reaches $1.38 billion, the monies shall be allocated to the TOPS Fund, one of the Millennium Trust sub-accounts, and investment earnings from the Millennium Trust will be split one-third each between all three Millennium Trust sub-accounts the Education Excellence Fund, the Health Excellence Fund and the TOPS Fund.  Only investment earnings and certain monies allocated to the TOPS Fund and Health Excellence Fund may be spent as specified.  
+LA CONST., Art. VII, Sect. 10.8 (2011).
+
+The state also established the Louisiana Fund which receives the rest of the MSA proceeds and all investment income from the Louisiana Fund.  Appropriations from the Fund are limited to the following specified purposes: 1) initiatives for children through enhancements in education and health care; 2) provision of direct health care for tobacco-related illnesses; 3) initiatives to benefit the citizens of the state with respect to health care; 4) initiatives to diminish tobacco-related injury and death to Louisiana&apos;s citizens. 
+LA CONST., Art. VII, Sect. 10.9 (2000).
+
+The Louisiana legislature may provide, by a 2/3 vote in both houses of the legislature, for the deposit of all or portion of the MSA proceeds into a special trust fund in the state treasury called the Millennium Leverage Fund.   A two-thirds vote of the legislature provides for the issuance of revenue bonds secured by monies in the Leverage Fund in amounts authorized by the legislature.  Bond proceeds must be appropriated 25 percent each to the Health Excellence, Education Excellence, TOPS, and Louisiana Funds to be used for the specified purposes of each fund.  Termination of the deposit of settlement revenues into the Leverage Fund is allowed pursuant to a two-thirds vote of the legislature.
+LA CONST., Art. VII, Sect. 10.10 (2000).</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances related to certain youth access laws restricting the sale, promotion and distribution of tobacco products are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Louisiana&apos;s tobacco control program comes from cigarette tax revenue and the state&apos;s annual Master Settlement Agreement payment.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (H.B. 1, 2nd special session 2017) enacted 6/26/17 and effective 7/1/17.</Citation>
+<Description>Louisiana allocated $5,805,725 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $6,996,798 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>5805725</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1601.1 to 40:1601.11 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection G of section 40:1601.3 Louisiana Revised Statues, no cigarettes may be sold or offered for sale in Louisiana or offered for sale or sold to persons located in Louisiana unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standards specified in section 40:1601.3 Louisiana Revised Statutes; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 40:1601.4 Louisiana Revised Statutes; and 3) the cigarettes have been marked in accordance with section 40:1601.5 Louisiana Revised Statutes.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 40:1601.1 to 40:1601.11 (2010).</Citation>
+<Description>A manufacturer that knowingly sells cigarettes in violation of the above requirements shall be subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties may not exceed $50,000 in any 30-day period.  Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of no less than $25,000 and not to exceed $100,000 for each such false certification.  Any person violating any other provision of this law shall be subject to a civil penalty of not to exceed $1,000 for a first offense and not to exceed $5,000 for subsequent offenses.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. §§ 26:909 (2014), 26:911(2014) &amp; 26:918 (1997).</Citation>
+<Description>No person, agent, associate, employee, representative, or servant of any person shall sell or serve tobacco products, alternative nicotine products or vapor products over-the-counter in a retail establishment to any person under the age of 18 unless such person submits a driver&apos;s license, selective service card, or other lawful identification which on its face establishes the age of the person as 18 years or older and there is no reason to doubt the authenticity or correctness of the identification.  Violation may be subject to suspension or revocation of the required certificate or permit by the Commissioner of the Office of Alcohol and Tobacco Control and/or civil penalties of $50 to $500 for the first offense, $250 to $1,000 for the second offense in two years and $500 to $2,500 for a third offense within two years.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $5,805,725 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (H.B. 1, 2nd special session 2017) enacted 6/26/17 and effective 7/1/17.
+
+Smokefree Air/E-Cigarettes: Prohibits the use of tobacco products on school property as defined, including e-cigarettes.
+H.B. 531 enacted and effective 6/22/17.
+
+Tobacco Settlement: Allows the sharing of certain confidential tax information for purposes related to the tobacco Master Settlement Agreement. 
+H.B. 446 enacted 6/22/17 and effective 7/1/17.
+
+	E-Cigarettes: Requests the Louisiana Department of Health to study and report back to the state legislature on tax-related and health-related issues associated with vapor products and electronic cigarettes.
+H.R. 155 passed by House of Representatives and effective 6/2/17.
+
+	YouthAccess/Minimum Age: Requests the Louisiana Department of Health to study and report back to the legislature on the desirability and feasibility of raising the tobacco sales age to 21.
+H.R. 177 passed by House of Representatives and effective 6/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>LA REV. STAT. ANN. § 39:99.12 (2003).</Citation>
+<Description>The Tobacco Settlement Financing Corporation was created as a separate entity from the state of Louisiana.  The corporation has the power to purchase the tobacco assets and receive, or authorize the indenture trustee to receive, the tobacco settlement payments and issue bonds. 
+LA REV. STAT. ANN. §§ 39:99.1 to 39:99.20 (2003).
+  
+The State Bond Commission is authorized to sell and convey up to 60 percent of the tobacco settlement funds.  After June 30, 2003, the State Bond Commission shall declare its intent by granting preliminary approval and authorization to sell or convey up to 100 percent of the state allocation to the corporation.  Said declaration shall first be approved by the Joint Legislative Committee on the Budget and, if approved by the legislative committee, shall then be approved by a majority of the legislature if the legislature is in session or by mail ballot if the legislature is out of session.  Upon approval of the legislature, the State Bond Commission shall commence with the sale.  In the event an authorized sale is made during any fiscal year commencing on or after July 1, 2003, the state treasurer, in consultation with the Commissioner of Administration, shall provide for the deposit into the Louisiana Fund an amount of the net proceeds of any sale or sales that, together with other deposits, will ensure that a sufficient amount is deposited into the Louisiana Fund to fund the appropriations from that fund for that fiscal year. The remainder of such proceeds after deposit into the Louisiana Fund and any residuals received in such state fiscal year shall be deposited into the Millennium Trust.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $112,163,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Louisiana</Name>
+<Abbrev>LA</Abbrev>
+<FipsCode>22</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $5,805,725
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,233,018*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $7,038,743
+
+Funding Level Recommended by CDC:                                        $59,600,000
+
+Percentage of CDC-Recommended Level:                                   11.8%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>19</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

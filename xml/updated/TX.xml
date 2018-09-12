@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:14:38">
+<tblStatesALA>
+<ID>44</ID>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<LegislatureHyperlink>#http://www.capitol.state.tx.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. PENAL CODE ANN. § 48.01 (2015); TX EDUC. CODE § 38.006 (2015); and TX ADMIN. CODE tit. 40, Part 19, Subchapter S, Div. 1 §§ 746.3703(d) (1995) &amp; 747.3503(d) (1990).</Citation>
+<Description>Smoking is prohibited by regulation in licensed child care centers and in childcare homes, and tobacco and e-cigarette use is prohibited by law on K-12 school property. Smoking and e-cigarette use is restricted to designated areas in specific public places, including: elevators, enclosed theaters or movie houses, libraries, museums, transit systems or intrastate buses, planes, and trains. Smoking and e-cigarette use is allowed in most other public places and workplaces, including restaurants and bars.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. PENAL CODE ANN. § 48.01 (2015).</Citation>
+<Description>Smoking and e-cigarette use is allowed in most public places and workplaces, so places where smoking is prohibited by state law are the exception. A specific exception is made for a participant in an authorized theatrical performance.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; cities in Texas can pass stronger laws/ordinances further restricting smoking.  Counties are prohibited from passing laws such as these in general.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>TEX. PENAL CODE ANN. § 48.01 (2015).</Citation>
+<Description>Smoking and e-cigarette use is restricted to designated areas in certain places owned by state or local government, including libraries, museums and certain forms of public transit.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Description>The board of trustees of schools districts shall: 1) prohibit smoking or using e-cigarettes or tobacco products at a school-related or school-sanctioned activity on or off school property; (2) prohibit students from possessing e-cigarettes or tobacco products at a school-related or school-sanctioned activity on or off school property; and (3) ensure that school personnel enforce the policies on school property. School districts are also required to publish in student handbooks or on school district&apos;s Internet websites if they have and enforce the above required policies. 
+TX EDUC. CODE §§ 28.004(k)(C) &amp; 38.006 (2015).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Description>Smoking is prohibited in licensed child-care centers, and on the premises, on the playground, in transportation vehicles, or during field trips of, or sponsored by, these facilities.
+TX ADMIN. CODE tit. 40, Part 19, Subchapter S, Div. 1 § 746.3703(d) (1995).
+
+Smoking is prohibited during operating hours in any childcare home, and in the garage, on the playground, in transportation vehicles, or during field trips of, or sponsored by, these facilities.
+TX ADMIN. CODE tit. 40, Part 19, Subchapter S, Div. 1 § 747.3503(d) (1990).
+
+Smoking is prohibited in foster homes by caregivers and other adults, and in motor vehicles while transporting foster children.  Foster children may not use or possess tobacco products.
+TX ADMIN. CODE tit. 40, Part 19, Subchapter O, Div. 2 § 749.2931 (2007).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>TEX. PENAL CODE ANN. § 48.01 (2015).</Citation>
+<Description>Smoking and e-cigarette use is restricted to designated areas in hospitals.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. PENAL CODE ANN. § 48.01 (2015).</Citation>
+<Description>It is a defense to prosecution under the state law restricting smoking that the conveyance or public place in which the offense takes place does not have prominently displayed a reasonably sized notice that smoking is prohibited by state law and that an offense is punishable by a fine not to exceed $500. Facilities to extinguish smoking materials shall be provided in all conveyances and public places where smoking is restricted and it is also a defense to prosecution if a place is not so equipped. A person who smokes in a nonsmoking area is punishable as a Class C misdemeanor.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. §§ 161.601 to 161.614 (2017).</Citation>
+<Description>Tax rate per pack of 20: $1.41  
+Date last changed: January 1, 2007 -- from 41 cents to $1.41 
+Year first enacted: 1931
+TEX. TAX CODE ANN. § 154.021 (2007).
+
+In addition to the cigarette tax, a fee is established on cigarettes and cigarette products sold by manufacturers that did not sign on to Texas&apos; tobacco settlement agreement of 55 cents per pack of 20 during calendar year 2013. The fee is indexed to inflation and will increase annually each year in January as specifed taking effect February 1st of that year. The purposes for the fee are also outlined, see section 161.601 Texas Health and Safety Code for details.</Description>
+<NumericValue>1.41</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. TAX CODE ANN. §§ 154.601 to 154.6035 (2006).</Citation>
+<Description>Cigarette tax revenue can be appropriated to the State Comptroller for the administration and enforcement of cigarette tax laws.  After that transfer, varying amounts of the remaining revenue is distributed to the Foundation School Fund, Property Tax Relief Fund and state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>1298772000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. TAX CODE ANN. §§ 154.601 to 154.6035 (2006).</Citation>
+<Description>The legislature can appropriate cigarette tax revenue to the state Comptroller deposited to the credit of the Treasury Fiscal Agency Fund for the printing of tax stamps and for the administration and enforcement of cigarette tax laws.  After that transfer, remaining revenue from 4 cents of the cigarette tax is distributed 18.75 percent to the Foundation School Fund and 81.25 percent to the state general revenue fund.  Revenue from an additional 37 cents of the cigarette tax is distributed to the state general revenue fund.  Revenue from the remaining $1.00 of the cigarette tax shall be deposited to the credit of the Property Tax Relief Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. TAX CODE ANN. §§ 155.021 (1991) &amp; 155.0211 (2009).</Citation>
+<Description>Cigars: 1) one cent per 10 or fraction of 10 on cigars weighing less than three pounds per thousand; 2) $7.50 to $15 per 1,000 on cigars that weigh more than three pounds per thousand depending on their factory list price and whether they contain a substantial amount of non-tobacco ingredients;
+All other tobacco products: $1.22/oz. and a proportionate rate on all fractional parts of an ounce; the tax on a can or package that weighs less than 1.2 ounces is equal to the tax on a can or package that weighs 1.2 ounces (rate changes annually on September 1 the next 4 years).</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. TAX CODE ANN. §§ 155.241 (1982) &amp; 155.2415 (2009).</Citation>
+<Description>The proceeds from taxes on cigars and tobacco products other than cigars is distributed to the state general revenue fund,  Property Tax Relief Fund or the physician education loan repayment account.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. TAX CODE ANN. §§ 155.241 (1982) &amp; 155.2415 (2009).</Citation>
+<Description>The proceeds from taxes on cigars and tobacco products other than cigars is distributed: 1) the revenue attributable to 35.213 percent of the manufacturers list price if the tax was imposed in that manner to the state general revenue fund; 2) the revenue attributable to 4.787 percent of the manufacturers list price if the tax was imposed in that manner to the credit of the Property Tax Relief Fund; and 3) all remaining revenue to the physician education loan repayment account.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1291</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.088 (2015).</Citation>
+<Description>The state Comptroller may make block grants to counties and municipalities to be used by local law enforcement agencies to enforce state youth access and sales to minors&apos; laws, including by delivery sale. At least annually, random, unannounced inspections of various locations where cigarettes, e-cigarettes or tobacco are sold or delivered, including by delivery sale shall be conducted. The Comptroller shall rely to the fullest extent possible on local law enforcement agencies. Persons under age 18 may be used in compliance checks if they meet certain requirements, including having written parental consent, they are younger than 17, and they have an appearance that would cause a reasonably prudent retailer to request identification or proof of age.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.0825 (2015).</Citation>
+<Description>A person commits an offense if the person, with criminal negligence, sells, gives, or causes to be sold or given a cigarette, e-cigarette or tobacco product to someone who is younger than 18 years of age; or to another person who intends to deliver it to someone who is younger than 18 years of age. Violation is a Class C misdemeanor. It is a defense to prosecution that the person to whom the cigarette, e-cigarette or tobacco product was sold or given presented to the defendant proof of identification. If the offense under this section occurs in connection with a sale by an employee of the owner of a store in which cigarettes, e-cigarettes or tobacco products are sold at retail, the employee is criminally responsible for the offense and is subject to prosecution.
+TEX. HEALTH &amp; SAFETY CODE ANN. § 161.082 (2015).
+
+A person may access electronically readable information on a driver&apos;s license, commercial driver&apos;s license, or identification certificate for the purpose of complying with Section 161.082 above. It is an affirmative defense to prosecution under Section 161.082 above if: (1) a transaction scan device identified a license or certificate as valid and the defendant accessed the information and relied on the results in good faith; or (2) if the defendant is the owner of a store in which cigarettes, e-cigarettes, or tobacco products are sold at retail and the offense occurs in connection with a sale by an employee of the owner, and the owner had provided the employee with a transaction scan device in working condition; and adequate training in the use of the transaction scan device. Information accessed under this section may not be sold or otherwise disseminated to a third party for any purpose, including any marketing, advertising, or promotional activities.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.084 (2015).</Citation>
+<Description>Each person who sells cigarettes, e-cigarettes or tobacco products at retail shall post a sign in a location that is conspicuous to all employees and customers and that is close to the place at which such products may be purchased. The sign must state: &quot;PURCHASING OR ATTEMPTING TO PURCHASE E-CIGARETTES OR TOBACCO PRODUCTS BY A MINOR UNDER 18 YEARS OF AGE IS PROHIBITED BY LAW. SALE OR PROVISION OF E-CIGARETTES OR TOBACCO PRODUCTS TO A MINOR UNDER 18 YEARS OF AGE IS PROHIBITED BY LAW. UPON CONVICTION, A CLASS C MISDEMEANOR, INCLUDING A FINE OF UP TO $500, MAY BE IMPOSED. VIOLATIONS MAY BE REPORTED TO THE TEXAS COMPTROLLER&apos;S OFFICE BY CALLING A TOLL-FREE TELEPHONE NUMBER. PREGNANT WOMEN SHOULD NOT SMOKE.  SMOKERS ARE MORE LIKELY TO HAVE BABIES WHO ARE BORN PREMATURE OR WITH LOW BIRTH WEIGHT.&quot; Violation is a Class C misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. §§ 161.252 to 161.256 (2015).</Citation>
+<Description>An individual who is younger than 18 years of age commits an offense if the individual possesses, purchases, consumes, or accepts a cigarette, e-cigarette or tobacco product; or falsely represents himself or herself to be 18 years of age or older by displaying proof of age that is false, fraudulent, or not actually proof of the individual&apos;s own age in order to obtain possession of, purchase, or receive such products. Exceptions are if the person under 18 is with an adult parent, guardian, or spouse of the individual; if it is a requirement of the minor&apos;s employment; or if the minor is participating in a compliance check. A violation is punishable by a fine not to exceed $250. Upon conviction, a court shall suspend execution of the sentence and require the youth to attend a tobacco or e-cigarette awareness program approved by the commissioner or if the program is not available, eight to 12 hours of tobacco or e-cigarette-related community service. The court may require the parent or guardian of the defendant to attend the tobacco or e-cigarette awareness program with the youth. If the tobacco awareness program or community service requirement is completed satisfactorily, the fine will be reduced or eliminated. The court may also suspend or deny issuance of a driver&apos;s license or permit for up to 180 days, if the youth does not demonstrate they have completed the tobacco awareness program or community service requirement.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TX HEALTH &amp; SAFETY CODE ANN. § 161.086 (2015).</Citation>
+<Description>A retailer or other person may not offer cigarettes, e-cigarettes or tobacco products for sale in a manner that permits a customer direct access to such products. This does not apply to a facility or business that is not open to persons younger than 18 years of age at any time, that part of a facility or business that is a humidor or other enclosure designed to store cigars in a climate-controlled environment or a premises for which a person holds a package store permit issued under the Alcoholic Beverage Code.  Violation is a Class C misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A person may not mail or ship cigarettes or e-cigarettes as defined in connection with a delivery sale unless before mailing or shipping the cigarettes or e-cigarettes the person accepting the delivery sale order complies with: 1) specific age verification requirements under section 161.453 Texas Health and Safety Code, including a certification from the consumer and verification by the seller before delivery; 2) specific disclosure requirements under section 161.454 Texas Health and Safety Code; 3) specific shipping requirements under section 161.455 Texas Health and Safety Code, including for cigarettes use of a delivery service that requires a signature on delivery and a photo identification; 4) specific registration and reporting requirements under section 161.456 Texas Health and Safety Code; and 5) for cigarettes specific tax collection requirements. General violation of these provisions is a Class C misdemeanor for the first violation, and a Class B misdemeanor for subsequent violations. A knowing violation or someone who knowingly submits a certification in another person&apos;s name is a third degree felony. Failure to collect taxes is a civil penalty of five times the value of the cigarettes involved in addition to any other penalty.
+TEX. HEALTH &amp; SAFETY CODE §§ 161.451 et seq. (2015).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Employees engaged in the retail sale of cigarettes, e-cigarettes or tobacco products, must sign a form within 72 hours of beginning to engage in such sales stating that certain aspects of state law regarding sales of such products to persons under age 18 has been fully explained to them and that they agree to comply with the law. Violation of this requirement is a Class C misdemeanor. It is a defense to prosecution to show proof that the employee did complete, sign and date the forms required.
+TEX. HEALTH &amp; SAFETY CODE ANN. § 161.085 (2015).</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.089 (1997).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are specifically allowed, see below.
+
+This subchapter does not preempt  local regulation of the sale, distribution, or use of cigarettes or tobacco products or affect the authority of a political subdivision to adopt or enforce an ordinance or requirement relating to the sale, distribution, or use of cigarettes or tobacco products if the regulation, ordinance, or requirement is compatible with and equal to or more stringent than a requirement prescribed by this subchapter or relates to an issue that is not specifically addressed by this subchapter.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.087 (2015).</Citation>
+<Description>A person is prohibited from distributing a free sample of a cigarette, e-cigarette or tobacco product, or a coupon that may be redeemed for a free or discounted cigarette, e-cigarette or tobacco product to persons younger than 18 years of age.  A person, including a pemit holder, may not accept or redeem, offer to accept or redeem, or hire a person to accept or redeem a coupon or other item that the recipient may use to receive a free or discounted cigarette, e-cigarette, or tobacco product or a sample cigarette, e-cigarette, or tobacco product if the recipient is younger than 18 years of age. A coupon or other item that such a recipient may use to receive a free or discounted products or a sample products may not be redeemable through mail or courier delivery. Violation is a Class C misdemeanor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. TAX CODE ANN. §§ 154.0415 &amp; 154.501 (2001).</Citation>
+<Description>It is an offense to sell cigarettes in quantities of less than an individual package containing at least 20 cigarettes.  Violation is subject to a fine of $100.  
+TEX. TAX CODE ANN. § 154.504 (1997).
+
+A person may not affix a cigarette tax stamp to a package of cigarettes if the package does not comply with the Federal Cigarette Labeling and Advertising Act for the placement of labels, warnings, or any other information for a package of cigarettes to be sold within the United States.  Each violation is subject to a penalty of up to $2,000, and each day on which a violation occurs is a separate offense.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.089 (1997).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are specifically allowed, see below.
+
+This subchapter does not preempt  local regulation of the sale, distribution, or use of cigarettes or tobacco products or affect the authority of a political subdivision to adopt or enforce an ordinance or requirement relating to the sale, distribution, or use of cigarettes or tobacco products if the regulation, ordinance, or requirement is compatible with and equal to or more stringent than a requirement prescribed by this subchapter or relates to an issue that is not specifically addressed by this subchapter.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.086 (2015).</Citation>
+<Description>Cigarette, e-cigarette or tobacco product vending machines are restricted to facilities that are not open to persons younger than 18 years of age at any time and premises for which a person holds a package store permit issued under the Alcoholic Beverage Code.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.086 (2015).</Citation>
+<Description>Violation of the restrictions on placement of cigarette, e-cigarette or tobacco product vending machines is a Class C misdemeanor.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.084 (2015).</Citation>
+<Description>Each person who sells cigarettes, e-cigarettes or tobacco products by vending machine shall post a sign in a location that is conspicuous to all employees and customers and that is close to the place at which such products may be purchased. The sign must state: &quot;PURCHASING OR ATTEMPTING TO PURCHASE E-CIGARETTES OR TOBACCO PRODUCTS BY A MINOR UNDER 18 YEARS OF AGE IS PROHIBITED BY LAW. SALE OR PROVISION OF E-CIGARETTES OR TOBACCO PRODUCTS TO A MINOR UNDER 18 YEARS OF AGE IS PROHIBITED BY LAW. UPON CONVICTION, A CLASS C MISDEMEANOR, INCLUDING A FINE OF UP TO $500, MAY BE IMPOSED. VIOLATIONS MAY BE REPORTED TO THE TEXAS COMPTROLLER&apos;S OFFICE BY CALLING A TOLL-FREE TELEPHONE NUMBER. PREGNANT WOMEN SHOULD NOT SMOKE.  SMOKERS ARE MORE LIKELY TO HAVE BABIES WHO ARE BORN PREMATURE OR WITH LOW BIRTH WEIGHT.&quot;  Violation is a Class C misdemeanor.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.089 (1997).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are specifically allowed, see below.
+
+This subchapter does not preempt  local regulation of the sale, distribution, or use of cigarettes or tobacco products or affect the authority of a political subdivision to adopt or enforce an ordinance or requirement relating to the sale, distribution, or use of cigarettes or tobacco products if the regulation, ordinance, or requirement is compatible with and equal to or more stringent than a requirement prescribed by this subchapter or relates to an issue that is not specifically addressed by this subchapter.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. TAX CODE ANN. §§ 154.101 to 154.111 (2001) &amp; 155.041 to 155.049 (2001).</Citation>
+<Description>A person may not engage in business as a distributor, wholesaler, manufacturer or retailer of cigarettes or other tobacco products unless they have received the proper permit from the state Comptroller. The definition of &quot;retailer&quot; includes selling cigarettes through a vending machine. A separate permit is required for each place of business. Permits expire on the last day of February of each year, except a retailer&apos;s permit which expires on the last day of May of each even-numbered year. Combination permits for cigarettes and other tobacco products are available.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. TAX CODE ANN. §§ 154.111&amp; 155.049 (2001).</Citation>
+<Description>Retail cigarette or other tobacco product permit: $180 every two years; 
+Distributor&apos;s cigarette or other tobacco product permit: $300 annually;
+Wholesaler&apos;s cigarette or other tobacco product permit: $300 annually</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A sign containing an advertisement for cigarettes or tobacco products may not be closer than 1,000 feet to a church or public or private school.  A sign is defined as an outdoor medium, including a structure, display, light device, figure, painting, drawing, message, plaque, poster, or billboard that is used to advertise or inform and visible from the main-traveled way of a street or highway.  This section does not apply to a sign located on or in a facility owned or leased by a professional sports franchise; a sign in a facility where professional sports events are held at least 10 times during a 12 month period; a sign that, before September 1, 1997, was located closer than 1,000 feet to a church or school but that was not located closer than 500 feet to the church or school.  A purchaser of advertising must pay a fee that is 10 percent of the gross sales price of any outdoor advertising of cigarettes and tobacco products in this state.  Violation is a Class C misdemeanor.
+TEX. HEALTH &amp; SAFETY CODE §§ 161.121 to 161.125 (1997).
+
+Note: Enforcement of the above provisions may be affected by the U.S. Supreme Court decision in Lorillard Tobacco Company v. Reilly, decided in 2001.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE §§ 161.352 to 161.355 (1999).</Citation>
+<Description>Each manufacturer shall file with the Department of Health an annual report for each cigarette or tobacco product distributed in this state, stating the identity of each ingredient in the cigarette or tobacco product listed in descending order according to weight, measure, or numerical count, other than: tobacco; water; or reconstituted tobacco sheet made wholly from tobacco.  They shall also report the nicotine yield rating for the cigarette or tobacco product.  This section does not require a manufacturer to disclose the specific amount of any ingredient in a cigarette or tobacco product if that ingredient has been approved as safe when burned and inhaled by the United States Food and Drug Administration or a successor entity.   Each manufacturer shall also assign a nicotine yield rating to each cigarette or tobacco product distributed in the state.  The department standards must be developed so that the nicotine yield rating reflects, as accurately as possible, nicotine intake for an average consumer of the cigarette or tobacco product.  The information included in these reports is public information and is not confidential, unless it is determined by the Attorney General that it&apos;s disclosure would constitute an unconstitutional taking of property; if the department determines that there is no reasonable scientific basis for concluding that the availability of the information could reduce risks to public health; or the information is determined a trade secret under state or federal law.  Failing to file the required report can result in a prohibition on the sale or distribution in this state of a cigarette or tobacco product manufactured by the manufacturer by court order.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. CIVIL PRACTICE &amp; REMEDIES CODE § 52.006 (2003).</Citation>
+<Description>When a judgment is for money, the amount of security to suspend execution of the judgment during appeal of the judgment must equal the sum of costs and compensatory damages awarded in the judgment and interest from the expected duration of appeal except the security required to be posted cannot exceed 50 percent of the judgment debtor&apos;s net worth or $25 million, whichever is less.  On a showing by the judgment debtor that the judgment debtor is likely to suffer substantial economic harm if required to post security in the required amount the trial court shall lower the amount of the security to an amount that will not cause the judgment debtor substantial economic harm.  Nothing in this section prevents a trial court from enjoining the judgment debtor from dissipating or transferring assets to avoid satisfaction of the judgment, but the trial court may not make any order that interferes with the judgment debtor&apos;s use, transfer, conveyance, or dissipation of assets in the normal course of business.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A tobacco settlement endowment was created with the tobacco settlement monies.  The interest from the endowment, about $10 million a year, is supposed to be spent on a tobacco prevention program.  
+TEX. GOV&apos;T CODE ANN. §§ 403.1041 et seq. &amp; TEX. HEALTH &amp; SAFETY CODE § 12.131 (1999).
+
+Note: Texas was one of four states that settled its lawsuit with the tobacco industry separately prior to the Master Settlement Agreement in 1998.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>474600000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Texas&apos; tobacco control program comes from state tobacco settlement dollars and the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018-FY2019 Biennial Budget (S.B. 1) enacted 6/12/17 and effective 9/1/17 (FY2018) &amp; 9/1/18 (FY2019).</Citation>
+<Description>Texas allocated $4,426,017 for tobacco prevention and cessation programs in FY2018 (September 1, 2017 to August 31, 2018). In FY2017, $10,223,000 was allocated. This is the first year of the FY2018-FY2019 biennium.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>4426017</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. §§ 161.301 &amp; 161.302 (2015).</Citation>
+<Description>The Texas Department of State Health Services shall develop and implement a public awareness campaign designed to reduce the use of tobacco and e-cigarettes as defined by persons under age 18. The campaign may use advertisements or similar media to provide educational information about tobacco and e-cigarette use. The entity administering the public awareness campaign above shall develop and implement a grant program to support youth groups that include as a part of the group&apos;s program components the reduction of tobacco and e-cigarette use by the group’s members.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. §§ 796.001 to 796.017 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, a cigarette may not be sold or offered for sale in Texas unless: 1) the cigarette has been tested and meets the performance standard in accordance with section 796.003 Texas Health &amp; Safety Code; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 796.005 Texas Health &amp; Safety Code; and 3) the cigarette has been marked in accordance with section 796.006 Texas Health &amp; Safety Code.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. §§ 796.001 to 796.017 (2009).</Citation>
+<Description>A person who knowingly violates this chapter or a rule adopted under this chapter is subject to a civil penalty in the following amounts: if the person is a manufacturer, wholesale dealer, or agent knowingly selling or offering to sell a cigarette in violation of this chapter, a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale, but not more than $100,000 for all violations occurring within a 30-day period; if the person is a retailer knowingly selling or offering to sell a cigarette in violation of this chapter, a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale, but not more than $25,000 for all violations occurring within a 30-day period; and if the person knowingly makes a false certification under Section 796.005, a civil penalty not to exceed $75,000 for a first violation or $250,000 for a second or subsequent violation.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TEX. HEALTH &amp; SAFETY CODE ANN. § 161.083 (2015).</Citation>
+<Description>A person may not sell, give, or cause to be sold or given a cigarette, e-cigarette or tobacco product to someone who is younger than 27 years of age unless the person to whom the product was sold or given presents an apparently valid proof of identification. A proof of identification satisfies this requirement if it contains a physical description and photograph consistent with the person&apos;s appearance, purports to establish that the person is 18 years of age or older, and was issued by a governmental agency. The proof of identification may include a driver&apos;s license issued by this state or another state, a passport, or an identification card issued by a state or the federal government. A retailer shall adequately supervise and train the retailer&apos;s agents and employees to prevent a violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $4,426,017 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018-FY2019 Biennial Budget (S.B. 1) enacted 6/12/17 and effective 9/1/17 (FY2018) &amp; 9/1/18 (FY2019).
+
+	E-Cigarettes/Tobacco Prevention Programs: Add e-cigarette prevention to public school instruction as part of the local school health advisory council&apos;s duties.
+S.B. 489 enacted and effective 5/28/17.
+
+Tobacco Taxes: Makes several changes to tobacco tax laws, including exempting cigarettes used exclusively for research purposes from the cigarette tax and specifying when the adjusted fee on tobacco product manufacturers that did sign Texas’ tobacco settlement agreement takes effect.
+S.B. 1390 enacted 5/18/17 and effective 9/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $1,298,772,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Texas</Name>
+<Abbrev>TX</Abbrev>
+<FipsCode>48</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $4,426,017
+
+FY2018 Federal Funding for State Tobacco Control Programs: $4,526,373*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $8,952,390
+
+Funding Level Recommended by CDC:                                        $264,100,000
+
+Percentage of CDC-Recommended Level:                                   3.4%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>44</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

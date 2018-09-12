@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:14:08">
+<tblStatesALA>
+<ID>34</ID>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<LegislatureHyperlink>#http://www.ncga.state.nc.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. §§ 130A-491 to 130A-498 (2010), 115C-407 (2007), 131D-4.4 (2007) &amp; 131E-114.3 (2007).</Citation>
+<Description>Smoking is prohibited in several specific types of public places in North Carolina, including public schools, state government buildings and vehicles, long-term care facilities and all restaurants and bars.  The use of tobacco products is also prohibited completely in and on the grounds of public schools and in state correctional facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. §§ 130A-491 to 130A-498 (2010), 115C-407 (2007), 131D-4.4 (2007) &amp; 131E-114.3 (2007).</Citation>
+<Description>Specific exceptions to the law include: 1) up to 20 percent of rooms in lodging establishments; 2) cigar bars as specified and defined; and 3) private clubs as defined.  Smoking is also allowed in private workplaces as well as most public places and workplaces not listed above.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 130A-498 (2010).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are allowed in some public places and local government buildings, but not in private workplaces and the specific places/vehicles listed below.
+
+Except as specified, a local government may adopt and enforce ordinances, board of health rules, and policies restricting or prohibiting smoking that are more restrictive than state law and that apply in local government buildings, on local government grounds, in local vehicles, or in public places.  However, the definitions in North Carolina General Statutes section 130A-492 apply to local laws.  Local laws or policies cannot restrict or prohibit smoking in: 1) a private residence; 2) a private vehicle; 3) a tobacco shop as specified; 4) all of the premises, facilities, and vehicles owned, operated, or leased by any tobacco products processor or manufacturer, or any tobacco leaf grower, processor, or dealer; 5) smoking guest rooms in lodging establishments; 6) a cigar bar as specified and defined in state law; 7) a private club as defined in state law; 8) the actors or performers portraying the use of tobacco products on a motion picture, television, theater, or other live production set.  Penalties and enforcement must be the same as state law as well.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 148-23.1 (2010).</Citation>
+<Description>Smoking is prohibited inside state government buildings and state vehicles as provided in this section.  State government building is defined as a building owned, leased as lessor, or the area leased as lessee and occupied by state government. This includes all agencies of the executive, legislative and judicial branches of government.  As to smoking rooms in residence halls that were permitted by North Carolina General Statutes section 143-597(a)(6), this law becomes effective beginning with the 2008-2009 academic year.  Smoking is permitted inside state government buildings that are used for medical or scientific research to the extent that smoking is an integral part of the research, and is confined to the area where the research is being conducted.  The individual in charge of the state government building or assigning the vehicle or the individual&apos;s designee shall post signs in conspicuous areas of the building or vehicles.  This does not apply to vehicles used in undercover operations.
+N.C. GEN. STAT. §§ 130A-491 to 130A-495 (2010).
+
+No person may use or possess tobacco products on the premises of a state correctional facility, except for authorized religious purposes.  Tobacco products are also allowed to be kept in locked cars in facility parking lots by employees or visitors.  Any person who knowingly gives or sells tobacco products to an inmate except for authorized religious purposes is guilty of a Class 1 misdemeanor.  Inmates in violation of this section are subject to disciplinary measures to be determined by the department, including the potential loss of sentence credits earned prior to that violation.  Employees in violation are subject to disciplinary action by the department.  Visitors in violation are subject to removal from the facility and loss of visitation privileges.  Inmates in local confinement facilities that possess tobacco products, except for authorized religious purposes are also guilty of a Class 1 misdemeanor.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 115D-20.1 (2008).</Citation>
+<Description>No later than August 1, 2008, local boards of education shall adopt, implement and enforce a written policy prohibiting the use of all tobacco products by any person, in school buildings, in school facilities, on school campuses, and on any property owned by the local school administrative unit.  Tobacco use shall also be prohibited by persons attending a school-sponsored event at a location not listed above when in the presence of students or school personnel or in an area where smoking is otherwise prohibited by law.  The policy may permit tobacco products to be included in instructional or research activities in public school buildings if the activity is conducted or supervised by the faculty member overseeing the instruction or research and the activity does not include smoking, chewing, or otherwise ingesting the tobacco product.  Nothing in this section or any other section prohibits a local board of education from adopting and enforcing a more restrictive policy on the use of tobacco in school buildings, in school facilities, on school campuses, or at school-related or school-sponsored events, and in or on other school property.
+N.C. GEN. STAT. § 115C-407 (2007).
+
+Smoking is prohibited in state government buildings, including any facilities of state-supported colleges/universities.  This specifically includes residence halls starting in the 2008-2009 academic year.
+N.C. GEN. STAT. §§ 130A-491 to 130A-495 (2009).
+
+Local community college boards of trustees may adopt, implement, and enforce a written policy prohibiting at all times the use of any tobacco product by any person in community college buildings, in community college facilities, on community college campuses, in vehicles owned, leased, or operated by the local community college, and in or on any other community college property owned, leased, or operated by the local community college. The policy may also prohibit the use of all tobacco products by persons attending a community college-sponsored event.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>10A NC ADMIN CODE § 09.0604(g) (2007).</Citation>
+<Description>Smoking is not permitted in child care programs, including home-based child care programs, in space used by children when children are present.  All smoking materials shall be kept in locked storage or out of the reach of children.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. §§ 131D-4.4 &amp; 131E-114.3 (2007).</Citation>
+<Description>Smoking is prohibited in long-term care facilities, which include adult care homes, nursing homes, skilled nursing facilities, facilities licensed under Chapter 122C of the North Carolina General Statutes, and other licensed facilities that provide long-term care services.  The person who owns, manages, operates, or otherwise controls a long-term care facility shall conspicuously post the appropriate signs indicating smoking is prohibited, ask anyone smoking inside to stop and provide written notice to people upon admittance that smoking is prohibited.  The Department may impose an administrative penalty not to exceed $200 for violation.
+
+Note: Although not required to by law, as of May 2011, 129 hospitals, including all acute-care hospitals, in North Carolina, have put in place policies prohibiting tobacco use completely on their campuses/property indoors and outdoors.  For more information visit NC Prevention Partners website at www.ncpreventionpartners.org.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 130A-496 (2010).</Citation>
+<Description>Smoking is prohibited in all enclosed areas of restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 130A-496 (2010).</Citation>
+<Description>Smoking is prohibited in all enclosed areas of bars.  Cigar bars as defined are exempt if smoke from the cigar bar does not migrate into an enclosed area where smoking is prohibited.  Cigar bars that open after July 1, 2009 must be in a freestanding structure occupied solely by the cigar bar.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. §§ 130A-22(h1) &amp; 130A-497 (2010).</Citation>
+<Description>A person who manages, operates, or controls a restaurant or bar in which smoking is prohibited shall: 1) conspicuously post signs clearly stating that smoking is prohibited; 2) remove all indoor ashtrays and other smoking receptacles; and 3) direct a person who is smoking to extinguish the lighted tobacco product.  Continuing to smoke in a nonsmoking area is an infraction subject to a fine of not more than $50.  Local health directors may impose administrative penalties on persons who manage, operate, or control a public place or place of employment and fail to comply with state or local laws on smoking as follows: for the first and second violations written notices of violation and for third and subsequent violations an administrative penalty of not more than $200.  Each day on which a violation occurs is a separate offense.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 105-113.5 (2009).</Citation>
+<Description>Tax rate per pack of 20: 45 cents
+Date last changed: September 1, 2009 -- from 35 cents to 45 cents
+Year first enacted: 1969</Description>
+<NumericValue>0.45</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Information not available currently.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>261759000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 105-113.35(a) (2009).</Citation>
+<Description>All other tobacco products: 12.8% of the cost price of the products.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 105-113.40A (2014).</Citation>
+<Description>Revenue from three percent of the tax on the cost price of tobacco products, including vapor products, is deposited in the state general fund, and the revenue from the remaining 9.8 percent of the tax on the cost price of tobacco products is deposited in the University Cancer Research Fund established pursuant to North Carolina General Statute section 116-29.1.  Revenue from the separate vapor products tax is deposited in the state General Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(d) (2013).</Citation>
+<Description>The Division of Alcohol Law Enforcement of the Department of Crime Control and Public Safety is designated as the state agency, in coordination with local police and sheriffs&apos; departments, and the Department of Health and Human Services to implement model education and enforcement of North Carolina General Statute section 14-313.  The standard model of education and enforcement shall include: merchant education; age-testing of youth volunteers involved in enforcement; providing public notice of upcoming enforcement operations; conducting vending machine and retail enforcement; issuing warning notices or citations; public recognition for good behavior; and advising communities of the results of enforcement.  
+N.C. Exec. Order 123 (1997).
+
+If any person shall knowingly send or assist a person less than 18 years old in purchasing, acquiring, or receiving tobacco products, including tobacco-derived products or vapor products as defined, or cigarette wrapping papers, the person shall be guilty of a Class Two misdemeanor.  However, persons under 18 may be enlisted by police or local sheriffs&apos; departments to test compliance if the testing is under the direct supervision of that law enforcement department and written parental consent is provided.  The Department of Health and Human Services shall also have the authority, pursuant to a written plan prepared by the secretary, to use persons under 18 years of age in annual, random, unannounced inspections, provided that prior written parental consent is given for the involvement of these persons and that the inspections are conducted for the sole purpose of preparing a scientifically and methodologically valid statistical study of the extent of success the state has achieved in reducing the availability of tobacco products to persons under the age of 18, and preparing any report to the extent required by federal law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(b) (2013).</Citation>
+<Description>If any person shall distribute, or aid, assist, or abet any other person in distributing tobacco products, the definition of which includes tobacco-derived products or vapor products as defined, or cigarette wrapping papers to any person under the age of 18 years, or if any person shall purchase tobacco products on behalf of a person under the age of 18 years, the person shall have committed a Class Two misdemeanor; provided, that it shall not be unlawful to distribute tobacco products or cigarette wrapping papers to an employee when required in the performance of the employee&apos;s duties. Retail distributors of tobacco products or cigarette wrapping papers shall train their sales employees in the requirements of this law. Proof that the defendant demanded, was shown, and reasonably relied upon proof of age, or the defendant relied on the electronic system established by the Division of Motor Vehicles or relied on a biometric identification system as specified shall be a defense to any action brought under this subsection.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(b) (2013).</Citation>
+<Description>Retail distributors of tobacco products shall prominently display near the point of sale a sign in letters at least five-eighths of an inch high which states the following: &quot;N.C. LAW STRICTLY PROHIBITS THE PURCHASE OF TOBACCO PRODUCTS, TOBACCO-DERIVED PRODUCTS, VAPOR PRODUCTS AND CIGARETTE WRAPPING PAPERS BY PERSONS UNDER THE AGE OF 18. PROOF OF AGE REQUIRED.&quot; Failure to post the sign will result in a fine of $25 for the first violation and $75 for each succeeding violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(c) (2013).</Citation>
+<Description>If a person under the age of 18 purchases or accepts receipt, or attempts to purchase or accept receipt, of tobacco products, including tobacco-derived products or vapor products as defined, or cigarette wrapping papers, or presents or offers to any person any purported proof of age which is false, fraudulent, or not actually their own, for the purpose of purchasing or receiving any tobacco product or cigarette wrapping papers, the person shall be guilty of a Class Two misdemeanor; provided, however, that it shall not be unlawful for an employee to purchase or accept receipt of tobacco products or cigarette wrapping papers when required in the performance of the employee&apos;s duties.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(b2) (2013).</Citation>
+<Description>A person engaged in the distribution of tobacco products through the Internet or other remote sales methods shall perform an age verification through an independent, third-party age verification service that compares information available from public records to the personal information entered by the individual during the ordering process to establish that the individual ordering the tobacco products is 18 years of age or older.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(e) (2013).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are not allowed, see below.
+
+It is the intent of the General Assembly to prescribe this uniform system for the regulation of tobacco products, including tobacco-derived products and vapor products as defined, and cigarette wrapping papers to ensure the eligibility for and receipt of any federal funds or grants that the state now receives or may receive.  To ensure uniformity, no political subdivisions, boards, or agencies of the state nor any county, city, municipality, municipal corporation, town, township, village, nor any department or agency thereof, may enact ordinances, rules or regulations concerning the sale, distribution, display or promotion of tobacco products or cigarette wrapping papers on or after September 1, 1995 or concerning tobacco-derived products or vapor products on or after August 1, 2013.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-3139(b) (2013).</Citation>
+<Description>If any person shall furnish, give, or provide tobacco products, including vapor products and tobacco-derived products as defined, or cigarette wrapping papers, including tobacco product samples, at no cost for the purpose of promoting the product, to any person under the age of 18 years, the person shall be guilty of a Class Two misdemeanor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-401.18 (2002).</Citation>
+<Description>A person who sells or holds for sale a package of cigarettes that differs in any respect with the requirements of the Federal Cigarette Labeling and Advertising Act for the placement of labels, warnings, or any other information upon a package of cigarettes that is to be sold within the United States commits a Class A1 misdemeanor and engages in an unfair trade practice prohibited by North Carolina General Statute section 75‑1.1.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(e) (2013).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed, see below.
+
+It is the intent of the General Assembly to prescribe this uniform system for the regulation of tobacco products, including tobacco-derived products and vapor products as defined, and cigarette wrapping papers to ensure the eligibility for and receipt of any federal funds or grants that the state now receives or may receive.  To ensure uniformity, no political subdivisions, boards, or agencies of the state nor any county, city, municipality, municipal corporation, town, township, village, nor any department or agency thereof, may enact ordinances, rules or regulations concerning the sale, distribution, display or promotion of tobacco products or cigarette wrapping papers on or after September 1, 1995 or concerning tobacco-derived products or vapor products on or after August 1, 2013.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(b1) (2013).</Citation>
+<Description>Tobacco product vending machines, including vending machines that distribute tobacco-derived products, vapor products or components of vapor products, are restricted to any establishment which is open only to persons 18 years or older; or any establishment where the vending machine is under the continuous control of the owner or licensee of the premises or an employee thereof, can be operated only upon activation by the owner, licensee or employee prior to each purchase, and is not accessible to the public when the establishment is closed.  Vending machines distributing tobacco-derived products, vapor products, or components of vapor products in establishments not meeting the above conditions shall be removed prior to August 1, 2013.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(b1) (2013).</Citation>
+<Description>Violation of the restrictions on placement of tobacco product vending machines is a Class Two misdemeanor.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313 (2002).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product, including tobacco-derived product or vapor product as defined, vending machines are specifically allowed, see below.
+
+The regulation of vending machines is specifically exempted from statewide preemption.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 105-113.36 (1992).</Citation>
+<Description>No person shall engage in business as a distributor of cigarettes without obtaining a license from the Secretary of Revenue for each place of business. Distributing cigarettes without the appropriate license is a Class One misdemeanor.
+N.C. GEN. STAT. § 105-113.11 (1973).
+
+Retail dealers and wholesale dealers of tobacco products other than cigarettes must obtain a license for each place of business.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 105-113.12 (1991).</Citation>
+<Description>Cigarette distributors and wholesale dealers of other tobacco products: $25; 
+Retail dealers of other tobacco products: $10</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 95-28.2 (1991).</Citation>
+<Description>It is an unlawful employment practice for an employer to fail or refuse to hire a prospective employee, or discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the prospective employee or the employee engages in or has engaged in the lawful use of lawful products if the activity occurs off the premises of the employer during non-working hours and does not adversely affect the employee’s job performance or the person’s ability to properly fulfill the responsibilities of the position in question or the safety of the other employees.  It is not unlawful if the restriction relates to a bona fide occupational requirement and is reasonably related to the employment activities; if the restriction relates to the fundamental objectives of the organization; or if the employee fails to comply with the requirements of the employer&apos;s substance abuse prevention program.  This section shall not prohibit an employer from offering, imposing, or having in effect a health, disability, or life insurance policy distinguishing between employees for the type or price of coverage based on the use or nonuse of lawful products if differential rates assessed employees reflect actuarially justified differences in the provision of employee benefits; the employer provides written notice to employees setting forth the differential rates imposed by insurance carriers; and the employer contributes an equal amount to the insurance carrier on behalf of each employee of the employer.  The employee against whom the violation occurs may bring a civil action within one year from the date of the alleged violation against the employer to obtain lost wages or benefits, an order of reinstatement without loss or position, seniority, or benefits or an order directing the employer to offer employment to the prospective employee.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 1-289 (2000).</Citation>
+<Description>If the appellee in a civil action brought under any legal theory obtains a judgment directing the payment or expenditure of money in the amount of $25 million or more, and the appellant seeks a stay of execution of the judgment within the period of time during which the appellant has the right to pursue appellate review, including discretionary review and certiorari, the amount of the undertaking that the appellant is required to execute to stay execution of the judgment during the entire period of the appeal shall be $25 million.  If the appellee proves by a preponderance of the evidence that the appellant for whom the undertaking has been limited is, for the purpose of evading the judgment, (i) dissipating its assets, (ii) secreting its assets, or (iii) diverting its assets outside the jurisdiction of the courts of North Carolina or the federal courts of the United States other than in the ordinary course of business, then the limitation shall not apply and the appellant shall be required to make an undertaking in the full amount.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 143C-9-3 (2015).</Citation>
+<Description>All annual Master Settlement Agreement (MSA) payments are allocated to the Settlement Reserve Fund, which is established as a special fund in the Office of State Management and Budget. All proceeds from ongoing litigation between the states and tobacco companies are also deposted into the Settlement Reserve Fund. Of the funds credited to the Settlement Reserve Fund, $10 million each year is appropriated to The Golden L.E.A.F. (Long‑Term Economic Advancement Foundation), Inc., a nonprofit corporation. The remainder of the funds are credited to the state general fund and included in General Fund availability as non-tax revenue.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>141000000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances on smoking in private workplaces and other more specific locations and restricting youth access to tobacco products, except in relation to vending machines are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for North Carolina&apos;s tobacco control program comes from state general fund dollars.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018-FY2019 Biennial Budget (S.B. 257) enacted (by veto override) 6/28/17 and effective 7/1/17 (FY2018) and 7/1/18 (FY2019).</Citation>
+<Description>North Carolina appropriated $2,100,000 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $1,100,000 was allocated. This is the first year of FY2018-FY2019 biennium.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>2100000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. §§ 58-92-1 to 58-92-55 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection g of section 58-92-15 North Carolina General Statutes, no cigarettes may be sold or offered for sale in North Carolina or offered for sale or sold to persons located in North Carolina unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 58-92-15 North Carolina General Statutes; 2) a written certification has been filed by the manufacturer with the North Carolina Commissioner of Insurance in accordance with section 58-92-20 North Carolina General Statutes; and 3) the cigarettes have been marked in accordance with section 58-92-25 North Carolina General Statutes.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. §§ 58-92-1 to 58-92-55 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above requirements shall be subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties shall not exceed $100,000 in any 30-day period.  A retail dealer shall be subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.C. GEN. STAT. § 14-313(b) (2013).</Citation>
+<Description>A person engaged in the sale of tobacco products, the definition of which includes tobacco-derived products or vapor products as defined, or cigarette wrapping papers at retail or through a vending machine shall demand proof of age from a prospective purchaser if the person has reasonable grounds to believe that the prospective purchaser is less than 18 years of age. Failure to demand proof of age as required is a Class Two misdemeanor if in fact the prospective purchaser is under 18 years of age. &quot;Proof of age&quot; is defined as a driver&apos;s license or other photographic identification that includes the bearer&apos;s date of birth that purports to establish that the person is 18 years of age or older.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $2,100,000 in state funding for tobacco prevention and cessation initiatives in FY2018.
+FY2018-FY2019 Biennial Budget (S.B. 257) enacted (by veto override) 6/28/17 and effective 7/1/17 (FY2018) and 7/1/18 (FY2019).</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $261,759,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Carolina</Name>
+<Abbrev>NC</Abbrev>
+<FipsCode>37</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $2,100,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $3,309,154*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $5,409,154
+
+Funding Level Recommended by CDC:                                        $99,300,000
+
+Percentage of CDC-Recommended Level:                                   5.4%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>34</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

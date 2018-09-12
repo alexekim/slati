@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:14:33">
+<tblStatesALA>
+<ID>42</ID>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<LegislatureHyperlink>#http://legis.state.sd.us/index.cfm#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-13 to 34-46-19 (2010).</Citation>
+<Description>Smoking is prohibited in virtually all public places and places of employment, including restaurants, bars and casinos/gaming establishments.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-13 to 34-46-19 (2010).</Citation>
+<Description>Exceptions to the law include: 1) private residences except when used for day care; 2) sleeping rooms in hotels/motels as long as it is posted that smoking is allowed in the room; 3) licensed establishments that sell alcohol under certain conditions related to cigar smoking; and 4) retail tobacco stores under certain conditions, including generating 65 percent of its annual gross income from the sale of tobacco, tobacco products, and accessories for such products, and not allowing the consumption of alcoholic beverages on the premises.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 10-50-64 (1995).</Citation>
+<Description>The legislature is the exclusive regulator of all matters relating to the use of tobacco products.  Nothing prohibits a person or a public entity from voluntarily regulating the use of tobacco products on the person&apos;s or entity&apos;s property.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>EXEC. ORDER 92-10 (1992).</Citation>
+<Description>Smoking is prohibited in all places of employment, which includes all public workplaces.  
+S.D. CODIFIED LAWS §§ 34-46-13 to 34-46-19 (2010).
+
+By executive order, smoking is prohibited in all buildings owned, leased, or occupied by the executive branch and in all vehicles owned by the state.  Outdoor smoking areas may be established.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-13 to 34-46-19 (2010).</Citation>
+<Description>No person may smoke tobacco or carry any lighted tobacco product in any place of employment.  A place of employment is any enclosed indoor area under the control of a public or private employer.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-13 to 34-46-19 (2010).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, which includes all indoor areas of educational facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-13 to 34-46-19 (2010).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, including indoor areas of child care facilities.  Smoking is specifically prohibited in homes used for day care during their hours of operation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-13 to 34-46-19 (2010).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, including the indoor areas of health care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-13 to 34-46-19 (2010).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, which includes all indoor areas of restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-13 to 34-46-19 (2010).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, which includes all indoor areas of bars/taverns.  Smoking is allowed in certain licensed establishments that sell alcohol if they met on January 1, 2009 and continue to meet the following requirements: 1) generates 10 percent or more of its sales from cigars defined as having a wrapper or cover consisting only of tobacco, that measures a number 40 ring size or larger, and that is sold without a filter; 2) has a humidor on the premises; and 3) Is enclosed by solid walls or windows, a ceiling, and a solid door and is equipped with a ventilation system by which exhausted air is not re-circulated to nonsmoking areas.  Only cigars or premium tobacco products purchased on the premises may be smoked in such establishments.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Any person that owns, manages, operates, or otherwise controls a public place or place of employment shall inform persons violating the law of the provisions thereof.  Violation of the restrictions on smoking is a petty offense.  
+S.D. CODIFIED LAWS § 34-46-15 (2010).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 10-50-3 (2007).</Citation>
+<Description>Tax rate per pack of 20: $1.53 
+Date last changed:  January 1, 2007 -- from 53 cents to $1.53  
+Year first enacted: 1923</Description>
+<NumericValue>1.53</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 10-50-52 (2007) &amp; S.B. 187 enacted 3/26/14 and effective 7/1/14.</Citation>
+<Description>The first $30 million in cigarette tax revenue collected annually is deposited in the state general fund.  The remaining revenue is deposited in the Tobacco Prevention and Reduction Trust Fund where $5 million is used to implement the tobacco prevention and reduction program and the remaining revenue is split between the property tax reduction fund,  the Education Enhancement Tobacco Tax Fund and the Health Care Tobacco Tax Fund.  These allocations changed for FY2015, see more detailed information below.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>53546000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 187 enacted 3/26/14 and effective 7/1/14.</Citation>
+<Description>The first $30 million in cigarette tax revenue collected annually shall be deposited in the general fund.  All revenue in excess of $30 million collected annually shall be deposited in the Tobacco Prevention and Reduction Trust Fund.  Five million of the revenue deposited annually in the trust fund pursuant to this section shall be used to implement the tobacco prevention and reduction program. Thirty-three percent of any revenue deposited in the tobacco prevention and reduction trust fund in excess of five million shall be transferred to the property tax reduction fund.  Another 33 percent of any revenue deposited in the tobacco prevention and reduction trust fund in excess of five million shall be transferred to the Education Enhancement Tobacco Tax Fund. The remaining 34 percent of any revenue deposited in the tobacco prevention and reduction trust fund in excess of five million shall be transferred to the Health Care Tobacco Tax Fund.
+S.D. CODIFIED LAWS § 10-50-52 (2007).
+
+Note: In FY2015, $500,000 out of the $5 million dedicated to the tobacco prevention and reduction program from the Tobacco Prevention and Reduction Trust Fund, and all revenue dedicated to the Education Enhancement Tobacco Tax Fund and Health Care Tobacco Tax Fund were transferred to the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 10-50-61 (2014).</Citation>
+<Description>All other tobacco products: 35% of the wholesale purchase price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 10-50-52 (2007).</Citation>
+<Description>Revenue from the tax on other tobacco products is distributed the same way as cigarette tax revenue; see Use of Cigarette Tax Revenue sections above.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-3 (1994), 34-46-5.1 (1999) &amp; 34-46-20 (2014).</Citation>
+<Description>Each county&apos;s states attorney or the local law enforcement officer they designate shall annually conduct unannounced, random inspections at various locations where tobacco products are sold or distributed to ensure compliance with the law prohibiting sales of tobacco products to persons under age 18.  The definition of tobacco product includes vapor product as defined for the purposes of this section.  Persons under age 18 may be enlisted to test compliance if the testing is conducted under the supervision of the designated authority and written parental consent has been provided.  Any other use of persons under 18 to test compliance is unlawful and the responsible party shall be guilty of a Class Two misdemeanor.  No person may be charged with more than one violation in any 24 hour period which results from sales to persons purchasing during unannounced random inspections.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 34-46-2 (2009) &amp; 34-46-20 (2014).</Citation>
+<Description>It is unlawful for a person to knowingly distribute a tobacco product to a person under the age of 18. It is also unlawful to purchase a tobacco product on behalf of, or to give a tobacco product to, any person under the age of 18. The definition of tobacco product includes vapor product as defined for the purposes of this section.  Violation is a Class Two misdemeanor. Reliance on proof of age of the purchaser or recipient is a complete defense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-2.1 (2000), 34-46-2.2 (2000) &amp; 34-46-20 (2014).</Citation>
+<Description>It is unlawful for a minor to purchase or attempt to purchase or receive or attempt to receive, possess or consume tobacco products. The definition of tobacco product includes vapor product as defined for the purposes of this section. Violation is a Class Two misdemeanor.  
+S.D. CODIFIED LAWS §§ 34-46-2 (2009), 34-46-5 (1999) &amp; 34-46-20 (2014).
+
+Any merchant who has reasonable grounds to believe that a minor has illegally purchased, attempted to purchase, possess, or consume a tobacco product, may detain the minor, on the premises of the merchant&apos;s establishment, in a reasonable manner and for a reasonable length of time to: 1) request identification; 2) to verify the identification; 3) to make reasonable inquiry as to whether the minor has violated section 34-46-2 of the South Dakota Codified Laws in any manner; 4) to inform a law enforcement officer of the detention of the person and surrender that person to the officer’s custody; or 5) to inform a law enforcement officer or the parents, guardian, or other private person interested in the welfare of that minor of this detention and to surrender custody of the minor to that person. If a merchant chooses to implement these provisions, then the merchant shall conspicuously post a notice on the merchant&apos;s premises, stating that any person who the merchant reasonably believes is under the age of 18 and has attempted to purchase tobacco products will be detained and surrendered to a law enforcement officer. The definition of tobacco product includes vapor product as defined for the purposes of this section.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-2(6) (2009), 34-46-5 (1999) &amp; 34-46-21 (2014).</Citation>
+<Description>It is unlawful to sell cigarettes, smokeless tobacco, or vapor products as defined, through a self-service display other than a display that is a vending machine as permitted by law or located in a tobacco specialty store, which is defined as a store that derives 75 percent or more of its revenue from the sale of tobacco products. Violation is a Class Two misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 10-50-99 to 10-50-104 (2009).</Citation>
+<Description>No person who is engaged in the business of selling or distributing cigarettes or tobacco products may ship or transport, or cause to be shipped or transported, cigarettes or tobacco products to any consumer, defined as any individual who is not a retailer or a licensed distributor or wholesaler, in South Dakota. The attorney general may seek an injunction to restrain a threatened or actual violation. The attorney general may also bring a civil action in circuit court for any violation, which is subject to a civil penalty from the court of $1,000 or five times the retail value of the cigarettes or tobacco products involved, whichever is greater. A subsequent violation is subject to a civil penalty of $5,000 or five times the retail value of the cigarettes or tobacco products involved, whichever is greater. Each shipment is considered a separate violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-6 (1994) &amp; 34-46-20 (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are not allowed, see below.
+
+Enforcement of this chapter shall be implemented in an equitable and uniform manner throughout the state so as to ensure the eligibility for and receipt of any federal funds or grants that the state now receives or may receive relating to the provisions of this chapter.  For the purposes of equitable and uniform regulation and implementation, the legislature through this chapter is the exclusive regulator of all matters relating to the distribution, marketing, promotion, and sale of tobacco products.  The definition of tobacco product includes vapor product as defined for the purposes of this section.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-2 (2009), 34-46-5 (1999) &amp; 34-46-20 (2014).</Citation>
+<Description>It is unlawful to distribute tobacco product samples in or on a public street, sidewalk, or park that is within 500 feet of a playground, school or other facility when it is being used primarily by persons under the age of 18.  The definition of tobacco product includes vapor product as defined for the purposes of this section.  Violation is a Class Two misdemeanor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-2 (2009), 34-46-5 (1999) &amp; 34-46-21 (2014).</Citation>
+<Description>It is unlawful to sell cigarettes or vapor products as defined other than in an unopened package originating with the manufacturer and depicting the warning labels required by federal law.  Violation is a Class Two misdemeanor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-6 (1994) &amp; 34-46-20 (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed, see below.
+
+Enforcement of this chapter shall be implemented in an equitable and uniform manner throughout the state so as to ensure the eligibility for and receipt of any federal funds or grants that the state now receives or may receive relating to the provisions of this chapter.  For the purposes of equitable and uniform regulation and implementation, the legislature through this chapter is the exclusive regulator of all matters relating to the distribution, marketing, promotion, and sale of tobacco products.  The definition of tobacco product includes vapor product as defined for the purposes of this section.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-2 (2009) &amp; 34-46-20 (2014).</Citation>
+<Description>Vending machines containing tobacco products may be located only in the following areas: 1) a factory, business, office, or other place not open to the general public; 2) a place that is open to the public but to which persons under the age of 18 are denied access; or 3) a licensed establishment that sells alcoholic beverages for on-site consumption.  The definition of tobacco product includes vapor product as defined for the purposes of this section.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 34-46-5 (1999).</Citation>
+<Description>Violation of the restrictions on placement of tobacco product vending machines is a Class Two misdemeanor.  A person can not be liable for more than one violation on a single day.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 26-10-24 (1992).</Citation>
+<Description>Each cigarette vending machine shall have posted in a conspicuous place on the machine a warning to persons under 18 stating that they are prohibited by law from purchasing cigarettes from the machine.  Violation constitutes a petty offense.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-6 (1994) &amp; 34-46-20 (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or the required sign posting on tobacco product vending machines are not allowed, see below.
+
+Enforcement of this chapter shall be implemented in an equitable and uniform manner throughout the state so as to ensure the eligibility for and receipt of any federal funds or grants that the state now receives or may receive relating to the provisions of this chapter.  For the purposes of equitable and uniform regulation and implementation, the legislature through this chapter is the exclusive regulator of all matters relating to the distribution, marketing, promotion, and sale of tobacco products.  The definition of tobacco product includes vapor product as defined for the purposes of this section.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. COD. LAWS §§ 10-50-9 (2007) &amp; 10-50-12 (2003).</Citation>
+<Description>Each person, except a retailer, engaging in the business of selling cigarettes or tobacco products, including any distributor or wholesaler, shall secure a license from the Secretary of Revenue and Regulation. A separate application and license is required for each wholesale outlet when a person owns or controls more than one place of business. A license is valid for one year beginning July 1st unless suspended or revoked, and may be renewed annually. Each person selling cigarettes or tobacco products at retail shall register with the Department of Revenue and Regulation. A separate registration is required for each retail outlet operated within the state. Except for retailers, selling cigarettes or tobacco products without a license or registration is a petty offense.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 10-50-9 (2007) &amp; 10-50-11 (1995).</Citation>
+<Description>Wholesaler or distributor license: $150 annually;
+Retailer registration: no fee</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 60-4-11 (1991).</Citation>
+<Description>It is a discriminatory or unfair employment practice for an employer to terminate the employment of an employee due to that employee’s engaging in any use of tobacco products off the premises of the employer during non-working hours unless such a restriction relates to a bona fide occupational requirement or it is necessary to avoid a conflict of interest with the responsibilities of the employer.  The sole remedy for a person claiming to be aggrieved by a violation of this law shall be a civil suit for damages including all wages and benefits lost.  Health or life insurance policies may make a distinction between employees for the type or cost of coverage based upon the employees’ use of tobacco products.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS § 15-26A-26 (2003).</Citation>
+<Description>The South Dakota Supreme Court promulgated rules capping the total appeal bond for all appellants in a case to $25 million, regardless of the judgment amount.  If the appellee proves by a preponderance of the evidence that an appellant whose bond has been so limited has been dissipating assets outside the ordinary course of business to avoid payment of a judgment, the court may require the appellant to execute a bond in an amount up to the full amount of judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The rights to virtually all of South Dakota’s Master Settlement Agreement payments have been sold as bonds through the South Dakota Building Authority to obtain a much smaller lump sum payment up front.  See Securitization section below for additional details.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>24100000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances related to the use, distribution, marketing, promotion and sale of tobacco products are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for South Dakota&apos;s tobacco control program comes from state tobacco tax revenue.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (S.B. 178) enacted 3/16/17 and effective 7/1/17.</Citation>
+<Description>South Dakota appropriated $4,500,223 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018) from state tobacco tax revenue. In FY2017, $4,500,000 was appropriated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>4500223</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-46-7 to 34-46-11 (2004).</Citation>
+<Description>The Tobacco Prevention and Reduction Program was created in the Department of Health.  The department was charged with the development of a strategic statewide plan to prevent and reduce tobacco use.  An annual report will detail the progress toward meeting program goals and objectives, including changes in tobacco consumption, use rates, and attitudes towards tobacco especially among children and other high risk populations.  The annual report will be made available to the public on the Department of Health&apos;s website.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-49-1 to 34-49-23 (2011).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in section 34-49-7 South Dakota Codified Laws, no cigarettes may be sold or offered for sale in South Dakota or offered for sale or sold to persons located in South Dakota unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 34-49-2 South Dakota Codified Laws; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 34-49-8 South Dakota Codified Laws, and the cigarettes have been marked in accordance with section 34-49-9 South Dakota Codified Laws.</Description>
+<Year>2011</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 34-49-10 to 34-49-15 (2011).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above standard is liable for a civil penalty not to exceed $100 for each pack of such cigarettes sold or offered for sale; provided that in no case shall the penalty against any such person or entity exceed $100,000 during any 30-day period.  A retail dealer who knowingly sells or offers to sell cigarettes in violation is subject to the same civil penalty as other persons/entities above, but the penalty shall not exceed $25,000 during any 30-day period.   A manufacturer that knowingly makes a false certification is subject to a civil penalty of at least $75,000 not to exceed $250,000 for each such violation, in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No - registration only</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No - registration only</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $4,500,223 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (S.B. 178, sect. 13) enacted 3/16/17 and effective 7/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.D. CODIFIED LAWS §§ 5-12-48 to 5-12-61 (2013).</Citation>
+<Description>At any one time or from time to time, all or any portion of the right, title, and interest of the state of South Dakota in, to, and under the Master Settlement Agreement, including the right to receive and collect tobacco settlement revenues, may be sold, conveyed, or otherwise transferred by the state to the South Dakota Building Authority or to a corporation established by the authority in exchange for the net proceeds of bonds and a right to the residual interest in tobacco settlement revenues.  The net proceeds of bonds and the residual interest in tobacco settlement revenues shall be deposited in the Education Enhancement Trust Fund.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $53,546,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Dakota</Name>
+<Abbrev>SD</Abbrev>
+<FipsCode>46</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $4,500,223
+
+FY2018 Federal Funding for State Tobacco Control Programs: $880,166*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $5,380,389
+
+Funding Level Recommended by CDC:                                        $11,700,000
+
+Percentage of CDC-Recommended Level:                                   46.0%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>42</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

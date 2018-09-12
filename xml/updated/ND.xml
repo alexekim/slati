@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:14:12">
+<tblStatesALA>
+<ID>35</ID>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<LegislatureHyperlink>#http://www.state.nd.us/lr/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-9 to 23-12-11 (2013).</Citation>
+<Description>Smoking is prohibited in virtually all public places places of employment in North Dakota, including restaurants, bars and non-tribal casinos/gaming facilities. Smoking is also prohibited within 20 feet of entrances, exits, operable windows, air intakes, and ventilation systems of enclosed areas in which smoking is prohibited.  The definition of smoking in the law specifically includes electronic cigarettes as separately defined.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-9 to 23-12-11 (2013).</Citation>
+<Description>Exceptions to the law include: 1) private residences except those used as child care, adult day care or health care facilities licensed by the state Department of Health; 2) outdoor areas of places of employment except those outdoor areas specifically included in the law; and 3) areas in owner-operated businesses that have no employees and are not generally accessible to the public.  Smoking as part of a traditional Native American ceremony is also allowed.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 23-12-10.2(2) (2012).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+A city or county ordinance, a city or county home rule charter, or an ordinance adopted under a home rule charter may not provide for less stringent provisions on smoking than those provided by state law.  Nothing in this act shall preempt or otherwise affect any other state or local tobacco control law that provides more stringent protection from the hazards of secondhand smoke.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-9 to 23-12-11 (2013).</Citation>
+<Description>Smoking is prohibited in public places, including publicly-owned buildings, vehicles and offices, which are defined as places or vehicles owned, leased, or rented by any state or political subdivision, or by any agency supported by appropriation of, or by contracts or grants from, funds derived from the collection of taxes.  Smoking is also prohibited within 20 feet of entrances, exits, operable windows, air intakes, and ventilation systems of enclosed areas in which smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-9 to 23-12-11 (2013).</Citation>
+<Description>Smoking is prohibited in places of employment, which are defined as an area under the control of a public or private employer that employees normally frequent during the course of employment, including but not limited to, work areas, auditoriums, classrooms, conference rooms, elevators, employee cafeterias, employee lounges, hallways, meeting rooms, private offices, restrooms, temporary offices, vehicles and stairs. A private residence is not a place of employment unless it is used as a licensed child care, adult day care or health care facility.  Smoking is also prohibited within 20 feet of entrances, exits, operable windows, air intakes, and ventilation systems of enclosed areas in which smoking is prohibited.  Outdoor areas of places of employment except outdoor areas specifically covered by the law, and areas in owner-operated businesses that have no employees and are not generally accessible to the public are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-9 to 23-12-11 (2013).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes public and private educational facilities.  Smoking is also prohibited within 20 feet of entrances, exits, operable windows, air intakes, and ventilation systems of enclosed areas in which smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-9 to 23-12-11 (2013).</Citation>
+<Description>Smoking is not permitted on the premises where early childhood services are provided.  For the purposes of the state smokefree law, a person providing early childhood services as a registrant or pursuant to a self-declaration is considered a child care facility subject to licensure by the department.
+N.D. CENT. CODE §§ 50-11.1-2 &amp; 50-11.1-2.2 (2013).
+
+To the extent not covered above, smoking is prohibited in public places, the definition of which includes all child care facilities subject to licensure by the state Department of Human Services, including those operated in private homes.  Smoking is also prohibited within 20 feet of entrances, exits, operable windows, air intakes, and ventilation systems of enclosed areas in which smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-9 to 23-12-11 (2013).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes health care facilities.  Health care facilities are defined as any office or institution providing health care services or treatment of diseases, whether physical, mental or emotional, or other medical, physiological or psychological conditions.  See the state law section cited for further details.  Smoking is also prohibited within 20 feet of entrances, exits, operable windows, air intakes, and ventilation systems of enclosed areas in which smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-9 to 23-12-11 (2013).</Citation>
+<Description>Smoking is prohibited in public places the definition of which includes restaurants.  &quot;Restaurant&quot; includes every building or other structure, or any part thereof, and all buildings in connection therewith that are kept, used, maintained, advertised, or held out to the public as a place where food is served.  Smoking is also prohibited within 20 feet of entrances, exits, operable windows, air intakes, and ventilation systems of enclosed areas in which smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-9 to 23-12-11 (2013).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes bars.  Bars are defined as places devoted to the serving of alcoholic beverages for consumption by guests on the premises and in which the serving of food is only incidental to the consumption of those beverages. The term includes a bar located within a hotel, bowling center, or restaurant, or other establishment that is not licensed primarily or exclusively to sell alcoholic beverages.  Smoking is also prohibited within 20 feet of entrances, exits, operable windows, air intakes, and ventilation systems of enclosed areas in which smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-12-10(2) (2012).</Citation>
+<Description>Owners, operators, managers, employers, or other persons who own or control a public place or place of employment may seek to rebut the presumption that 20 feet is a reasonable minimum distance by making application to the director of the local health department or district in which the public place or place of employment is located. The presumption will be rebutted if the applicant can show by clear and convincing evidence that, given the unique circumstances presented by the location of entrances, exits, windows that open, ventilation intakes, or other factors, smoke will not infiltrate or reach the entrances, exits, open windows, or ventilation intakes or enter into such public place or place of employment and, therefore, the public health and safety will be adequately protected by a lesser distance.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 23-12-10.2 (2012).</Citation>
+<Description>An individual who smokes in an area in which smoking is prohibited is guilty of an infraction punishable by a fine of not more than $50.  An owner or other person with general supervisory responsibility over a public place or place of employment who willfully fails to comply is guilty of an infraction, subject to a fine not to exceed $100 for the first violation, not to exceed $200 for a second violation within one year, and not to exceed $500 for each additional violation within one year of the preceding violation.  In addition, a violation by someone who owns, manages, operates or otherwise controls a public place or place of employment may result in the suspension or revocation of any permit or license issued to the person for the premises on which the violation occurred. Each day on which a violation occurs is considered a separate violation.  
+N.D. CENT. CODE § 23-12-11 (2012).
+
+Overall, the law shall be enforced by state&apos;s attorneys who may ask the North Dakota Attorney General to adopt administrative rules to ensure compliance. State and local law enforcement agencies may apply for injunctive relief to enforce provisions of the law.  State agencies with statutory jurisdiction over a state-owned building or office shall enforce these provisions in those venues.  These agencies include the Fire Marshal Department, state Department of Health, Department of Human Services, Legislative Council, and Office of Management and Budget.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 57-36-06 &amp; 57-36-32 (1993).</Citation>
+<Description>Tax rate per pack of 20: 44 cents
+Date last changed: July 1, 1993 -- from 29 cents to 44 cents  
+Year first enacted: 1925</Description>
+<NumericValue>0.44</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 57-36-31 &amp; 57-36-32 (1993).</Citation>
+<Description>All revenue from the cigarette tax is credited to the state General Fund, except revenue from three cents of the tax is distributed to incorporated cities in North Dakota, based on population.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>22532000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 57-36-25 (2001).</Citation>
+<Description>Cigars and Pipe Tobacco: 28% of the wholesale purchase price;
+Chewing Tobacco: 16 cents per ounce and a proportionate tax at the like rate on all fractional parts of an ounce;
+Snuff: 60 cents per ounce and a proportionate rate on all fractional parts of an ounce.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 57-36-25 (2001).</Citation>
+<Description>All revenue from the taxes on other tobacco products is credited to the state General Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-03 (2015).</Citation>
+<Description>A state agency, city, county, board of health, retailer or association of tobacco, electronic smoking device or alternative nicotine product retailers may conduct compliance surveys, after coordination with the appropriate local law enforcement authority.  An individual under 18 years of age may purchase and possess tobacco, electronic smoking devices or alternative products as part of a compliance survey program when acting with the permission of the individual&apos;s parent or guardian and while acting under the supervision of any law enforcement authority.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-03 (2015).</Citation>
+<Description>It is an infraction for any person to sell or furnish to or procure for a person under age 18 cigarettes, cigarette papers, cigars, snuff, or tobacco in any other form in which it may be utilized for smoking or chewing, electronic smoking devices or alternative nicotine products as defined. &quot;Sell&quot; includes dispensing from a vending machine under the control of the actor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-10 (2003).</Citation>
+<Description>The sale of the tobacco product commonly referred to as bidis or beedies is prohibited.  &quot;Bidis&quot; or &quot;beedies&quot; means a product containing tobacco which is wrapped in temburni leaf or tendu leaf.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-03 (2015).</Citation>
+<Description>It is a noncriminal offense for a person under age 18 to purchase, possess, smoke or use cigarettes, cigars, cigarette papers, snuff, or tobacco in any other form in which it may be utilized for smoking or chewing, electronic smoking devices, or alternative nicotine products as defined. It is a noncriminal offense for a person under age 18 to present or offer to another individual a purported proof of age which is false, fraudulent, or not actually the person&apos;s own, for the purpose of attempting to purchase or possess any of the above products. This does not prohibit persons under age 18 from taking part in compliance surveys as specified. Persons 14 years of age or older who violate this section must pay a $25 fee and follow other specified instructions.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-03 (2015).</Citation>
+<Description>It is an infraction for any person to display or offer for sale cigarettes, cigarette papers, cigars, snuff, or tobacco in any other form in which it may be utilized for smoking or chewing, electronic smoking devices, or alternative nicotine products through a self-service display. &quot;Self-service display&quot; means a display that contains the above products and is located in an area that is openly accessible to the retailer&apos;s customers, and from which customers can readily access the products without the assistance of a salesperson. A display case that holds these products behind locked doors does not constitute a self-service display. This also does not apply to vending machines permitted under section 12.1-31-03.1 North Dakota Century Code or tobacco specialty stores as defined.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 51-32-01 to 51-32-08 (2015).</Citation>
+<Description>It is unlawful for any person in the business of selling tobacco products to take an order for a tobacco product, other than from a person who is in the business of selling tobacco products, through the mail or through any telecommunications means, including by telephone, facsimile, or the Internet, unless: 1) before mailing or shipping the product, the person receives from the individual a copy of a valid government-issued identification and a signed statement from the individual providing a certification of certain specified information; 2) the person verifies the date of birth or age of the individual against a commercially available data base or obtains a photocopy of the government-issued identification; 3) sends a notice with specified information to the prospective consumer; 4) in the case of an order by the Internet, receives payment via debit card, credit card or check; 5) and employs a method of shipping that the purchaser be the addressee, have an adult of legal minimum purchase age sign for the package and present a photo ID if they appear to be under 27 years of age. The person must also provide specified information to the state Tax Commissioner. A person that violates this chapter is subject to a fine of $1,000 for the first offense and a fine of $1,000 to $5,000 for the second and subsequent offenses. Knowingly violating these provisions is a Class C felony. Knowingly and falsely submitting a certification in another person&apos;s name is a noncriminal violation subject to the fines listed above. Failure to pay the tax is subject to a penalty of 50 percent of the tax due but unpaid.
+N.D. CENT. CODE §§ 51-32-01 to 51-32-08 (2015).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.
+
+It is unlawful for any person in the business of selling electronic smoking devices or alternative nicotine products to take an order for these products, other than from a person who is in the business of selling such products through the mail or through any telecommunications means, including by telephone, facsimile, or the Internet, if in providing for the sale or delivery of the product, the person mails the product or ships the product by carrier, and the person fails to comply with each of the following procedures: a) Before the sale of the electronic smoking device or alternative nicotine product verifies the purchaser is at least 18 years of age through a commercially available database that is regularly used by business or governmental entities for the purpose of age and identity verification; and b) Uses a method of mailing, shipping, or delivery which requires an individual of legal minimum purchase age to sign for delivery before the electronic smoking device or alternative nicotine product is released to the purchaser. Violation is subject to the same penalties as for remote sales of tobacco products, see above.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-03(4) (2015).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products, electronic smoking devices and alternative nicotine products are generally allowed; however, the penalties for purchase and use of these products by a person under age 18 must be as indicated in the statute below.
+
+A city or county may adopt an ordinance or resolution regarding the sale of tobacco, electronic smoking devices and alternative nicotine products to persons under age 18 and purchase and use of tobacco, electronic smoking devices and alternative nicotine products by persons under age 18 which includes prohibitions in addition to those in state law. Any ordinance or resolution adopted concerning purchase and use by persons under 18 must include provisions deeming a violation a noncriminal violation and must provide for a fee of not less than $25 for a minor 14 years of age or older who has been charged with an offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-03 (2015).</Citation>
+<Description>It is an infraction for any person to furnish or procure cigarettes, cigarette papers, cigars, snuff, or tobacco in any other form in which it may be utilized for smoking or chewing, electronic smoking devices or alternative nicotine products as defined to or for a person under age 18.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 57-36-07 &amp; 57-36-33 (1999).</Citation>
+<Description>All cigarettes sold or distributed must be in packages containing 20 or more cigarettes each. All packages of roll-your-own smoking tobacco sold or distributed in this state must be in packages containing at least 0.6 ounces of tobacco.  Violation is a Class A misdemeanor and the cigarettes in violation will be confiscated and forfeited to the state.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-03(4) (2015).</Citation>
+<Description>Local communities are specifically allowed to pass stronger laws/ordinances restricting samples of tobacco products, electronic smoking devices or alternative nicotine products, see below. No specific provision concerning minimum sales amounts of these products; local ordinances are likely allowed.
+
+A city or county may adopt an ordinance or resolution regarding the sale of tobacco, electronic smoking devices and alternative nicotine products to persons under age 18 and purchase and use of tobacco, electronic smoking devices and alternative nicotine products by persons under age 18 which includes prohibitions in addition to those in state law. Any ordinance or resolution adopted concerning purchase and use by persons under 18 must include provisions deeming a violation a noncriminal violation and must provide for a fee of not less than $25 for a minor 14 years of age or older who has been charged with an offense.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-03.1 (2015).</Citation>
+<Description>It is an infraction for any person to sell or furnish cigarettes, cigarette papers, cigars, snuff, or tobacco in any other form in which it may be utilized for smoking or chewing, electronic smoking devices and alternative nicotine products as defined through a vending machine, except a vending machine that is located in an area in which person under age 18 are not permitted access; or a vending machine that dispenses these products through the operation of a device that requires a salesperson to control the dispensation of such product. Vending machines can not contain nontobacco products other than matches.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 12.1-31-03.1 (2015).</Citation>
+<Description>Violation of the restrictions on placement of tobacco product, electronic smoking devices or alternative nicotine product vending machines is an infraction.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances restricting the placement of and/or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 57-36-02 &amp; 57-36-33 (1991).</Citation>
+<Description>Dealers (retailers) and distributors must obtain a license for each place of business from the Attorney General to sell tobacco products at wholesale or retail. Licenses are valid for one year from July 1st to June 30th and must be renewed annually. Selling or distributing tobacco products without a license is a Class A misdemeanor.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 57-36-02 (1991).</Citation>
+<Description>Dealer license: $15 annually; 
+Distributor license: $25 annually</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 14-02.4-01 et seq. (1993).</Citation>
+<Description>It is discriminatory practice for an employer to fail or refuse to hire a person; to discharge an employee; or accord adverse or unequal treatment to a person or employee with respect to application, hiring, training, apprenticeship, tenure, promotion, upgrading, compensation, layoff, or a term, privilege, or condition of employment, because of participation in lawful activity off the employer’s premises during non-working hours which is not in direct conflict with the essential business-related interests of the employer.  It is also a discriminatory practice for an employer, employment agency, or labor organization, or the employees, agents, or members thereof directly or indirectly to advertise or in any other manner indicate or publicize that individuals who participate in lawful activity off the employer&apos;s premises during nonworking hours which activity is not in direct conflict with the essential business-related interests of the employer, are unwelcome, objectionable, not acceptable, or not solicited.</Description>
+<Year>1993</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 54-27-25 (2015).</Citation>
+<Description>All dollars received from the Master Settlement Agreement (MSA) from 2008 to 2017, except a certain portion of payments called MSA strategic contribution payments, are deposited in a Tobacco Settlement Trust Fund, and after any appropriation to the Attorney General to enforce the MSA, are allocated to the community health trust fund, the common schools trust fund and the water development trust fund. MSA strategic contribution payments received from 2008 to 2017 are deposited in the Tobacco Prevention and Control Trust Fund and used to fund state tobacco control programs as specified.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>31500000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 2024 enacted and effective 3/21/17.</Citation>
+<Description>There is created in the state treasury a tobacco settlement trust fund where all MSA dollars, except MSA strategic contribution payments received from 2008 to 2017, are deposited. Interest earned from money in the trust fund is deposited in the trust fund.  Principal and interest from the trust fund may be appropriated to the Attorney General for the purpose of enforcing the MSA and any disputes with the agreement. Any remaining principal and interest must be allocated as follows: 1) 10 percent of annual transfers to a community health trust fund administered by the state health department, a minimum of 80 percent of which must be used for tobacco prevention and control programs; 2) 45 percent of annual transfers to the common schools trust fund to become part of the principal of that fund; and 3) 45 percent of annual transfers to the water development trust fund to address the long-term water development needs of the state.
+N.D. CENT. CODE § 54-27-25(1) (2015).
+
+There is created in the state treasury the Tobacco Prevention and Control Trust Fund where MSA strategic contribution payments received from 2008 to 2017 were deposited. Interest earned from money in the trust fund is deposited in the trust fund. Moneys in the fund are to be used as appropriated by the legislative assembly.
+N.D. CENT. CODE § 54-27-25(2) (2017).
+
+Note: Under legislation approved in 2017, the Tobacco Prevention and Control Executive Committee that had previously managed tobacco control programs using dollars in the Tobacco Prevention and Control Trust Fund was eliminated. Any duties assigned to the committee and programs they ran were transferred to the state Department of Health.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Local laws/ordinances must adhere to specified penalties concerning the purchase or use of tobacco products by minors.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for North Dakota&apos;s tobacco control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018-FY2019 Biennial Department of Health Budget (S.B. 2004) enacted 4/26/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).</Citation>
+<Description>North Dakota appropriated $5,286,667 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $9,884,197 was appropriated. This is the first year of the FY2018-FY2019 biennium.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>5286667</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 23-38-01 et seq. (2001).</Citation>
+<Description>Established a community health grant program, the purpose of which is to prevent or reduce tobacco usage in the state by strengthening community-based public health programs and by providing assistance to public health units and communities. The program must, to the extent funding is available, follow guidelines concerning tobacco prevention programs recommended by CDC.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE §§ 18-13-01 to 18-13-10 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection 7 of section 18-13-02 North Dakota Century Code, a cigarette may not be sold or offered for sale in North Dakota or offered for sale or sold to persons located in North Dakota unless: 1) the cigarette has been tested in accordance with the test method and meets the performance standard specified in section 18-13-02 North Dakota Century Code; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 18-13-03 North Dakota Century Code; and 3) the cigarette has been marked in accordance with section 18-13-04 North Dakota Century Code.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.D. CENT. CODE § 18-13-05 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or any other person that knowingly sells or offers to sell cigarettes other than through retail sale and in violation of the above standard is subject to a civil penalty not to exceed $10,000 for a first offense and not to exceed $25,000 for each subsequent offense.  Penalties may not exceed $100,000 in any 30-day period.  A retail dealer that knowingly sells or offers to sell cigarettes in violation of the above standard is subject to a civil penalty not to exceed $500 for a first offense and not to exceed $2,000 for each subsequent offense in which the total number of cigarettes sold or offered for sale does not exceed 1,000 cigarettes; and a civil penalty not to exceed $1,000 for a first offense and $5,000 for each subsequent offense in which the total number of cigarettes sold or offered for sale is over 1,000 cigarettes.  Penalties may not exceed $25,000 in any 30-day period.  A manufacturer that knowingly makes a false certification is subject to a civil penalty of at least $75,000 but not to exceed $250,000 for each false violation, in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $5,286,667 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018-FY2019 Biennial Department of Health Budget (S.B. 2004) enacted 4/26/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).
+
+Tobacco Control Funding/Programs: Eliminates the Tobacco Prevention and Control Executive Committee that previously ran tobacco control programs funded by the Tobacco Prevention and Control Trust Fund established by a 2008 ballot measure. Trust Fund dollars are now spent as appropriated by the legislature and the state Department of Health assumed any previous duties of the Executive Committee.
+S.B. 2024 enacted and effective 3/21/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $22,532,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>North Dakota</Name>
+<Abbrev>ND</Abbrev>
+<FipsCode>38</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $5,286,667
+
+FY2018 Federal Funding for State Tobacco Control Programs: $928,674*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $6,215,341
+
+Funding Level Recommended by CDC:                                        $9,800,000
+
+Percentage of CDC-Recommended Level:                                   63.4%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>35</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

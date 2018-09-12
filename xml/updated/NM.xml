@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:13:57">
+<tblStatesALA>
+<ID>32</ID>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<LegislatureHyperlink>#http://legis.state.nm.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>It is unlawful for a person to smoke in most indoor workplaces or public places, including restaurants and bars, or in buses, taxicabs or other means of public transit not specifically exempted.  &quot;Indoor public place&quot; is defined as the enclosed area within any governmental or nongovernmental place to which the public is invited or in which the public is permitted regardless of whether work or public business, meetings or hearings occur at any given time.  Smoking is also prohibited near entrances, windows and ventilation systems of public places where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>Exceptions to the law include: 1) a private residence, except during the hours of operation while it is being used to provide child care, adult care or health care or any combination of those activities; 2) a retail tobacco store as defined; 3) a cigar bar as defined; 4) the facilities of a tobacco manufacturing company, provided that smoke does not infiltrate other indoor workplaces or other indoor public places where smoking is otherwise prohibited; 5) a state-licensed gaming facility, casino or bingo parlor; 6) an indoor workplace to the extent that tobacco smoking is an integral part of a smoking cessation program that is approved by the department or of medical or scientific research that is conducted in the indoor workplace as specified; 7) designated outdoor smoking areas; 8) private clubs as defined; 9) a limousine under private hire; 10) up to 25 percent of hotel/motel rooms; 11) enclosed areas within restaurants, bars, hotel and motel conference or meeting rooms while these places are being used for private functions, provided that none of these areas are open to the general public while the private functions are occurring and that smoke does not infiltrate other indoor work or public places where smoking is prohibited; 12) a site that is being used in connection with the practice of cultural or ceremonial activities by Native Americans; 13) a business of a sole proprietor or a business with fewer than two employees that is not commonly accessible to the public under certain conditions; and 14) a theatrical stage or a motion picture or television production set when it is necessary for performers to smoke as part of the production.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-12 (2007).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Nothing in the above act shall be construed to preempt or in any manner preclude specific provisions of a county or municipal smoking ordinance; provided that the smokefree provisions of such a county or municipal ordinance are inclusive of all minimum standards and provisions for smokefree areas within the above act.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>It is unlawful for a person to smoke in any indoor workplace, which includes the state or a political subdivision of the state that employs the services of one or more individuals.  No part of the state capitol or capitol north shall be designated as a smoking-permitted area.  Employers shall adopt, implement, post and maintain a written smoking policy that conforms to the above requirements.  Smoking is also prohibited near entrances, windows and ventilation systems of public places where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>It is unlawful for a person to smoke in any indoor workplace.  &quot;Indoor workplace&quot; is defined as any enclosed place where one or more persons engage in work, including lobbies, reception areas, offices, conference and meeting rooms, employee cafeterias and lunchrooms, break rooms and employee lounges, classrooms, auditoriums, hallways, stairways, waiting areas, elevators and restrooms and includes all indoor workplaces and enclosed parts regardless of whether work occurs at any given time.  A business of a sole proprietor or a business with fewer than two employees that is not commonly accessible to the public is exempt; provided that the business is not a restaurant or bar, the employer or manager of such business shall provide a smokefree work environment for each employee requesting it; and cigarette smoke does not infiltrate other smokefree work environments.  Also exempt is an indoor workplace to the extent that tobacco smoking is an integral part of a smoking cessation program that is approved by the department or of medical or scientific research that is conducted in the indoor workplace and in which each room of the indoor workplace in which tobacco smoking is permitted complies with signage requirements.  Smoking is also prohibited near entrances, windows and ventilation systems of public places where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>The State Board of Education adopted a regulation that prohibits the use of tobacco products by students, school staff, parents, and school visitors in school buildings, on school property and for students at school functions away from school property.  Each school district shall develop provisions for enforcement of this policy and communicating the policy to all affected parties.  
+N.M. ADMIN. CODE 6.12.4 et seq. (1994).
+
+Note: S.B. 433 enacted in April 2015 required that no later than August 1, 2015, the public education department shall revise its tobacco, alcohol and drug free school districts policy to include e-cigarettes and nicotine liquid containers as defined.
+S.B. 433 enacted 4/8/15 and effective 6/19/15.
+
+To the extent not covered above, it is unlawful for a person to smoke in any indoor workplace or indoor public place, the definitions of which cover public and private schools.  Smoking is also prohibited near entrances, windows and ventilation systems of public places where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>It is unlawful for a person to smoke in any indoor workplace or indoor public place, the definitions of which cover child care facilities.  Smoking is specifically prohibited in private residences during the hours when it is being used commercially to provide child care or adult care.  Smoking is also prohibited near entrances, windows and ventilation systems of public places where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>It is unlawful for a person to smoke in any indoor workplace or indoor public place, the definitions of which cover health care facilities.  Smoking is specifically prohibited in private residences during the hours when it is being used commercially to provide health care.  Smoking is also prohibited near entrances, windows and ventilation systems of public places where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>It is unlawful for a person to smoke in any indoor workplace or indoor public place, the definitions of which cover restaurants.  &quot;Restaurant&quot; means a coffee shop, cafeteria, private or public school cafeteria or eating establishment and any other eating establishment that gives or offers for sale food to the public, patrons or employees, including kitchens and catering facilities in which food is prepared on the premises for serving elsewhere or a bar area within or attached to the premises.  Smoking is also prohibited near entrances, windows and ventilation systems of public places where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>It is unlawful for a person to smoke in any indoor workplace or indoor public place, the definitions of which cover bars.  &quot;Bar&quot; is defined as an establishment that is devoted to the selling or serving of alcoholic beverages for consumption by patrons on the premises and in which the serving of food is only incidental to the consumption of those beverages, including taverns, nightclubs, cocktail lounges and cabarets.  Cigar bars are exempt if they generate ten percent or more of their total annual gross revenue or at least $10,000 in annual sales from the sale of cigars, not including any sales from vending machines.  A cigar bar that fails to generate at least 10 percent of its total annual sales from the sale of cigars in the calendar year after December 31, 2006, not including sales from vending machines, shall not be defined as a cigar bar and shall not thereafter be known as such regardless of sales figures.  A cigar bar shall agree to provide adequate information to demonstrate to the state&apos;s satisfaction compliance with this definition.  Smoking is also prohibited near entrances, windows and ventilation systems of public places where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 24-16-1 et seq. (2007).</Citation>
+<Description>For each indoor workplace or indoor public place where smoking is prohibited or permitted, the appropriate sign shall be posted where it is clear, conspicuous and easily legible at each public entrance.  The local fire, police or sheriff&apos;s department with appropriate jurisdiction over the location where a violation occurs shall enforce that act by issuance of a citation, and may inspect an establishment for compliance.  A person may register a complaint regarding an alleged violation to initiate enforcement with the state Department of Health or the local fire, police or sheriff&apos;s department.  Violation by a person 18 years of age and older, is subject to a fine not to exceed $100 for the first violation, a fine not to exceed $200 for a second violation in a 12-month period, and a fine not to exceed $500 for a third or subsequent violation within a 12-month period of the previous violation.  The owner, manager or operator of premises subject to regulation shall not be subject to a penalty if a person on the premises is in violation as long as the owner, manager or operator has posted signs, implemented the appropriate policy and informed the person that the person is in violation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 7-12-3 (2010).</Citation>
+<Description>Tax rate per pack of 20: $1.66
+Date last changed: July 1, 2010 -- from 91 cents to $1.66
+Year first enacted: 1943</Description>
+<NumericValue>1.66</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 7-1-6.11 (2010).</Citation>
+<Description>A portion of cigarette tax revenue is distributed to a variety of purposes, see below.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>92064000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 7-1-6.11 (2017).</Citation>
+<Description>A portion of cigarette tax revenue is distributed as follows: 1) 0.83 percent to the Cancer Research and Treatment Center at the University of New Mexico Health Sciences Center; 2) 8.89 percent to the New Mexico Finance Authority on behalf and for the benefit of the University of New Mexico Health Sciences Center; 3) 3.74 percent to the New Mexico Finance Authority for land acquisition and the planning, designing, construction and equipping of Department of Health facilities or improvements to such facilities pursuant to section 6-21-6.10 New Mexico Statutes; 4) 9.77 percent to the New Mexico Finance Authority for deposit in the credit enhancement account created in the authority; and 5) 0.62 percent to the New Mexico Finance Authority on behalf of and for the benefit of the Rural County Cancer Treatment Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 7-12-2 (2009), 7-12-3 (2010) &amp; 7-12A-3 (1993).</Citation>
+<Description>Cigars that look like, are packaged and labeled like or are marketed and advertised like cigarettes: $1.66 per 20 cigars
+Roll-your-own tobacco: $1.66 per 1.8 ounces of tobacco;
+Bidis/Kreteks: $1.66 per 20;
+All other tobacco products: 25% of the product value of the tobacco products.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-10 (2015).</Citation>
+<Description>The Alcohol and Gaming Division of the Regulation and Licensing Department and the appropriate law enforcement authorities in each county and municipality shall conduct random, unannounced inspections of facilities where tobacco products, e-cigarettes or nicotine liquid containers are sold to ensure compliance.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-2, 30-49-3(A) &amp; 30-49-12 (2015).</Citation>
+<Description>No person shall knowingly sell, offer to sell, barter or give a tobacco product, an e-cigarette, or a nicotine liquid container as defined to persons under age 18. Violation is a misdemeanor subject to imprisonment for less than a year and/or not more than a $1,000 fine.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-9 &amp; 30-49-12 (2015).</Citation>
+<Description>Any entity engaged in the retail sale of tobacco products, e-cigarettes or nicotine liquid nicotine containers shall prominently display a warning sign in the place where such products are sold. The sign shall read as follows: &quot;A PERSON LESS THAN 18 YEARS OF AGE WHO PURCHASES A TOBACCO PRODUCT, AN E-CIGARETTE OR A NICOTINE LIQUID CONTAINER IS SUBJECT TO A FINE OF UP TO $100. A PERSON WHO SELLS A TOBACCO PRODUCT, AN E-CIGARETTE OR A NICOTINE LIQUID CONTAINER TO A PERSON LESS THAN 18 YEARS OF AGE IS SUBJECT TO A FINE OF UP TO $1,000.&quot; Violation is a misdemeanor subject to imprisonment for less than a year and/or not more than a $1,000 fine.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-2, 30-49-3(B), 30-49-6, 30-49-12 &amp; 30-49-13 (2015).</Citation>
+<Description>A person under age 18 who procures or attempts to procure any tobacco product, e-cigarette or nicotine liquid container as defined for their own use, or for the use of any other person under age 18 shall be punished by a fine not to exceed $100 or 48 hours of community service.  Any person under 18 who presents false evidence of their age or identity to procure tobacco products, e-cigarettes or liquid nicotine containers for such use shall be subject to the same penalty. These provisions do not apply to the lawful purchase or use by a person under age 18 of a tobacco-cessation product approved by the Federal Food and Drug Administration.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-7(A) &amp; 30-49-12 (2015).</Citation>
+<Description>A person shall not sell tobacco products, e-cigarettes or nicotine liquid containers at a retail location in New Mexico by any means other than a direct, face-to-face exchange between the customer and the seller or the seller&apos;s employee; and a person selling goods at a retail location in New Mexico shall not use a self-service display for tobacco products. &quot;Self-service display&quot; means a display to which the public has access without the assistance of the seller or the seller&apos;s employee. Violation is a misdemeanor subject to imprisonment for less than a year and/or not more than a $1,000 fine.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-2, 30-49-3(E) &amp; 30-49-12 (2015).</Citation>
+<Description>The online Internet sale of e-cigarettes or nicotine liquid containers as defined to a person under age 18 in New Mexico is prohibited. Violation is subject to the same penalties as selling or giving tobacco products to persons under age 18.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 30-49-11 (2015).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products, e-cigarettes or nicotine liquid containers are not allowed, see below.
+
+When a municipality or county, including a home rule municipality or urban county, adopts an ordinance or a regulation pertaining to sales of tobacco products, e-cigarettes or nicotine liquid containers the ordinance or regulation shall be consistent with the provisions of the Tobacco Products , E-Cigarette and Nicotine Liquid Container Act [30-49-1 to 30-49-12 New Mexico Statutes].</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-8 &amp; 30-49-12 (2015).</Citation>
+<Description>A person shall not provide free samples of tobacco products, e-cigarettes or nicotine liquid containers to a person under age 18.  Violation is a misdemeanor subject to imprisonment for less than a year and/or not more than a $1,000 fine.  This does not apply to free samples given in connection with the practice of cultural or ceremonial activities in accordance with the federal American Indian Religious Freedom Act.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-2 &amp; 30-49-3(C) (2015).</Citation>
+<Description>No person shall sell, offer to sell or deliver a tobacco product, an e-cigarette or a nicotine liquid container as defined in a form other than an original factory-sealed package.  Specific penalty for a violation is not specified.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 30-49-11 (2015).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling and minimum sales amounts of tobacco products, e-cigarettes and nicotine liquid containers are not allowed, see below.
+
+When a municipality or county, including a home rule municipality or urban county, adopts an ordinance or a regulation pertaining to sales of tobacco products, e-cigarettes or nicotine liquid containers the ordinance or regulation shall be consistent with the provisions of the Tobacco Products , E-Cigarette and Nicotine Liquid Container Act [30-49-1 to 30-49-12 New Mexico Statutes].</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 30-49-7(B) (2015).</Citation>
+<Description>Tobacco products, e-cigarettes and nicotine liquid containers may be sold through vending machines only in age-controlled locations where persons under age 18 are not permitted.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 30-49-12 (2015).</Citation>
+<Description>Violation is a misdemeanor subject to imprisonment for less than a year and/or not more than a $1,000 fine.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-9 &amp; 30-49-12 (2015).</Citation>
+<Description>Warning signs shall be prominently displayed where a tobacco product, e-cigarette or nicotine liquid container vending machine is located.  The sign shall read as follows: &quot;A PERSON LESS THAN 18 YEARS OF AGE WHO PURCHASES A TOBACCO PRODUCT, AN E-CIGARETTE OR A NICOTINE LIQUID CONTAINER IS SUBJECT TO A FINE OF UP TO $100. A PERSON WHO SELLS A TOBACCO PRODUCT, AN E-CIGARETTE OR A NICOTINE LIQUID CONTAINER TO A PERSON LESS THAN 18 YEARS OF AGE IS SUBJECT TO A FINE OF UP TO $1,000.&quot;  Violation is a misdemeanor subject to imprisonment for less than a year and/or not more than a $1,000 fine.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 30-49-11 (1993).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are not allowed, see below.
+
+When a municipality or county adopts an ordinance or a regulation pertaining to sales of tobacco products, the ordinance or regulation shall be consistent with the provisions of the Tobacco Products Act [30-49-1 to 30-49-12 New Mexico Statutes].</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 7-12-9.1 &amp; 7-12-13.1 (2006).</Citation>
+<Description>A person shall not engage in the manufacture or distribution of cigarettes in New Mexico without a license issued by the state Department of Taxation and Revenue. A license shall be issued for a term not to exceed one year. Violators are subject to a civil penalty of up to $1,000 for a first offense, $1,500 to $2,500 for a second offense and not less than $5,000 for a third or subsequent offense.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 7-12-9.1 (2006).</Citation>
+<Description>Up to $100 each year for both distributors and manufacturers.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 50-11-1 et seq. (1991).</Citation>
+<Description>It is unlawful for an employer to refuse to hire or discharge any individual, or otherwise disadvantage any individual, with respect to compensation, terms, conditions or privileges of employment because the individual is a smoker or non-smoker, provided that the individual complies with applicable laws or policies regulating smoking on the premises of the employer during working hours.  It is also unlawful for an employer to require as a condition of employment that any employee or applicant for employment abstain from using tobacco products during non-working hours.  This does not apply to any activity that materially threatens an employer&apos;s legitimate conflict of interest policy reasonably designed to protect the employer&apos;s trade secrets, proprietary information or other proprietary interests; or relates to a bona fide occupational requirement and is reasonably and rationally related to the employment activities and responsibilities of a particular employee or a particular group of employees, rather than to all employees of the employer.  Any employee claiming to be aggrieved by any unlawful action of any employer may bring a civil suit for damages.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 39-3-22(C) (2007).</Citation>
+<Description>In any civil action involving a signatory, a successor of a signatory or any affiliate of a signatory to the Master Settlement Agreement (MSA), the supersedeas bond required of all appellants collectively in order to stay the execution of a judgment during the entire course of appellate review shall not exceed $100 million, regardless of the amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 6-4-9 (2015) &amp; 6-4-10 (2000).</Citation>
+<Description>All money received from the annual Master Settlement Agreement payment is deposited in the Tobacco Settlement Permanent Fund.  All or a portion of the money is then transferred to the Tobacco Settlement Program Fund or other funds and distributed through the normal appropriations process from there, including a portion dedicated to tobacco prevention and cessation programs.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>39300000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. § 6-4-10 (2000).</Citation>
+<Description>The Tobacco Settlement Permanent Fund was established in the state treasury where all Master Settlement Agreement (MSA) payments are distributed to.  In FY2007 and each fiscal year thereafter, 50 percent of the money in each fiscal year is transferred to the Tobacco Settlement Program Fund until that amount is less than an amount equal to four and seven-tenths percent of the average of the year-end market values of the Tobacco Settlement Permanent Fund for the immediately preceding five calendar years.  In FY2016, the other 50 percent of remaining MSA dollars transferred to the Tobacco Settlement Permanent Fund in that fiscal year was transferred to the Tobacco Settlement Program Fund.  The Tobacco Settlement Permanent Fund is considered a reserve fund of the state, and the legislature may authorize a transfer to the general fund under certain circumstances.
+N.M. STAT. ANN. § 6-4-9 (2015).
+
+The Tobacco Settlement Program Fund is also created in the state treasury and monies in the fund shall consist of distributions made to the fund from the Tobacco Settlement Permanent Fund.  Money may be appropriated from the program fund for health and educational purposes, including support of additional public school programs, including extracurricular and after-school programs designed to involve students in athletic, academic, musical, cultural, civic, mentoring and similar types of activities; any health or health care program or service for prevention or treatment of disease or illness; basic and applied research conducted by higher educational institutions or state agencies addressing the impact of smoking or other behavior on health and disease; public health programs and needs; and tobacco use cessation and prevention programs, including statewide public information, education and media campaigns beginning in FY2002.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>All stronger local laws/ordinances further restricting youth access to tobacco products are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for New Mexico&apos;s tobacco control programs come from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (H.B. 2) enacted 4/7/17 and effective 7/1/17.</Citation>
+<Description>New Mexico appropriated $5,684,500 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018) from the state&apos;s annual MSA payment. The same amount was appropriated in FY2017.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>5684500</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 57-2B-1 to 57-2B-12 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection K of section 57-2B-3 New Mexico Statutes, cigarettes shall not be sold or offered for sale in New Mexico unless: (1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 57-2B-3 New Mexico Statutes; (2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with 57-2B-4 New Mexico Statutes; and (3) the cigarettes have been marked in accordance with section 57-2B-5 New Mexico Statutes.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 57-2B-1 to 57-2B-12 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person who knowingly sells or offers to sell cigarettes, other than through retail sales, in violation of the above requirements may be assessed a civil penalty not to exceed $100 for each pack of cigarettes sold.  Penalties shall not exceed $100,000 in any 30-day period.  A retail dealer may be subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.M. STAT. ANN. §§ 30-49-4 (1993) &amp; 30-49-5 (2015).</Citation>
+<Description>Any person selling goods at retail or wholesale may refuse to sell tobacco products, e-cigarettes or nicotine liquid containers to any person who is unable to produce an identity card as evidence that the person is 18 years of age or over. Evidence of the age and identity of the person may be shown by any document that contains a picture of the person issued by a federal, state, county or municipal government, including a motor vehicle driver&apos;s license or an identification card issued to a member of the armed forces. No specific penalty specified for violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>	Tobacco Control Program Funding: Appropriated $5,684,500 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (H.B. 2) enacted 4/7/17 and effective 7/1/17.
+
+	Tobacco Taxes:Makes changes to the way a portion of cigarette tax revenue is allocated.
+H.B. 8 enacted 4/6/17 and effective 11/1/17.
+
+	Use of Tobacco Settlement Dollars: Transfers remaining 50 percent of Master Settlement Agreement dollars received in FY2018 from the Tobacco Settlement Permanent Fund to the Tobacco Settlement Program Fund.
+S.B. 154 enacted 4/6/17 and effective 6/16/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $92,064,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Mexico</Name>
+<Abbrev>NM</Abbrev>
+<FipsCode>35</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $5,684,500
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,469,378*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $7,153,878
+
+Funding Level Recommended by CDC:                                        $22,800,000
+
+Percentage of CDC-Recommended Level:                                   31.4%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>32</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

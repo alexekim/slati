@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:13:10">
+<tblStatesALA>
+<ID>18</ID>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<LegislatureHyperlink>#http://www.lrc.state.ky.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. §§ 61.165 (2006), 61.167 (2004), 438.050 (1988) &amp; EXEC. ORDER 2014-0747 (2014).</Citation>
+<Description>No broad restrictions on smoking in public places and workplaces. Tobacco and E-Cigarette use are prohibited in and on property owned, leased or contracted for use by the executive branch with some exceptions for certain outdoor areas.  Smoking is  restricted to deisgnated areas in legislative branch buildings and in schools.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Smoking is allowed in most public places and workplaces, so places where smoking is restricted or prohibited are the exception.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Lexington-Fayette County Food and Beverage Association v. Lexington-Fayette Urban County Government, et al. (2004).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see summary of Kentucky Supreme Court decision below.
+
+On April 22, 2004 the Kentucky Supreme Court ruled 6-1 that Lexington, KY&apos;s smokefree air ordinance was not preempted by existing state law, and did not violate the private property rights of business owners.  This allows the smokefree air ordinance Lexington passed in 2003 to go into effect, and provides legal justification for other Kentucky communities seeking to enact local smokefree air ordinances.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 61.165 (2006).</Citation>
+<Description>By executive order, the use of any tobacco product, and any electronic cigarette or vaping device is prohibited on any and all property owned, leased or contracted for use by agencies or instrumentalities of the Executive Branch of Kentucky.  This includes healthcare facilities under the Administration of the Cabinet for Health and Family Services and Kentucky Veterans Centers, which will go tobacco-free under guidelines specified by the specific state agencies in charge of them.  The order exempts outdoor areas of certain state-owned property such as state parks, wildlife management areas and highway rest areas.  This order does not apply to state legislative or judicial branch employees although the order encourages them to follow this example.
+EXEC. ORDER 2014-0747 (2014).
+
+Smoking is restricted to designated areas of the state Capitol or state Capitol Annex.  The governing authority for each branch of state government, each in regard to space allocated to and occupied by that respective branch of state government, may designate one or more smoking areas in the Capitol and Capitol Annex.  Each smoking area shall be an enclosed area that is not a public area, is clearly designated as a smoking area, and is maintained by a ventilation system that does not disburse the smoke or smoke byproducts into any other area of the Capitol or Capitol Annex.  &quot;Public area&quot; is defined as any hallway, office shared by more than one person, stairwell, restroom, meeting room, cafeteria, or conference room. 
+KY REV. STAT. ANN. § 61.167 (2004).
+
+Except as otherwise specified for the Capitol and Capitol Annex above, a policy for smoking in governmental office buildings or workplaces shall be adopted by state government.  This policy shall apply to all state-owned or operated office buildings, workplaces, and facilities, including but not limited to state-operated hospitals and residential facilities for the mentally retarded, state-operated veterans&apos; nursing homes and health facilities, and any correctional facility owned, operated or under the jurisdiction of the state.  Any policy relating to smoking in state office buildings or workplaces shall be by executive order of the governor or action of the General Assembly and shall require the governmental authority to provide accessible indoor smoking areas in any buildings where smoking is otherwise restricted; favor allowing smoking in open public areas where ventilation and air exchange are adequate and there are no restrictions otherwise placed on the area by the state fire marshal or other similar authority; or prohibit indoor smoking.
+KY REV. STAT. ANN. § 61.165 (2006).
+
+Except as otherwise specified for the Capitol and Capitol Annex above, a policy for smoking in governmental office buildings or workplaces may be adopted by county, municipal, special district, urban-county, charter county or consolidated local governments.  Any policy adopted may apply to any office buildings, workplaces, or facilities that are owned, operated, or under the jurisdiction of that government, including but not limited to jails and detention facilities.  Any such policy shall be adopted in writing by the legislative body of the government and shall require the government authority to provide accessible indoor smoking areas in any buildings where smoking is otherwise restricted; and favor allowing smoking in open public areas where ventilation and air exchange are adequate and there are no restrictions otherwise placed on the area by the state fire marshal or other similar authority; or prohibit indoor smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 61.165 (2006).</Citation>
+<Description>Any person, except adult employees of the school system who smoke in a room on the school premises designated by the superintendent or principal for the purpose, who smokes tobacco products in any school building or any part of any building used for school purposes, or upon school grounds, while children are assembled there for lawful purposes, except in areas in secondary schools designated and supervised by the superintendent or principal for the purpose, shall be fined not less than $1 or more than $5.
+KY REV. STAT. ANN. § 438.050 (1988).
+
+Each board of regents or trustees for each of the state postsecondary education institutions shall adopt a written policy relating to smoking in all buildings owned, operated, or under the jurisdiction of the state postsecondary education institutions that shall either provide accessible indoor smoking areas in any buildings where smoking is otherwise restricted; favor allowing smoking in open public areas where ventilation and air exchange are adequate and there are no restrictions otherwise placed on the area by the state fire marshal or other similar authority; or prohibit indoor smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>EXEC. ORDER 2014-0747 (2014).</Citation>
+<Description>By executive order, skilled nursing facilities, intermediate care facilities, acute care hospitals and personal care homes under the administration of the Cabinet for Health and Family Services (CHFS) are required to go tobacco-free and e-cigarette/vaping device in a manner and timeframe established by the Secretary under guidelines established by CHFS and Finance and Administration Cabinet.  The guidelines will take into account certain federal regulations as well as the specific needs of any residents of these faciltiies.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY. REV. STAT. ANN. § 138.140(6)(a-c) (2006).</Citation>
+<Description>Tax rate per pack of 20: 60 cents
+Date last changed:  April 1, 2009 -- from 30 cents to 60 cents  
+Year first enacted: 1936
+KY. REV. STAT. ANN. § 138.140(1-3) (2009).
+
+A tax was added to sales of cigarette papers in the state at a rate of 25 cents per package of 32 sheets.</Description>
+<NumericValue>0.6</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY. REV. STAT. ANN. §§ 164.043 (2005) &amp; 248.510 et seq. (2002).</Citation>
+<Description>Almost all revenue from the tax on cigarettes goes to the state general fund.  Very small portions go to the Cancer Research Institutions Matching Fund and the Tobacco Research Trust Fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>261158000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. §§ 248.510 et seq. (2002).</Citation>
+<Description>There is created the &quot;Cancer Research Institutions Matching Fund&quot; in the state Treasury where one cent of the cigarette tax is deposited.  One half of the moneys in the fund are available to the University of Kentucky and the other half of the moneys in the fund are available to the University of Louisville for cancer research.  
+KY. REV. STAT. ANN. § 164.043 (2005).
+
+One-half cent of the cigarette excise tax goes to the Tobacco Research Trust Fund.  Money appropriated to the fund goes to the Tobacco Research and Development Center at the University of Kentucky.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY. REV. STAT. ANN. § 138.140(4) (2013).</Citation>
+<Description>Snuff: 19 cents per each 1.5 ounces or portion thereof by net weight sold;
+Chewing Tobacco: 19 cents per each single unit (contain 4 oz. or less by net weight), 40 cents per each half pound unit (contains 4 to 8 oz. by net weight) and 65 cents per each pound unit (contains 8 to 16 oz. by net weight) sold;
+Other tobacco products: 15% of the actual price for which the distributor sells tobacco products, except snuff and chewing tobacco, within Kentucky.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. §§ 438.330 to 438.340 (2014).</Citation>
+<Description>The Department of Alcoholic Beverage Control and the Department of Agriculture shall carry out annually random, unannounced inspections of retail establishments where tobacco products, alternative nicotine products or vapor products are sold or distributed for the purpose of enforcing the provisions of Kentucky Revised Statutes sections 438.305 to 438.340. The departments shall also ensure that targeted inspections are conducted at those retail establishments where, and at those times when, persons under the age of 18 are most likely to purchase these products.  Persons under the age of 18 may be used to test compliance only if the testing is conducted under the direct supervision of the Department of Alcoholic Beverage Control, sheriff, or chief of police, or their employees, and written parental consent has been obtained.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 438.310 (2014).</Citation>
+<Description>No person shall sell or cause to be sold any tobacco product, alternative nicotine product or vapor product as defined at retail to any person under the age of 18, or solicit any person under the age of 18 to purchase any of these products at retail.  The definition of vapor product includes most electronic cigarettes.  The first violation is subject to a fine of $100 to $500 and subsequent violations are subject to a fine of $500 to $1,000.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 438.310 (2014).</Citation>
+<Description>Notice must be posted in a conspicuous place stating that it is illegal to sell tobacco products, alternative nicotine products or vapor products as defined to persons under the age of 18.  Fines are $100 to $500 for the first violation and $500 to $1,000 for subsequent violations.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 438.311 (2014).</Citation>
+<Description>No person under the age of 18 shall possess or use tobacco products, alternative nicotine products or vapor products as defined. This does not apply to minors participating in compliance inspections, receipt of a product from a family member or from an employer when required in the performance of the person&apos;s duties. Any product found in the possession of a person under the age of 18 in plain view of a law enforcement officer shall be confiscated by the officer making the charge.  
+KY REV. STAT. § 438.350 (2014).
+
+Except when participating in compliance inspections, it is unlawful for any person under the age of 18 to purchase or accept receipt of or attempt to purchase or accept receipt of a tobacco product, alternative nicotine product or vapor product as defined, or to offer false proof of age. It shall not be unlawful for such a person to accept receipt of such products from a family member, or from an employer when required in the performance of the person&apos;s duties. Violations shall be punishable by a fine of $50 and 20 hours of community service for a first offense within a one-year period, and a fine of $200 and 40 hours of community service for a second or subsequent offense within a one-year period.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 438.325 (2014).</Citation>
+<Description>Owners of retail establishments must notify employees that selling or distributing tobacco products, alternative nicotine products or vapor products to minors is prohibited, and that proof of age of prospective buyers or recipients who appear to be under age 18 is required.  All retail sales clerks must signify in writing that they understand the above, and the owner of the retail establishment shall keep the signed notice in a place that is easily accessible to persons conducting a compliance inspection.  Any owner of a retail establishment who violates this provision is subject to a fine of $100 to $500 for each violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY. REV. STAT. ANN. § 438.300 (1996).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are specifically not allowed, see below.
+
+It is the intent of the Legislature that Kentucky Revised Statutes section 438.305 to 438.340 shall be enforced in an equitable and uniform manner throughout the Commonwealth. For the purpose of equitable and uniform enforcement, the provisions of above sections of the Kentucky Revised Statutes shall supersede any subsequently enacted local law, ordinance, or regulation which relates to the use, display, sale, or distribution of tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 438.313 (2014).</Citation>
+<Description>No wholesaler, retailer, or manufacturer of cigarettes, tobacco products, alternative nicotine products or vapor products as defined, may distribute samples of these products, free of charge or otherwise, to any person under 18 years old.  Any person who distributes samples of these products shall require proof of age from a prospective buyer or recipient if the person has reason to believe that the prospective purchaser or recipient is under the age of 18.  Violators shall be fined not less than $1,000 or more than $2,500 for each offense.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. §§ 248.752, 248.756 &amp; 248.762 (2002).</Citation>
+<Description>No person may sell cigarettes in units of fewer than 20 cigarettes.  Violation is a fine of not less than $100 or more than $500. 
+KY REV. STAT. ANN. § 438.317 (2000).
+
+No person shall sell or distribute in this commonwealth any cigarettes the package of which does not comply with all requirements imposed by or in accordance with federal law regarding warnings, and other information on packages of cigarettes manufactured, packaged, or imported for sale, distribution, or use in the United States including, but not limited to, the precise warning label specified in the Federal Cigarette Labeling and Advertising Act.  The Revenue Cabinet may suspend or revoke the license and impose a civil penalty not to exceed the greater of 500 percent of the retail value of the cigarettes involved or $5,000 for a licensee upon violation.  Any person who violates this section is guilty of a Class D felony and, in addition, may be subject to a fine of $5,000 plus costs of prosecution.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY. REV. STAT. ANN. § 438.300 (1996).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling and minimum sales amounts of tobacco products are specifically not allowed, see below.
+
+It is the intent of the Legislature that Kentucky Revised Statutes section 438.305 to 438.340 shall be enforced in an equitable and uniform manner throughout the Commonwealth. For the purpose of equitable and uniform enforcement, the provisions of above sections of the Kentucky Revised Statutes shall supersede any subsequently enacted local law, ordinance, or regulation which relates to the use, display, sale, or distribution of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 438.315 (2014).</Citation>
+<Description>The sale or purchase of tobacco products, alternative nicotine products or vapor products as defined, dispensed through a vending machine is prohibited to any person under the age of 18.  Vending machines from which these products are dispensed shall be located in the line of sight of the cashier for the retail establishment.  This does not apply to vending machines located in factories, or bars or taverns to which minors are not permitted access.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 438.315 (2014).</Citation>
+<Description>Any owner of a retail establishment violating this section shall be subject to a fine of $100 to $500 for each violation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY. REV. STAT. ANN. § 438.300 (1996).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or sign posting required on tobacco product vending machines are specifically not allowed, see below.
+
+It is the intent of the Legislature that Kentucky Revised Statutes section 438.305 to 438.340 shall be enforced in an equitable and uniform manner throughout the Commonwealth. For the purpose of equitable and uniform enforcement, the provisions of above sections of the Kentucky Revised Statutes shall supersede any subsequently enacted local law, ordinance, or regulation which relates to the use, display, sale, or distribution of tobacco products.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 138.195 (2015).</Citation>
+<Description>Wholesalers and vending machine operators are required to obtain a license to deal in/with cigarettes, and distributors are required to obtain a license to sell tobacco products from the state Revenue Cabinet. Cigarette wholesalers must secure a license for each place of business and all licenses must be renewed annually on or before July 1 of each year.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 138.195 (2013).</Citation>
+<Description>Cigarette Wholesalers: $500 per year;
+Tobacco Product Distributors: $500 per year (no charge if they have cigarette wholesale license already); 
+Vending Machine Operators: $25 per year.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. § 344.040 (2010).</Citation>
+<Description>It is an unlawful practice for an employer to: fail or refuse to hire, or to discharge any individual, or otherwise discriminate against an individual with respect to compensation, terms, conditions, or privileges of employment because the individual is a smoker or nonsmoker; limit, segregate, or classify employees in any way which would deprive or tend to deprive an individual of employment opportunities or otherwise adversely affect their status as an employee because the individual is a smoker or nonsmoker; or require as a condition of employment that any employee or applicant for employment abstain from smoking or using tobacco products outside the course of employment, as long as the person complies with any workplace policy concerning smoking.  A difference in employee contribution rates for smokers and nonsmokers in relation to an employer-sponsored health plan or the offering of incentives or benefits offered by an employer to employees who participate in a smoking cessation program shall not be deemed to be an unlawful practice in violation of this section.</Description>
+<Year>2010</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No cigarette or tobacco product advertising shall be posted on a billboard with display space larger than 50 square feet located within 500 feet of any elementary or secondary school building or adjacent school-owned property.  Violators shall be fined at least $100 for each offense.  
+KY REV. STAT. ANN. § 438.047 (1992).
+
+Note: Enforcement of the above law may be affected by the U.S. Supreme Court decision in Lorillard Tobacco Company v. Reilly, decided in 2001.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. § 454.455 (1998).</Citation>
+<Description>If the appellee in a civil action obtains a judgment for punitive or exemplary damages and the appellant seeks a stay of enforcement of the judgment in order to obtain review by an appellate court, the supersedeas bond for the punitive damages portion of the judgment on appeal shall not exceed $100 million. If the appellee proves by a preponderance of the evidence that a party bringing an appeal, for whom the supersedeas bond requirement has been limited, is purposefully dissipating or diverting assets outside of the ordinary course of its business for the purpose of avoiding ultimate payment of the punitive damages judgment, the limitation granted shall be rescinded and the bond requirement shall be reinstated for the full amount of the judgment. 
+KY REV. STAT. ANN. § 411.187 (2000).
+
+In a civil action against a tobacco grower for damages alleged to have occurred as a result of use or consumption of tobacco products, in order for liability to be found against a grower, the plaintiff must prove by clear and convincing evidence that the tobacco that caused the alleged damage was planted, cultivated, and harvested by that specific grower and not by any other person.  In a similar civil action against a warehouseman the plaintiff must prove by clear and convincing evidence that the tobacco that caused the alleged damage was sold by that specific warehouseman and not by any other person.  If the suit is dismissed or the defendant prevails at trial, the defendant may be entitled to three times the entire cost of defending the action.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. § 248.654 (2000).</Citation>
+<Description>In Kentucky, all funds received from the Master Settlement Agreement are deposited in the Tobacco Settlement Agreement Fund and are distributed to the Rural Development Fund, Early Childhood Development Fund and Kentucky Health Care Improvement Fund from there. Some money in the Health Care Improvement Fund is allocated to the state tobacco control program every year.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>101800000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Kentucky established in the state treasury a permanent and perpetual fund to be known as the Tobacco Settlement Agreement Fund to which shall be credited any funds designated to Kentucky from the Master Settlement Agreement (MSA). Moneys in the fund are distributed as follows: 50 percent to the Rural Development Fund, 25 percent to the Early Childhood Development Fund and 25 percent to the Kentucky Health Care Improvement Fund. 
+KY REV. STAT. § 248.654 (2000).
+
+The Kentucky Health Care Improvement Fund was created in the state treasury for the purpose of receipt and expenditure of moneys to improve health care and access to health insurance in the state. Twenty-five percent of the annual MSA payments are credited to this fund. All funding for the state tobacco control program comes from this fund.
+KY REV. STAT. ANN. § 194A.055 (2000).
+
+Note: HB 510 approved in 2015 appropriated additional MSA dollars received by the state as a result of a settlement of a tobacco Master Settlement Agreement payment dispute with certain tobacco companies.
+H.B. 510 enacted and effective 4/6/15.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Kentucky Revised Statutes section 438.305 to 438.340 preempts stronger local laws/ordinances concerning the use, display, sale and distribution of tobacco products enacted after March 5, 1996.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Kentucky&apos;s tobacco control program comes from annual Master Settlement Agreement payments and the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2017-FY2018 Biennial Budget (H.B. 303) enacted 4/27/17 and effective 7/1/16 (FY2017) and 7/1/17 (FY2018).</Citation>
+<Description>Kentucky appropriated $2,588,100 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $2,353,100 was appropriated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>2588100</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. §§ 227.770 to 227.784 (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, no cigarettes shall be sold or offered for sale in Kentucky or offered for sale or sold to persons located in Kentucky unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standards specified in section 227.772 Kentucky Revised Statutes, 2) a written certification has been filed by the manufacturer with the state fire marshal as specified in section 227.774 Kentucky Revised Statutes and 3) the cigarettes have been marked as specified in section 227.776 Kentucky Revised Statutes.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. §§ 227.770 to 227.784 (2008).</Citation>
+<Description>A manufacturer, wholesale dealer or any other person or entity that knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above is subject to a civil penalty not to exceed $10,000 per each sale for the first offense, and not to exceed $25,000 per sale for subsequent offenses.  In no case, shall the penalty exceed $100,000 for each 30-day period.  A retailer that knowingly sells cigarettes in violation of the above is subject to a civil penalty not to exceed $500 for the first offense and not to exceed $2,000 for subsequent offenses for each sale and offer for sale of less than 1,000 cigarettes; and a civil penalty not to exceed $1,000 for the first offense and not to exceed $5,000 for subsequent offenses for each sale and offer for sale of more than 1,000 cigarettes.  The penalty against any one retailer shall not exceed $25,000 in a 30-day period.  Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty not to exceed $75,000 for a first offense and not to exceed $250,000 for each subsequent offense in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>KY REV. STAT. ANN. §§ 438.305 &amp; 438.310 (2014).</Citation>
+<Description>Any person selling tobacco products, alternative nicotine products or vapor products as defined must require proof of age from a prospective buyer or recipient if the person has reason to believe that the prospective buyer or recipient is under the age of 18.  &quot;Proof of age&quot; means a driver&apos;s license or other documentary or written evidence that the individual is 18 years of age or older.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $2,588,100 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2017-FY2018 Biennial Budget (H.B. 303) enacted 4/27/17 and effective 7/1/16 (FY2017) and 7/1/17 (FY2018).
+
+Tobacco Product Regulation: Urges FDA to withdraw its proposed standard for N-nitrosonornicotine (NNN) levels in smokeless tobacco products.
+H.CR. 48 enacted and effective 4/11/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $261,158,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Kentucky</Name>
+<Abbrev>KY</Abbrev>
+<FipsCode>21</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $2,588,100
+
+FY2018 Federal Funding for State Tobacco Control Programs: $2,103,562*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $4,691,662
+
+Funding Level Recommended by CDC:                                        $56,400,000
+
+Percentage of CDC-Recommended Level:                                   8.3%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>18</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

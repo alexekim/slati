@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2018-09-07T17:13:01">
+<tblStatesALA>
+<ID>15</ID>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<LegislatureHyperlink>#http://www.state.in.us/legislative/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. §§ 7.1-5-12 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in many public places and places of employment as defined, including almost all restaurants, as well as within eight feet of a public entrance to a public place or place of employment where smoking is prohibited.  Smoking is still allowed in bars, gaming facilities and certain tobacco-related businesses.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. § 7.1-5-12-5 (2015).</Citation>
+<Description>Exceptions to the law include: 1) a horse racing facility and other permanent structures adjacent to the facilitity as specified; 2) a riverboat as defined and other permanent structures located on land adjacent to the facility as specified; 3) a facility that operates under a gambling game license and permanent structures on land adjacent to the facility as specified; 4) a licensed satelite facility; 5) an establishment owned or leased by a business that only allows the use of hookahs/waterpipes and meets other specified requirements; 6) an establishment owned or leased by a business that only allows the use of cigars and meets other specified requirements; 7) a premises owned or leased by and regularly used for the activities of a business that meets specified requirements (private clubs); 8) a retail tobacco store used primarily for the sale of tobacco products and tobacco accessories that meets certain requirements, including tobacco products making up 85% of the store&apos;s annual gross sales; 9) a bar or tavern that does not allow persons under 21 to enter and does not employ a person over age 18; 10) a cigar manufacturing facility that does not offer retail sales; 11) the premises of a cigar specialty store that meets specified requirements, including 50% of the gross sales of the establishment coming from tobacco products or tobacco accessories; and 12) the premises of a business that is located in the business owner&apos;s private residence under certain conditions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. § 7.1-5-12-13 (2012).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+The above law does not prohibit a county, city, town, or other governmental unit from adopting an ordinance more restrictive than this state law. It also does not supersede a smoking ordinance that is adopted by a county, city, town, or other governmental unit before the effective date of this chapter and that is more restrictive than this chapter.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. §§ 7.1-5-12 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in and within 8 feet of the public entrances of public places and places of employment as defined, including state and local government buildings. Smoking is speciifically prohibited in a vehicle owned, leased, or operated by the state if the vehicle is being used for a governmental function. An employer shall inform each of the employer&apos;s employees and prospective employees of the smoking prohibition applying to the place of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. §§ 7.1-5-12 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in and within 8 feet of public entrances to a place of employment, which is defined as an enclosed area of a structure that is a place of employment. The term does not include a private vehicle. An employer shall inform each of the employer&apos;s employees and prospective employees of the smoking prohibition applying to the place of employment. The premises of a business that is located in the business owner&apos;s private residence as defined if the only employees of the business who work in the residence are the owner and other individuals who reside in the residence. Cigar manufacturing facilities that do not offer retail sales are also exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. §§ 7.1-5-12 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in and within eight feet of the public entrance to public places and places of employment, the definitions of which includes school buildings.  Smoking is specifically prohibited in a school bus during a school week or while the school bus is being used for the transportation of school children to and from the following: school, school athletic games or contests, or other school functions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. §§ 7.1-5-12 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in and within eight feet of the public entrance to public places and places of employment, the definitions of which include child care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. §§ 7.1-5-12 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in and within eight feet of the public entrance to public places and places of employment, the definitions of which include the indoor areas of health care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. §§ 7.1-5-12 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in and within eight feet of the public entrance to public places and places of employment, the definitions of which include restaurants and attached bars unless the restaurant does not allow persons under 21 to enter and does not employ persons under age 18. Any restaurants located on the property of specified gaming establishments are exempt except any hallway, elevator, or other common area where an individual who is less than 18 years of age is permitted, and any room that is intended for use by an individual who is less than 18 years of age.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>IND. CODE. §§ 7.1-5-12 et seq. (2015).</Citation>
+<Description>Smoking is allowed in bars and taverns, so long as they have a beer, liquor or wine retailer permit; does not employ a person who is under age 18, does not allow a person under age 21 except employees to enter any area of the bar/tavern, and the bar/tavern is not located in a business where smoking is prohibited. Businesses that allow only hookah/waterpipe smoking are also exempt if they meet certain requirements, including they were in business and allowed smoking as of December 31, 2012, prohibited entry by people under 21 years of age and during the preceding calendar year made 10 percent or more of their annual gross income from the sale of loose tobacco for use in a waterpipe or hookah device. Businesses that allow only cigar or hookah/waterpipe smoking are also exempt if they meet certain requirements, including during the preceding calendar year they made 10 percent or more of their annual gross income from the sale of cigars and the rental of on-site humidors and prohibited entry by people under 21 years of age. Smoking is prohibited in any hallway, elevator, or other common area where an individual who is less than 18 years of age is permitted, and any room that is intended for use by an individual who is less than 18 years of age.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 7.1-5-12 et seq. (2015) &amp; 34-28-5-4 (1998).</Citation>
+<Description>An owner, operator, manager, or official in charge of a public place or place of employment shall post conspicuous signs at each public entrance that read &quot;State Law Prohibits Smoking Within 8 Feet of this Entrance&quot; or other similar language.  The owner, operator, manager, or official in charge of an establishment or premises in which smoking is allowed shall post conspicuous signs in the establishment that read &quot;WARNING: Smoking Is Allowed In This Establishment&quot; or other similar language.  The Indiana Alcohol and Tobacco Commission primarily enforces this law, and several other state and local government agencies, including state and local health departments, also have enforcement authority. A person who smokes in a nonsmoking area or an owner, manager, operator, or official in charge of a public place or place of employment who fails to comply with a requirement imposed by the above law, commits a Class B infraction punishable by a fine of up to $1,000 for the first offense which becomes a Class A infraction punishable by a fine of up to $10,000 if the person has three previous unrelated violations.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 6-7-1-12(b) (2002).</Citation>
+<Description>Tax rate per pack of 20: 99.5 cents
+Date last changed: July 1, 2007 -- from 55.5 cents to 99.5 cents
+Year first enacted: 1947
+IND. CODE § 6-7-1-12(a) (2007).
+
+A tax is also imposed on all cigarette papers, wrappers, or tubes, made or prepared for the purpose of making cigarettes.  On cigarette papers, the tax is one half cent per 50 papers, and for tubes, the tax is 1 cent per 50 tubes or fractional part thereof.</Description>
+<NumericValue>0.995</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 6-7-1-28.1 (2008).</Citation>
+<Description>Cigarette tax revenue is distributed to a number of programs and purposes, see below; over half of the revenue is distributed to the state general fund as well.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>423638000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 6-7-1-28.1 (2008).</Citation>
+<Description>Cigarette tax revenue is distributed as follows: 
+1) 4.22 percent to the &quot;Cigarette Tax Fund,&quot; which is then allocated to the Department of Natural Resources for specified purposes, the Clean Water Indiana Fund and to cities and towns in Indiana based on population; 
+2) 0.6 percent to the &quot;Mental Health Centers Fund,&quot; which is then allocated to the Division of Mental Health and Addiction for specified purposes; 
+3) 53.68 percent to the General Fund; 
+4) 5.43 percent to the Pension Relief Fund; 
+5) 27.05 percent to the Indiana check-up plan trust fund; 
+6) 2.46 percent to the state general fund for the purpose of paying appropriations for Medicaid Current Obligations, for provider reimbursements; 
+7) 4.1 percent to the state general fund for the purpose of paying any appropriation for a health initiative; and 
+8) 2.46 percent to the state general fund for the purpose of reimbursing the state general fund for a specified tax credit.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 6-7-2-7 (2012).</Citation>
+<Description>Moist Snuff: 40 cents/oz. and a proportionate tax at the same rate on all fractional parts of an ounce;
+All other tobacco products: 24% of the wholesale price
+
+The Indiana General Assembly finds that the tax rate on smokeless tobacco should reflect the relative risk between such products and cigarettes.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 6-7-2-17 &amp; 6-7-1-28.1 (2007).</Citation>
+<Description>Twenty-five percent of the revenue from the tax on tobacco products other than cigarettes is deposited in the affordable housing and community development fund.  The remaining revenue is distributed the same way as cigarette tax revenue (see above).</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 7.1-6-2-2 (2001) &amp; 7.1-6-2-4 (2013).</Citation>
+<Description>The Division of Mental Health and Addiction shall coordinate the conduct of random, unannounced inspections at locations where tobacco products are sold or distributed.  Only the Indiana Alcohol and Tobacco Commission, an Indiana law enforcement agency, the office of the sheriff of a county, or an organized police department of a municipal corporation may conduct the random unannounced inspections.  These entities may use retired or off-duty law enforcement officers to conduct the inspections.  Minors may be used in an enforcement action as long as they are overseen by the division of government conducting the inspection, are not recruited at the scene of a possible violation and have written permission from their parents or legal guardian to purchase/receive a tobacco product or electronic cigarette.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 35-46-1-10 (2013).</Citation>
+<Description>A retail establishment that sells or distributes tobacco, the definition of which includes dissolvable tobacco products, or an electronic cigarette to a minor commits a Class C infraction. For a sale to take place the buyer must pay the seller for the tobacco product or electronic cigarette. Violation is subject to civil penalties ranging from up to $200 if an establishment has received no citations/summons in the previous 180 days to up to $1,000 if an establishment has been issued three or more citations/summonses in the previous 180 days. A person who violates this law at least six times in any 180-day period commits habitual illegal sale of tobacco, a Class B infraction, and the tobacco sales certificate may be suspended by the Indiana Alcohol and Tobacco Commission. The commission may mitigate civil penalties against a certificate holder if they have a training program for their employees that cover specific topics. However, a certificate holder shall exercise due diligence in the supervision and training of the certificate holder&apos;s employees or agents in the handling and sale of tobacco products and electronic cigarettes on the holder&apos;s retail premises, and six or more violations in a 180 day period is considered prima-facie evidence of a lack of due diligence. It is not a defense that the person to whom the tobacco was sold or distributed did not smoke, chew, or otherwise consume the tobacco or electronic cigarette. It is a defense if the buyer produced a driver&apos;s license or photo ID that showed the buyer was of legal age to make the purchase; and the appearance of the purchaser or recipient was such that an ordinary prudent person would believe that the purchaser or recipient was not less than the legal age. It is also a defense if the accused retail establishment sold or delivered the tobacco or electronic cigarette to a person who acted in the ordinary course of employment or a business concerning tobacco: agriculture, processing, transporting, wholesaling, or retailing. Unless a person buys or receives tobacco or an electronic cigarette under the direction of a law enforcement officer as part of an enforcement action, a person who sells or distributes is not liable for a violation of this section unless the person less than 18 years of age who bought or received the tobacco or electronic cigarette is also issued a citation or summons.    
+IND. CODE §§ 35-46-1-10.2 (2013), 7.1-3-18.5-8 (2015) &amp; 7.1-3-18.5-9 (2015).
+
+A person who knowingly sells or distributes tobacco, the definition of which includes dissolvable tobacco products, or an electronic cigarette to a minor or purchases tobaccoor an electronic cigarette for delivery to another person who is a minor commits a Class C infraction punishable by a fine of up to $500. For a sale to take place the buyer must pay the seller for the tobacco product or electronic cigarette. It is not a defense that the person to whom the tobacco or electronic cigarettewas sold or distributed did not smoke, chew, inhale or otherwise consume the tobacco or electronic cigarette. The same affirmative defenses available to retailers are also available to persons who sell tobacco products or electronic cigarettes to minors (see above). Unless a person buys or receives tobacco or an electronic cigarette under the direction of a law enforcement officer as part of an enforcement action, a person who sells or distributes is not liable for a violation of this section unless the person less than 18 years of age who bought or received the tobacco or electronic cigarette is also issued a citation or summons.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 35-46-1-11 (2013).</Citation>
+<Description>A location selling tobacco at retail shall post and maintain in a conspicuous place signs stating: 1) &quot;The sale of tobacco or electronic cigarettes to persons under 18 years of age is forbidden by Indiana law&quot;;  2) &quot;Smoking by Pregnant Women May Result in Fetal Injury, Premature Birth, and Low Birth Weight&quot;; and 3) that displays a toll free number for assistance to callers in quitting smoking.  Violation is a Class C infraction punishable by a fine of up to $500 for the owner or person who has control over the establishment.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 35-46-1-10.5 (2013).</Citation>
+<Description>A minor who purchases, accepts for personal use or possesses tobacco or an electronic cigarette commits a Class C infraction for which a fine of up to $500 may be adjudged. It is a defense to prosecution if the accused person acted in the ordinary course of employment in a business concerning tobacco or electronic cigarettes agriculture, tobacco processing, tobacco transporting, tobacco wholesaling, or tobacco retailing.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 7.1-7-5-1.1(d) (2017).</Citation>
+<Description>The owner of a retail establishment that sells or distributes tobacco or an electronic cigarette through a self-service display, other than a coin operated machine, commits a Class C infraction. As used in this section, &quot;self-service display&quot; means a display that contains tobacco or electronic cigarettes in an area where a customer is permitted and has access to the tobacco or electronic cigarettes without assistance from a sales person. This does not apply to a self-service display in a retail establishment that has a primary purpose to sell tobacco or electronic cigarettes and prohibits entry by persons less than 18 years of age.
+IND. CODE § 35-46-1-11.8 (2013).
+
+A retailer shall not allow the self-service sale for individuals purchasing an e-liquid.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A merchant may not mail or ship cigarettes as part of a delivery sale unless, before mailing or shipping the cigarettes, the merchant: obtains from the prospective customer a written statement signed by the prospective customer stating the customer&apos;s address and date of birth, makes a good faith effort to verify the information by using a federal or commercially available data base and receives payment for the delivery sale by a credit or debit card issued in the name of the prospective purchaser. Merchants that are not cigarette manufacturers are prohibited from making delivery sales to Indiana residents or retailers that are not distributors except under specified circumstances. Violation is subject to a civil penalty not to exceed $5,000. A merchant who mails or ships cigarettes as part of a delivery sale shall use a mailing or shipping service that requires the customer or a person at least 18 years of age designated by the customer to sign to accept delivery of the cigarettes; and to present a valid driver&apos;s license or identification card unless the person appears to be over 27 years of age. Violation by a delivery service is up to a $1,000 fine. Violations by merchants range from $1,000 to $2,000 for a first violation to $10,000 for a fifth violation in five years. Signing another person&apos;s name to a certification is a $1,000 fine.
+IND. CODE §§ 24-3-5 et seq. (2005).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A retail establishment whose primary purpose is the sale of tobacco products may not allow an individual who is less than 18 years of age to enter the retail establishment. The retail establishment must conspicuously post on all entrances signs that state: 1) &quot;It is unlawful for a person less than 18 years old to enter this store&quot;; and  2) displays a toll free number for assistance to callers in quitting smoking. Violation is a Class C infraction subject to the same penalties as a retail establishment that sells tobacco products to minors. The Indiana Alcohol and Tobacco Commission may mitigate civil penalties against a certificate holder if they have a training program for their employees that cover specific topics related to tobacco sales.  
+IND. CODE §§ 35-46-1-11.7 (2008) &amp; 7.1-3-18.5-8 (2008).
+
+Businesses, whose primary activity is the sale of tobacco or tobacco products and accessories, may not operate within 200 feet of a public or private elementary or secondary school, as measured between the nearest point of the premises occupied by the tobacco business and the nearest point of a building used by the school for instructional purposes.  A violation of this section is a Class C misdemeanor. This section does not apply to businesses operating as a tobacco business before April 1, 1996.
+IND. CODE § 35-46-1-11.2 (1997).
+
+A retailer of e-cigarette liquid may not make a delivery sale, defined as sales by telephone, Internet or mail, of an e-liquid to a person under age 18. A retailer may not ship e-liquids as part of a delivery sale without first making a good faith effort to verify the age of the purchaser of the e-liquids by using a commercially available database or obtaining a photocopy of a government issued identification. Before e-liquids are shipped in a delivery sale, a retailer must be fully paid for the purchase, shall accept payment from the purchaser by specified means, and may only ship e-liquids to the purchaser. A retailer who ships e-liquids from a delivery sale order shall include as part of the shipping documents a document with the following statement: &quot;E-LIQUIDS: Indiana law prohibits the sale of this product to a person who is less than 18 years of age.&quot; A person who knowingly or intentionally makes a sale of e-liquids to a person under age 18 or without making a good faith effort to verify the age of the purchaser of e-lquids commits a Class C infraction.
+ND. CODE §§ 7.1-7-5.5 et seq. (2017).</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 16-41-39 et seq. (1996).</Citation>
+<Description>Stronger local laws/ordinances restricting youth access to tobacco products are not allowed, see below.
+
+Regulation of the sale, distribution, or display of tobacco products may only be authorized by the general assembly.  An ordinance, bylaw, or rule, of any county, city, township, other political subdivision or agency of the state, is void.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 35-46-1-10 (2003) &amp; 7.1-3-18.5-8 (2008).</Citation>
+<Description>A retail establishment that distributes tobacco to a minor commits a Class C infraction punishable by the graduated civil penalties listed under the 1st paragraph of the &quot;Penalties for Sales to Minors&quot; section.  All provisions and affirmative defenses from that section apply to the distribution of tobacco products by retailers as well.    
+IND. CODE §§ 35-46-1-10.2 (2008) &amp; 7.1-3-18.5-8 (2008).
+
+A person that knowingly distributes tobacco to a minor commits a Class C infraction punishable by a civil penalty of up to $500.  All provisions and affirmative defenses from the 2nd paragraph of the &quot;Penalties for Sales to Minors&quot; section apply to the distribution of tobacco products by persons as well.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 7.1-6-2-3 (1997).</Citation>
+<Description>It is unlawful for a person to sell cigarettes other than in an unopened package originating with the manufacturer that bears the health warning required by federal law.  A violation of this law is a Class C infraction punishable by a fine of up to $500.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 16-41-39 et seq. (1996).</Citation>
+<Description>Stronger local laws/ordinances restricting sampling and minimum sales amounts of tobacco products are not allowed, see below.
+
+Regulation of the sale, distribution, or display of tobacco products may only be authorized by the general assembly.  An ordinance, bylaw, or rule, of any county, city, township, other political subdivision or agency of the state, is void.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 35-46-1-11.5 (2013).</Citation>
+<Description>Vending machines selling or distributing tobacco products or electronic cigarettes are restricted to areas of licensed premises accessible to persons over 18 years of age; private industrial or office locations; private clubs, if they are accessible only to persons over age 18; and riverboats where entry is limited to persons who are at least 21 years of age and on which lawful gambling is authorized.  Vending machines cannot be located in these areas if a vending machine is placed in or directly adjacent to an entranceway or an exit, or placed in a hallway, a restroom, or another common area that is accessible to persons who are less than 18 years of age.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 35-46-1-11.5 (2013) &amp; 7.1-3-18.5-8 (2008).</Citation>
+<Description>Violation of the restrictions on placement of tobacco product vending machines is a Class C infraction punishable by a civil penalty of $50 for a first violation; $250 for a second violation within 90 days; and the vending machine shall be impounded upon a third violation within 90 days.  An owner of a retail establishment may not be issued a citation or summons for a violation more than once every two business days for each business location.  The Indiana Alcohol and Tobacco Commission may mitigate civil penalties against a certificate holder if they have a training program for their employees that cover specific topics related to tobacco sales.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 35-46-1-11 (2013).</Citation>
+<Description>The following notices must be posted on vending machines located in a public place: 1) &quot;If you are under 18 years of age, you are forbidden, by Indiana law, to buy tobacco or an electronic cigarette from this machine&quot; or a substantially similar message; 2) &quot;Smoking by Pregnant Women May Result in Fetal Injury, Premature Birth, and Low Birth Weight;&quot; and 3) that displays a toll free number for assistance to callers in quitting smoking.  Failing to post a notice on a vending machine is a Class C infraction.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 16-41-39 et seq. (1996).</Citation>
+<Description>Stronger local laws/ordinances restricting the placement of and/or required sign posting on tobacco product vending machines are not allowed, see below.
+
+Regulation of the sale, distribution, or display of tobacco products may only be authorized by the general assembly.  An ordinance, bylaw, or rule, of any county, city, township, other political subdivision or agency of the state, is void.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 7.1-7-4-1 &amp; 7.1-7-5-1.1 (2017).</Citation>
+<Description>Retailers must obtain a tobacco sales certificate from the Indiana Alcohol and Tobacco Commission to sell tobacco products or electronic cigarettes. A separate certificate is required for each place where such products are sold or distributed, and shall be conspicuously displayed on the holder&apos;s premises. A certificate is valid for one year after the date of issuance and is nontransferable. Selling tobacco products or electronic cigarettes at retail without a certificate is a Class A infraction.
+IND. CODE §§ 7.1-3-18.5 et seq. (2015).
+
+Distributors must obtain a registration certificate to sell cigarettes or a license to sell other tobacco products from the Department of State Revenue. All registration certificates and licenses shall be valid for one year from the date of issuance unless revoked or suspended. A separate registration certificate or license is required for each place of business. Distributing cigarettes without a registration certificate or other tobacco products without a license is a Class B misdemeanor.  
+IND. CODE §§ 6-7-1-16 (1992); 6-7-1-23 (1978); 6-7-2-8 (1987) &amp; 6-7-2-18 (1987).
+
+Manufacturers must obtain a license from the Indiana Alcohol and Tobacco Commission for their principal place of business. The commission shall determine the duration of a license, but a license may not be valid for more than three years. The license issued under this section is nontransferable.
+IND. CODE §§ 24-3-6 et seq. (2005).
+
+A manufacturer of e-liquid as defined may not mix, bottle, package, or sell e-liquid to retailers, consumers or distributors in Indiana without a permit from the state Alcohol and Tobacco Commission. A permit is valid for five years, and is not transferable except under specified circumstances. A retailer that sells e-liquids must have a valid sales certificate issued by the Commission under Indiana Code section 7.1-3-18.5-1 that contains a separate box to check for identifying an e-liquid retailer. A retailer may only purchase e-liquid from an Indiana e-liquid manufacturing permit holder or an Indiana distributor of tobacco products. A distributor that does not have a valid e-liquid manufacturing permit issued must have a valid tobacco distributor&apos;s license issued under Indiana Code section 6-7-2-8.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 6-7-1-16 (1992), 6-7-2-8 (1987), &amp; 7.1-3-18.5 (2003).</Citation>
+<Description>Distributors: $500 annually for cigarettes, $25 annually for other tobacco products;
+Retailers: $50 per location;
+E-Liquid Manufacturers: $1,000 nonrefundable application fee when permit first acquired, $500 nonrefundable fee for renewal</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 35-46-1-10.2 (2013), 7.1-3-18.5-8 (2015) &amp; 7.1-3-18.5-9 (2015).</Citation>
+<Description>A person who sells or distributes tobacco products or electronic cigarettes to persons under age 18 at least six times in any 180-day period commits habitual illegal sale of tobacco, a Class B infraction, and the tobacco sales certificate may be suspended by the Indiana Alcohol and Tobacco Commission.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 22-5-4-1 et seq. (2006).</Citation>
+<Description>An employer may not require, as a condition of employment, an employee or prospective employee to refrain from using tobacco products outside the course of the employee&apos;s or prospective employee&apos;s employment.  An employer also may not discriminate against an employee with respect to compensation and benefits, or terms and conditions of employment based on the employee’s or prospective employee&apos;s use of tobacco products outside the course of employment.  However, an employer may implement financial incentives intended to reduce tobacco use, and related to employee health benefits provided by the employer.  An employee or prospective employee may bring civil action against the employer to enforce this law.  This does not apply to an employer that is a church, a religious organization, or a school or business conducted by a religious organization.</Description>
+<Year>2006</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 34-49-5-3 (2002).</Citation>
+<Description>An appeal bond that an appellant must post to stay execution on a judgment while an appeal is pending may not exceed $25 million regardless of the total amount of the judgment.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating assets outside the ordinary course of business to avoid payment of a judgment, a court may enter orders that are necessary to protect the appellee; and require the appellant to post a bond that is equal to the total amount of the judgment.</Description>
+<Year>2002</Year>
+<YearLabel>Year</YearLabel>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 4-12-1-14.3 (2003).</Citation>
+<Description>Master Settlement Agreement payments received by Indiana are deposited in the Tobacco Master Settlement Agreement Fund.  Money in the fund is appropriated to various state programs, including the Tobacco Use Prevention and Cessation Trust Fund, through the regular biennial appropriations process.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>129500000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE § 4-12-4-10 (2011).</Citation>
+<Description>There is created the Indiana Tobacco Master Settlement Agreement Fund for depositing and distributing the money received by the state under the Master Settlement Agreement between the state of Indiana and certain cigarette companies.  Money in the fund at the end of a state fiscal year does not revert to the state general fund.  Money in the fund is appropriated to various state programs, including the Tobacco Use Prevention and Cessation Trust Fund, through the regular biennial appropriations process.
+IND. CODE § 4-12-1-14.3 (2003).
+
+The Indiana Tobacco Use Prevention and Cessation Trust Fund is established.  Money may be spent from the fund by the state Department of Health for grants and other expenses to implement the long range state plan to reduce the use of tobacco products in Indiana.  The fund consists of: (1) amounts, if any, that another statute requires to be distributed to the fund from the Indiana Tobacco Master Settlement Agreement Fund; (2) appropriations to the fund from other sources; (3) grants, gifts, and donations intended for deposit in the fund; and (4) interest that accrues from money in the fund.  Money in the fund does not revert to the state general fund at the end of a state fiscal year.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Preempts local laws/ordinances concerning the sale, distribution or display of tobacco products.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Indiana&apos;s tobacco prevention and cessation program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018-FY2019 Biennial Budget (H.B. 1001) enacted 4/27/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).</Citation>
+<Description>Indiana appropriated $7,500,000 to tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $5,900,000 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>7500000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 4-12-4-11 to 4-12-4-15 (2011).</Citation>
+<Description>The state Department of Health shall develop a mission statement concerning prevention and reduction of the usage of tobacco and tobacco products in Indiana, including specified items.  The department shall also create a long range state plan to implement the mission statement and coordinate state efforts to reduce the use of tobacco products, based on Best Practices for Comprehensive Tobacco Control Programs as published by the Centers for Disease Control and Prevention.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 22-14-7 et seq. (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in section 22-14-7-19 Indiana Code, cigarettes may not be sold or offered for sale in Indiana unless the cigarettes: (1) have been tested according to the test method and meet the performance standard specified in 22-14-7-13 or 22-14-7-15 Indiana Code; (2) have been certified under section 22-14-7-21 Indiana Code; and (3) have been marked under section 22-14-7-23 Indiana Code.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>IND. CODE §§ 22-14-7 et seq. (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or another person or entity that knowingly sells cigarettes, other than through retail sale, in violation of the above requirements shall be subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties may not exceed $100,000 in any 30-day period.  A retail dealer is subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $7,500,000 in state funding for tobacco prevention and cessation programs in FY2018. 
+FY2018-FY2019 Biennial Budget (H.B. 1001) enacted 4/27/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).
+
+	Tobacco Sales: Incrementally increases the presumed cost of doing business by cigarette retailers from 12 percent to 14 percent through 2024.
+H.B. 1001, sect. 154 enacted 4/27/17 and effective 7/1/17.
+
+	E-Cigarette Sales/Licensing: Scales back prior state manufacturing regulations on e-cigarette liquid manufacturers, amends licensing provisions for e-cigarette liquid manufacturers and establishes restrictions on delivery sales of e-cigarette liquids.
+S.B. 1 enacted and effective 4/27/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $423,638,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Indiana</Name>
+<Abbrev>IN</Abbrev>
+<FipsCode>18</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $7,500,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,397,246*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $8,897,246
+
+Funding Level Recommended by CDC:                                        $73,500,000
+
+Percentage of CDC-Recommended Level:                                   12.1%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>15</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>
