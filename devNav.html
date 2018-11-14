@@ -20,6 +20,12 @@
 </div>
 
 <script type="text/javascript">
+  $(document).ready(function(){
+    if (!document.URL.includes("/dev/")) {
+      document.getElementById("devNav").style.display = "none";
+    }
+  })
+  
   document.getElementById("devNavButton").addEventListener("click", function() {
     if (document.getElementById("links").style.display == "none") {
       document.getElementById("links").style.display = "block";
