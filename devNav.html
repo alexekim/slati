@@ -1,7 +1,30 @@
-<style media="screen">
-
-</style>
-
 <div id="devNav">
 
+  <button id="devNavButton" type="button" name="button">Dev Only: show/hide links</button>
+
+  <div id="links" style="display: none;">
+    <a href="https://www.lung.org/dev/slati/slati.html">states</a><br/>
+    <a href="https://www.lung.org/dev/slati/about-slati.html">about slati</a><br/>
+    <a href="https://www.lung.org/dev/slati/appendix-b.html">appendix-b</a><br/>
+    <a href="https://www.lung.org/dev/slati/appendix-c.html">appendix-c</a><br/>
+    <a href="https://www.lung.org/dev/slati/appendix-d.html">appendix-d</a><br/>
+    <a href="https://www.lung.org/dev/slati/appendix-e.html">appendix-e</a><br/>
+    <a href="https://www.lung.org/dev/slati/appendix-f.html">appendix-f</a><br/>
+    <a href="https://www.lung.org/dev/slati/contact-slati.html">contact-slati</a><br/>
+    <a href="https://www.lung.org/dev/slati/factsheets-tobacco-policy.html">factsheets-tobacco-policy</a><br/>
+    <a href="https://www.lung.org/dev/slati/funding-for-state-tobacco.html">funding-for-state-tobacco</a><br/>
+    <a href="https://www.lung.org/dev/slati/slati-overview.html">slati-overview</a><br/>
+    <a href="https://www.lung.org/dev/slati/smokefree-laws-and-policies.html">smokefree-laws-and-policies</a><br/>
+    <a href="https://www.lung.org/dev/slati/tobacco-taxes.html">tobacco-taxes</a>
+  </div>
 </div>
+
+<script type="text/javascript">
+  document.getElementById("devNavButton").addEventListener("click", function() {
+    if (document.getElementById("links").style.display == "none") {
+      document.getElementById("links").style.display = "block";
+    } else if (document.getElementById("links").style.display == "block") {
+      document.getElementById("links").style.display = "none";
+    }
+  })
+</script>
