@@ -32,9 +32,9 @@
               storage2.push([NumericValue, Name]);
               console.log(storage2.length);
               console.log(storage2);
-              if (storage2.length == 51) {
-                appendN(storage2);
-              }
+              // if (storage2.length == 51) {
+              //   appendN(storage2);
+              // }
             }
             // storage = storage.sort(function(a,b){return a[0] - b[0];});
             resolve(storage2);
@@ -55,13 +55,13 @@
     var b = val[0][1]
     $("#loadSpinnerMessage").html("<p>"+a+ " and "+b+ "</p>");
     // $("#loadSpinnerMessage").html(`<p>${a} and ${b}</p>`);
-    console.log(a + " and " + b);
+    console.log("promise resolved: "+a + " and " + b);
     // alert(a + " and " + b);
   }
   const handleReject = (val)=>{
     $("#loadSpinnerMessage").html("something went wrong");
-    console.log(val);
-    alert(val);
+    console.log("promise rejected: "+val);
+    alert("promise rejected: "+val);
   }
 
   const randomNum = Math.random()
