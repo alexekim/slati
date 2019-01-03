@@ -30,10 +30,9 @@
 
             if (Subcategory == "Use of Cigarette Tax Revenue - Summary") {
               storage2.push([NumericValue, Name]);
-              // console.log(storage2.length);
-              // console.log(storage2);
+              console.log(storage2.length);
+              console.log(storage2);
               if (storage2.length == 51) {
-                console.log("successful amount of data sets");
                 appendN(storage2);
               }
             }
@@ -51,27 +50,39 @@
   }
 
   const handleResolve = (val) =>{
+    //SORTS THE ARRAY IN STORAGE2
     var a = "$" + Number(val[0][0]).toLocaleString();
     var b = val[0][1]
     $("#loadSpinnerMessage").html("<p>"+a+ " and "+b+ "</p>");
     // $("#loadSpinnerMessage").html(`<p>${a} and ${b}</p>`);
-    console.log("promise resolved: " + a + " and " + b);
+    console.log(a + " and " + b);
     // alert(a + " and " + b);
   }
   const handleReject = (val)=>{
     $("#loadSpinnerMessage").html("something went wrong");
-    console.log("rejected promise: " + val);
-    alert("rejected promise: " + val);
+    console.log(val);
+    alert(val);
   }
 
   const randomNum = Math.random()
 
-  const runIt = ()=>{
-    console.log("runIt");
-    runAjax(randomNum)
-    .then(handleResolve)
-    .catch(handleReject);
+  // const runIt = ()=>{
+  //   console.log("runIt");
+  //   runAjax(randomNum)
+  //   .then(handleResolve)
+  //   .catch(handleReject);
+  // }
+  //
+  // runIt();
+  const runIt = async()=>{
+    try{
+      let a = await runAjax();
+      handleResolve(a);
+    }
+    catch(err){
+      handleReject(err);
+      throw err;
+    }
   }
-
   runIt();
 </script>
