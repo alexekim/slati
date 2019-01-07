@@ -53,6 +53,12 @@
     color: fuchsia;
   }
 
+  .ABLegend{
+    font-size: 14px !important;
+    line-height: 16px !important;
+    margin-bottom: 0 !important;
+  }
+
   #table {
     font-size: 16px;
   }
@@ -97,17 +103,11 @@
 
 <div id="content-well">
   <h2>State Laws Restricting Smoking by Location</h2>
-  <b><font color="#003366">R</font></b>
-  <font size="1">=Restriction required; </font>
-  <b><font color="#003366">N</font></b>
-  <font size="1">=No law, policy or restriction; </font>
-  <b><font color="#003366">P</font></b>
-  <font size="1">=Smoking prohibited; </font>
-  <b><font color="#003366">M</font></b>
-  <font size="1">=Smoking mostly restricted; </font>
-  <b><font color="#003366">V</font></b>
-  <font size="1">=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </font>
-
+  <p class="R ABLegend">R=Restriction required; </p>
+  <p class="N ABLegend">N=No law, policy or restriction; </p>
+  <p class="P ABLegend">P=Smoking prohibited; </p>
+  <p class="M ABLegend">M=Smoking mostly restricted; </p>
+  <p class="V ABLegend">V=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </p>
   <table id="table">
     <thead>
       <tr>
@@ -646,16 +646,11 @@
       </tr>
     </thead> -->
   </table>
-  <b><font color="#003366">R</font></b>
-  <font size="1">=Restriction required; </font>
-  <b><font color="#003366">N</font></b>
-  <font size="1">=No law, policy or restriction; </font>
-  <b><font color="#003366">P</font></b>
-  <font size="1">=Smoking prohibited; </font>
-  <b><font color="#003366">M</font></b>
-  <font size="1">=Smoking mostly restricted; </font>
-  <b><font color="#003366">V</font></b>
-  <font size="1">=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </font>
+  <p class="R ABLegend">R=Restriction required; </p>
+  <p class="N ABLegend">N=No law, policy or restriction; </p>
+  <p class="P ABLegend">P=Smoking prohibited; </p>
+  <p class="M ABLegend">M=Smoking mostly restricted; </p>
+  <p class="V ABLegend">V=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </p>
 </div>
 
 <script type="text/javascript">
@@ -714,8 +709,8 @@
           console.warn("An error occurred while processing XML file.");
           $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
         }
-      });
-    })
+      }); // end $.ajax
+    }) //end $.each
   } //end xmlSort
 
   $(document).ready(function() {
