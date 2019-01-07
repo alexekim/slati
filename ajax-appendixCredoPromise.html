@@ -81,6 +81,8 @@
     "curent": "alpha"
   }
 
+  var storage = [];
+
   var appendNumeric = function(storage) {
     console.warn(storage);
     console.warn(storage.length);
@@ -162,7 +164,7 @@
       $("#loadSpinner").show();
       $("#content-well").hide();
       $("#tbody").children().remove();
-      var storage = [];
+      // var storage = []; GLOBAL NOW
       currentOrganiztion.current = "alpha";
       $.each(states, function(key, currentState) {
         // console.log("currentState: " + currentState);
@@ -210,7 +212,7 @@
   } //end xmlSortNumeric
 
   $(document).ready(function() {
-    xmlSortAlpha();
+    xmlSortAlpha().then(sortthatshitalphabetically);
   })
 
   $("#stateSort").on("click", function() {
