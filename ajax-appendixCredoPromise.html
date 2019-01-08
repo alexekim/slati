@@ -144,7 +144,7 @@
 
 
 
-  var appendAlpha = function(storage) {
+  var handleResolveAlpha = function(storage) {
     console.warn(storage);
     console.warn(storage.length);
     storage = storage.sort();
@@ -210,6 +210,8 @@
 
     })
   } //end xmlSortNumeric
+
+
 
   $(document).ready(function() {
     xmlSortAlpha().then(sortthatshitalphabetically);
