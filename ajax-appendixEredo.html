@@ -1,3 +1,7 @@
+
+<div id="item-908188634" class="templateComponent" style="display: inline;"></div>
+
+
 <style>
   #content-well {
     display: none;
@@ -334,7 +338,7 @@
 
   var xmlSort = function() {
     $.each(states, function(key, currentState) {
-      console.log("currentState: " + currentState);
+      // console.log("currentState: " + currentState);
       $.ajax({
         type: "GET",
         url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
@@ -352,7 +356,10 @@
             var Category = $(this).find('Category').text();
             var Description = $(this).find('Description').text();
 
+            var preemptionCatExist = 0;
+
             if (Category == "Preemption") {
+              preemptionCatExist += 1;
                var shortened = Name.replace(/\s+/g, '');
                var newID = "stateRow"+shortened;
                $(newID).css("display", "table");
@@ -362,6 +369,10 @@
               // var template = '<tr class=' + rowType +  '><td>' + Name + '</td><td>Youth Access (fix)</td><td>' + Description + '</tr>'
               // $("#tbody").append(template);
             }
+            // if (preemptionCatExist == 0) {
+            //   document.getElementById("stateRow"+shortened).removeChild(document.getElementById("stateRow"+shortened));
+            // }
+
           });
         },
         error: function() {
@@ -369,6 +380,7 @@
           $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>");
         }
       });
+
     })
     $("#loadSpinner").hide();
     $("#content-well").show();

@@ -40,7 +40,10 @@
     color: #3a75c4;
   }
 
-  .th:hover {
+  #stateSort:hover {
+    cursor: pointer;
+  }
+  #taxSort:hover {
     cursor: pointer;
   }
 </style>
@@ -61,7 +64,7 @@
     <thead>
       <tr>
         <th class="th" id="stateSort">State</th>
-        <th class="th" id="taxSort">Tax Rate</th>
+        <th class="th" id="taxSort">Tax Rate <i class='fa fa-sort-up'></i></th>
       </tr>
     </thead>
     <tbody id="tbody">
@@ -89,8 +92,11 @@
     // console.warn(storage);
     // console.warn(storage.length);
     if(currentOrganiztion.current == "numeric1"){
+      document.getElementById("taxSort").innerHTML = "Tax Rate <i class='fa fa-sort-down'></i>"
       storage = storage.sort(function(a,b){return b[0]-a[0];});
     } else if (currentOrganiztion.current == "numeric2") {
+      document.getElementById("taxSort").innerHTML = "Tax Rate <i class='fa fa-sort-up'></i>"
+
       storage = storage.sort();
     }
 
@@ -263,7 +269,7 @@
       .catch(handleReject)
     }
   })
-  
+
   $("#taxSort").on("click", function() {
     // if (currentOrganiztion.current == "alpha") {
       xmlSortNumeric()
