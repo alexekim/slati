@@ -48,7 +48,7 @@
 
 <div id="loadSpinner">
   <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
-  <p style="text-align: center;">
+  <p id="loadingMessage" style="text-align: center;">
     Loading...
   </p>
 </div>
@@ -83,7 +83,7 @@
 
   var storage = [];
 
-  var appendNumeric = function(storage) {
+  var handleResolveNumeric = function(storage) {
     console.warn(storage);
     console.warn(storage.length);
     storage = storage.sort();
@@ -98,48 +98,56 @@
     $("#content-well").show();
   }
 
-  var xmlSortNumeric = function() {
-    $("#loadSpinner").show();
-    $("#content-well").hide();
-    $("#tbody").children().remove();
-    var storage = [];
-    currentOrganiztion.current = "numeric";
-    $.each(states, function(key, currentState) {
-      // console.log("currentState: " + currentState);
-      $.ajax({
-        type: "GET",
-        url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
-        dataType: "xml",
-        success: function(xml) {
-          $(xml).find('qryXMLSLATIDetail').each(function(i) {
-            var Name = $(this).find('Name').text();
-            // var Abbrev = $(this).find('Abbrev').text();
-            var Subcategory = $(this).find('Subcategory').text();
-            var NumericValue = $(this).find('NumericValue').text();
-            var NumericValueFixed = Number(NumericValue).toFixed(3);
-            // console.log(Name +  ": " + NumericValueFixed);
+  var handleReject = function(e) {
+    console.warn("error thrown:");
+    throw e;
+  }
 
-            if (Subcategory == "Tax on Cigarettes") {
-              // var shortened = Name.replace(/\s+/g, '');
-              // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
-              storage.push([NumericValueFixed, Name]);
+  var xmlSortNumeric = function() {
+    storage = [] //clear out current global storage variable
+    return new Promise(function(resolve, reject) {
+      currentOrganiztion.current = "numeric";
+      $("#loadSpinner").show();
+      $("#content-well").hide();
+      $("#tbody").children().remove();
+      $.each(states, function(key, currentState) {
+        // console.log("currentState: " + currentState);
+        $.ajax({
+          type: "GET",
+          url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
+          dataType: "xml",
+          success: function(xml) {
+            $(xml).find('qryXMLSLATIDetail').each(function(i) {
+              var Name = $(this).find('Name').text();
+              // var Abbrev = $(this).find('Abbrev').text();
+              var Subcategory = $(this).find('Subcategory').text();
+              var NumericValue = $(this).find('NumericValue').text();
+              var NumericValueFixed = Number(NumericValue).toFixed(3);
+              // console.log(Name +  ": " + NumericValueFixed);
+
+              if (Subcategory == "Tax on Cigarettes") {
+                // var shortened = Name.replace(/\s+/g, '');
+                // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
+                storage.push([NumericValueFixed, Name]);
+              }
+            });
+            console.log("storage length: ", storage.length);
+            console.log(((storage.length / 51) * 100).toFixed(0) + "%");
+            document.getElementById("loadingMessage").innerHTML = "Loading: " + ((storage.length / 51) * 100).toFixed(0) + "%";
+            console.log(storage);
+            if (storage.length == 51) {
+              console.log(resolve);
+              resolve(storage);
             }
-          });
-          // storage = storage.sort();
-          // console.log(storage);
-          // return storage;
-        },
-        error: function() {
-          console.warn("An error occurred while processing XML file.");
-          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
-        }
-      }); // end ajax
-    }) // end each
-    setTimeout(function() {
-      appendNumeric(storage);
-    }, 2000);
-    // $("#loadSpinner").hide();
-    // $("#content-well").show();
+          },
+          error: function() {
+            console.warn("An error occurred while processing XML file.");
+            $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+          }
+        }); // end ajax
+      }) // end each
+      document.getElementById("loadingMessage").innerHTML = "";
+    }) // end promise function
   } //end xmlSortNumeric
 
 
@@ -160,6 +168,7 @@
   }
 
   var xmlSortAlpha = function() {
+    storage = [];
     return new Promise(function(resolve, reject) {
       $("#loadSpinner").show();
       $("#content-well").hide();
@@ -186,8 +195,11 @@
                 // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
                 storage.push([Name, NumericValueFixed]);
                 console.log("storage length: ", storage.length);
+                console.log(((storage.length / 51) * 100).toFixed(0) + "%");
+                document.getElementById("loadingMessage").innerHTML = "Loading: " + ((storage.length / 51) * 100).toFixed(0) + "%";
                 console.log(storage);
-                if(storage.length == 51){
+                if (storage.length == 51) {
+                  console.log(resolve);
                   resolve(storage);
                 }
               }
@@ -196,12 +208,14 @@
             // console.log(storage);
             // return storage;
           },
-          error: function() {
+          error: function(e) {
             console.warn("An error occurred while processing XML file.");
-            $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+            $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>");
+            reject(e)
           }
         }); // end ajax
       }) // end each
+      document.getElementById("loadingMessage").innerHTML = "";
 
       // setTimeout(function() {
       //   appendAlpha(storage);
@@ -212,19 +226,46 @@
   } //end xmlSortNumeric
 
 
+  // INTERNET EXPLORER does not accept this
+  // async function runAlpha() {
+  //   try {
+  //     var alphaAjax = await xmlSortAlpha();
+  //     handleResolveAlpha(alphaAjax);
+  //   } catch (err) {
+  //     throw err;
+  //   }
+  // }
+  //
+  // async function runNumeric() {
+  //   try {
+  //     var alphaAjax = await xmlSortNumeric();
+  //     handleResolveNumeric(alphaAjax);
+  //   } catch (err) {
+  //     throw err;
+  //   }
+  // }
+
+
 
   $(document).ready(function() {
-    xmlSortAlpha().then(sortthatshitalphabetically);
+    xmlSortAlpha() //old syntax
+      .then(handleResolveAlpha)
+      .catch(handleReject)
+    // runAlpha();
   })
 
   $("#stateSort").on("click", function() {
     if (currentOrganiztion.current == "numeric") {
-      xmlSortAlpha();
+      xmlSortAlpha()
+        .then(handleResolveAlpha)
+        .catch(handleReject)
     }
   })
   $("#taxSort").on("click", function() {
     if (currentOrganiztion.current == "alpha") {
-      xmlSortNumeric();
+      xmlSortNumeric()
+        .then(handleResolveNumeric)
+        .catch(handleReject)
     }
   })
 </script>
