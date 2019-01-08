@@ -84,8 +84,8 @@
   var storage = [];
 
   var handleResolveNumeric = function(storage) {
-    console.warn(storage);
-    console.warn(storage.length);
+    // console.warn(storage);
+    // console.warn(storage.length);
     storage = storage.sort();
     for (var j = 0; j < storage.length; j++) {
       if (j % 2 == 0) {
@@ -123,20 +123,18 @@
               var Subcategory = $(this).find('Subcategory').text();
               var NumericValue = $(this).find('NumericValue').text();
               var NumericValueFixed = Number(NumericValue).toFixed(3);
-              // console.log(Name +  ": " + NumericValueFixed);
 
               if (Subcategory == "Tax on Cigarettes") {
                 // var shortened = Name.replace(/\s+/g, '');
-                // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
                 storage.push([NumericValueFixed, Name]);
               }
             });
-            console.log("storage length: ", storage.length);
-            console.log(((storage.length / 51) * 100).toFixed(0) + "%");
+            // console.log("storage length: ", storage.length);
+            // console.log(((storage.length / 51) * 100).toFixed(0) + "%");
             document.getElementById("loadingMessage").innerHTML = "Loading: " + ((storage.length / 51) * 100).toFixed(0) + "%";
-            console.log(storage);
+            // console.log(storage);
             if (storage.length == 51) {
-              console.log(resolve);
+              // console.log(resolve);
               resolve(storage);
             }
           },
@@ -153,8 +151,8 @@
 
 
   var handleResolveAlpha = function(storage) {
-    console.warn(storage);
-    console.warn(storage.length);
+    // console.warn(storage);
+    // console.warn(storage.length);
     storage = storage.sort();
     for (var j = 0; j < storage.length; j++) {
       if (j % 2 == 0) {
@@ -176,7 +174,6 @@
       // var storage = []; GLOBAL NOW
       currentOrganiztion.current = "alpha";
       $.each(states, function(key, currentState) {
-        // console.log("currentState: " + currentState);
         $.ajax({
           type: "GET",
           url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
@@ -188,25 +185,20 @@
               var Subcategory = $(this).find('Subcategory').text();
               var NumericValue = $(this).find('NumericValue').text();
               var NumericValueFixed = Number(NumericValue).toFixed(3);
-              // console.log(Name +  ": " + NumericValueFixed);
 
               if (Subcategory == "Tax on Cigarettes") {
                 // var shortened = Name.replace(/\s+/g, '');
-                // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
                 storage.push([Name, NumericValueFixed]);
-                console.log("storage length: ", storage.length);
-                console.log(((storage.length / 51) * 100).toFixed(0) + "%");
+                // console.log("storage length: ", storage.length);
+                // console.log(((storage.length / 51) * 100).toFixed(0) + "%");
                 document.getElementById("loadingMessage").innerHTML = "Loading: " + ((storage.length / 51) * 100).toFixed(0) + "%";
-                console.log(storage);
+                // console.log(storage);
                 if (storage.length == 51) {
-                  console.log(resolve);
+                  // console.log(resolve);
                   resolve(storage);
                 }
               }
             });
-            // storage = storage.sort();
-            // console.log(storage);
-            // return storage;
           },
           error: function(e) {
             console.warn("An error occurred while processing XML file.");
@@ -216,10 +208,6 @@
         }); // end ajax
       }) // end each
       document.getElementById("loadingMessage").innerHTML = "";
-
-      // setTimeout(function() {
-      //   appendAlpha(storage);
-      // }, 2000);
 
 
     })
