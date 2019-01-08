@@ -23,7 +23,8 @@
     border-bottom: 2px solid gray;
     color: #3a75c4;
   }
-  th:hover{
+
+  th:hover {
     cursor: pointer;
   }
 
@@ -77,7 +78,16 @@
   ];
   var storage = [];
 
-  var appendN = function(storage) {
+  var currentOrganiztion = {
+    "current": "alpha"
+  }
+
+  var handleReject = function(e) {
+    console.warn("promise reject");
+    throw e;
+  }
+
+  var handleResolveNumeric = function(storage) {
     $("#tbody").children().remove();
     storage = storage.sort(function(a, b) {
       return a[0] - b[0];
@@ -94,7 +104,7 @@
     $("#content-well").show();
   }
 
-  var appendA = function(storage) {
+  var handleResolveAlpha = function(storage) {
     $("#tbody").children().remove();
     storage = storage.sort();
     for (var i = 0; i < storage.length; i++) {
@@ -109,98 +119,119 @@
     $("#content-well").show();
   }
 
-  var xmlSortNum = function() {
-    $("#loadSpinner").show();
-    $("#content-well").hide();
-    $("#tbody").children().remove();
-    $.each(states, function(key, currentState) {
-      $.ajax({
-        type: "GET",
-        url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
-        dataType: "xml",
-        success: function(xml) {
-          $("#loadSpinnerMessage").html("Sorting data...");
-          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+  var xmlSortNumeric = function() {
+    storage = [];
+    currentOrganiztion.current = "numeric";
+    return new Promise(function(resolve, reject) {
+      $("#loadSpinner").show();
+      $("#content-well").hide();
+      $("#tbody").children().remove();
+      $.each(states, function(key, currentState) {
+        $.ajax({
+          type: "GET",
+          url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
+          dataType: "xml",
+          success: function(xml) {
+            $("#loadSpinnerMessage").html("Sorting data...");
+            $(xml).find('qryXMLSLATIDetail').each(function(i) {
 
-            var Name = $(this).find('Name').text();
-            var Abbrev = $(this).find('Abbrev').text();
-            var Subcategory = $(this).find('Subcategory').text();
-            var NumericValue = $(this).find('NumericValue').text();
-            NumericValue = parseInt(NumericValue);
-            // var NumericValueFixed = Number(NumericValue).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-            // var NumericValueFixed = Number(NumericValue).toLocaleString();
+              var Name = $(this).find('Name').text();
+              var Abbrev = $(this).find('Abbrev').text();
+              var Subcategory = $(this).find('Subcategory').text();
+              var NumericValue = $(this).find('NumericValue').text();
+              NumericValue = parseInt(NumericValue);
+              // var NumericValueFixed = Number(NumericValue).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+              // var NumericValueFixed = Number(NumericValue).toLocaleString();
 
-            if (Subcategory == "Use of Cigarette Tax Revenue - Summary") {
-              storage.push([NumericValue, Name]);
-              console.log(storage);
-              if (storage.length == 51) {
-                appendN(storage);
+              if (Subcategory == "Use of Cigarette Tax Revenue - Summary") {
+                console.log(NumericValue, Name);
+                storage.push([NumericValue, Name]);
+                console.log(storage);
+                if (storage.length == 51) {
+                  resolve(storage)
+                  // appendN(storage);
+                }
               }
-            }
-            // storage = storage.sort(function(a,b){return a[0] - b[0];});
-          });
-        },
-        error: function() {
-          console.warn("An error occurred while processing XML file.");
-          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
-        }
-      }); //endAJAX
-    }) //endEACH
+              // storage = storage.sort(function(a,b){return a[0] - b[0];});
+            });
+          },
+          error: function() {
+            console.warn("An error occurred while processing XML file.");
+            $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+          }
+        }); //endAJAX
+      }) //endEACH
+    })
   } //end xmlSortNum
 
   var xmlSortAlpha = function() {
-    $("#loadSpinner").show();
-    $("#content-well").hide();
-    $("#tbody").children().remove();
-    $.each(states, function(key, currentState) {
-      $.ajax({
-        type: "GET",
-        url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
-        dataType: "xml",
-        success: function(xml) {
-          $("#loadSpinnerMessage").html("Sorting data...");
-          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+    storage = [];
+    currentOrganiztion.current = "alpha";
+    return new Promise(function(resolve, reject) {
+      $("#loadSpinner").show();
+      $("#content-well").hide();
+      $("#tbody").children().remove();
+      $.each(states, function(key, currentState) {
+        $.ajax({
+          type: "GET",
+          url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
+          dataType: "xml",
+          success: function(xml) {
+            $("#loadSpinnerMessage").html("Sorting data...");
+            $(xml).find('qryXMLSLATIDetail').each(function(i) {
 
-            var Name = $(this).find('Name').text();
-            var Abbrev = $(this).find('Abbrev').text();
-            var Subcategory = $(this).find('Subcategory').text();
-            var NumericValue = $(this).find('NumericValue').text();
-            NumericValue = parseInt(NumericValue);
-            // var NumericValueFixed = Number(NumericValue).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-            // var NumericValueFixed = Number(NumericValue).toLocaleString();
+              var Name = $(this).find('Name').text();
+              var Abbrev = $(this).find('Abbrev').text();
+              var Subcategory = $(this).find('Subcategory').text();
+              var NumericValue = $(this).find('NumericValue').text();
+              NumericValue = parseInt(NumericValue);
+              // var NumericValueFixed = Number(NumericValue).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+              // var NumericValueFixed = Number(NumericValue).toLocaleString();
 
-            if (Subcategory == "Use of Cigarette Tax Revenue - Summary") {
-              storage.push([Name, NumericValue]);
-              console.log(storage);
-              if (storage.length == 51) {
-                appendA(storage);
+              if (Subcategory == "Use of Cigarette Tax Revenue - Summary") {
+                console.log(NumericValue, Name);
+                storage.push([Name, NumericValue]);
+                console.log(storage);
+                if (storage.length == 51) {
+                  resolve(storage);
+                  // appendA(storage);
+                }
               }
-            }
-            // storage = storage.sort(function(a,b){return a[0] - b[0];});
-          });
-        },
-        error: function() {
-          console.warn("An error occurred while processing XML file.");
-          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
-        }
-      }); //endAJAX
-    }) //endEACH
+              // storage = storage.sort(function(a,b){return a[0] - b[0];});
+            });
+          },
+          error: function() {
+            console.warn("An error occurred while processing XML file.");
+            $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+          }
+        }); //endAJAX
+      }) //endEACH
+    })
+
   } //end xmlSortAlpha
 
 
   $(document).ready(function() {
-    xmlSortAlpha();
+    xmlSortAlpha()
+      .then(handleResolveAlpha)
+      .catch(handleReject)
   })
 
-  $("#sortAlpha").on("click", function(){
-    storage.splice(0, storage.length);
-    xmlSortAlpha();
+  $("#sortAlpha").on("click", function() {
+    if (currentOrganiztion.current == "numeric") {
+      storage.splice(0, storage.length);
+      xmlSortAlpha()
+        .then(handleResolveAlpha)
+        .catch(handleReject)
+    }
   })
 
-  $("#sortNum").on("click", function(){
-    storage.splice(0, storage.length);
-    xmlSortNum();
+  $("#sortNum").on("click", function() {
+    if (currentOrganiztion.current == "alpha") {
+      storage.splice(0, storage.length);
+      xmlSortNumeric()
+        .then(handleResolveNumeric)
+        .catch(handleReject)
+    }
   })
-
-
 </script>
