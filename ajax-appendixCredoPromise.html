@@ -188,7 +188,7 @@
   }
 
   var xmlSortAlpha = function() {
-    storage = [];
+    storage = []; //empties previous items in global storage array
     return new Promise(function(resolve, reject) {
       $("#loadSpinner").show();
       $("#content-well").hide();
