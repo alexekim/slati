@@ -42,7 +42,7 @@
   }
 
   .citation {
-    font-size: 10px;
+    font-size: 14px !important;
     font-style: italic !important;
   }
 
@@ -362,7 +362,22 @@
 </div>
 
 <script type="text/javascript">
+  var exceptions = {
+    "one" : {"subcategory": "", "description": "", "citation": ""},
+    "two" : {"subcategory": "", "description": "", "citation": ""},
+    "three" : {"subcategory": "", "description": "", "citation": ""}
+  };
+  // var exception1 = "";
+  // var exception2 = "";
+  // var exception3 = "";
+
   var xmlSort = function(){
+    exceptions = {
+      "one" : {"subcategory": "", "description": "", "citation": ""},
+      "two" : {"subcategory": "", "description": "", "citation": ""},
+      "three" : {"subcategory": "", "description": "", "citation": ""}
+    }; // clearing out any previous changes to this global object
+
     return new Promise(function(resolve, reject){
       var currentState = Cookies.get("state");
       console.log("current state is: " + currentState);
@@ -397,9 +412,6 @@
             // var StateID = $(this).find('StateID').text();
             var Category = $(this).find('Category').text();
             var Subcategory = $(this).find('Subcategory').text();
-            if (Subcategory == "Restrictions on Sales of Bidi Cigarettes") {
-              console.log(Subcategory);
-            }
             var Description = $(this).find('Description').text();
             var Citation = $(this).find('Citation').text();
 
@@ -417,16 +429,41 @@
                 $(".tobaccoTaxes").append("<p class='citation'>" + Citation + "</p>");
                 break;
               case "Tobacco Control Program Funding":
-                $(".tobaccoControlProgramFunding").show();
-                $(".tobaccoControlProgramFunding").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
-                $(".tobaccoControlProgramFunding").append("<p class='description'>" + Description + "</p>");
-                $(".tobaccoControlProgramFunding").append("<p class='citation'>" + Citation + "</p>");
+                if(Subcategory == "Funding for Tobacco Control Programs"){
+                  exceptions.three.subcategory = Subcategory;
+                  exceptions.three.description = Description;
+                  exceptions.three.citation = Citation;
+                  // prepend this to this category
+                } else {
+                  $(".tobaccoControlProgramFunding").show();
+                  $(".tobaccoControlProgramFunding").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                  $(".tobaccoControlProgramFunding").append("<p class='description'>" + Description + "</p>");
+                  $(".tobaccoControlProgramFunding").append("<p class='citation'>" + Citation + "</p>");
+                }
                 break;
               case "Laws Restricting Youth Access to Tobacco Products":
-                $(".lawsRestrictingYouthAccess").show();
-                $(".lawsRestrictingYouthAccess").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
-                $(".lawsRestrictingYouthAccess").append("<p class='description'>" + Description + "</p>");
-                $(".lawsRestrictingYouthAccess").append("<p class='citation'>" + Citation + "</p>");
+                if (Subcategory == "Minimum Sales Age for Tobacco Products") {
+                  exceptions.one.subcategory = Subcategory;
+                  exceptions.one.description = Description;
+                  exceptions.one.citation = Citation;
+                  //prepend this to top of this category
+                }
+                else if (Subcategory == "Photo Identification Requirements to Buy Tobacco Products"){
+                  exceptions.two.subcategory = Subcategory;
+                  exceptions.two.description = Description;
+                  exceptions.two.citation = Citation;
+                  //prepend this above #signPosting
+                } else if (Subcategory == "Sign Posting Requirements"){
+                  $(".lawsRestrictingYouthAccess").show();
+                  $(".lawsRestrictingYouthAccess").append("<h3 id='signPosting' class='subcategory'>" + Subcategory +"</h3>");
+                  $(".lawsRestrictingYouthAccess").append("<p class='description'>" + Description + "</p>");
+                  $(".lawsRestrictingYouthAccess").append("<p class='citation'>" + Citation + "</p>");
+                } else {
+                  $(".lawsRestrictingYouthAccess").show();
+                  $(".lawsRestrictingYouthAccess").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                  $(".lawsRestrictingYouthAccess").append("<p class='description'>" + Description + "</p>");
+                  $(".lawsRestrictingYouthAccess").append("<p class='citation'>" + Citation + "</p>");
+                }
                 break;
               case "Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products":
                 $(".tobaccoProductSamples").show();
@@ -512,18 +549,44 @@
           }
           $("hr").css("display", "block");
 
-        },
-        error: function() {
-          console.warn("An error occurred while processing XML file.");
-          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+          resolve(exceptions);
+        }, //end success
+        error: function(err) {
+          console.warn("An error occurred while processing SLATI XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>");
+          reject(err);
         }
       });
     }) //end promise
   } //end xmlSort
 
+  var handleResolve = function(exceptions){
+    console.log("promise resolved,", exceptions);
+    $(".lawsRestrictingYouthAccess h2").after("<h3 class='subcategory'>" + exceptions.one.subcategory + "</h3>" + "<p class='description'>" + exceptions.one.description + "</p>" + "<p class='citation'>" + exceptions.one.citation + "</p>"); //subcategory
+    // $(".lawsRestrictingYouthAccess h2").after("<p class='description'>" + exceptions.one.description + "</p>"); //description
+    // $(".lawsRestrictingYouthAccess h2").after("<p class='citation'>" + exceptions.one.citation + "</p>"); //citation
+
+    $("#signPosting").before("<h3 class='subcategory'>" + exceptions.two.subcategory + "</h3>" + "<p class='description'>" + exceptions.two.description + "</p>" + "<p class='citation'>" + exceptions.two.citation + "</p>" );//subcategory
+    // $("#signPosting").before("<p class='description'>" + exceptions.two.description + "</p>"); //description
+    // $("#signPosting").before("<p class='citation'>" + exceptions.two.citation + "</p>"); //citation
+
+    $(".tobaccoControlProgramFunding h2").after("<h3 class='subcategory'>" + exceptions.three.subcategory + "</h3>"+"<p class='description'>" + exceptions.three.description + "</p>"+"<p class='citation'>" + exceptions.three.citation + "</p>"); //subcategory
+    // $(".tobaccoControlProgramFunding h2").after("<p class='description'>" + exceptions.three.description + "</p>"); //description
+    // $(".tobaccoControlProgramFunding h2").after("<p class='citation'>" + exceptions.three.citation + "</p>"); //citation
+  }
+
+  var handleReject = function(err){
+    throw "promise error:", err;
+  }
+
+  var runIt = function(){
+    xmlSort()
+      .then(handleResolve)
+      .catch(handleReject)
+  }
 
   $(document).ready(function() {
-    xmlSort();
+    runIt()
   });
 
 
@@ -531,14 +594,14 @@
     $("#loadSpinner").css("display", "block");
     $(".info").hide();
     console.log("zip changed");
-    setTimeout(xmlSort, 500);
+    setTimeout(runIt, 500);
     // $(".info").show();
   })
   $("#stateSelectList").on("change", function(){
     $("#loadSpinner").css("display", "block");
     $(".info").hide();
     console.log(" select changed");
-    xmlSort();
+    runIt()
     // $(".info").show();
   })
 </script>
