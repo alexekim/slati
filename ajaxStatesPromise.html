@@ -541,7 +541,6 @@
                 console.warn("something went wrong in the content sort. maybe no category exists");
             }
           });
-          // var changeStateDiv = $("#changeState");
           var changeStateDiv = '<div id="changeState"><a id="viewDiff" onclick="document.getElementById(\'location\').click()">View a different state</a></div>';
           $("#changeState").remove();
           if ($("#changeState").length < 1) {
@@ -576,6 +575,7 @@
   }
 
   var handleReject = function(err){
+    document.getElementById("location").click();
     throw "promise error:", err;
   }
 
