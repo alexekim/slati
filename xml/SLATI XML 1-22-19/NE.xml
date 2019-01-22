@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:21:34">
+<tblStatesALA>
+<ID>28</ID>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<LegislatureHyperlink>#http://www.unicam.state.ne.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734 (2015).</Citation>
+<Description>It is unlawful for any person to smoke in a public place or place of employment, including restaurants, bars and gaming facilities.  Public place means an indoor area to which the public is invited or in which the public is permitted, whether or not the public is always invited or permitted.  A private residence is not considered a public place.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734 &amp; 53-131 (2015).</Citation>
+<Description>The following indoor areas are exceptions to the law: 1) up to 20 percent of hotel/motel rooms subject to certain conditions; 2) indoor areas used in connection with a research study on the health effects of smoking as specified; 3) tobacco retail outlets as defined; and 4) cigar shops as specified and defined.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734 &amp; 53-1,120.01 (2015).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are allowed except laws/ordinances further restricting or prohibiting smoking in cigar shops.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734 (2015).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which cover state and local government buildings.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734 (2015).</Citation>
+<Description>Smoking is prohibited in places of employment, the definition of which includes all private workplaces.  Place of employment means an indoor area under the control of a proprietor that an employee accesses as part of their employment without regard to whether the employee is present or work is occurring at any given time.  A private residence is a place of employment when such residence is being used as a licensed child care program and one or more children who are not occupants of such residence are present.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734 (2015).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which cover public and private educational facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734 (2015).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which cover child care facilities.  A private residence is a place of employment when such residence is being used as a licensed child care program and one or more children who are not occupants of such residence are present.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734 (2015).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which cover health care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734 (2015).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which cover restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5716 to 71-5734, 53-103.08, 53-131 &amp; 53-1,120.01 (2015).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which cover bars.  Cigar shops are exempt.  Cigar shop means an establishment operated by a holder of a Class C liquor license which: 1) does not sell food; 2) in addition to selling alcohol, annually receives 10 percent or more of its gross revenue from the sale of cigars and other tobacco products and tobacco-related products, except from the sale of cigarettes; 3) has a walk-in humidor on the premises; and 4) does not permit the smoking of cigarettes. Local communities are prohibited from passing stronger ordinances concerning cigar shops.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-5731 to 71-5733 (2008).</Citation>
+<Description>A proprietor of a place of employment or public place where smoking is prohibited under the Nebraska Clean Indoor Air Act shall take necessary and appropriate steps to ensure compliance.  A person who smokes in a place of employment or a public place is guilty of Class V misdemeanor for a first offense and a Class IV misdemeanor for the second or subsequent offenses.  A person charged with this offense may voluntarily participate in a smoking cessation program approved by the Department of Health and Human Services at their expense, and the penalty shall be waived upon successful completion of the program.  A proprietor who fails, neglects, or refuses to perform a duty under this law is guilty of Class V misdemeanor for a first offense and a Class IV misdemeanor for the second or subsequent offenses.  Each day of violation is a separate offense.  The Department of Health and Human Services or a local public health department may institute an action in any court with jurisdiction to enjoin any violation of the Nebraska Clean Indoor Air Act.  Any interested party may report possible violations of the act to such departments.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 77-2602(1) (2003).</Citation>
+<Description>Tax rate per pack of 20: 64 cents  
+Date last changed: October 1, 2002 -- from 34 cents to 64 cents
+Year first enacted: 1947</Description>
+<NumericValue>0.64</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 77-2602(2-5) (2007).</Citation>
+<Description>Revenue from 49 cents of the state cigarette tax is deposited into the state general fund.  The revenue from the remaining 15 cents is distributed to a variety of funds and purposes as specified below.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>60803000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 77-2602(2-5) (2011).</Citation>
+<Description>Beginning October 1, 2004, the revenue from 49 cents of the above tax is deposited into the state general fund.  The remainder of the revenue is distributed as follows:
+1) Beginning July 1, 1980, one cent is placed in the Nebraska Outdoor Recreation Development Cash Fund;
+2) Beginning July 1, 1993, three cents of such tax is placed in the Department of Health and Human Services Finance and Support Cash Fund to carry out sections 81-637 to 81-640 of the Nebraska statutes;
+3) Beginning October 1, 2002, seven cents is placed in the Building Renewal Allocation Fund until the purposes of the Deferred Building Renewal Act have been fulfilled;
+4) Beginning July 1, 2001, and continuing until June 30, 2016, $1 million dollars each fiscal year is placed in the City of the Primary Class Development Fund;
+5) Beginning July 1, 2001, and continuing until June 30, 2016, $1.5 million dollars each fiscal year is placed in the City of the Metropolitan Class Development Fund;
+6) Beginning July 1, 2009, and continuing until June 30, 2016, $2.57 million dollars is placed in the Nebraska Public Safety Communication System Cash Fund;
+7) Any remaining money is placed in the Nebraska Capital Construction Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 77-4008 (2009).</Citation>
+<Description>Snuff: 44 cents/oz. and a proportionate rate on all fractional parts of an ounce;
+All other tobacco products:  20% of the purchase price of such tobacco products paid by the first owner or the price at which a first owner who made, manufactured, or fabricated the tobacco product sells the items to others.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 77-4025 (2009).</Citation>
+<Description>All revenue from the tax on other tobacco products is deposited in the Tobacco Products Administration Cash Fund.  All costs required for administration of the Tobacco Products Tax Act shall be paid from such fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions in state law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 60-4, 111.01(3) (2010).</Citation>
+<Description>Whoever sells, gives or furnishes tobacco in any form, cigarettes, cigarette paper, vapor products or alternative nicotine products to a minor under age 18 is guilty of a Class III misdemeanor for each offense.  
+NEB. REV. STAT. § 28-1419 (2014).
+
+Any licensee who shall sell, give, or furnish in any way to a person under age 18 or willingly allow to be taken from their place of business by a person under age 18 any cigars, tobacco, cigarettes, cigarette materials, vapor products or alternative nicotine products shall be guilty of a Class III misdemeanor.  Any officer, director, or manager having charge or control either separately or jointly with others, of the business of any corporation which violates this provision, if he have knowledge of the same, shall also be subject to these penalties.  In addition, such licensee shall be subject to a revocation and forfeiture of their license at the discretion of the court who hears the complaint.
+NEB. REV. STAT. § 28-1425 (2014).
+
+For purposes of compliance with and enforcement of restrictions on the purchase of tobacco products, a retailer pursuant to a license issued under the applicable statutory provision may scan machine-readable information encoded on an operator&apos;s license or a state identification card presented for the purpose of such a sale. The retailer may store only the following information obtained from the license or card: Age and license or card identification number. The retailer shall post a sign at the point of sale of any of such items stating that the license or card will be scanned and that the age and identification number will be stored.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 28-1427 (2014).</Citation>
+<Description>A person under the age of 18 who smokes cigarettes or cigars, uses vapor products, alternative nicotine products or tobacco in any form shall be guilty of a Class V misdemeanor. Any minor so charged may be free from prosecution when they furnish evidence for the conviction of the person who sold or gave them such products. 
+NEB. REV. STAT. § 28-1418 (2014).
+
+Any person under age 18 who obtains cigars, tobacco, cigarettes, cigarette material, vapor products or alternative nicotine products from a licensee by misrepresenting their age shall be guilty of a Class V misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 28-1429.03 (2015).</Citation>
+<Description>It shall be unlawful to sell or distribute cigarettes, cigars, vapor products, alternative nicotine products, or tobacco in any form through a self-service display. Self-service display means a retail display that contains these products and is located in an area openly accessible to a retailer&apos;s customers and from which such customers can readily access the product without the assistance of a salesperson. Self-service display does not include a display case that holds tobacco products, vapor products, or alternative nicotine products behind locked doors. Violation is a Class III misdeameanor, and after the second or subsequent offense in a 12-month period, the court shall order a six-month suspension of retailer&apos;s license to sell tobacco products. These products may be sold or distributed in a self-service display that is located in a tobacco specialty store or cigar shop.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 69-1901 to 69-1904 (1989).</Citation>
+<Description>Any person or licensee who shall give or furnish tobacco products to a minor is guilty of a Class III misdemeanor.  In addition, a licensee shall be subject to the additional penalty of revocation and forfeiture of their license. 
+NEB. REV. STAT. §§ 28-1419 &amp; 28-1425 (1977).
+
+Smokeless tobacco products, or coupons or rebate offers for such products, shall not be distributed for promotional purposes by manufacturers, wholesalers, retailers, or representatives of these people.  Smokeless tobacco product is defined as: 1) loose tobacco or a flat compressed cake of tobacco that may be chewed or held in the mouth; or 2) a small amount of shredded, powdered, or pulverized tobacco that may be inhaled through the nostrils, chewed, or held in the mouth.  Violators of this law may be fined a civil penalty of $500 for the first offense, and between $600 and $3,000 for subsequent offenses.  Each violation is considered a separate offense.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 59-1520 (2011) &amp; 59-1522 (2001).</Citation>
+<Description>It is unlawful for any person to sell or distribute in this state, or import or cause to be imported into this state any cigarettes that do not comply with all requirements imposed by or pursuant to federal law and regulations, including the permanent imprinting on the primary packaging of the precise package warning labels in the precise format specified in section Four of the Federal Cigarette Labeling and Advertising Act.  Any person who knowingly violates this section is guilty of a Class IV felony.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling or minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 28-1429.01 (1992) &amp; 28-1429.02 (2014).</Citation>
+<Description>Vending machines or similar devices that dispense cigarettes, other tobacco products, vapor products or alternative nicotine products are prohibited except when located in offices, businesses, plants or factories not open to the public, or in the rooms where alcohol is dispensed in establishments holding licenses for the sale of alcoholic liquor under the Nebraska Liquor Control Act.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 28-1429.02 (2014).</Citation>
+<Description>Violation of the restrictions on placement of vending machines is a Class III misdemeanor.  In addition, upon conviction for a second offense, the court shall order a six-month suspension of the license to sell tobacco, and upon conviction for a third or subsequent offense, the license to sell tobacco products shall be permanently revoked.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 28-1429.02(3) (1992).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are specifically allowed, see below.
+
+Nothing in this section shall be construed to restrict or prohibit a governing body of a city or village from establishing and enforcing ordinances at least as stringent as or more stringent than the provisions of this section.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 28-1420 to 28-1423 (1993).</Citation>
+<Description>Every person, partnership, limited liability company, or corporation must obtain a license from the clerk or finance director of the city, town or village where their place of business is located to sell, keep for sale, or give away in course of trade, any cigars, tobacco, cigarettes, or cigarette material to anyone. A separate license is required for each place of business. Licenses are valid for one year unless suspended or revoked. Dealing in tobacco products without a license is a Class III misdemeanor for each offense.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 28-1423 (1993).</Citation>
+<Description>Retailers: $10 to $25 annually depending on the class/size of the city;  
+Wholesalers: $100 annually if their combined annual sales are over 150,000 packages of tobacco, and $15 annually if their annual sales are below that amount.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 28-1425 (1977).</Citation>
+<Description>A licensee who sells, gives or furnishes tobacco products to a minor may have their license revoked at the discretion of the court hearing the complaint.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 25-1916 (2004).</Citation>
+<Description>When the judgment, decree, or final order appealed from directs the payment of money, the bond, deposit of United States Government bonds, or cash deposit shall be the lesser of the amount of the judgment plus interest and applicable court costs, 50 percent of the appellant&apos;s net worth, or $50 million.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating or diverting assets outside the ordinary course of business to avoid the payment of a judgment, the court may enter any orders necessary to protect the appellee and require the appellant to provide a bond, deposit of United States Government bonds, or cash deposit up to and including the full amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 71-7608 (2009) &amp; 71-7611 (2014).</Citation>
+<Description>All payments received by Nebraska from the Master Settlement Agreement are deposited in the Tobacco Settlement Trust Fund.  Money in the fund is then transferred to the Nebraska Health Care Cash Fund as specified and then portions are transferred to several purposes from there, including funding for the state tobacco prevention and control program.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>37700000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The Nebraska Tobacco Settlement Trust Fund is created.  The fund shall include any settlement payments or other revenue received by the State of Nebraska in connection with any tobacco-related litigation.  Money from the Nebraska Tobacco Settlement Trust Fund shall be transferred to the Nebraska Health Care Cash Fund as specified in section 71-7611.
+NEB. REV. STAT. § 71-7608 (2009).
+
+The Nebraska Health Care Cash Fund is created. The State Treasurer shall transfer $60.1 million, on or before July 15, 2014 and on or before every July 15 thereafter from the Nebraska Medicaid Intergovernmental Trust Fund and the Nebraska Tobacco Settlement Trust Fund to the Nebraska Health Care Cash Fund, except that such amount shall be reduced by the amount of the unobligated balance in the Nebraska Health Care Cash Fund at the time of the transfer.  It is the intent of the legislature that no additional programs are funded through the Nebraska Health Care Cash Fund until funding for all programs with an appropriation from the fund during FY2012-13 are restored to their FY2012-13 levels.  Tobacco prevention and education programs are funded out of dollars in the Health Care Cash Fund.
+NEB. REV. STAT. § 71-7611 (2014).</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances concerning smoking in cigar bars are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Nebraska&apos;s tobacco control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018-FY2019 Biennial Budget (L.D. 327) enacted 5/15/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).</Citation>
+<Description>Nebraska appropriated $2,570,000 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, the same amount was appropriated. This is the first year of the FY2018-FY2019 biennium.  
+
+Note: In both FY2018 and FY2019, $450,000 was also appropriated to the state Medicaid program to cover the costs of a tobacco cessation treatment benefit under Medicaid.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>2570000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. § 71-5714 (2003).</Citation>
+<Description>The Tobacco Prevention and Control Cash Fund was created.  The fund shall be used for a comprehensive statewide tobacco-related public health program administered by the Department of Health and Human Services which includes, but is not limited to:  1) community programs to reduce tobacco use, 2) chronic disease programs, 3) school programs, 4) statewide programs, 5) enforcement, 6) counter-marketing, 7) cessation programs, 8) surveillance and evaluation, and 9) administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 69-501 to 69-511 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection 7 of section 69-503 Nebraska Revised Statutes, no cigarettes may be sold or offered for sale in Nebraska or offered for sale or sold to persons located in Nebraska unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 69-503 Nebraska Revised Statutes; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 69-504 Nebraska Revised Statutes; and 3) the cigarettes have been marked in accordance with section 69-505 Nebraska Revised Statutes.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>NEB. REV. STAT. §§ 69-501 to 69-511 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above requirements shall be liable for a civil penalty for each sale of such cigarettes of not to exceed $10,000 for a first offense and not to exceed $25,000 for any subsequent offenses.  Penalties shall not exceed $100,000 in any 30-day period.  A retail dealer that knowingly sells or offers to sell fewer than 1,000 cigarettes in violation of the above requirements is subject to a civil penalty of not to exceed $500 for a first offense and not to exceed $2,000 for subsequent offenses.  A retail dealer that knowingly sells or offers to sell 1,000 or more cigarettes in violation of the above requirements is subject to a civil penalty of not to exceed $1,000 for a first offense and not to exceed $5,000 for subsequent offenses.  Penalties may not exceed $25,000 in any 30-day period.  In addition, any corporation, partnership, sole proprietor, limited partnership, limited liability company, limited liability partnership, or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of $75,000 for the first false certification and not to exceed $150,000 for each subsequent false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $2,570,000 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018-FY2019 Biennial Budget (L.D. 327) enacted 5/15/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $60,803,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Nebraska</Name>
+<Abbrev>NE</Abbrev>
+<FipsCode>31</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $2,570,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,049,133*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $3,619,133
+
+Funding Level Recommended by CDC:                                        $20,800,000
+
+Percentage of CDC-Recommended Level:                                   17.4%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>28</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

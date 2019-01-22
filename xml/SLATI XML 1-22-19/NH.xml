@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:21:38">
+<tblStatesALA>
+<ID>30</ID>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<LegislatureHyperlink>#http://www.state.nh.us/gencourt/iegencourt.html#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 155:64 to 155:78 (2009) &amp; 178:20-a (2010).</Citation>
+<Description>Smoking is prohibited in certain specified public places, including restaurants and bars, see New Hampshire Revised Statute section 155.66 for a list of places covered.  Smoking may be permitted in enclosed places of public access and publicly-owned buildings and offices, including workplaces, other than those listed, in effectively segregated smoking-permitted areas designated by the person in charge. Smoking shall be totally prohibited in any such enclosed place, if smoking cannot be effectively segregated.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 155:64 to 155:78 (2009) &amp; 178:20-a (2010).</Citation>
+<Description>Exceptions to the law include: 1) guest rooms of hotels, motels and resorts; 2) public conveyances rented out for private purposes; 3) buildings owned and operated by social, fraternal, or religious organizations when used by the membership of the organization, their guests or families, or when they are rented or leased for private functions from which the public is excluded and arrangements are under the control of the sponsor of the function; 4) halls, ballrooms, dining rooms and conference rooms of hotels, motels, restaurants, resorts, and publicly accessible buildings or portions thereof, excluding those that are publicly owned, when rented or leased for private functions from which the public is excluded and arrangements are under the control of the sponsor of the function; 5) resident rooms in dormitories, public housing facilities and in facilities such as nursing homes, sheltered care facilities, and residential treatment and rehabilitation facilities, and prisons and detention facilities; 6) other health care facilities as specified; 7) patients with extraordinary medical conditions, psychiatric disorders, or patients in an alcohol and drug withdrawal program, provided that the patient&apos;s physician has written a prescription or an order allowing the patient to smoke and 8) cigar bars as specified and defined.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>J.T.R. Colebrook, Inc. v. Town of Colebrook (2003).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically not allowed due to a court decision, see below.
+
+The New Hampshire Supreme Court ruled unanimously that the New Hampshire state Clean Indoor Air Act (N.H. REV. STAT. ANN. §§ 155:64 to 155:78) constitutes a comprehensive and detailed statutory scheme, and because there was no provision permitting additional municipal regulation, the state law preempts local ordinances regarding indoor smoking more stringent than state law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 155:64 to 155:78 (2009).</Citation>
+<Description>Smoking is restricted to effectively segregated areas in all buildings, offices, and facilities owned, leased, or rented by state, county, or municipal governments, or agencies supported by funds from the collection of federal, state, county, or municipal taxes.  This definition includes legislative offices and other areas used by legislative bodies, courtrooms, jury rooms, recreation facilities, penal and detention institutions, public housing, subsidized housing, polling places and public meeting and hearing rooms.  If smoking cannot be effectively segregated, it shall be prohibited entirely.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 155:64 to 155:78 (2009).</Citation>
+<Description>Smoking is restricted to effectively segregated areas in all private enclosed workplaces that employ more than four people or volunteers.  If smoking cannot be effectively segregated, it shall be prohibited entirely.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 155:66 &amp; 155:67 (2007).</Citation>
+<Description>No person shall use any tobacco product, e-cigarette or liquid nicotine in any public educational facility or on the grounds of any public educational facility.
+N.H. REV. STAT. ANN. § 126-K:7 (2010).
+
+To the extent not covered above, smoking is prohibited in public educational facilities serving grades kindergarten through 12th grade at any time.  Smoking is restricted to effectively segregated areas in private educational facilities and postsecondary educational institutions receiving funds appropriated by the state legislature.  Resident rooms in dormitories operated by postsecondary institutions are specifically exempted.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 155:64 to 155:78 (2009).</Citation>
+<Description>Smoking is prohibited in licensed child care agencies during the hours of operation.  Smoking is allowed in foster family homes or foster family group homes.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 155:64 to 155:78 (2009).</Citation>
+<Description>Smoking is prohibited in hospitals and other acute care facilities.  Other health care facilities and resident rooms in facilities such as nursing homes, sheltered care facilities, and residential treatment and rehabilitation facilities are specifically exempted, but shall follow any procedures established by rule.  Patients with extraordinary medical conditions, psychiatric disorders, or patients in an alcohol and drug withdrawal program, provided that the patient&apos;s physician has written a prescription or an order allowing the patient to smoke are also exempted.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 155:65 &amp; 155:66 (2007).</Citation>
+<Description>Smoking is prohibited in restaurants.  Restaurant is defined as any room or enclosed place used and kept open on a regular basis and in a bona fide manner for the serving of meals to guests for compensation. The definition includes any such room or place in resorts, hotels, and motels.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 178:20-a (2010).</Citation>
+<Description>Smoking is prohibited in cocktail lounges defined as that portion or specified area of a restaurant, hotel, motel, convention center or resort which is used primarily to serve liquor or other alcoholic beverages, irrespective of whether or not food is also served there.  Smoking of cigars is allowed in cigar bars, see below.
+N.H. REV. STAT. ANN. §§ 155:65 &amp; 155:66 (2007).
+
+The smoking of cigars only is allowed in cigar bars.  Cigar bar is defined as a business that: 1) Generates 60 percent or more of its quarterly gross revenue from the sale of cigar-related products, which is limited to cigars, humidors, cigar cutters, cigar cases, lighters, and ashtrays; 2) has a humidor on the premises; 3) does not allow minors to enter the premises; and 4) does not allow cigarette smoking or service of food on the premises.  The business must also have a tobacco retailer&apos;s license.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 155:75 (1995).</Citation>
+<Description>Waiver from Smoking Restrictions:
+The Commissioner of the Department of Health and Human Services may grant a waiver to the above law under specified circumstances.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 155:64 to 155:78 (2009).</Citation>
+<Description>The person in charge of an enclosed place shall develop, or oversee the development of written policies to comply with the regulations of this law that shall specify the area or areas where smoking is permitted in the building or facility.  The appropriate signs shall be posted for notification of smoking restrictions in all facilities regulated under this law.  Any person who smokes where smoking is prohibited shall be guilty of a violation and shall be subject to a fine of not less than $100.  Any person in charge who fails to comply with any of the provisions of this law or rules adopted pursuant to it is subject to an administrative fine of not more than $100 per day for a first offense and not more than $200 per day for subsequent offenses.  The person in charge or his designee may call law enforcement authorities if any person refuses to refrain from smoking in an area where smoking is prohibited.  The Commissioner of the Department of Health and Human Services or their designee shall investigate any complaint regarding noncompliance.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 78:7 (2011).</Citation>
+<Description>Tax rate per pack of 20: $1.78
+Date last changed: August 1, 2013 -- from $1.68 to $1.78
+Year first enacted: 1939
+
+Note: The cigarette tax reverted back to $1.78 per pack on August 1, 2013 because the amount of cigarette and other tobacco product tax revenue was lower in the July 1, 2011 to June 30, 2013 biennium than the previous biennium.
+H.B. 2, sect. 377-381 enacted (became law without governor&apos;s signature) 6/30/11 and effective 7/1/11.</Description>
+<NumericValue>1.78</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 78:32 (2009).</Citation>
+<Description>Revenue from $1.00 of the cigarette tax is deposited in the state general fund.  Revenue from the remainder of the cigarette tax is deposited in the Education Trust Fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>207918000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 78:1 (2013), 78:7 (2011) &amp; 78:7-c (2011).</Citation>
+<Description>Little Cigars (under 3 lbs./thousand): $1.78 per 20 cigars;
+Roll-Your-Own Tobacco: 8.9 cents per 0.09 ounces of roll-your-own tobacco
+Loose tobacco, smokeless tobacco, snuff and cigars (not including premium cigars as defined): 65.03% of the wholesale sales price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:9 (1998).</Citation>
+<Description>The New Hampshire state Liquor Commission shall have the primary responsibility for enforcing this chapter. Local, county, and state law enforcement officers shall also have jurisdiction to enforce this chapter. Such authority may be delegated to agents working under their authority.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:8 (2010).</Citation>
+<Description>No person shall sell, give, or furnish, or cause or allow or procure to be sold, given, or furnished, tobacco products, e-cigarettes or liquid nicotine to a minor.  Penalties for violation are not more than $250 for the first offense; not more than $500 for the second offense; and between $500 and $1,500 for the third offense, and the license to sell tobacco products shall be suspended for a period of 10 consecutive days but not exceeding 30 consecutive days.  For the fourth offense, the commission shall issue an administrative fine between $750 and $3,000 and a suspension of a minimum of 10 consecutive days not to exceed 40 consecutive days; or a suspension without a fine of 40 consecutive days.  For any violation beyond the fourth, the commission shall revoke any license for the business or business entity at the location where the infraction occurred or any principle thereof for a period of one year.  The commission shall determine the level of the violation by reviewing the licensee’s record and counting violations that have occurred within three years of the date of the violation being considered.  In addition to the civil penalty above, a person who violates this section shall be guilty of a violation for a first offense and a misdemeanor for each subsequent offense.   
+N.H. REV. STAT. ANN. § 126-K:4 (2010).
+
+No person shall sell, give, or furnish rolling papers to a minor.  The fines for violations shall not exceed $250 for the first offense, $500 for the second offense, and $750 for the third and subsequent offenses.
+N.H. REV. STAT. ANN. § 126-K:4-a (2002).
+
+No person shall sell, give, or furnish tobacco products, e-cigarettes or liquid nicotine to a minor who has a note from an adult requesting such sale, gift, or delivery.  Penalties for violation are the same as selling tobacco products to minors (see above).</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 78:2(I-b) (1998).</Citation>
+<Description>When issuing or renewing a retailer&apos;s license, the retailer will be furnished with a sign which reads as follows: &quot;STATE LAW PROHIBITS THE SALE OF TOBACCO PRODUCTS TO PERSONS UNDER AGE 18 AND THE PURCHASE, POSSESSION, OR USE OF TOBACCO PRODUCTS BY PERSONS UNDER AGE 18. WARNING: VIOLATORS OF THESE PROVISIONS MAY BE SUBJECT TO A FINE.&quot; Signs shall be posted at any location where tobacco products are sold or distributed. The Commissioner of Revenue Administration shall adopt rules relative to placement of these warning signs in areas where tobacco products are sold or distributed.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:4-a (2002).</Citation>
+<Description>No person under 18 years of age shall purchase, attempt to purchase, use or possess any tobacco product, e-cigarette or liquid nicotine. A person under 18 years of age shall not misrepresent their age for the purpose of purchasing tobacco products.  Violators shall be guilty of a violation and punished by a fine of up to $100 for each offense or shall be required to complete up to 20 hours of community service for each offense, or both. Where available, punishment may also include participation in an educational program. The prohibition on possession of tobacco products, e-cigarettes or liquid nicotine shall not prohibit minors from performing the necessary handling of tobacco products during the duration of their employment.
+N.H. REV. STAT. ANN. § 126-K:6 (2010).
+
+No person under 18 years of age shall purchase, attempt to purchase, possess, or use any rolling paper. Any minor who violates this section shall be guilty of a violation and shall be punished by a fine not to exceed $100 for each offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:14 (1998).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are specifically allowed, see below.
+
+Nothing in this chapter shall be construed to restrict the power of any county, city, town, village, or other subdivision of the state to adopt local laws, ordinances, and regulations that are more stringent than state youth access laws.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:5 (2010).</Citation>
+<Description>No person may distribute or offer to distribute samples of tobacco products, e-cigarettes or liquid nicotine in a public place. This prohibition does not apply to areas where minors are denied access; stores where a retailer&apos;s license has been issued; and factory sites, construction sites, conventions, trade shows, fairs or motorsport facilities in areas to which minors are denied access. Penalties for violation are the same as those provided for selling, giving or furnishing tobacco products to minors.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 78:34 (2001).</Citation>
+<Description>All tobacco products shall be sold in their original packaging bearing the Surgeon General&apos;s warning.  The sale of single cigarettes is also prohibited. Penalties are the same as those provided for selling, giving, or furnishing tobacco products to minors. 
+N.H. REV. STAT. ANN. § 126-K:8 (2002).
+
+No person shall knowingly sell or offer to sell a package of tobacco products or affix the required stamp or imprint on a package of tobacco products unless that package of tobacco products complies with all federal laws regarding the placement of labels, warnings, or any other information upon a package of tobacco products.  Violation is subject to a 90 day license suspension for the first violation, loss of license for a year for subsequent violations, and a fine not to exceed $10,000.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:14 (1998).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are specifically allowed, see below.
+
+Nothing in this chapter shall be construed to restrict the power of any county, city, town, village, or other subdivision of the state to adopt local laws, ordinances, and regulations that are more stringent than state youth access laws.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>N/A</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Not applicable</HasLawOrRestrictionDescription>
+<Description>N/A</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:14 (1998).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are specifically allowed, see below.
+
+Nothing in this chapter shall be construed to restrict the power of any county, city, town, village, or other subdivision of the state to adopt local laws, ordinances, and regulations that are more stringent than state youth access laws.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 178:1; 178:19-a, b &amp; c; &amp; 78:2 (2009).</Citation>
+<Description>Wholesalers, manufacturers and sub-jobbers must obtain a license to sell or distribute tobacco products from the Commissioner of Revenue Administration. A separate license is required for each wholesale and sub-job outlet. Licenses expire on June 30 of each even numbered year. Any person who shall sell, offer for sale or possess with intent to sell any tobacco products without such license shall be subject to the penalty provisions under New Hampshire Revised Statutes section 21-J:39.
+N.H. REV. STAT. ANN. §§ 78:2 &amp; 78:4 (2009).
+
+No person shall sell tobacco products to individuals or the public in any method or manner, directly or indirectly, or keep for sale any tobacco products without first registering to do business with the Secretary of State and obtaining a license for such activity from the New Hampshire Liquor Commission. Each retail outlet must obtain a license, a person who engages in the business of operating vending machines for retail sales and distribution of tobacco products must obtain a license and a separate permit for each machine, and each individual engaged in public sampling must obtain a license. Any person who shall sell, offer for sale or possess with intent to sell any tobacco products without such license shall be subject to the penalty provisions under New Hampshire Revised Statutes section 21-J:39.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 78:2 &amp; 178:29 (2009).</Citation>
+<Description>Retailer&apos;s license: $6; 
+Wholesaler&apos;s license: $250;
+Manufacturer&apos;s license: $100; 
+Sub-jobber&apos;s license: $150; 
+Sampler&apos;s license: $6; 
+Vending machine operator&apos;s license: $35 plus $6 for each vending machine.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:4 (2002).</Citation>
+<Description>License specific penalties for selling, giving or furnishing tobacco products to minors starts with a suspension of the license to sell tobacco products for 10 consecutive days not to exceed 30 consecutive days for the third violation.  For the fourth violation the license to sell tobacco products shall be suspended for at least 10 days not to exceed 40 days with an administrative fine or 40 consecutive days without an administrative fine.  For any subsequent violations the license to sell tobacco products shall be revoked for the business or business entity at the location where the infraction occurred or any principle thereof for a period of one year from the date of revocation.  The New Hampshire Liquor Commission shall determine the level of the violation by reviewing the licensee’s record and counting violations that have occurred within three years of the date of the violation being considered.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 275:37-a (1991).</Citation>
+<Description>No employer shall require as a condition of employment that any employee or applicant for employment abstain from using tobacco products outside the course of employment, as long as the employee complies with any workplace smoking policy.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:15 (1999).</Citation>
+<Description>The Commissioner of the Department of Health and Human Services shall obtain annually from the Commonwealth of Massachusetts Department of Health, or other sources if they become available, a public report containing the list of additives for each brand of tobacco products sold.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Note: No appeal bond is required to appeal monetary judgments in lawsuits in New Hampshire.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 198.39(I)(i) (2006).</Citation>
+<Description>An education trust fund was established in the state treasury for specified purposes.  Forty million in Master Settlement Agreement money is transferred annually to the fund as well as other specified sources of revenue.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>42500000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Local laws/ordinances on smoking more stringent than state law are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for New Hampshire&apos;s tobacco control initiatives come from the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-A:64 (2008).</Citation>
+<Description>New Hampshire appropriated $140,000 for tobacco prevention and cessation initiatives in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $125,000 was allocated. This is the first year of the FY2018-FY2019 biennium.
+FY2018-FY2019 Biennial Budget (H.B. 144) enacted 6/28/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).
+
+There is hereby established in the office of the state Treasurer the Comprehensive Cancer Plan Fund, to be administered by the Department of Health and Human Services. Money in the fund is dedicated for specific programs, potentially including state tobacco control initiatives. Allocation of funds is decided by the Comprehensive Cancer Plan Oversight Board.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>140000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 126-K:15 to 126-K:18 (2007).</Citation>
+<Description>A tobacco use prevention and cessation program was established in the Department of Health and Human Services, which shall be administered with funds appropriated to the department for such purpose.  It shall include, but is not limited to: tobacco use prevention community programs and grants; tobacco use prevention school programs and grants; tobacco use prevention statewide programs and grants; tobacco use cessation programs; tobacco use prevention and cessation counter marketing; evaluation of tobacco control initiatives; and administration and enforcement.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 339-F:1 to 339-F:11(2007).</Citation>
+<Description>To help prevent cigarette-caused fires, on and after October 1, 2007, no cigarettes shall be sold or offered for sale in New Hampshire unless: 1) the cigarettes have been tested in accordance with the test method prescribed in New Hampshire Revised Statute section 339-F:3; 2) the cigarettes meet the performance standard specified in New Hampshire Revised Statute section 339-F:4; 3) a written certification has been filed by the manufacturer with the Commissioner of Safety and the New Hampshire Department of Justice in accordance with New Hampshire Revised Statute section 339-F:6; and 4) the cigarettes are marked in accordance with New Hampshire Revised Statute section 339-F:8.</Description>
+<Year>2007</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. §§ 339-F:1 to 339-F:11(2007).</Citation>
+<Description>Any wholesaler, agent, or other person or entity who knowingly sells cigarettes at wholesale in violation of the above shall be subject to a civil penalty not to exceed $10,000 for each sale.  Any retailer who knowingly sells cigarettes in violation is subject to a civil penalty not to exceed $500 if the sale involves 1,000 or less cigarettes and not to exceed $1,000 if more than 1,000 cigarettes.  In addition, any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification shall be subject to a civil penalty not to exceed $10,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>N.H. REV. STAT. ANN. § 126-K:3 (2010).</Citation>
+<Description>Any person responsible for monitoring sales from a tobacco vending machine or any person making the sale of tobacco products, e-cigarettes or liquid nicotine, which vending machine or other sale is to be made to any person who does not appear to be at least 18 years of age, shall require the purchaser to furnish specified photographic identification. Photographic identification shall be consistent with the appearance of the person, and shall be correct and free of alteration, erasure, blemish, or other impairment. It is a defense to prosecution if the person falsely represented in writing and supported by some official documents that the person was 18 years of age or older, the appearance of the person was such that an ordinary and prudent person would believe such person to be at least 18 years of age or older and the sale was made in good faith relying on such written representation and appearance in the reasonable belief that the person was actually 18 years of age or over.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: New Hampshire appropriated $140,000 in state funding for tobacco prevention and cessation initiatives in FY2018.
+FY2018-FY2019 Biennial Budget (H.B. 144) enacted 6/28/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $207,918,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>New Hampshire</Name>
+<Abbrev>NH</Abbrev>
+<FipsCode>33</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $140,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,109,031*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $1,249,031
+
+Funding Level Recommended by CDC:                                        $16,500,000
+
+Percentage of CDC-Recommended Level:                                   7.6%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>30</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

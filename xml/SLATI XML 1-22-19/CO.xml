@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:20:46">
+<tblStatesALA>
+<ID>7</ID>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<LegislatureHyperlink>#http://www.state.co.us/gov_dir/stateleg.html#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 25-14-201 et seq. (2008).</Citation>
+<Description>Smoking is prohibited in almost all indoor areas, including most places of employment, restaurants, bars and casinos.  See Colorado Revised Statute section 25-14-204 for a detailed list.  Smoking is also prohibited within 15 feet or other distance specified by local communities of entryways to indoor areas where smoking is prohibited.  The owner/manager of a place not specifically listed or exempted may post signs prohibiting smoking or limiting it to designated areas, which shall have the effect of including the place/area in the list of indoor areas where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 25-14-201 et seq. (2008).</Citation>
+<Description>Exceptions to the law include: 1) private homes, private residences and private automobiles except if any such home, residence or vehicle is being used for child care or day care or if a private vehicle is being used for the public transportation of children or as part of health care or day care transportation; 2) limousines under private hire; 3) up to 25 percent of hotel/motel rooms rented to guests; 4) any retail tobacco business; 5) a cigar-tobacco bar as defined; 6) an airport smoking concession; 7) the outdoor area of any business; 8) a place of employment that is not open to the public and is under the control of an employer that employs three or fewer employees, provided that employees who request to work in a smokefree work area shall be provided with one; 9) a private non-residential building on a farm or ranch that has annual gross income of less than $500,000; and 10) designated smoking areas for residents of assisted living facilities and their guests, provided the area is fully enclosed and ventilated.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 25-14-207(2)(a) (2006).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+A local authority may enact, adopt and enforce smoking regulations that cover the same subject matter as the above state law.  No local authority may adopt any local regulation of smoking that is less stringent than the above state law, except a local authority may specify a radius of less than 15 feet for the area included within an entryway.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 25-14-201 et seq. (2008).</Citation>
+<Description>Smoking is prohibited in almost all indoor areas, including public buildings, which are defined as any building owned or operated by the state, including the legislative, executive and judicial branches of state government; any county, city and county, city, town, or instrumentality thereof or any political subdivision of the state, a special district, an authority, a commission or an agency; or any other separate corporate instrumentality or unit of state or local government.  Smoking is also specifically prohibited in public meeting places, government-owned or operated means of mass transportation, jury waiting and deliberation rooms and courtrooms.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 25-14-201 et seq. (2008).</Citation>
+<Description>Smoking is prohibited in almost all indoor areas, which includes almost all private places of employment.  Smoking is also prohibited within 15 feet or other distance specified by local authority of entryways to places of employment.  Places of employment that are not open to the public and have three or fewer employees are exempt, provided that employees in exempted places of employment are entitled to a smokefree work area upon request.  Outdoor areas of places of employment are also specifically exempted.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 25-14-201 et seq. (2008).</Citation>
+<Description>The board of education of each school district must adopt policies and rules that mandate a prohibition of the use of all tobacco products, the definition of which includes electronic cigarettes and similar devices, on the grounds of all public nursery schools, day care centers, child care facilities, Head Start programs, kindergarten, and elementary and secondary education facilities through grade 12.  This prohibition pertains to all students, teachers, staff, and visitors on school property and at school-sponsored events.  Smoking is also prohibited in all vehicles used by the school for the purpose of transporting students, workers, visitors, or any other persons.  Signs regarding such prohibition and the consequences of violation shall be displayed prominently on all school property to ensure compliance.  This does not apply to the use of a tobacco product in a limited classroom demonstration to show the health hazards of tobacco use.  Schools are also allowed to enact more stringent policies or rules.
+COLO. REV. STAT. ANN. § 25-14-103.5 (2011).
+
+Smoking is prohibited in almost all indoor areas, including to the extent not covered by Colorado Revised Statute section 25-14-103.5 above, public and nonpublic schools.  Smoking is also specifically prohibited in other educational and vocational institutions and within 15 feet or other distance specified by local authority of entryways to these places.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>
+COLO. REV. STAT. ANN. §§ 25-14-201 et seq. (2008).</Citation>
+<Description>The board of education of each school district must adopt policies and rules that prohibit the use of tobacco products on the property and in the vehicles of public nursery schools, day care centers, childcare facilities, and Head Start programs.  This prohibition pertains to all students, teachers, staff and visitors.  
+COLO. REV. STAT. ANN. §§ 25-14-103.5 (1998).
+
+Smoking is also prohibited in almost all indoor areas, specifically including all child day care facilities, and within 15 feet or other distance specified by local authority of entryways to child day care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 25-14-201 et seq. (2008).</Citation>
+<Description>Smoking is prohibited in almost all indoor areas, including health care facilities.  Health care facilities specifically include hospitals, health care clinics, doctor&apos;s offices and other health care-related facilities.  Smoking is restricted to designated areas in assisted living facilities that are fully enclosed and ventilated, and to which access is restricted to residents or their guests.  Smoking is also prohibited within 15 feet or other distance specified by local authority of entryways to health care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 25-14-201 et seq. (2008).</Citation>
+<Description>Smoking is prohibited in almost all indoor areas, including food service establishments, which are defined as any indoor area or portion thereof in which the principal business is the sale of food for on-premises consumption.  The term includes restaurants, cafeterias, coffee shops, diners, sandwich shops and short-order cafes.  Smoking is also prohibited within 15 feet or other distance specified by local authority of entryways to food service establishments.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 25-14-201 et seq. (2008).</Citation>
+<Description>Smoking is prohibited in almost all indoor areas, including bars, which are defined as indoor areas primarily devoted to the sale and service of alcoholic beverages for on-premises consumption and where the service of food is secondary to the consumption of such beverages.  Cigar-tobacco bars are exempt.  Cigar-tobacco bars are defined as bars that in the calendar year ending December 31, 2005, generated at least five percent or more of its total annual gross income from the on-site sale of tobacco products and the on-site rental of humidors, not including any sales from vending machines.  If a bar previously designated as a cigar-tobacco bar fails to meet these requirements in any calendar year after December 31, 2005, the bar shall lose the cigar-tobacco bar designation permanently.  Also a cigar-tobacco bar shall not expand its size or change its location from the size and location in which it existed as of December 31, 2005.  Smoking is also prohibited within 15 feet or other distance specified by local authority of entryways to bars.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 25-14-208 (2006).</Citation>
+<Description>It is unlawful for a person who owns, manages, operates or otherwise controls the use of premises subject to the law prohibiting smoking in indoor areas to violate the provisions of that law.  It is also unlawful for a person to smoke in a place subject to the provisions of the law prohibiting smoking in indoor areas.  Violation is a Class 2 petty offense subject to a fine not to exceed $200 for a first violation within a calendar year, a fine not to exceed $300 for a second violation within a calendar year and a fine not to exceed $500 for each additional violation within a calendar year.  Each day of a continuing violation will be considered a separate offense.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Tax rate per pack of 20: 84 cents
+Date last changed: January 1, 2005 -- from 20 cents to 84 cents
+Year first enacted: 1964
+COLO. REV. STAT. §§ 39-28-103 (1986) &amp; 39-28-103.5 (2005).
+
+The state sales tax now permanently applies to the sale of cigarettes under legislation passed in 2013.  Local sales taxes still do not apply to the sale of cigarettes.
+COLO. REV. STAT. § 39-26-706 (2013).</Description>
+<NumericValue>0.84</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 24-22-117 (2011) &amp; 39-28-110 (2005).</Citation>
+<Description>Revenue from 64 cents of the cigarette tax is distributed to the Tobacco Tax Cash Fund, and usually distributed to several specified programs/purposes from there, including the state tobacco prevention and cessation program.  However, in previous fiscal years, some of the money dedicated to certain funds in the Tobacco Tax Cash Fund has been transferred to other health-related purposes due to a declaration of a state fiscal emergency.  Revenue from the remaining 20 cents goes to the state general fund and the old age pension fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>172806000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. § 39-28-110 (2005).</Citation>
+<Description>The Tobacco Tax Cash Fund is created in the state treasury.  All moneys from the cigarette tax (64 cents per pack) imposed pursuant to Art. X, Sect. 21 of the Colorado Constitution is deposited in this fund.  All interest and income from monies in the cash fund shall also be credited to the cash fund, except in FY2009 through FY2012 the interest and income shall be deposited in the state general fund.  In each fiscal year, three percent of the money deposited in the fund plus three percent of the interest earned from moneys in the fund shall be appropriated to the state general fund, the old-age pension program and municipal and county governments to compensate for lost tax revenue from lower tobacco product sales, except in FY2009 through FY2012 only 3 percent of money in the cash fund was appropriated.  The three percent allocation to the state general fund is divided up as follows: 1) 20 percent to the state general fund for health-related services (50 percent of this is spent on providing immunizations in certain areas of the state and the other 50 percent for expenditures in the Children&apos;s Basic Health Plan); 2) 50 percent to provide health-related services under the &quot;Colorado Medical Assistance Act for persons who qualify to receive old age pensions; and 3) 30 percent to the Department of Revenue to be transferred to municipal and county governments as specified.  The Health Care Expansion Fund, Primary Care Fund, Tobacco Education Programs Fund, and the Prevention, Early Detection and Treatment Fund are also created in the state treasury, which will receive 46 percent, 19 percent, 16 percent and 16 percent respectively of the moneys deposited in the Tobacco Tax Cash Fund plus the same respective percentages of the interest from monies in the Tobacco Tax Cash Fund in each fiscal year, except in FY2009 through FY2012 as specified above.  Any interest and income earned from monies in the respective funds during FY2009 through FY2012 are also transferred to the state general fund.  The Tobacco Education Programs Fund money is used to fund the state tobacco prevention/cessation program, enforce laws prohibiting tobacco sales to minors through the Division of Liquor Enforcement in the Department of Revenue and providing matching funds to the Department of Health Care Policy and Financing to obtain federal matching funds for the state tobacco quitline.  This portion of the cigarette tax is levied pursuant to a constitutional amendment passed by voters in November 2004.
+COLO. REV. STAT. ANN. § 24-22-117 (2012).
+
+Of the revenue generated from the 20 cents of the cigarette tax enacted by the legislature pursuant to the statute cited below, 15 percent goes to the general fund and 85 percent goes to the old-age pension fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 39-28.5-102 (1986) &amp; 39-28.5-102.5 (2005).</Citation>
+<Description>All other tobacco products: 40% of the manufacturer&apos;s list price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 24-22-117 (2009) &amp; 39-28.5-108 (2005).</Citation>
+<Description>Revenue from taxes on tobacco products other than cigarettes is distributed to the same funds and programs as cigarette tax revenue; half of the revenue goes to the Tobacco Tax Cash Fund and half to the state general fund/old-age pension fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 39-28.5-108 (2005).</Citation>
+<Description>The revenue from the tax on tobacco products other than cigarettes (20% of the manufacturer&apos;s list price) imposed pursuant to Art. X, Sect. 21 Colorado Constitution is deposited in the Tobacco Tax Cash Fund.  Moneys are then distributed to several funds from there, including the Tobacco Education Programs Fund, which funds the state tobacco prevention program.  See &quot;Use of Cigarette Tax Revenue&quot; section for specific percentages and relevant details.  This portion of the other tobacco products tax is levied pursuant to a constitutional amendment passed by voters in November 2004.   
+COLO. REV. STAT. ANN. § 24-22-117 (2009).
+
+Of the revenue generated from the other tobacco products tax (20% of the manufacturer&apos;s list price) enacted by the legislature pursuant to the statute cited below, 15 percent is distributed to the general fund and 85 percent to the old-age pension fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1291</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 24-35-504 (2014).</Citation>
+<Description>The Division of Liquor Enforcement has the power to enforce all state statutes relating to the prohibition of the sale of cigarettes, tobacco products and nicotine products to persons under age 18.  The Department of Revenue may share information on the identification and address of retailers that sell cigarettes, tobacco products or nicotine products with any state agency responsible for the enforcement of youth access laws.  The division shall perform at least the minimum number of random inspections of businesses that sell cigarettes and tobacco products at retail as required by federal regulations.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 18-13-121 (2014).</Citation>
+<Description>No retailer shall sell or permit the sale of cigarettes, tobacco products or nicotine products, which as defined includes electronic cigarettes and other similar products, to persons under age 18.  Violators receive a written warning for the first violation; a $250 fine for the second violation within a 24-month period; a $500 fine for a third violation within a 24-month period; a $1,000 fine for a fourth violation within a 24-month period; and $1,000 to $15,000 for a fifth and subsequent violations within a 24-month period.  It is an affirmative defense if the employer has adopted and enforced a written policy against selling cigarettes, tobacco products or nciotine products to minors, required employees to verify the age of the customer by way of photographic identification and had established and imposed disciplinary sanctions for noncompliance.  This affirmative defense can only be used two times at each establishment within a 24-month period. 
+COLO. REV. STAT. ANN. §§ 24-35-502, 24-35-503 &amp; 24-35-506 (2014).
+
+A person shall not give, sell, distribute, dispense or offer for sale to any person under 18 years of age any cigarette, tobacco product or nicotine product, which as defined includes electronic cigarettes, and other similar products.  Violation is a Class 2 petty offense subject to a fine of $200.  It is an affirmative defense to prosecution that the person furnishing the cigarette, tobacco product or nicotine product was presented and reasonably relied upon a document that the individual was over 18.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 24-35-503(3) &amp; 24-35-506 (2014).</Citation>
+<Description>Any person who sells or offers to sell any cigarettes, tobacco products or nicotine products shall display a warning sign.  The warning sign must be displayed in a prominent place in the building at all times and must read as follows: WARNING: IT IS ILLEGAL FOR ANY PERSON UNDER 18 YEARS OF AGE TO PURCHASE CIGARETTES, TOBACCO PRODUCTS OR NICOTINE PRODUCTS AND, UPON CONVICTION, A $100 FINE MAY BE IMPOSED.  Failure to post such a sign is subject to a written warning for a first offense; $50 fine for a second violation within a 24-month period; $100 fine for a third violation within a 24-month period; $250 fine for a fourth violation in a 24-month period; and $250 to $1,000 fine for a fifth and subsequent violations in a 24-month period.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 25-14-301 (2008).</Citation>
+<Description>A minor who purchases or attempts to purchase any cigarette, tobacco product or nicotine product commits a Class Two petty offense punishable by a fine of $100, or the court, in lieu of the fine, may sentence the person to participate in a tobacco education program. The court may allow a person convicted under this section to perform community service and be granted credit against the fine and court costs at a rate of $5 for each hour of work performed for up to 50 percent of the fine and court costs.  It shall not be an offence if the minor was participating in a compliance check. 
+COLO. REV. STAT. ANN. § 18-13-121(2) (2014). 
+
+Possession of tobacco products by a person less than 18 years of age is prohibited. It shall not be an offense if the person was acting at the direction of a governmental agency authorized to enforce or ensure compliance with laws prohibiting the sale of tobacco products to minors. Violation is a noncriminal offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 18-13-121(3) (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are specifically allowed, see below.
+
+Nothing in this section prohibits a statutory or home-rule municipality from enacting an ordinance that prohibits a person under 18 years of age from purchasing any cigarettes, or tobacco products, or nicotine products or imposes requirements more stringent than provided in section 18-13-121 Colorado Revised Statutes.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 18-13-121 (2014).</Citation>
+<Description>A person shall not give or distribute to any person under 18 years of age any cigarette, tobacco product or nicotine product.  Violation is a Class Two petty offense subject to a fine of $200.  It is an affirmative defense to prosecution that the person furnishing the tobacco product was presented and reasonably relied upon a document that identified the individual as being over 18.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO REV. STAT. ANN. § 39-28-104.5 (1999).</Citation>
+<Description>No retailer shall sell or offer to sell individual cigarettes, or any pack or container of cigarettes containing fewer than 20 cigarettes, or roll-your-own tobacco in any package containing less than 0.6 ounces of tobacco.  Violation is subject to the same penalties as selling or distributing tobacco products to minors.   
+COLO. REV. STAT. ANN. § 24-35-503 (2001).
+
+No person shall import into Colorado any package of cigarettes that violates any federal requirement for the placement of labels, warnings, or other information, including health hazards, required to be placed on the container or individual package.  Violation is a Class One misdemeanor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 18-13-121(3) (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling of or minimum sales amounts for tobacco products are specifically allowed, see below.
+
+Nothing in this section prohibits a statutory or home-rule municipality from enacting an ordinance that prohibits a person under 18 years of age from purchasing any cigarettes, or tobacco products, or nicotine products or imposes requirements more stringent than provided in section 18-13-121 Colorado Revised Statutes.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 24-35-503(2) (2014).</Citation>
+<Description>Sale of cigarettes, tobacco products or nicotine products, which as defined include electronic cigarettes and similar products, through vending machines is restricted to factories, businesses, offices or other places not open to the general public; places where persons under 18 are not permitted access; or establishments where the vending machine dispenses cigarettes through the operation of a device that enables an adult employee of the establishment to prevent the dispensing of cigarettes to minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 24-35-506 (2014).</Citation>
+<Description>Violators are fined $25 for a first violation, $50 for the second violation within a 24-month period, $100 for the third violation within a 24-month period, $250 for a fourth violation in a 24-month period and $250 to $1,000 for a fifth and subsequent violations in a 24-month period.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 24-35-503(3) &amp; 24-35-506 (2014).</Citation>
+<Description>A warning sign shall be displayed on any vending or coin operated machine that sells cigarettes, tobacco products or nicotine products at all times and must read as follows: &quot;WARNING. IT IS ILLEGAL FOR ANY PERSON UNDER 18 YEARS OF AGE TO PURCHASE OR ATTEMPT TO PURCHASE CIGARETTES, TOBACCO PRODUCTS OR NICOTINE PRODUCTS AND, UPON CONVICTION, A $100 FINE MAY BE IMPOSED.&quot;  Penalties range from $25 for a first violation to $250 to $1,000 for a fifth and subsequent violations in a 24-month period.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting placement of or the required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 39-28-102 (1964) &amp; 39-28.5-104 (1986).</Citation>
+<Description>Wholesalers must be licensed by the Department of Revenue to sell cigarettes, and distributors must be licensed by the department to sell other tobacco products. Licenses are to be renewed annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 39-28-102 (1964) &amp; 39-28.5-104 (1986).</Citation>
+<Description>$10 annually for each place of business for wholesalers and distributors.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. § 24-34-402.5 (1990).</Citation>
+<Description>It shall be a discriminatory or unfair employment practice for any employer to terminate the employment of any employee due to that employee engaging in any lawful activity off the premises of the employer during non-work hours unless such a restriction relates to a bona fide occupational requirement or is reasonably and rationally related to the employment activities and responsibilities of a particular employee or a particular group of employees, rather than to all employees of the employer; or is necessary to avoid a conflict of interest with any responsibilities to the employer or the appearance of such a conflict of interest.  The sole remedy for a person claiming to be aggrieved by this section is a civil suit for damages.</Description>
+<Year>1990</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV STAT ANN. § 13-16-125 (2003).</Citation>
+<Description>In any civil action brought under any legal theory, the amount of a supersedeas bond necessary to stay execution of a judgment granting legal, equitable, or any other relief during the entire course of all appeals or discretionary reviews of the judgment by all appellate courts shall be set in accordance with applicable law; except that the total amount of the supersedeas bonds that are required collectively of all appellants during the appeal of a civil action may not exceed $25 million regardless of the amount of the judgment appealed.  If an appellee proves by a preponderance of the evidence that an appellant is intentionally dissipating or diverting assets outside the ordinary course of its business for the purpose of avoiding payment of the judgment, a court may enter orders that are necessary to protect the appellee or that require the appellant to post a bond in the amount up to the total amount of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV STAT ANN. § 24-22-115 (2015).</Citation>
+<Description>Annual tobacco Master Settlement Agreement payments in Colorado are deposited in the Tobacco Litigation Settlement Cash Fund, and then distributed to a number of different programs and funds as specified below.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>90800000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV STAT ANN. § 24-22-115.5 (2007).</Citation>
+<Description>The Tobacco Litigation Settlement Cash Fund was created to receive annual Master Settlement Agreement payments. Interest from the investment of these funds starting in FY2002 is credited to the Breast and Cervical Cancer Prevention and Treatment Fund.  This money is available for expenditure by the legislature each year on specified programs as detailed in paragraphs below. The Tobacco Settlement Defense Account was created as a separate account in the cash fund, receives settlement funds to compensate for defending the state against settlement related court cases/actions and is used by the Department of Law and Department of Revenue for specified purposes. The Healthcare Supplemental Appropriations and Overexpenditures Account was also created in the cash fund. Interest earned on any moneys in the healthcare account is credited to the Breast and Cervical Cancer Prevention and Treatment Fund.  Any money not used remaining in this account as of June 30, 2012 will be deposited in the general fund.    
+COLO. REV STAT ANN. § 24-22-115 (2015).
+
+Except as specified in subsections 1.3 and 5 of 24-75-1104.5 of the Colorado Revised Statutes and excluding disputed payments received by the state in FY2014 and each fiscal year thereafter from the calculations below, MSA money in the Tobacco Litigation Settlement Cash Fund is distributed to the following programs per fiscal year starting in FY2004 from settlement payments received in the previous fiscal year: 1) 19 percent (changes in subsequent fiscal years) to the Colorado Nurse Home Visitor Program, less $1 million that is transferred to the Tobacco Settlement Defense Account of the Tobacco Litigation Settlement Cash Fund; 2) Through FY2015-2016, 27 percent not to exceed $33 million to the Children&apos;s Basic Health Plan Trust, if in any fiscal year this percentage does not equal $17.5 million money can be taken from other places as specified; 3) $200,000 to the State Dental Loan Repayment Program; 4) the lesser of the amount due to any lessor during the fiscal year under a lease-purchase agreement authorized pursuant to section 3 of House Bill 03-1256 or 8 percent not to exceed $8 million to the Fitzsimons Trust Fund; 5) 1 percent not to exceed $1 million in any fiscal year to the Colorado state veterans trust fund; 6) 5 percent not to exceed $8 million to the early literacy fund; 7) 4 percent not to exceed $5 million to the Tony Grampsas Youth Services Program; 8) 3.5 percent not to exceed $5 million to the Drug Assistance Program; 9) $300,000 to pay the state&apos;s share of the &quot;Child Mental Health Treatment Act&quot;; 10) $1 million to the Autism Treatment Fund to pay a portion of the state&apos;s share of the annual funding required by the &quot;Home and Community Based Services for Children with Autism Act&quot;; and 11) 2 percent not to exceed $2 million to the Colorado HIV and AIDS Prevention Grant Program. 
+COLO. REV STAT ANN. § 24-75-1104.5(1) (2015). 
+
+For the FY2013 and future fiscal years, the lesser of all settlement moneys received or the following amounts of settlement moneys shall be allocated in each fiscal year in which the state receives the moneys in the percentages or amounts specified and for the programs, services, and funds specified in subsections (1) and (1.5) of section 24-75-1104.5 Colorado Statutes.  For the FY2014 to FY2017 &amp; FY2019 and future fiscal years, the amount allocated pursuant to this subsection 1.3 for the prior fiscal year less the amount of any disputed payments in the Tobacco Litigation Settlement Trust Fund that were credited to the fund pursuant to section 5(a)(I) of section 24-75-1104.5 Colorado Statutes and less the amount of unexpended and unencumbered moneys remaining in the Tobacco Litigation Settlement Cash Fund at the end of the prior fiscal year.  For FY2018, the allocation is slightly different.  In addition, for FY2013 and future fiscal years, in addition to the amounts allocated above, the amount of unexpended and unencumbered moneys remaining in the Tobacco Litigation Settlement Cash Fund at the end of the prior fiscal year shall be allocated to the programs that receive settlement moneys pursuant to subsections (1) and (1.5) of this section in proportion to their shares of the settlement moneys.  In addition, for FY2014 and future fiscal years, in addition to the amounts allocated above, disputed payments received are allocated in the year received up to the amounts necessary to meet the requirements of subsections (1) and (1.5) of this section in the percentages and amounts specified and for the programs, services, and funds specified.
+COLO. REV STAT ANN. § 24-75-1104.5(1.3) (2014).
+
+In FY2008 and each fiscal year thereafter, any MSA payments received and allocated in the current fiscal year and the portion of all other settlement monies received by the state in the preceding fiscal year remaining after the programs in sub-section 1 of 24-75-1104.5 Colorado Revised Statutes above have been fully funded are distributed as follows: 1) 49 percent to the University of Colorado at Denver and Health Sciences Center; 2) 12 percent to Offender Mental Health Services Fund; 3) 7 percent to the Public Health Services Support Fund; 4) 14.5 percent to the Children&apos;s Basic Health Plan Trust; 5) 4.5 percent to the Supplemental State Contribution Fund; 6) 4 percent to the Supplemental Tobacco Litigation Settlement Moneys Account of the Colorado Immunization Fund; 7) 3 percent to the Alcohol and Drug Abuse Community Prevention and Treatment Fund  via the Department of Human Services as specified; 8) $250,000 to the Colorado Health Service Corps Fund; and 9) $89,000 to the state Auditor&apos;s office for implementing a specified provision.  In FY2012 and each fiscal year thereafter, unexpended and unencumbered dollars and any interest generated from that money transferred to some of these programs/funds is transferred to the state general fund at the end of the fiscal year.      
+COLO. REV STAT ANN. § 24-75-1104.5(1.5) (2013).
+
+The state treasurer shall credit all disputed payments upon receipt to the Tobacco Litigation Settlement Cash Fund, except any disputed payments received that are not allocated under subsection 1.3 of 24-75-1104.5 Colorado Revised Statutes (see above) are transferred to the state general fund.  &quot;Disputed payments&quot; means payments of settlement moneys received by the state from participating manufacturers on or after July 1, 2008, in regard to the maximum potential NPM adjustment allocable share applicable to Colorado for any year, as calculated by the independent auditor, and any earned income or interest associated with the payments.
+COLO. REV STAT ANN. § 24-75-1104.5(5) (2014).
+
+The Tobacco Litigation Settlement Trust Fund was also created.  The principal of the trust fund consists of the first $33 million in moneys received from the tobaco MSA and up to 21 percent of the money from the MSA payment received in fiscal year 2005/2006 based on the previous fiscal year settlement payment amount minus a required appropriation to the general fund.  The principal of the fund shall not be expended for any purpose except that money may be appropriated to the Children&apos;s Basic Health Plan Trust.  The interest shall be credited to the fund, but shall be available for expenditure when the amount of interest is sufficient to fund current programs funded through MSA money.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Colorado&apos;s tobacco control program comes from tobacco tax revenue.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (S.B. 17-254) enacted 5/26/2017 and effective 7/1/17.</Citation>
+<Description>Colorado allocated $24,192,770 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $23,732,438 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>24192770</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV STAT ANN. §§ 25-3.5-801 et seq. (2004).</Citation>
+<Description>Created the tobacco education, prevention, and cessation grant program to provide funding for community-based and statewide tobacco education programs designed to reduce initiation of tobacco use by children and youth, promote cessation of tobacco use among youth and adults, and reduce exposure to second-hand smoke.  The program is funded by a portion of tobacco tax revenue.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 24-33.5-1202 &amp; 24-33.5-1214 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as otherwise provided in paragraph (g) of subsection 2 of 24-33.5-1214 Colorado Revised Statutes, no cigarettes shall be sold or offered for sale in Colorado, or offered for sale or sold to persons located in Colorado, after July 31, 2009, unless: (A) The cigarettes have been tested in accordance with the test method and meet the performance standard specified in subsection 2 of 24-33.5-1214 Colorado Revised Statutes; (B) A written certification has been filed by the manufacturer with the Director of the Division of Fire Safety in accordance with subsection 3 of 24-33.5-1214 Colorado Revised Statutes; and (C) The cigarettes have been marked in accordance with subsection 4 of 24-33.5-1214 Colorado Revised Statutes.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. §§ 24-33.5-1202 &amp; 24-33.5-1214 (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or other person or entity who knowingly sells or offers to sell cigarettes, other than at retail, in violation of the above requirements is subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties may not exceed $100,000 in any 30-day period.  A retail dealer is subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>COLO. REV. STAT. ANN. § 18-13-121 (2014).</Citation>
+<Description>Before giving, selling, distributing, dispensing or offering to sell a cigarette, tobacco product or nicotine product to any individual, a person shall request and examine a government-issued photo identification that establishes that the individual is 18 years of age or older. This requirement is waived if the person appears older than 30 years of age. Violation is a petty offense subject to a fine of $200.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $24,192,770 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (S.B. 17-254) enacted 5/26/2017 and effective 7/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $172,806,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Colorado</Name>
+<Abbrev>CO</Abbrev>
+<FipsCode>08</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $24,192,770
+
+FY2018 Federal Funding for State Tobacco Control Programs: $2,617,429*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $26,810,199
+
+Funding Level Recommended by CDC:                                        $52,900,000
+
+Percentage of CDC-Recommended Level:                                   50.7%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>7</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

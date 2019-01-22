@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:20:37">
+<tblStatesALA>
+<ID>3</ID>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<LegislatureHyperlink>www.legis.state.ak.us#http://www.legis.state.ak.us#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. §§ 18.35.301 to 18.35.399 (2018).</Citation>
+<Description>Smoking is prohibited in almost all public places and workplaces, including restaurants and bars statewide. Smoking is also prohibited within specified distances or a reasonable distance from public places and workplaces depending on the type of establishment. However, there is a provision in the law that allows local communities or established villages to opt-out of the law by ballot measure.
+ALASKA STAT. §§ 18.35.301 to 18.35.399 (2018).
+
+Note: No communities have successfully opted out of the law yet, but Sitka, AK did make an attempt to that was rejected by voters in October 2018.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 18.35.301 (2018).</Citation>
+<Description>Exceptions to the law include: 1) retail tobacco or e-cigarette stores in operation since January 1, 2017 that only allow use of e-cigarettes and are either freestanding or if not meet certain requirements, including not being next to certain types of public places, such as schools or child care facilities; 2) a separate enclosed smoking area located in a terminal for international passengers who are in transit in a state-owned and state-operated international airport and who are restricted by federal law from leaving the airport; 3) in a vehicle that is a place of employment when the vehicle is used exclusively by one person; 4) on a vessel when the vessel is engaged in commercial fishing or sport charter fishing; 5) private clubs as defined in continuous operation at the same location since January 1, 2017 and that do not have a license to serve alcoholic beverages and are not places of employment; 6) a private residence except if a public place or workplace where smoking is prohibited or while a healthcare provider is present; 7) in stand alone shelters as specified, including no food or drink being served in them; and 8) freestanding establishments in accordance with regulations adopted by the Marijuana Control Board.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. §§ 18.35.357 &amp; 18.34.359 (2018).</Citation>
+<Description>Local communities are specifically allowed to pass stronger local laws on smoking, but are also allowed to opt-out of the statewide law and impose weaker restrictions, see below.
+
+Non-Preemption Clause:
+Nothing in Alaska Statues sections 18.35.301 to 18.35.399 prohibits a municipality from adopting an ordinance imposing additional: (1) limitations on smoking; (2) duties on employers, owners, operators, and other persons related to smoking; or (3) limitations on smoking in an outdoor area at a municipal park designated as a children&apos;s playground.
+ALASKA STAT. § 18.35.331 (2018).
+
+Local opt-out by municipalities or established villages:
+A municipality may, by ordinance ratified by voters in a regular municipal election, exempt the municipality from the provisions of Alaska Statues sections 18.35.301 to 18.35.350. Unless the municipality has adopted an ordinance prohibiting smoking, if a municipality exempts itself, former Alaska Statutes section 18.35.300 to 18.35.365 apply in the municipality as those statutes existed on September 30, 2018. Established villages defined as an area that does not contain any part of an incorporated city or another established village, that is an unincorporated community in the unorganized borough, and that has 25 or more permanent residents can also opt-out of the statewide law by ballot measure. The established village must follow specific requirements to do so outlined in law, including getting petitions in support of opting out from 35 percent or more of registered voters in the established village. The local opt-out would only apply within a five mile radius of the post office or other place as specified. An election to remove a local option may not be conducted during the first 24 months after the local option was adopted or more than once in a 36-month period.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 18.35.301 (2018).</Citation>
+<Description>Smoking is prohibited in public places and workplaces, including specifically at at a place of government or public assembly located on property that is owned or operated by the state, a municipality, or a regional educational attendance area, or by an agent of the state, a municipality, or a regional educational attendance area. Smoking is also prohibited within 20 feet of an entrance, open window, or heating or ventilation system air intake vent at an enclosed area at a place where smoking is prohibited. Vehicles that are places of employments and when the vehicle is used exclusively by one person are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 18.35.301 (2018).</Citation>
+<Description>Smoking is prohibited in places of employement defined as work areas, private offices, hotel and motel rooms, employee lounges, restrooms, conference rooms, classrooms, cafeterias, hallways, vehicles, and other employee work areas that are under the control of an employer. This includes vehicles, unless they are places of employment and used by only one person exclusively, and vessels operating as a shore-based fisheries business. Smoking is also prohibited within 20 feet of an entrance, open window, or heating or ventilation system air intake vent at an enclosed area at a place where smoking is prohibited or a reasonable distance for vessels covered by this section.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 18.35.301 (2018).</Citation>
+<Description>Smoking is prohibited in enclosed areas at public or private educational facilities and within 10 feet of playground equipment located at a public or private school while children are present. Smoking is also prohibited within 20 feet of an entrance, open window, or heating or ventilation system air intake vent at an enclosed area at a place where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 18.35.301 (2018).</Citation>
+<Description>Smoking is prohibited in a building or residence that is used to provide paid child care, whether or not children are present in the building or residence, or care for adults on a fee-for-service basis. This does not include other private residences in a building where another residence provides paid child care or care for adults. Smoking is also prohibited within 20 feet of an entrance, open window, or heating or ventilation system air intake vent at an enclosed area at a place where smoking is prohibited.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 18.35.301 (2018).</Citation>
+<Description>Smoking is prohibited at a health care facility as defined in section 18.35.399 Alaska Statutes, including residential units in the health care facility. Smoking is also prohibited within 20 feet of an entrance, open window, or heating or ventilation system air intake vent at an enclosed areas of healthcare facilities, or within a reasonable distance of the same locations at long-term care facilities as defined.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 18.35.301 (2018).</Citation>
+<Description>Smoking is prohibited in enclosed areas of restaurants. Smoking is also prohibited within 20 feet of an entrance, open window, or heating or ventilation system air intake vent of enclosed areas of restaurants that do not serve alcohol, or 10 feet for restaurants that do serve alcohol.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 18.35.301 (2018).</Citation>
+<Description>Smoking is prohibited in enclosed areas of bars. Smoking is also prohibited within 10 feet of an entrance, open window, or heating or ventilation system air intake vent of enclosed areas of bars.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 18.35.301 (2018).</Citation>
+<Description>Smoking prohibited in select outdoor areas:
+Smoking is prohibited within 10 feet of playground equipment located at a state or municipal park while children are present.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. §§ 18.35.306 to 18.35.350 (2018)</Citation>
+<Description>A person who is in charge of a place or vehicle where smoking is prohibited shall conspicuously display no-smoking signs inside and outside the the place or vehicle as specified. An employer may not permit an employee, customer, or other person to smoke inside an enclosed area at a place of employment, provide ashtrays or other smoking accessories for use in that building or place, or require employees or other people to enter a stand along smoking shelter unless they are smoking themselves. Employers that allow people to smoke in enclosed areas or fail to post signs is punishable by a civil fine of $50 to $300 for each day the violation occurs. A person who smokes in a prohibited area is subject to a civil fine of $50. The Commissioner of Health and Social Services  or the commissioner&apos;s designee is responsible for enforcement, and shall develop and maintain a procedure for processing reports of violations. Peace officers may also issue citations.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 43.50.200 (2005).</Citation>
+<Description>Tax rate per pack of 20: $2.00
+Date last changed: July 1, 2007 -- from $1.80 to $2.00
+Year first enacted: 1949
+ALASKA STAT. §§ 43.50.090 &amp; 43.50.190 (2005).
+
+There is levied, in addition to the cigarette tax above, a nonparticipating equity excise tax of 25 cents per pack on cigarettes sold in this state by nonparticipating manufacturers.  A nonparticipating manufacturer is a tobacco product manufacturer that has not signed onto the 1998 Master Settlement Agreement.  Proceeds from this tax go to the general fund.</Description>
+<NumericValue>2</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 43.50.140 &amp; ALASKA STAT. § 43.50.190 (2005).</Citation>
+<Description>Seventy-six cents of the cigarette tax revenue is deposited into a state fund called the &quot;School Fund&quot;, which is used to rehabilitate, construct, and repair the state&apos;s school facilities.  The remaining cigarette tax revenue is deposited in the state general fund.  A portion of the revenue (8.9 percent) is then directed into the Tobacco Use Education and Cessation Fund, which funds the state&apos;s tobacco control and prevention program.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>59281000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 43.50.300 (1997).</Citation>
+<Description>All other tobacco products: 75% of the wholesale price</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 43.50.350 (1997).</Citation>
+<Description>All revenue from the tax on tobacco products other than cigarettes is deposited in the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 44.29.020(a)(14)(E) (2000).</Citation>
+<Description>The Department of Health and Social Services is charged with administering the state tobacco control program, which is required to include a tobacco enforcement component among other requirements.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 11.76.109 (2012).</Citation>
+<Description>A person commits the offense of selling or giving tobacco to a minor if the person negligently sells, exchanges, or gives a cigarette, cigar or tobacco product to persons under 19 or holds a business license endorsement and allows a person less than 19 years of age to sell a cigarette, cigar or tobacco product.  Persons who do not hold a business license endorsement are guilty of a violation and upon conviction may be fined not less than $300.  For business license endorsement holders, the business license endorsement shall be suspended for 20 days and a civil penalty of $300 shall be levied for a first offense, a suspension of 45 days and a civil penalty of $500 shall be levied for the second offense within 24 months, a suspension of 90 days and a civil penalty of $1,000 shall be levied for a third offense within 24 months, and a suspension of one year and a civil penalty of $2,500 shall be levied for an additional conviction within 24 months.  The license suspension can be reduced or increased by a set number of days for the first and second violation based on specified factors, and as determined by the Department of Health and Social Services.  See full statute for further details.  A suspension or revocation applies only to the retail outlet in the location in which the violation occurs.
+ALASKA STAT. §§ 11.76.100(a) &amp; 43.70.075 (2007).
+
+A person commits the offense of selling or giving a product containing nicotine to a minor if they negligently sell or is 19 years of age or older and negligently exchanges or gives a product containing nicotine to a person under 19 years of age. These provisions do not apply to a product containing nicotine that is intended or expected to be consumed without being combusted if the product has been approved by the United States Food and Drug Administration for sale as a tobacco use cessation or harm reduction product or for other medical purposes and meets other specified requirements. Selling or giving a product containing nicotine to a minor is a violation and, upon conviction, is punishable by a fine of not less than $300.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 43.70.075(f) (2001).</Citation>
+<Description>A person who holds a business license endorsement shall post on the licensed premises a warning sign that must be at least 6 inches by 18 inches and must read, in lettering at least 1.25 inches high, &quot;THE SALE OF TOBACCO PRODUCTS TO PERSONS UNDER AGE 19 IS ILLEGAL.&quot; The sign shall be displayed in a manner conspicuous to a person purchasing or consuming tobacco products on the licensed premises. The department shall, without charge, furnish warning signs to a person who holds an endorsement issued under this section or a person who requests the sign with the intention of displaying it.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 11.76.105 (1995).</Citation>
+<Description>It is unlawful for minors to knowingly possess tobacco products, and a person who violates this law is guilty of a violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. §§ 11.76.106 (1995) &amp; 43.70.075 (2007).</Citation>
+<Description>A person may not sell cigarettes, cigars, tobacco, or a product containing tobacco unless the sale occurs in a manner that allows only the sales clerk to control access to the cigarettes, cigars, tobacco, or product containing tobacco unless the sale is by vending machine, a wholesale transaction, or is by a retailer who sells primarily cigarettes, cigars, tobacco, or a product containing tobacco and who restricts access to the premises to only those individuals who are 19 years of age or older. A person who violates this section is guilty of a violation and upon conviction is subject to a fine of not less than $300. Business license endorsement holders are subject to the same penalties and license suspensions as for selling tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>A person who is not licensed under this chapter may not ship or cause to be shipped cigarettes to a person in Alaska unless the person receiving the cigarettes is: 1) licensed under this chapter; 2) an operator of a customs bonded warehouse; or 3) an instrumentality of the federal government or an Indian tribal organization authorized by law to possess cigarettes not taxed under this chapter. A person who is licensed under this chapter may not ship or cause to be shipped cigarettes to a person in Alaska unless the person receiving the cigarettes is: 1) licensed under this chapter; 2) holds a tobacco endorsement under section 43.70.075 Alaska Statutes; 3) is an operator of a customs bonded warehouse; 4) is an instrumentality of the federal government or an Indian tribal organization authorized by law to possess cigarettes not taxed under this chapter; or 5) is an individual 19 years of age or older receiving the cigarettes for personal consumption and the tax imposed on the cigarettes has been paid. A common or contract carrier may not knowingly transport cigarettes to a person in Alaska unless the person shipping the cigarettes is licensed under this chapter and before shipment provides the common or contract carrier with a copy of the person&apos;s current license issued by the department and an affidavit certifying that  the person receiving the cigarettes is a person specified or licensed under this chapter; or the person receiving the cigarettes is a person specified or licensed under this chapter and before receipt, provides the common or contract carrier with a copy of the person&apos;s current license issued by the department. If the cigarettes are transported by a common or contract carrier to a home or residence, it is presumed that the common or contract carrier knew that the person receiving the cigarettes was not a person specified or licensed under this section. A person who violates the provisions of this section is guilty of a class A misdemeanor if the person unlawfully ships, causes to be shipped, or transports at least one but fewer than 5,000 cigarettes; and a class C felony if the person unlawfully ships, causes to be shipped, or transports 5,000 or more cigarettes. In addition to the criminal penalty, the Department of Revenue and Taxation may assess a civil fine of not more than $5,000 for each violation.
+ALASKA STAT. § 43.50.105 (2004).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. §§ 11.76.100 (2001) &amp; 43.70.075 (2007).</Citation>
+<Description>Persons who negligently give a cigarette, cigar, or tobacco product to persons under 19 are guilty of a violation and upon conviction are subject to the same penalties listed under the &quot;Penalties for Sales to Minors&quot; section, including the possible license suspension for business license endorsement holders.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 43.70.075(g-k) (2000).</Citation>
+<Description>A business license endorsement holder may not sell cigarettes to another person unless the cigarettes are sold in groups of at least 20 and the cigarettes are in the manufacturer&apos;s original cigarette pack or contained in a cigarette carton or box; or differs in any respect from the requirements of the Federal Cigarette Labeling and Advertising Act for the placement of warnings or of any other information upon a package of cigarettes that is sold within the United States.  Violation is a Class B misdemeanor.  In addition, the business license endorsement may be suspended for 45 days for a first violation or 90 days for a second violation within 24 months.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances restricting sampling and minimum tobacco product sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 11.76.100(b) (1998).</Citation>
+<Description>A vending machine may be maintained only if it is on premises licensed as beverage dispensaries, clubs, or package stores, is as far as possible from the primary entrance and is directly and continually supervised by an employee of the premises when accessible to the public.  Vending machines may also be located in an employee break room or other controlled area of a private workplace that is not generally considered a public place and the room or area must contain a posted warning sign indicating that possession of tobacco by a person less than 19 years of age is prohibited.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. §§ 11.76.106 (1995) &amp; 43.70.075 (2007).</Citation>
+<Description>Failure to supervise a tobacco product vending machine is, upon conviction, punishable by a fine of not less than $300.  Business license endorsement holders are subject to the same penalties and license suspensions as for selling tobacco products to minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 11.76.100(b)(2) (1998).</Citation>
+<Description>A vending machine located in an employee break room or other controlled area of a private work place that is not generally considered a public place must contain a posted warning sign at least 12 inches by 14 inches indicating that possession of tobacco by a person under 19 years of age is prohibited by law.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting placement of tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. §§ 43.50.010 &amp; 43.70.075 (2007).</Citation>
+<Description>A separate license is required to sell, purchase, possess, or acquire cigarettes as a manufacturer, distributor, direct-buying retailer, vending machine operator or buyer. If a person operates more than one place of business, the person must obtain a separate license for each place of business, except that a person operating one or more cigarette vending machines is considered to have only one place of business. Licenses are effective until June 30 of the year after the date of issuance, and may be renewed. Additionally, each business is required to get a business license which covers all places of business in the state. However, retailers of cigarettes and other products containing tobacco must have a business license endorsement for each place of business before they can sell tobacco products at retail.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<Citation>ALASKA STAT. §§ 43.50.030 (2005) &amp; 43.70.075 (2007).</Citation>
+<Description>Manufacturers: $50 per year; 
+Distributors and Wholesaler-Distributors: $50 per year; 
+Vending Machine Operators: $50 per year; 
+Direct-Buying Retailers: $50 per year; 
+Buyers: $25 per year; 
+Business License Endorsement for Retailers and Vending Machine Operators: $100 per year</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 43.70.075 (2007).</Citation>
+<Description>A business license endorsement for retailers/vending machine operators shall be suspended for a violation of selling tobacco products to a minor for 20 days for a first offense, 45 days for a second offense within 24 months, 90 days for a third offense within 24 months, and one year for subsequent violations within 24 months.  The license suspension can be reduced or increased by a set number of days for the first and second violation based on specified factors, and as determined by the Department of Health and Social Services.  A suspension or revocation applies only to the retail outlet in the location in which the violation occurs.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 37.05.580 (2001); H.B. 281 (2000) &amp; H.B. 234 (2001).</Citation>
+<Description>Twenty percent of annual Master Settlement Agreement payments are distributed to the Tobacco Use Education and Cessation Fund, which is used to fund the state tobacco prevention and cessation program.  The remaining 80 percent were sold as bonds in previous years through the Alaska Housing Finance Corporation for a lump sum payment up front.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>30000000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>The Tobacco Use Education and Cessation Fund is created as a special account in the general fund into which 20 percent annually of the revenue from the Master Settlement Agreement shall be deposited.  The legislature may make appropriations from the Tobacco Use Prevention and Cessation Fund for the comprehensive smoking education, tobacco use prevention and tobacco control program.
+ALASKA STAT. § 37.05.580 (2001).
+
+Note: The remaining 80 percent of the annual MSA payments was sold as bonds through the Alaska Housing Finance Corporation in previous years for a lump sum payment up front.  See Securitization section below for more details.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Alaska&apos;s tobacco control program comes from the Tobacco Use Education and Cessation Fund in the state general fund. This fund receives a portion of revenue from the annual Master Settlement Agreement payment and the cigarette tax.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (S.B. 23, 3rd special session 2017) enacted 7/31/17 and effective 8/1/17.</Citation>
+<Description>Alaska appropriated $9,493,500 for tobacco control and prevention programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $9,488,500 was appropriated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>9493500</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. § 44.29.020(a)(14) (2000).</Citation>
+<Description>The Department of Health was directed to administer a comprehensive smoking education, tobacco use prevention and tobacco control program. It is to do so by grant or contract with one or more organizations in the state. It must include a tobacco use prevention and cessation component, anti-tobacco counter-marketing targeting youth and adult populations, as well as youth-based efforts that involve youth in the design and implementation of tobacco control efforts.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. §§ 18.74.010 to 18.74.290 (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, a person may not sell or offer to sell cigarettes in Alaska, or sell or offer to sell cigarettes to another person located in Alaska, unless: 1) the cigarettes are tested under section 18.74.030 Alaska Statutes and satisfy the performance standard in section 18.74.030(d) Alaska Statutes or satisfy an alternative performance standard under section 18.74.040 Alaska Statutes; 2) the cigarettes have been marked as required by section 18.74.130 Alaska Statutes; and 3) a certification has been submitted by the manufacturer of the cigarettes under section 18.74.080 Alaska Statutes.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>ALASKA STAT. §§ 18.74.010 to 18.74.290 (2008).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or another person who knowingly sells or offers to sell cigarettes other than through retail sale and in violation of the above standard is subject to a civil penalty not to exceed $10,000 for a first violation and $25,000 for each violation that is not a first violation.  Penalties may not exceed $100,000 in any 30-day period.  A retail dealer that knowingly sells or offers to sell cigarettes in violation of the above standard is subject to a civil penalty not to exceed $500 for a first violation and $2,000 for each violation that is not a first violation in which the total number of cigarettes sold or offered for sale does not exceed 1,000 cigarettes; and a civil penalty not to exceed $1,000 for a first violation and $5,000 for each violation that is not a first violation in which the total number of cigarettes sold or offered for sale is over 1,000 cigarettes.  Penalties may not exceed $25,000 in any 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $75,000 for a first violation and not exceeding $250,000 for each violation that is not a first violation.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $9,493,500 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (S.B. 23, 3rd special session 2017) enacted 7/31/17 and effective 8/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<Description>19</Description>
+<NumericValue>19</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>H.B. 281 (2000) &amp; H.B. 234 (2001).</Citation>
+<Description>The Commissioner of Revenue is authorized to sell to the Alaska Housing Finance Corporation the right to receive a total of 80 percent annually of the revenue derived from the Master Settlement Agreement.  Forty percent of these payments were sold in 2000, and an additional 40 percent were sold in 2001.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $59,281,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Alaska</Name>
+<Abbrev>AK</Abbrev>
+<FipsCode>02</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $9,493,500
+
+FY2018 Federal Funding for State Tobacco Control Programs: $935,748*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $10,429,248
+
+Funding Level Recommended by CDC:                                        $10,200,000
+
+Percentage of CDC-Recommended Level:                                   102.2%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>3</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

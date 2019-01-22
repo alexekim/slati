@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:21:20">
+<tblStatesALA>
+<ID>22</ID>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<LegislatureHyperlink>#http://www.magnet.state.ma.us/legis/legis.htm#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 22 (2018).</Citation>
+<Description>Smoking is prohibited in virtually all public places and workplaces, including restaurants, bars and gaming establishments. See the statute cited below for a more detailed list. The definition of smoking includes electronic cigarettes.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 22 (2018).</Citation>
+<Description>Exceptions to the law include: 1) private residences, except during such time when the residence is utilized as part of a business as a group childcare center, school age day care center, school age day or overnight camp, or a facility licensed by the office of child care services or as a health care related office or facility; 2) membership associations as defined if the premises is owned, or under a written lease for a term of not less than 90 consecutive days, is not located in a public building, and the space is restricted by the association to admittance only of its members, the invited guest of a member, and the employees of the membership association; 3) hotel/motel rooms designated as smoking rooms; 4) retail tobacco stores as defined, including not allowing persons under age 21 to enter at any time; 5) smoking bars as defined; 6) in the course of professional film production, if smoking is part of the theatrical production; 7) by a person, organization or other entity that conducts medical or scientific research on tobacco products; 8) religious ceremonies where smoking is part of the ritual; and 9) a tobacco farmer, leaf dealer, manufacturer, importer, exporter, or wholesale distributor of tobacco products, may permit smoking in the workplace for the sole purpose of testing said tobacco for quality assurance purposes.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 22 (2018).</Citation>
+<Description>Smoking is prohibited in the statehouse, in a public building or in a vehicle or vessel owned, leased, or otherwise operated by the commonwealth or a political subdivision thereof, or in a space occupied by a state agency or department of the commonwealth which is located in another building, including a private office in a building or space mentioned in this sentence, or at an open meeting of a governmental body, or in a courtroom or courthouse. This shall not apply to a resident or patient of a state hospital, the Soldiers&apos; Home in Massachusetts located in the city of Chelsea or the Soldiers&apos; Home in Holyoke. &quot;Public building&quot; is defined as a building owned by the commonwealth or any political subdivision thereof, or in an enclosed indoor space occupied by a state agency or department of the commonwealth which is located in a building not owned by the commonwealth.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 22 (2018).</Citation>
+<Description>It shall be the responsibility of the employer to provide a smokefree environment for all employees working in an enclosed workplace. To that end, smoking is prohibited in all indoor areas of workplaces. &quot;Workplace&quot; is defined as an indoor area, structure or facility or a portion thereof, at which one or more employees perform a service for compensation for the employer, other enclosed spaces rented to or otherwise used by the public; and where the employer has the right or authority to exercise control over the space.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ANN. ch. 71, § 2A &amp; ch. 74 § 58 (2018).</Citation>
+<Description>Smoking is prohibited in any school, college, and university.
+MASS. GEN. LAWS ch. 270, § 22 (2018).  
+
+No person shall use a tobacco product, as defined in section 6 of chapter 270, within the school buildings or facilities or on the grounds or school buses of a public or private primary or secondary school or vocational school, including at a school-sponsored event. Each school committee or board of trustees shall establish a policy regarding violations of this section. The policy may include, but shall not be limited to, mandatory education classes on the hazards of using tobacco products.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 22 (2018).</Citation>
+<Description>Smoking is prohibited in group childcare centers, school-age day care centers, family day care centers and school age day or overnight camp buildings. Home-based child care facilities are specifically included.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 111 § 72X (2018).</Citation>
+<Description>Smoking is prohibited in health care facilities. &quot;Health care facility&apos;&apos; is defined as any hospital, nursing home, extended care facility, state health or mental institution, clinic, physician&apos;s office or health maintenance organization licensed or otherwise operating legally within the commonwealth. However, a nursing home and any acute care substance abuse treatment center under the jurisdiction of the commonwealth, may apply to the local board of health having jurisdiction over the facility for designation of part of the facility as a residence. The residential area shall not contain an employee workspace, such as offices, restrooms or other areas used primarily by employees. The entire facility may not be designated as a residence. The designated residential area must be for the sole use of permanent residents of the facility. No temporary or short-term resident may reside in the residential portion of the facility. All areas in the designated residential area in which smoking is allowed shall be conspicuously designated as smoking areas and be adequately ventilated to prevent the migration of smoke to nonsmoking areas.
+MASS. GEN. LAWS ch. 270, § 22 (2018).
+
+To the extent not prohibited above, all public and private nursing homes shall designate no smoking sections in certain common areas, including lobbies, cafeterias, conference rooms and employee lounges. Using tobacco products, as defined in section 6 of chapter 270, by any employee of such nursing homes is hereby prohibited in all patient care areas.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 22 (2018).</Citation>
+<Description>Smoking is prohibited in all restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 22 (2018).</Citation>
+<Description>Smoking is prohibited in bars. Smoking bars, which are defined as establishments that occupy exclusively an enclosed indoor space and that primarily are engaged in the retail sale of tobacco products for consumption by customers on the premises; derives revenue from the sale of food, alcohol or other beverages that is incidental to the sale of the tobacco products; prohibits entry to a person under the age of 21 years of age during the time when the establishment is open for business; prohibits any food or beverage not sold directly by the business to be consumed on the premises; maintains a valid permit for the retail sale of tobacco products as required to be issued by the appropriate authority in the city or town where the establishment is located; and, maintains a valid permit to operate a smoking bar issued by the Department of Revenue, are exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 161A, § 42 (1993) and  ch. 272, § 43A (2018).</Citation>
+<Description>Smoking or carrying an open flame or lighted match, pipe or tobacco product in a public conveyance, or in a terminal or other facility of the Massachusetts Bay Transportation Authority is prohibited. Those who violate this law must appear in court or pay a fine of $25. Failure to comply warrants a criminal complaint; individuals who do not appear in court in response to this complaint are subject to arrest and may be punished by a fine of no more than $100, or not more than 10 days in prison, or both.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 22 (2018).</Citation>
+<Description>An owner, manager or other person in control of a building, vehicle or vessel who violates this section, in a manner other than by smoking in a place where smoking is prohibited, shall be punished by a fine of $100 for the first violation, $200 for a second violation within two years of the first violation and $300 for a third and subsequent violation within two years of the second violation. Each calendar day on which a violation occurs shall be considered a separate offense. If an owner, manager or other person in control of a building, vehicle or vessel violates this section repeatedly, demonstrating egregious noncompliance as defined by regulation of the Department of Public Health, the local board of health may revoke or suspend the license to operate and shall send notice of the revocation or suspension to the Department of Public Health. An individual or person who violates this section by smoking in a place where smoking is prohibited shall be subject to a civil penalty of $100 for each violation.  Any person may register a complaint to initiate an investigation and enforcement with the local board of health, the Department of Public Health, or the local inspection department or the equivalent.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 64C, §§ 6 (2013), 7A (2002) &amp; 7C (2002).</Citation>
+<Description>Tax rate per pack of 20: $3.51 
+Date last changed: July 31, 2013 -- from $2.51 to $3.51
+Year first enacted: 1939</Description>
+<NumericValue>3.51</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 64C, §§ 6 (2013), 7A (2002), 7C (2002) &amp; 28 (1992).</Citation>
+<Description>Differing portions of cigarette tax revenue go to the Commonwealth Care Trust Fund, the Children&apos;s and Senior&apos;s Health Care Assistance Fund, the Health Protection Fund, the Local Aid Fund and the state General Fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>552051000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MA GEN. LAWS. ch. 64C, § 28 (1992).</Citation>
+<Description>A portion of cigarette tax revenue as specified is dedicated to the Commonwealth Care Trust Fund to pay for the state&apos;s program to provide health insurance to all Massachusetts residents.
+MASS. GEN. LAWS ch. 64C, § 6 (2013).
+
+Twenty-five cents of the cigarette excise tax is dedicated to the Children&apos;s and Senior&apos;s Health Care Assistance Fund.
+MASS GEN. LAWS ch. 64C, § 7A (2002).
+
+Twenty-five cents of the cigarette excise tax is dedicated to the Health Protection Fund. 
+MASS GEN. LAWS ch. 64C, § 7C (2002).
+
+The remainder of the revenue from the tax on cigarettes is combined with any remaining revenue from taxes on other tobacco products (see Other Tobacco Products section below) and credited 40 percent of the amount exceeding $169,800,000 to the Local Aid Fund and the remainder of the revenue to the General Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 64C, §§ 6 (2013), 7A (2002), 7B (2013), &amp; 7C (2002).</Citation>
+<Description>Little cigars: $3.51 per 20 cigars;
+Smokeless tobacco: 210% of the wholesale price;
+Cigars and smoking tobacco: 40% of the wholesale price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MA GEN. LAWS ch. 64C, §§ 7A (2002), 7B (2013), 7C (2002) &amp; 28 (1992).</Citation>
+<Description>Portions of revenue from taxes on tobacco products other than cigarettes are credited to the Children&apos;s and Senior&apos;s Health Care Assistance Fund, the Health Protection Fund, the Local Aid Fund and the state General Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 64C, § 28 (1992).</Citation>
+<Description>Revenue from 25 percent of the wholesale price on smokeless tobacco is credited to the Children&apos;s and Senior&apos;s Health Care Assistance Fund.
+MA GEN. LAWS ch. 64C, § 7A (2002).
+
+Revenue from 25 percent of the wholesale price on smokeless tobacco is credited to the Health Protection Fund.
+MA GEN. LAWS ch. 64C, § 7C (2002).
+
+The rest of the revenue from taxes on other tobacco products is combined with any remaining revenue from cigarette taxes (see Cigarettes section above) and credited 40 percent of the amount exceeding $169,800,000 to the Local Aid Fund and the remainder of the revenue to the General Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1291</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions in state law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 6A (2018).</Citation>
+<Description>No person shall sell or provide a tobacco product to a person who is under 21 years of age. Violation is subject to a fine of $100 for the first offense, $200 for a second offense, and $300 for subsequent offenses.
+MASS. GEN. LAWS ch. 270, § 6 (2018).  
+
+A person who sells tobacco rolling papers to a person under the age of 21 shall be punished by a fine of $25 for the first offense, $50 for the second offense and $100 for a third or subsequent offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 270, § 7 (2018).</Citation>
+<Description>Retailers are required to conspicuously signage detailing minimum age requirements developed by the Department of Public Health. Whoever violates this provision shall be punished by a fine of not more than $50. Any person who unlawfully removes the required sign shall be fined $10.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 93A, §§ 2 &amp; 4 &amp; CODE of MASS. REGS. Tit. 940, §§ 21.04 &amp; 22.06 (2000).</Citation>
+<Description>It shall be an unfair or deceptive act or practice for any person who sells or distributes cigarettes, smokeless tobacco products, cigars or little cigars through a retail outlet located within Massachusetts to engage in the use of self-service displays of cigarettes or smokeless tobacco products or fail to place cigarettes and smokeless tobacco products out of the reach of all consumers, in a location accessible only to outlet personnel. Self-service displays are allowed if located within adult-only retail facilities. Violation is subject to a civil penalty of not more than $5,000 plus costs of investigation and litigation, including attorney&apos;s fees.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 112 § 61A (2018).</Citation>
+<Description>No Distribution of Tobacco Products Through the Mail:
+It shall be an unfair or deceptive act or practice for any manufacturer, distributor or retailer to engage in the distribution of cigarettes, smokeless tobacco products, cigars or little cigars through the mail, including redemption of coupons, credits and proofs-of-purchase.  Mail-order sales, excluding mail-order redemption of coupons and distribution of free samples through the mail that are subject to age verification are exempted. Verification of age through the mail shall consist of, at a minimum, ensuring that the person to whom the product is being sent supplies a legible photocopy of a valid government-issued identification and is over the age of 18. Violation is subject to a civil penalty of not more than $5,000 plus costs of investigation and litigation including attorney&apos;s fees.
+MASS. GEN. LAWS ch. 93A, §§ 2 &amp; 4 &amp; CODE of MASS. REGS. Tit. 940, §§ 21.04 &amp; 22.06 (2000).
+
+Tobacco Sales in Pharmacies Prohibited:
+No health care institution as defined, including pharmacies shall sell or authorize the sale of tobacco products, as defined in section 6 of chapter 270, within its buildings or facilities or on its grounds.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>H.B. 4486, sect. 22 enacted 7/27/18 and effective 12/31/18.</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are generally allowed; however, the ability of communities to raise the age of sale for tobacco products above age 21 is preempted, see below.
+
+This act shall preempt, supersede or nullify any inconsistent, contrary or conflicting state or local law relating to the minimum sales age to purchase tobacco products; provided, that this act shall neither preempt, supersede nor nullify any inconsistent, contrary or conflicting local law in effect on December 30, 2018 that prohibits the sale of tobacco products to persons under the age of 19, 20, or 21 as applied to persons who attained the age of 18 before December 31, 2018. This act shall not otherwise preempt the authority of any city or town to enact any ordinance, by-law or any fire, health or safety regulation that limits or prohibits the purchase of tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 93A, §§ 2 &amp; 4 &amp; CODE of MASS. REGS. Tit. 940, §§ 21.04 &amp; 22.06 (2000).</Citation>
+<Description>No manufacturer or retailer shall distribute or cause to be distributed a free sample of a tobacco product in a retail or other commercial establishment; provided, however, that this subsection shall not apply to retail tobacco stores and smoking bars as defined in section 22. Violation is subject to a fine of $100 for the first offense, $200 for a second offense, and $300 for subsequent offenses.
+MASS. GEN. LAWS ch. 270 § 6(c) (2018).
+
+It shall be an unfair or deceptive act or practice for any manufacturer, distributor or retailer to engage in sampling, promotional give-aways, or any other free distribution of cigarettes, smokeless tobacco products, cigars or little cigars. Exceptions are made for an adult-only retail facility, with distribution of no more than one free sample per day to an individual adult. Violation is subject to a civil penalty of not more than $5,000 plus costs of investigation and litigation including attorney&apos;s fees.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 93A §§ 2 &amp; 4 &amp; CODE of MASS. REGS. tit. 940, §§ 21.04 &amp; 22.06 (2000).</Citation>
+<Description>No person shall sell, offer for sale or have in possession with intent to sell single unpackaged cigarettes. Whoever violates the provision of this section shall be punished by a fine of not less than $200 or more than $500. 
+MASS. GEN. LAWS ch. 94, § 307a (1996).
+
+It shall be an unfair or deceptive act or practice for any manufacturer, distributor or retailer to break or otherwise open any cigarette, smokeless tobacco product, cigar or little cigar package to sell or distribute any number of unpackaged or repackaged cigarettes or any quantity of smokeless tobacco that is smaller than the smallest package distributed by the manufacturer for individual consumer use. Violation is subject to a civil penalty of not more than $5,000 plus costs of investigation and litigation, including attorney&apos;s fees.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting sampling and minimum sales amounts of tobacco products are allowed.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 93A, § 2 &amp; CODE of MASS. REGS. Tit. 940, §§ 21.04 &amp; 22.06 (2000).</Citation>
+<Description>It shall be an unfair or deceptive act or practice for any person who sells or distributes cigarettes, smokeless tobacco products, cigars or little cigars through a retail outlet located within Massachusetts to engage in the selling of these products in any manner other than in a direct, face-to-face exchange without the assistance of any vending machines or any other electronic or mechanical device, except for vending machines that are located in facilities licensed to serve alcoholic beverages for consumption on the premises, if the vending machine is equipped with a lock-out device that locks out sales from the vending machine unless the locking mechanism is released by an outlet employee. The release mechanism must not allow continuous operation of the vending machine and must be out of the reach of all consumers and in a location accessible only to outlet personnel; is located within the immediate vicinity and exclusive control of outlet personnel such that all purchases are observable by the outlet employee(s) controlling the lock-out device; and is posted with a sign stating that minors are not permitted to purchase tobacco and notifying customers of the lock-out device and identifying the outlet employee(s) to contact to purchase tobacco from the machine.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 93A, § 4 (2000).</Citation>
+<Description>Violation is subject to a civil penalty of not more than $5,000 plus costs of investigation and litigation including attorney&apos;s fees.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 64C, § 10 (2018).</Citation>
+<Description>Each vending machine shall have attached to the front of it a notice reading &quot;PERSONS UNDER 21 ARE PROHIBITED FROM USING THIS MACHINE.&quot; Any person owning or operating a vending machine that fails to display such a notice shall be punished by a fine of up to $50.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are allowed.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 62C, § 67 (1986) &amp; ch. 64C, § 7B (2013).</Citation>
+<Description>Manufacturers, retailers, wholesalers, and vending machine operators must obtain a license to sell tobacco products. Every machine operated or maintained for the purpose of vending cigarettes shall be deemed to constitute a place of retail business, and no person shall maintain or cause to be operated such a machine without procuring a retailer&apos;s license. Licenses for manufacturers, wholesalers, and vending machine operators expire every year; retailers each even year.
+MASS. GEN. LAWS ch. 62C, § 67 (1986) &amp; ch. 64C, § 2 (1976).  
+
+Cigar retailers and cigar distributors as defined are also required to obtain a license. Licenses for cigar distributors expire every year; cigar retailers each even year. Selling cigars or smoking tobacco or otherwise acting as a cigar retailer or cigar distributor without a license is subject to a civil penalty of not more than $5,000 for the first offense and not more than $25,000 for each subsequent offense.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 62C, § 67 (1986).</Citation>
+<Description>The fees for licenses and each renewal shall be determined annually by the Commissioner of Administration, except that for wholesalers, manufacturers or vending machine operators who maintain more than one place of business the fee for each additional place of business shall be one-half of the above determined fee.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>Lorillard Tobacco Co. v. Reilly, 533 U.S. 525 (2001).</Citation>
+<Description>No state law/regulation in effect, see below.
+
+Note: The U.S. Supreme Court held unanimously that outdoor tobacco advertising restrictions enacted by Massachusetts in 1999 violate First Amendment speech rights, and 5-4 that Massachusetts cannot impose broad regulations on cigarette advertisements without violating federal law.  Struck down regulations can be found at Code of Massachusetts Regulations title 940, sections 21.04(5&amp;6) &amp; 22.06 (5&amp;6).</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 94, § 307B; &amp; CODE of MASS REGS. tit. 105, § 660 (1996).</Citation>
+<Description>Any manufacturer of cigarettes, snuff, or chewing tobacco sold in the Commonwealth shall provide the Department of Public Health, for each brand of such product sold, the identity of any added constituent other than tobacco, water or reconstituted tobacco sheet made wholly from tobacco, to be listed in descending order according to weight, measure or numerical count; and the nicotine yield ratings, which shall accurately predict nicotine intake for average consumers, based on standards to be established by the department.   The department shall determine the public availability of this information if there is a reasonable scientific basis for concluding that the availability of such information could reduce risks to public health.  However, before any public disclosure of such information the department shall request the advice of the Attorney General whether such disclosure would constitute an unconstitutional taking of property, and shall not disclose such information unless and until the attorney general advises that such disclosure would not constitute an unconstitutional taking.  A regulation was promulgated providing more detail on the implementation of this law.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Note: No appeal bond is required to appeal monetary judgments in lawsuits in Massachusetts.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 29D, §§ 1-5 (2003).</Citation>
+<Description>All proceeds from the Master Settlement Agreement (MSA) are by law supposed to be deposited in the Health Care Security Trust, and 30 percent of the tobacco settlement proceeds are then transferred to the state general fund as well as 30 percent of investment income after a given fiscal year.  The legislature maintains the power to override this transfer, and in FY2013, the MSA payment was diverted to the State Retiree Benefits trust fund and the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>253600000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>There is established on the books of the commonwealth a trust to be known as the Health Care Security Trust for the purpose of financing improved health status for all citizens of the commonwealth.  All proceeds from the Master Settlement Agreement (MSA) between the commonwealth of Massachusetts and certain cigarette companies are deposited in the trust fund as well as other specified sources of revenue, including investment income from the trust fund.  Thirty percent of the tobacco settlement proceeds are then transferred to the state general fund as well as 30 percent of investment income after a given fiscal year.  The trust shall be managed by a board to be known as the Health Care Security Trust board of trustees, which shall have general supervision of the investment and reinvestment of said trust.  An advisory committee on health care and tobacco control was also established which shall recommend to the governor and the legislature the most effective and prudent uses of the funds available in said trust for financing the present and future health related and tobacco control needs of the commonwealth.
+MASS. GEN. LAWS ch. 29D, §§ 1-5 (2003).
+
+In FY2014, the legislature overrode the state law above, and deposited the entire MSA payment and 100 percent of the interest earned from the Health Care Security Trust into the state general fund.  It also clarified that MSA payments can be re-directed to the State Retiree Benefits Trust Fund only if unexpended balances from other specified budget items transferred to the fund do not add up to 20% of the MSA payment received in FY2014.
+H.B. 3538, sect. 168 &amp; 204 enacted and effective 7/12/13.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances concerning the sale of cigarette rolling papers are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Massachusetts&apos; tobacco control program comes from the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (H.B. 3800) enacted and effective 7/17/17.</Citation>
+<Description>Massachusetts allocated $3,718,862 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018).  In FY2017, $3,866,096 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>3718862</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 64C, §§ 2A to 2F (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, no cigarettes may be sold or offered for sale in Massachusetts or offered for sale or sold to persons located in Massachusetts unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 2B of chapter 64C Massachusetts General Laws; and 2) a written certification has been filed by the manufacturer with the Secretary of the Executive Office of Public Safety in accordance with section 2C of Chapter 64C Massachusetts General Laws.  Cigarettes that are certified by a manufacturer shall be marked as specified in section 2D of Chapter 64C Massachusetts General Laws to indicate compliance with the requirements of section 2B.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 64C, §§ 2A to 2F (2008).</Citation>
+<Description>Any manufacturer, wholesale dealer, agent or any other person or entity that knowingly sells or offers to sell cigarettes other than through retail sale in violation is subject to a civil penalty not to exceed $10,000 per sale for a first violation, and not to exceed $25,000 per sale for a second or subsequent violation.  A retail dealer that knowingly sells or offers to sell 1,000 or less cigarettes in violation is subject to a civil penalty not to exceed $500 per sale for a first violation, and not to exceed $2,000 per sale for a second or subsequent violation.  A retail dealer that knowingly sells or offers to sell more than 1,000 cigarettes in violation is subject to a civil penalty not to exceed $1,000 per sale for a first violation, and not to exceed $5,000 per sale for a second or subsequent violation.  Knowingly making a false certification is subject to a civil penalty not to exceed $10,000 for a first violation and $25,000 for a subsequent violation for each such false certification in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 93A, §§ 2 &amp; 4 &amp; CODE of MASS. REGS. Tit. 940, §§ 21.04 &amp; 22.06 (2000).</Citation>
+<Description>It shall be an unfair or deceptive act or practice for any person who sells or distributes cigarettes, smokeless tobacco products, cigars or little cigars through a retail outlet located within Massachusetts to fail to verify by means of a valid government-issued photographic identification that each person purchasing cigarettes or smokeless tobacco is 18 years of age or older. No such verification is required for any person who appears 27 years of age or older. Violation is subject to a civil penalty of not more than $5,000 plus costs of investigation and litigation, including attorney&apos;s fees.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MASS. GEN. LAWS ch. 32, § 23 (1997).</Citation>
+<Description>New public pension funds in stocks, securities, or other obligations of any company which derives more than 15 percent of its revenues from the sale of tobacco products are prohibited.  Divestment of existing investments is required within three years of enactment.  Annual reporting of tobacco investments, until divestment is completed, is required.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $3,718,862 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (H.B. 3800) enacted and effective 7/17/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>H.B. 4486, sect. 19 enacted 7/27/18 and effective 12/31/18.</Citation>
+<Description>21
+MASS. GEN. LAWS ch. 270, § 6 (2018).
+
+Note: The prohibition on sales of tobacco products to persons under the age of 21 shall not prohibit such sales to persons who attained the age of 18 before December 31, 2018; provided, however, that a person who attained the age of 18 before December 31, 2018 shall be subject to any municipal ordinance, by-law or other regulation that prohibited sales of tobacco products to persons under the age of 19, 20 or 21 in effect on December 30, 2018.</Description>
+<NumericValue>21</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $552,051,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Massachusetts</Name>
+<Abbrev>MA</Abbrev>
+<FipsCode>25</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $3,718,862
+
+FY2018 Federal Funding for State Tobacco Control Programs: $3,108,715*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $6,827,577
+
+Funding Level Recommended by CDC:                                        $66,900,000
+
+Percentage of CDC-Recommended Level:                                   10.2%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>22</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

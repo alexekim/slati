@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:20:55">
+<tblStatesALA>
+<ID>11</ID>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<LegislatureHyperlink>#http://www2.state.ga.us/Legis/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 31-12A-1 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in many enclosed public places.  &quot;Public places&quot; are defined as an enclosed area to which the public is invited or permitted; see the statute cited below for a more detailed list of places this definition covers.  A private residence is not a public place unless it is used as a licensed child care, adult day care or health care facility.  An owner, operator, manager, or other person in control of an establishment, facility, or outdoor area may declare that entire establishment, facility, or outdoor area as a nonsmoking place.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 31-12A-1 et seq. (2005).</Citation>
+<Description>Exceptions to the law include: 1) 20 percent of hotel/motel rooms; 2) retail tobacco stores as defined, provided that secondhand smoke from such stores does not infiltrate into areas where smoking is prohibited; 3) long-term care facilities as defined; 4) outdoor areas of places of employment; 5) smoking areas in international airports; 6) private and semiprivate rooms in health care facilities; 7) all workplaces of any entity dealing with tobacco products; 8) bars and restaurants as specified; 9) convention facility meeting and assembly rooms in convention facilities not owned, leased or operated by state or local government when these places are used for private functions as long as persons under 18 are prohibited from attending or working at the function; 10) smoking areas designated by employers as specified; 11) parts of workplaces open to the general public by appointment only; and 12) private clubs, military officer clubs and noncommissioned officer clubs.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 31-12A-12 (2005).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+This chapter shall be cumulative to and shall not prohibit the enactment of any other general or local laws, rules, and regulations of state or local governing authorities or local ordinances prohibiting smoking which are more restrictive than or in direct conflict with this chapter.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 31-12A-3 (2005).</Citation>
+<Description>Smoking shall be prohibited in all enclosed facilities of, including buildings owned, leased, or operated by, the state of Georgia, its agencies and authorities, and any political subdivision of the state, municipal corporation, or local board or authority created by general, local, or special act of the General Assembly or by ordinance or resolution of the governing body of a county or municipal corporation individually or jointly with other political subdivisions or municipalities of the state.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 31-12A-5 &amp; 31-12A-6 (2005).</Citation>
+<Description>Smoking is prohibited in most enclosed areas within some places of employment, including, but not limited to, common work areas, auditoriums, classrooms, conference and meeting rooms, private offices, elevators, hallways, medical facilities, cafeterias, employee lounges, stairs, restrooms, and all other enclosed facilities.  Such prohibition on smoking shall be communicated to all current employees by July 1, 2005, and to each prospective employee upon their application for employment.  Exceptions include outdoor areas of places of employment, and all workplaces of any manufacturer, importer, or wholesaler of tobacco products, of any tobacco leaf dealer or processor and all tobacco storage facilities.  Designated smoking areas are allowed in workplaces if they are located in a non-work area where no person is required to enter as part of their work responsibilities, have a separate ventilation system that exhausts directly to the outside, and is for use by employees only.  Additionally, smoking is allowed in common work areas, conference and meeting rooms, and private offices in private places of employment, other than medical facilities, that are open to the general public by appointment only; except that smoking shall be prohibited in any public reception area of such place of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 31-12A-2(10) &amp; 31-12A-4 (2005).</Citation>
+<Description>Smoking is prohibited in educational facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 31-12A-1 et seq. (2005).</Citation>
+<Description>Smoking is prohibited in many enclosed public places and enclosed areas within places of employment, which includes all child care facilities.  The term &quot;place of employment&quot; also includes home-based child care facilities.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 31-12A-2 &amp; 31-12A-4 (2005).</Citation>
+<Description>Smoking is prohibited in health care facilities.  &quot;Health care facility&quot; means an office or institution providing care or treatment of diseases, whether physical, mental, or emotional, or other medical, physiological, or psychological conditions, including, but not limited to, hospitals, rehabilitation hospitals or other clinics, including weight control clinics, homes for the chronically ill, laboratories, and offices of surgeons, chiropractors, physical therapists, physicians, dentists, and all specialists within these professions.  Long-term care facilities as defined are exempt as well as private and semiprivate rooms in healthcare facilities as long as all patient(s) have permission to smoke from their treating physician.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 12-31A-2, 12-31A-4 &amp; 12-31A-6 (2005).</Citation>
+<Description>Smoking is prohibited in restaurants unless the restaurant denies access to persons under 18 and does not employ persons under 18.  Smoking is also allowed in private rooms in restaurants if the room is enclosed, separately ventilated from the rest of the building and the air is exhausted directly to the outside.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 12-31A-2, 12-31A-4 &amp; 12-31A-6 (2005).</Citation>
+<Description>Smoking is allowed in bars unless the bar allows access to persons under 18 and/or employs persons under 18.  Smoking is also allowed in private rooms in bars if the room is enclosed, separately ventilated from the rest of the building and the air is exhausted directly to the outside.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 16-12-120 (1998).</Citation>
+<Description>Smoking tobacco in any form is prohibited in a public transit bus, rapid rail car, rapid rail station or intermodal bus station.  Violation is a misdemeanor subject to a fine of $50 to $100 for a first violation and $100 to $250 fine and/or ten days in jail for the second and subsequent violations.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 31-12A-8 to 31-12A-11 &amp; 16-12-2 (2005).</Citation>
+<Description>&quot;No-smoking&quot; signs may be clearly and conspicuously posted and ashtrays must be removed by the owner, operator, manager, or other person in control of every public place and place of employment where smoking is prohibited.  A person who smokes in a nonsmoking area is guilty of a misdemeanor and shall be punished by a fine of $100 to $500.  The Department of Human Resources and the county boards of health and their duly authorized agents are authorized and empowered to enforce compliance and are allowed to enter upon and inspect the premises of any establishment or business at any reasonable time and in a reasonable manner.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA CODE ANN. § 48-11-2 (2003).</Citation>
+<Description>Tax rate per pack of 20: 37 cents  
+Date last changed: July 1, 2003 -- from 12 cents to 37 cents  
+Year first enacted: 1923</Description>
+<NumericValue>0.37</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>All revenue from the state tax on cigarettes goes to the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>187024000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 48-11-2 (2012).</Citation>
+<Description>Loose or Smokeless tobacco: 10% of the wholesale cost price;
+Little cigars (weighing not more than 3 lbs./thousand): 5 cents/20 cigars;
+All other cigars: 23% of the wholesale cost price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>All revenue from taxes on tobacco products other than cigarettes goes to the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 16-12-175 (2014).</Citation>
+<Description>The State Revenue Commissioner, acting through special agents or enforcement officers, shall annually conduct random, unannounced inspections at locations where cigarettes, tobacco products, alternative nicotine products or vapor products as defined are sold or distributed.  Persons under the age of 18 years may be enlisted to test compliance; provided, however, that such persons may be used to test compliance only if the testing is conducted under the direct supervision of such special agents or enforcement officers, and written parental consent has been provided.  Any other use of persons under the age of 18 years to test compliance with this article shall be unlawful and the person or persons responsible for such use shall be subject to specified penalties.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 16-12-170 &amp; 16-12-171 (2014).</Citation>
+<Description>It is unlawful for any person to knowingly sell or barter, directly or indirectly, any cigarettes, tobacco products, tobacco-related objects, including cigar wraps, alternative nicotine products or vapor products, which as defined include most electronic cigarettes, to a person under age 18; to purchase any such products or objects for any person under age 18 unless the minor is the child of the purchaser; to advise, counsel or compel any person under age 18 to smoke, inhale, chew, or use such products or objects; or to knowingly allow a person under age 18 to operate a vending machine that dispenses the above products.  Violation is a misdemeanor.  This shall not apply with respect to the sale of cigarettes, tobacco products, tobacco-related objects, alternative nicotine products or vapor products by a person when such person has been furnished with proper identification showing that the person to whom the products or objects are sold is 18 years of age or older.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 16-12-172 (2014).</Citation>
+<Description>Any person owning or operating a place of business where cigarettes, tobacco products or tobacco-related objects are sold shall in a conspicuous place post a sign containing the following statement: &quot;SALE OF CIGARETTES, TOBACCO, TOBACCO PRODUCTS, TOBACCO RELATED OBJECTS, ALTERNATIVE NICOTINE PRODUCTS OR VAPOR PRODUCTS TO PERSONS UNDER 18 YEARS OF AGE IS PROHIBITED BY LAW.&quot; Any person who fails to comply with this requirement shall be guilty of a misdemeanor.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 16-12-171(b)(1) (2014).</Citation>
+<Description>It shall be unlawful for any person under age 18 to purchase, attempt to purchase or possess for personal use cigarettes, tobacco products, tobacco related objects, alternative nicotine products or vapor products as defined except this shall not apply when a parent or guardian of such person under age 18 gives these products or objects to the minor and possession is in the home of the parent or guardian and such parent or guardian is present. It is also unlawful for persons under age 18 to misrepresent their age or identity to purchase the above products or objects. A person under age 18 who commits an offense may be punished by requiring 20 hours of community service, requiring attendance at a lecture or discussion on the health hazards of smoking, or a combination of both.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 16-12-174 (2014).</Citation>
+<Description>It is unlawful for a person to distribute tobacco product samples at no cost to any person under 18 years of age, or for any person under this age to receive such samples.  &quot;Tobacco product sample&quot; means a cigarette, tobacco product, alternative nicotine product, or vapor product distributed to members of the general public at no cost for purposes of promoting the product.  A person distributing tobacco product samples shall require proof of age if an ordinary person would conclude that an individual is younger than 18.  Samples also may not be distributed on public streets, sidewalks, or parks within 500 feet of schools or playgrounds when they are being used primarily by persons under 18 years of age.  Any violation of this section is a misdemeanor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 48-11-23.1 (2000).</Citation>
+<Description>No tax stamp may be affixed to, or made upon, any package of cigarettes or loose or smokeless tobacco if the package differs in any respect with the requirements of the Federal Cigarette Labeling and Advertising Act, for the placement of labels, warnings, or any other information upon a package of cigarettes or loose or smokeless tobacco that is to be sold within the United States.  Violation is a misdemeanor.  In addition, the applicable license to deal in tobacco products may be revoked upon violation.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling or minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 16-12-173 (2014).</Citation>
+<Description>The sale of cigarettes, tobacco products, tobacco-related objects, alternative nicotine products or vapor products as defined from vending machines is restricted to locations not readily accessible to persons under age 18, including, but not limited to: 1) factories, businesses, offices; 2) places where alcoholic beverages are offered for sale; 3) areas where person under age 18 are not permitted; and 4) rest areas adjacent to roads and highways of the state.  Vending machines are also permitted in areas under continuous supervision of an employee of the establishment who will observe the purchase of products from the machine. No other type of products, other than matches, are allowed to be dispensed from vending machines that dispense these products.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 16-12-173 (2014).</Citation>
+<Description>Violation of the restrictions on placement of tobacco product vending machines is a misdemeanor.  The sentence for a first offense shall be a fine not to exceed $300.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 16-12-173 (2014).</Citation>
+<Description>Any person who maintains in such person&apos;s place of business a vending machine which dispenses cigarettes, tobacco products, tobacco related objects, alternative nicotine products or vapor products as defined shall place or cause to be placed in a conspicuous place on such vending machine a sign containing the following statement: &quot;THE PURCHASE OF CIGARETTES, TOBACCO PRODUCTS, TOBACCO RELATED OBJECTS, ALTERNATIVE NICOTINE PRODUCTS OR VAPOR PRODUCTS FROM THIS VENDING MACHINE BY ANY PERSON UNDER 18 YEARS OF AGE IS PROHIBITED BY LAW.&quot;  Violation constitutes a misdemeanor provided, however, penalty for the first offense is a fine not to exceed $300.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 48-11-4 (2015).</Citation>
+<Description>No person shall engage in or conduct the business of manufacturing, importing, brokering, purchasing, selling, consigning, vending, dealing in, shipping, receiving, or distributing cigars, cigarettes, or loose or smokeless tobacco in this state without first obtaining a license from the state Revenue Commissioner. A separate license shall be required for each place of business, and a license can be suspended or revoked for violating any licensing requirement. Each license, except a dealer&apos;s license, shall begin on July 1 and end on June 30 of the next succeeding year unless suspended or revoked. Each dealer (retailer)&apos;s license shall be valid for 12 months beginning on the date of issue for the initial license, and the first day of the month of issue for subsequent licenses. The commissioner shall also require annually a special registration of each vending machine for any operation in Georgia, which registration shall include the location of the machine.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 48-11-4 (2012).</Citation>
+<Description>Tobacco dealers/retailers: $10 annually;
+Manufacturer, importer and distributor licenses: initial $250 annual fee per place of business, annual renewal fee of $10; 
+Cigarette and other tobacco product vending machine licenses: $10 per machine annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provision.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 5-6-46 (2000).</Citation>
+<Description>The &quot;Civil Litigation Improvement Act of 2000&quot; limited the amount of the supersedeas bond for the punitive damages portion of a civil judgment to $25 million, and provided that such limitation shall not apply if the court finds after notice and hearing that the appellee has proved by a preponderance of the evidence that the appellant is purposefully dissipating or secreting its assets or diverting assets outside the jurisdiction of the United States.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Proceeds from the Master Settlement Agreement between the state of Georgia and certain cigarette companies are distributed each year through the annual appropriations process except for any money directed to the One Georgia Authority, see Securitization section below.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>141100000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Georgia&apos;s tobacco prevention and control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (H.B. 44) enacted 5/1/17 and effective 7/1/17.</Citation>
+<Description>Georgia allocated $930,159 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, the $1,750,000 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>930159</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 25-14-1 to 25-14-11 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection (h) of Georgia Code section 25-14-3, no cigarettes may be sold or offered for sale in Georgia or offered for sale or sold to persons located in Georgia, unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in Georgia Code section 25-14-3; 2) a written certification has been filed by the manufacturer in accordance with Georgia Code section 25-14-4; and 3) the cigarettes have been marked in accordance with Georgia Code section 25-14-5.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 25-14-1 to 25-14-11 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above requirements is subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties may not exceed $100,000 in any 30-day period.  A retail dealer is subject to the same civil penalty for violation, but penalties may not exceed $25,000 in any 30-day period.  Knowingly making a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. § 16-12-170(7) &amp; 16-12-171 (2014).</Citation>
+<Description>In any case where a reasonable or prudent person could reasonably be in doubt as to whether or not the person to whom cigarettes, tobacco products, tobacco-related objects, alternative nicotine products or vapor products are to be sold or otherwise furnished is actually 18 years of age or older, it shall be the duty of the person selling or otherwise furnishing such products or objects to request to see and to be furnished with proper identification in order to verify the age of such person. &quot;Proper identification&quot; means any document issued by a governmental agency containing a description of the person, such person&apos;s photograph, or both, and giving such person&apos;s date of birth and includes, without being limited to, a passport, military identification card, driver&apos;s license, or a state identification card. Violation is a misdemeanor. The failure to make such request and verification in any case where the person to whom the products or objects are sold or otherwise furnished is less than 18 years of age may be considered by the trier of fact in determining whether the person selling or otherwise furnishing such products or objects did so knowingly.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - retailers that sell cigars, loose and/or smokeless tobacco only</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - distributors of cigars, loose and/or smokeless tobacco only</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $930,159 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (H.B. 44) enacted 5/1/17 and effective 7/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>GA. CODE ANN. §§ 50-34-1 et seq. (2000).</Citation>
+<Description>The One Georgia Authority was created as an instrumentality of the state, and not a state agency, and a public corporation performing an essential governmental function. The authority may issue bonds for the purpose of facilitating economic development, for the improvement of public health, safety, and welfare and for other public purposes through the provision of financing and financial assistance.  Any bonds, revenue bonds, or securities of any kind issued may only be secured by obligation of a business, enterprise, or proceeds paid to the state of Georgia pursuant to funds received by the state from the tobacco settlement. The Authority shall not have outstanding at any one time bonds and notes for financing of enterprises exceeding $1 billion.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $187,024,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Georgia</Name>
+<Abbrev>GA</Abbrev>
+<FipsCode>13</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $930,159
+
+FY2018 Federal Funding for State Tobacco Control Programs: $2,267,817*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $3,197,976
+
+Funding Level Recommended by CDC:                                        $106,000,000
+
+Percentage of CDC-Recommended Level:                                   3.0%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>11</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

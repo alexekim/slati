@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:22:08">
+<tblStatesALA>
+<ID>43</ID>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<LegislatureHyperlink>#http://www.legislature.state.tn.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008).</Citation>
+<Description>Smoking is prohibited in most enclosed public places and workplaces in Tennessee, including most restaurants. See Tennessee Code section 39-17-1804 for a detailed list. Major exemptions include venues that restrict access to persons under 21 at all times, and nonpublic rooms in workplaces with three or fewer employees.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008).</Citation>
+<Description>Exceptions to the law include: 1) age-restricted venues that do not allow persons under 21 to enter at any time; 2) 25 percent of hotel/motel rooms, provided that all smoking rooms on the same floor shall be contiguous and smoke from these rooms shall not infiltrate into areas where smoking is prohibited; 3) all premises of any manufacturer, importer, or wholesaler of tobacco products, all premises of any tobacco leaf dealer or processor, and all tobacco storage facilities; 4) non-enclosed areas of public places as specified;  5) residents in licensed nursing homes and long-term care facilities, provided that smoke does not infiltrate into areas where smoking is prohibited; 6) workplaces with three or fewer employees in a private room not accessible to the general public; 7) private clubs as long as they aren&apos;t established to avoid compliance with the law; 8) private homes, private residences and private motor vehicles except under specified circumstances; 9) retail tobacco stores that prohibit minors on their premises; and 10) commercial vehicles when such vehicle is occupied solely by the operator.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 39-17-1551 (2017).</Citation>
+<Description>Except as specified below, stronger local laws/ordinances further restricting smoking are not allowed.
+
+The Tennessee General Assembly intends with the above law and other provisions of the Tennessee Code to preempt the entire field of legislation concerning the regulation of tobacco products. Any law or regulation of tobacco products enacted or promulgated after March 15, 1994, by any agency or political subdivision of the state or any agency thereof is void. There are a number of small exceptions to the above, including: 1) cities, counties and counties having a metropolitan form of government may regulate the use of tobacco products in buildings owned or leased by the political subdivision; 2) airport authorities created pursuant to the provisions of title 42 Tennessee Code; utility districts created pursuant to the provisions of title 7 Tennessee Code; and special school districts may regulate the use of tobacco products in buildings owned or leased by those entities; 3) cities, counties and counties having a metropolitan form of government may prohibit smoking on the grounds of a hospital or in the public areas immediately outside of a hospital building and its entrances, including public sidewalks with distance restrictions as specified; 4) swimming pools and outdoor amphitheatres with a seating capacity of at least 6,000 owned and operated by local governments only in municipalities with specific population levels; 5) the grounds of an urban park center as described in section 57-4-102 Tennessee Code only in municipalities with specific population levels.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 4-4-121 &amp; 39-17-1551 (2017).</Citation>
+<Description>Smoking is prohibited in most enclosed public places, the definition of which includes all places of public employment. Cities, counties, and counties having a metropolitan form of government are specifically allowed to regulate the use of tobacco products in buildings owned or leased by such political subdivisions. 
+TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008) &amp; 39-17-1551 (2017).
+
+Smoking shall be prohibited in all buildings that are owned or operated by the state of Tennessee, including state correctional facilities, except for those sleeping rooms in state park inns and cabins that are designated as smoking rooms or cabins, and as provided in section 49-7-135 Tenneessee Code. Smoking is also prohibited in all motor vehicles that are owned, leased, or operated by the state of Tennessee. Cities, counties, and counties having a metropolitan form of government are specifically allowed to regulate the use of tobacco products in buildings owned or leased by such political subdivisions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008).</Citation>
+<Description>Smoking is prohibited in most enclosed public places, the definition of which includes most places of private employment.  Exempted are private businesses with three or fewer employees where, in the discretion of the business owner, smoking may be allowed in an enclosed room not accessible to the general public.  Smoke from such room shall not infiltrate into areas where smoking is prohibited.  All premises of any manufacturer, importer, or wholesaler of tobacco products, all premises of any tobacco leaf dealer or processor, and all tobacco storage facilities are also exempt.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 49-7-135 (2017).</Citation>
+<Description>Smoking is prohibited in most enclosed public places, the definition of which includes both public and private educational facilities. Special school districts are specifically allowed to regulate the use of tobacco products in buildings owned or leased by such entities.    
+TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008) &amp; 39-17-1551 (2017).
+
+The board of regents, the trustees of the university of Tennessee, and state university board of each public institution of higher education may adopt policies regulating smoking on property owned or operated by the institution; provided, that such policies do not permit smoking in any location where smoking is otherwise prohibited by law. Such policies may prohibit smoking in all indoor and outdoor areas of property owned or operated by the institution.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008).</Citation>
+<Description>Smoking is prohibited in most enclosed public places, the definition of which includes child care and adult day care facilities.  Home-based child care and adult day care facilities are specifically included.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1551 (2017)</Citation>
+<Description>Smoking is prohibited in most enclosed public places, the definition of which includes health care facilities. Health care facilities are defined as an office or institution providing care or treatment of diseases, whether physical, mental, or emotional, or other medical, physiological, or psychological conditions. This definition shall include all waiting rooms, hallways, private rooms, semiprivate rooms, and wards within health care facilities. Licensed nursing homes and long-term care facilities are exempt, provided that such exemption shall only apply to residents of such facilities and that resident smoking practices shall be governed by the policies and procedures established by such facilities.
+TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008).
+
+In addition, cities, counties and counties having a metropolitan form of government may prohibit smoking on the grounds of a hospital or in the public areas immediately outside of a hospital building and its entrances, including public sidewalks. Specifically, the local government may prohibit smoking by a distance of up to 50 feet from a hospital&apos;s entrance; the distance can be extended further if the 50 foot limit would place hospital patients in a potentially unsafe condition.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008).</Citation>
+<Description>Smoking is prohibited in restaurants unless they do not allow people under 21 to enter at all times.  A person must submit an acceptable form of identification to gain entry.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008).</Citation>
+<Description>In Tennessee, what are commonly referred to as bars do not exist because they are considered restaurants under existing state law.  So, the restrictions on smoking in restaurants apply (see above).</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1801 to 39-17-1810 (2008).</Citation>
+<Description>&quot;No Smoking&quot; signs shall be conspicuously posted where smoking is prohibited except in places of worship.  The law shall be enforced by the state Department of Health or the state Department of Labor and Workforce Development in those enclosed public places where each department has jurisdiction.  If neither department otherwise regulates an enclosed public place, the Department of Labor and Workforce Development shall enforce.  Any person who desires to register a complaint under this part may initiate such complaint with either or both departments.  A person who knowingly smokes in an area where smoking is prohibited is subject to a civil penalty of $50.  A person who owns, manages, operates or otherwise controls any public place and knowingly fails to comply is subject to a written warning for the first violation, a $100 civil penalty for a second violation in one year, and a $500 civil penalty for a third or subsequent violation in one year.  Each day on which a violation is committed is considered a separate offense.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 67-4-1004 (2007).</Citation>
+<Description>Tax rate per pack of 20: 62 cents  
+Date last changed: July 1, 2007 -- from 20 cents to 62 cents  
+Year first enacted: 1925</Description>
+<NumericValue>0.62</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 67-4-1025 (2009).</Citation>
+<Description>Most of the revenue from cigarette taxes is used for education-related programs/funding; a small portion goes to fund state trauma centers.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>264889000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 67-4-1025 (2009).</Citation>
+<Description>The revenue from 20 cents of the cigarette tax is distributed as follows: 1) four percent for administrative expenses; 2) $82,500 annually to the special sinking fund to pay the principal and interest on the Tennessee rural public school building and repair bonds; 3) $225,000 to the special sinking fund to pay the principal and interest of the University of Tennessee building bonds; and 4) the remainder is applied to the general state school fund to be used for public education, grades one through twelve;
+The revenue from another 40 cents of the cigarette tax is distributed to an education trust fund, provided that $21 million is allocated to the Department of Agriculture&apos;s Tennessee Agriculture Enhancement Program;
+Revenue from the remaining two cents is distributed to the Trauma System Fund to fund state trauma centers.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 67-4-1005 (2002).</Citation>
+<Description>All other tobacco products: 6.6% of the wholesale cost price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 67-4-1025(a) (2009).</Citation>
+<Description>The revenue from the tax on tobacco products other than cigarettes is distributed the same way as the first 20 cents of the cigarette tax; see Use of Cigarette Tax Revenue sections.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1504, 39-17-1505 &amp; 39-17-1509 (2015).</Citation>
+<Description>The Department of Agriculture shall conduct random, unannounced inspections at locations where tobacco products are sold or distributed to ensure compliance with the law preventing tobacco product sales to persons under age 18.  Law enforcement efforts may involve the use of individuals under the age of 18 if a parent has consented to this action, and penalties for persons under age 18 for purchasing or possessing tobacco or vapor products shall not apply when cooperating on such law enforcement efforts. The department shall prepare annually for submission by the governor to the Secretary of the United States Department of Health and Human Services the report required by Section 1926 of subpart I of Part B of Title XIX of the Public Health Service Act, codified as 42 U.S.C. § 300x-26 also known as the Synar Amendment.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1504(a&amp;b) &amp; 39-17-1509 (2015).</Citation>
+<Description>It is unlawful for any person to sell or distribute any tobacco product or vapor product to another person who is less than 18 or to purchase these products on behalf of such person. It is unlawful for any person to persuade, entice, send or assist a person who is less than 18 years of age to purchase, acquire, receive or attempt to purchase, acquire or receive a tobacco product or vapor product. This shall not be deemed to preclude law enforcement efforts involving the use of individuals less than 18 years of age with parental permission. A person who violates the above provisions shall receive a warning letter for the first violation, a civil penalty of not more than $500 for a second violation, not more than $1,000 for a third violation and not more than $1,500 for a fourth or subsequent violation within a five-year period. A person who demanded, was shown, and reasonably relied upon proof of age to make the sale shall not be liable for a civil penalty for a violation. When assessing a civil penalty, the Commissioner of Agriculture is authorized to assess the penalty against any person or persons determined by the commissioner to be responsible, in whole or in part, for contributing to or causing the violation to occur, including, but not limited to, the owner, manager or employee of a store at which tobacco products or vapor products are sold at retail.  Before selling tobacco products, all employees are required to undergo training regarding state law restricting youth access to tobacco products and sign a statement to this effect.  That statement can be used by the owner or manager as an affirmative defense against the civil penalty for a second violation, and may be used as a mitigating factor for subsequent violations.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1506 &amp; 39-17-1509 (1999).</Citation>
+<Description>Every person who sells tobacco products at retail shall post conspicuously and keep so posted at the place of business a sign, no smaller than ninety-three and one-half square inches, to ensure that it is likely to be read at each point of sale, stating the following: &quot;STATE LAW STRICTLY PROHIBITS THE SALE OF TOBACCO PRODUCTS OR SMOKING PARAPHERNALIA TO PERSONS UNDER THE AGE OF 18.  PROOF OF AGE MAY BE REQUIRED.&quot; Penalties are the same as those for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 39-17-1503 (2002).</Citation>
+<Description>Bidis were added to the definition of tobacco product in state law thus prohibiting their sale to minors.  Violation is subject to the same penalties as selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 39-17-1505 (2015).</Citation>
+<Description>It is unlawful for a person under age 18 to possess a tobacco or vapor product, to purchase or accept receipt of a tobacco or vapor product, or to present or offer to any person any purported proof of age that is false, fraudulent, or not actually that person’s own for the purpose of purchasing or receiving any tobacco or vapor product. A violation is a civil offense with a penalty of not less than $10 and not more than $50. The juvenile court may also impose community service work not to exceed 50 hours or successful completion of a prescribed teen court program for a second or subsequent violation within a one-year period. A person under 18 assisting a law enforcement officer in a compliance check is not subject to these penalties. It is also not unlawful for a person under 18 years of age to handle or transport tobacco, tobacco products or vapor products: 1) as a part of such person&apos;s employment, provided that the person is under the supervision of another employee who is at least 21 years of age; or 2) as part of an educational project that has been developed by the person for entry and display at an agricultural fair or other agricultural competition or event.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 39-17-15 (2013).</Citation>
+<Description>All smoking paraphernalia shall be maintained behind the counter of a retail establishment in an area inaccessible to a customer or in a locked display case that makes the products unavailable to a customer without the assistance of an employee. &quot;Smoking paraphernalia&quot; means: (i) a cigarette holder; (ii) a smoking pipe made of metal, wood, acrylic, glass, stone, or plastic with or without screens, permanent screens, hashish heads or punctured metal bowls; (iii) a water pipe; or (iv) rose and pen combinations. It specifically does not include a smoking pipe or smoking device when sold at retail, if the smoking pipe or smoking device is primarily made of briar, meerschaum, clay or corn cob. Violation is subject to the same penalties as selling/distributing tobacco products to minors. If an employee sells smoking paraphernalia in violation of this section owner/operator of the retail establishments shall be in violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1504(d) &amp; 39-17-1509 (2015).</Citation>
+<Description>In the case of distribution of tobacco products or vapor products by mail, the distributor of such products shall obtain from the addressee an affirmative statement that the person is 18 years of age or older, and shall inform the recipient that the person is strictly prohibited from distributing any tobacco or vapor product, as defined by this part, to any person under 18 years of age. Penalties for violation are the same as those for selling or distributing tobacco products or vapor products to persons under 18.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1504 (2011) &amp; 39-17-1509 (1999).</Citation>
+<Description>In the case of distribution by mail, the distributor of tobacco products shall obtain from the addressee an affirmative statement that such person is 18 years of age or older, and shall inform the recipient that such person is strictly prohibited from distributing any tobacco product to any person under 18 years of age.  Violation is subject to the same penalties as selling or distributing tobacco products to minors.  The required statement can be used as an affirmative defense in case of violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 39-17-1551(a) (2011).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are not allowed, see below.
+
+The Tennessee General Assembly intends by this part and other provisions of the Tennessee Code to occupy and preempt the entire field of legislation concerning the regulation of tobacco products. Any law or regulation of tobacco products enacted or promulgated after March 15, 1994, by any agency or political subdivision of the state or any agency thereof is void.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1504(c) &amp; 39-17-1509 (2015).</Citation>
+<Description>No person shall distribute tobacco product or vapor product samples in or on any public street, sidewalk, or park. Violation is subject to the same penalties as selling or distributing tobacco products or vapor products to persons under age 18. A person who demanded, was shown, and reasonably relied upon proof of age shall not be liable for a civil penalty.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1508 &amp; 39-17-1509 (1999).</Citation>
+<Description>No tobacco product manufacturer or cigarette retailer may directly or indirectly manufacture, sell or distribute any pack or other container of cigarettes containing fewer than 20 cigarettes, or any package of roll-your-own tobacco containing less than 0.6 of an ounce of tobacco.
+TENN CODE ANN. §§ 47-18-2003 et seq. (1999).  
+
+It is unlawful for any person to sell cigarettes or smokeless tobacco products except in the original, sealed package in which they were placed by the manufacturer that bears the health warning required by federal law.  Violation is subject to the same penalties as selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 39-17-1551(a) (2011).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed, see below.
+
+The Tennessee General Assembly intends by this part and other provisions of the Tennessee Code to occupy and preempt the entire field of legislation concerning the regulation of tobacco products. Any law or regulation of tobacco products enacted or promulgated after March 15, 1994, by any agency or political subdivision of the state or any agency thereof is void.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1507 &amp; 39-17-1509 (1999).</Citation>
+<Description>Vending machines may only be located in the following areas: 1) in areas of factories, businesses, offices, or other places that are not open to the public; 2) in places that are open to the public but to which persons less than the age of 18 are denied access; 3) in places where alcoholic beverages are sold for consumption on the premises, only if the machine is under the constant supervision of the owner or their employee and is inaccessible when the establishment is closed; and, 4) in other places if the machine is under the continuous supervision of an employee, or the machine can only be operated by the use of a token purchased from the proprietor prior to each purchase, and is inaccessible to the public when the establishment is closed.  In any place where supervision of a vending machine is required, the person responsible for that supervision or sale of token shall demand proof of age from a prospective purchaser if an ordinary person would conclude on the basis of appearance that the prospective purchaser might be less than 27 years of age.  A person who demanded, was shown, and reasonably relied upon proof of age shall not be liable for a civil penalty.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 39-17-1509 (1999).</Citation>
+<Description>A person who violates the restrictions on placement of tobacco product vending machines is subject to the same penalties as those for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 39-17-1551(a) (2011).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are not allowed, see below.
+
+The Tennessee General Assembly intends by this part and other provisions of the Tennessee Code to occupy and preempt the entire field of legislation concerning the regulation of tobacco products. Any law or regulation of tobacco products enacted or promulgated after March 15, 1994, by any agency or political subdivision of the state or any agency thereof is void.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 67-4-1015 (2008).</Citation>
+<Description>Every person engaged in the business of selling, distributing, or handling tobacco products must obtain a license from the Commissioner of Revenue. Licenses expire on May 31st of each year. Retailers are not specifically mentioned. Engaging in any business or activity without a license is subject to a penalty in the amount of the license fee for each month or part of a month during which the activity or failure occurs or continues. The commissioner may also impose a penalty of no more than $250 a day.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 67-4-1015 (2008).</Citation>
+<Description>Manufacturing distributor: $200;
+Tobacco Manufacturer&apos;s Warehouse: $200 per warehouse;
+Wholesale dealer and jobber: $200 for each separate sale warehouse;
+Tobacco distributor: $100 for each secondary wholesale location.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 50-1-304 (1990).</Citation>
+<Description>No employee, including employees of state and local government, shall be discharged or terminated solely for participating or engaging in the use of an agricultural product not regulated by the alcoholic beverage commission that is not otherwise proscribed by law, if such employee participates or engages in such use in a manner which complies with all applicable employer policies regarding such use during times at which such employee is working; and/or if such employee participates or engages in such activity during times when such employee is not working.  This section shall not be used for frivolous lawsuits, and anyone trying to do so is subject to sanction.</Description>
+<Year>1990</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 27-1-124 (2003).</Citation>
+<Description>If a plaintiff in a civil action obtains a judgment under any legal theory, the amount of the appeal bond necessary to stay execution during the course of all appeals or discretionary reviews of that judgment by any appellate court shall be set in accordance with applicable laws or court rules, except that the total appeal bond that is required of all appellants shall not exceed $75 million, regardless of the value of the judgment.  If an appellee proves by a preponderance of the evidence that an appellant is dissipating assets outside the ordinary course of business to avoid payment of a judgment, a court may enter orders that are necessary to protect the appellee and require the appellant to post a bond in an amount up to the total value of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Proceeds received from the Master Settlement Agreement (MSA) between the state of Tennessee and certain cigarette companies are deposited in the state general fund, and appropriated by the legislature as part of the annual appropriations process.  MSA payments received from the settlement of a dispute between the state and tobacco companies in FY2013/FY2014 were specifically allocated, see information below.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>139200000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.B. 502, sect. 62 enacted 5/16/13 and effective 7/1/13.</Citation>
+<Description>Certain appropriations contained in the FY2013-2014 state budget (SB 502) are contingent on the state receiving MSA dollars from the settlement of the dispute between the state and tobacco companies over portions of the MSA payments from 2003 to 2012.  The appropriations listed in priority order are: 1) $5.3 million to support continuing tobacco MSA revenue collections, 2) $24 million to the University of Tennessee for the UTK steam plant conversion to natural gas and 3) $20 million for health and wellness initiatives over several years, which includes tobacco prevention and cessation programs.  Any amount received over $49.3 million is reserved for future health and wellness non-recurring requirements.  Unspent money at the end of future fiscal years is carried forward for use and does not revert to the state general fund.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Preempts local laws/ordinances/regulations further restricting smoking or youth access to tobacco products enacted or promulgated after March 15, 1994, except local governments, airport authorities, utility districts and special school districts are allowed to regulate smoking in their buildings and on their property.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Tennessee&apos;s tobacco control program comes from Master Settlement Agreement dollars and the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (H.B. 511) enacted 5/25/17 and effective 7/1/17.</Citation>
+<Description>Tennessee allocated $6,223,220 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $1,098,473 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>6223220</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. § 68-1-132 (2015).</Citation>
+<Description>Using a science and experience-based approach, the Department of Health shall develop and implement comprehensive tobacco prevention programs for this state. These programs shall include, when available, peer-reviewed and science-based educational materials on tobacco harm reduction and the comparative risks of alternative nicotine products, vapor products, smokeless tobacco products, cigarettes, and other combustible tobacco products.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 68-102-501 to 68-102-512 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection (g) of section 68-102-503 Tennessee Code, no cigarettes may be sold or offered for sale in Tennessee or offered for sale or sold to persons located in Tennessee unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 68-102-503 Tennessee Code; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 68-102-504 Tennessee Code; and 3) the cigarettes have been marked in accordance with section 68-102-505 Tennessee Code.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 68-102-501 to 68-102-512 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of section 68-102-503 above shall be liable for a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties against a person or entity shall not exceed $100,000 during any 30-day period.  A retail dealer shall be liable for the same civil penalty for violation, but penalties shall not exceed $25,000 for any retail dealer during any 30-day period.  Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification as required by section 68-102-504 above shall be liable for a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>TENN. CODE ANN. §§ 39-17-1504(d) &amp; 39-17-1509 (2015).</Citation>
+<Description>A person engaged in the sale or distribution of tobacco products or vapor products shall demand proof of age from a prospective purchaser or recipient if an ordinary person would conclude on the basis of appearance that the prospective purchaser or recipient may be less than 27 years of age. &quot;Proof of age&quot; means a driver&apos;s license or other generally accepted means of identification that describes the individual as 18 years of age or older, contains a photograph or other likeness of the individual, and appears on its face to be valid. Penalties for violation are the same as those for selling or distributing tobacco products or vapor products to persons under 18.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>	Tobacco Control Program Funding: Allocated $6,223,220 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (H.B. 511) enacted 5/25/17 and effective 7/1/17.
+
+Smokefree Air/Preemption: Authorizes local governmens with a population size as specified to enact smokefree laws in urban park centers.
+H.B. 113 enacted 4/19/17 and effective 7/1/17.
+
+	Tobacco-Free Colleges: Allows public institutions of higher education to adopt policies regulating smoking on the institution and institution property.
+S.B. 116 enacted and effective 4/24/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $264,889,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Tennessee</Name>
+<Abbrev>TN</Abbrev>
+<FipsCode>47</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $6,223,220
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,506,829*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $7,730,049
+
+Funding Level Recommended by CDC:                                        $75,600,000
+
+Percentage of CDC-Recommended Level:                                   10.2%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>43</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

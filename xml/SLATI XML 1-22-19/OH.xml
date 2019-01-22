@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:21:52">
+<tblStatesALA>
+<ID>36</ID>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<LegislatureHyperlink>#http://www.legislature.state.oh.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).</Citation>
+<Description>Smoking is prohibited and no proprietor shall permit smoking in a public place or place of employment as defined. Smoking is also prohibited in areas immediately adjacent to entrances and exits of public places and places of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).</Citation>
+<Description>Exceptions to the law include: 1) private residences, except during the hours of operation as a child care or adult care facility for compensation, or a home-based business when specified; 2) up to 20 percent of sleeping rooms in hotels, motels and other lodging facilities; 3) family-owned and operated places of employment in which all employees are related to the owner as specified; 4) nursing homes subject to certain conditions; 5) retail tobacco stores that make more than 80 percent of their gross revenue from the sales of tobacco products, those in operation after December 7, 2006 must be freestanding to qualify for the exemption; 6) outdoor patios as defined; 7) private clubs with no employees as specified and 8) an enclosed space in a laboratory facility at an accredited college or university, when used solely and exclusively for clinical research activities as specified.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law, local communities are allowed to pass stronger laws/ordinances further restricting smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).</Citation>
+<Description>Smoking is prohibited and no proprietor shall permit smoking in places of employment.  &quot;Place of employment&quot; is defined as an enclosed area under the direct or indirect control of an employer that the employer’s employees use for work or any other purpose, including but not limited to, offices, meeting rooms, sales, production and storage areas, restrooms, stairways, hallways, warehouses, garages, and vehicles.  An enclosed area as described herein is a place of employment without regard to the time of day or the presence of employees.  The definition of &quot;employer&quot; then includes the state and any political subdivisions of the state.  Smoking is also prohibited in areas immediately adjacent to entrances and exits of public places and places of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).</Citation>
+<Description>Smoking is prohibited and no proprietor shall permit smoking in places of employment.  &quot;Place of employment&quot; is defined as an enclosed area under the direct or indirect control of an employer that the employer’s employees use for work or any other purpose, including but not limited to, offices, meeting rooms, sales, production and storage areas, restrooms, stairways, hallways, warehouses, garages, and vehicles.  An enclosed area as described herein is a place of employment without regard to the time of day or the presence of employees.  Smoking is still allowed in home-based businesses except: 1) during the hours of operation as a business by a person other than a person residing in the private residence; or 2) during the hours of operation as a business, when employees of the business, who are not residents of the private residence or are not related to the owner, are present.  Smoking is also allowed in family-owned and operated places of employment in which all employees are related to the owner, but only if the enclosed areas of the place of employment are: 1) not open to the public; 2) are in a free standing structure occupied solely by the place of employment; and 3) smoke from the place of employment does not migrate into an enclosed area where smoking is prohibited.  Smoking is also prohibited in areas immediately adjacent to entrances and exits of public places and places of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3313.751 (2017).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which include the indoor areas of schools.  Smoking is also prohibited in areas immediately adjacent to entrances and exits of public places and places of employment.
+OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).
+
+No pupil shall smoke or use tobacco or possess any substance containing tobacco in any area under the control of or at any activity supervised by any school operated by a school district or an educational service center. The board of education of each school district and the governing board of each educational service center shall adopt a policy providing for the enforcement of the above and establishing disciplinary measures for a violation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which include indoor areas of child care facilities. Home-based child care and adult care facilities are specifically included during their hours of operation. Smoking is also prohibited in areas immediately adjacent to entrances and exits of public places and places of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which include indoor areas of health care facilities. Smoking is allowed in nursing homes only to the extent necessary to comply with section 3721.13(A)(18) of the Ohio Revised Code. If an indoor smoking area is provided by a nursing home for residents of the nursing home, the designated indoor smoking area shall be separately enclosed and separately ventilated so that tobacco smoke does not enter, through entrances, windows, ventilation systems, or other means, any areas where smoking is otherwise prohibited under this chapter. Only residents of the nursing home may utilize the designated indoor smoking area for smoking. A nursing home may designate specific times when the indoor smoking area may be used for such purpose. No employee of a nursing home shall be required to accompany a resident into a designated indoor smoking area or perform services in such area when being used for smoking. Smoking is also prohibited in areas immediately adjacent to entrances and exits of public places and places of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which cover restaurants, including restaurants with attached bars. Smoking is allowed on outdoor patios of restaurants if they are physically separated from an enclosed area. If windows or doors form any part of the partition between an enclosed area and the outdoor patio, the openings shall be closed to prevent the migration of smoke into the enclosed area. If windows or doors do not prevent the migration of smoke into the enclosed area, the outdoor patio shall be considered an extension of the enclosed area. Smoking is also prohibited in areas immediately adjacent to entrances and exits of public places and places of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).</Citation>
+<Description>Smoking is prohibited in public places and places of employment, the definitions of which cover bars. Smoking is allowed on outdoor patios of bars if they are physically separated from an enclosed area. If windows or doors form any part of the partition between an enclosed area and the outdoor patio, the openings shall be closed to prevent the migration of smoke into the enclosed area. If windows or doors do not prevent the migration of smoke into the enclosed area, the outdoor patio shall be considered an extension of the enclosed area. Smoking is also prohibited in areas immediately adjacent to entrances and exits of public places and places of employment.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN §§ 3794.01 to 3794.09 (2017).</Citation>
+<Description>&quot;No-smoking&quot; signs or the international &quot;No Smoking&quot; symbol shall be conspicuously posted in and ashtrays shall be removed from every public place and place of employment where smoking is prohibited by this chapter, including at each entrance. The law will be enforced by the Ohio Department of Health and its designees. The department will promulgate rules to implement and enforce the law, including the schedule of fines for violation. Smoking in a public place or place of employment after being requested not to is subject to a maximum fine of $100. Violation by a proprietor of a public place or place of employment is subject to minimum fine of $100 and a maximum fine of $2,500 after a warning letter for a first violation. Each day of violation will be a separate offense and fines for the proprietor will be progressive based on prior violations. Fines will double for intentional violations.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 5743.02 (2015).</Citation>
+<Description>Tax rate per pack of 20: $1.60 
+Date last changed: July 1, 2015 -- from $1.25 to $1.60
+Year first enacted: 1931</Description>
+<NumericValue>1.6</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 5743.02 (2015).</Citation>
+<Description>After all refunds of tax, as certified by the state Tax Commissioner, are paid, all remaining revenue from the tax on cigarettes is distributed to the state General Revenue Fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>788152000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. §§ 5743.01 &amp; 5743.51 (2017).</Citation>
+<Description>Little cigars (made wholly or in part of tobacco and uses an integrated cellulose acetate filter or other filter): 37% of the wholesale price;
+Premium cigars (a weight greater than 6 pounds/thousand and meets other specified characteristics): the lesser of 17% of the wholesale price or 50 cents per cigar plus a specified tax adjustment factor applied annually; 
+All other tobacco products: 17% of the wholesale price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 5743.51 (2013).</Citation>
+<Description>After all refunds of tax, as certified by the state Tax Commissioner, are paid, all remaining revenue from the tax on other tobacco products is distributed to the state General Revenue Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions in state law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. §§ 2927.021 &amp; 2927.022 (2014).</Citation>
+<Description>No manufacturer, distributor, wholesaler or retailer of tobacco products, or employee thereof, shall sell or otherwise distribute tobacco products or alternative nicotine products (the definition of which includes electronic cigarettes) to any person under age 18.  First violation constitutes a fourth degree misdemeanor and subsequent violations constitute a misdemeanor of the third degree.  It is an affirmative defense if the minor was accompanied by a parent, spouse older than 18, or legal guardian; or the person selling or distributing the tobacco product or alternative nicotine product was a parent, spouse older than 18, or legal guardian.
+OHIO REV. CODE ANN. § 2927.02 (2014).
+
+A seller or an agent or employee of a seller may perform a transaction scan by means of a transaction scan device to check the validity of a driver&apos;s or commercial driver&apos;s license or identification card presented by a card holder as a condition for selling, giving away, or otherwise distributing cigarettes, other tobacco products, or alternative nicotine products (the definition of which includes electronic cigarettes).  If the information deciphered by the transaction scan fails to match the identification presented by the card holder, or if it indicates that the information so printed is false or fraudulent, neither the seller nor any agent or employee of the seller shall sell, give away, or otherwise distribute any cigarettes, other tobacco products or alternative nicotine products to the card holder.  It will be an affirmative defense to a charge of selling or distributing tobacco products to minors if: 1) a card holder attempting to purchase or receive cigarettes, other tobacco products or alternative nicotine products presented a specified identification card; 2) a transaction scan of the identification card that the card holder presented indicated that the license or card was valid; and 3) the cigarettes, other tobacco products or alternative nicotine products were sold, given away, or otherwise distributed in reasonable reliance upon the identification presented and the completed transaction scan.  This does not excuse a seller or an agent or employee of a seller from exercising reasonable diligence to determine if the person is in fact 18 years or older and the picture on the identification is the card holder.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 2927.02 (2014).</Citation>
+<Description>No person shall give away, sell or distribute tobacco products or alternative nicotine products (the definition of which includes electronic cigarettes) in any place that does not have posted a sign stating that giving, selling, or otherwise distributing tobacco products or alternative nicotine products to a minor is prohibited by law. Violation constitutes a fourth degree misdemeanor for the first offense and a third degree misdemeanor for each subsequent violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 2151.87 (2014).</Citation>
+<Description>No child shall do any of the following unless accompanied by a parent, spouse who is 18 years of age or older or legal guardian of the child: use, consume, possess, purchase or attempt to purchase; or, order, pay for, or share the cost of or accept or receive cigarettes, other tobacco products, alternative nicotine products (the definition of which includes electronic cigarettes) or papers used to roll cigarettes. No child shall knowingly furnish false information concerning that child&apos;s name, age, or other identification for the purpose of obtaining cigarettes, other tobacco products, alternative nicotine products or papers used to roll cigarettes. If a juvenile court finds that a minor violated this division it may do either or both of the following: require the minor to attend a youth smoking education program or other smoking treatment program approved by the court, if one is available; or impose a fine of not more than $100. If the minor disobeys a juvenile court order the court may increase the fine imposed upon the minor; and/or require the minor to perform not more than 20 hours of community service; and/or suspend for a period of 30 days the temporary instruction permit, probationary driver&apos;s license, or driver&apos;s license issued to the minor. It is not a violation for a minor to accept or receive cigarettes, other tobacco products, alternative nicotine products or papers used to roll cigarettes if the minor is required to do so in the performance of their duties as an employee; or while participating in an inspection or compliance check conducted by a federal, state, local, or corporate entity at a location at which such products are sold or distributed.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No manufacturer, distributor, wholesaler or retailer of tobacco products, or employee thereof shall give, sell, or otherwise distribute alternative nicotine products, papers used to roll cigarettes, or tobacco products other than cigarettes over the Internet or through another remote method without age verification. &quot;Age verification&quot; means a service provided by an independent third party that compares information available from a commercially available database, or aggregate of databases, that regularly are used by government and businesses for the purpose of age and identity verification to personal information provided during an Internet sale or other remote method of sale to establish that the purchaser is 18 years of age or older. First violation constitutes a fourth degree misdemeanor and subsequent violations constitute a misdemeanor of the third degree.
+OHIO REV. CODE ANN. § 2927.02 (2014).
+
+No person shall cause to be shipped any cigarettes to any person in this state other than an authorized recipient of tobacco products. No common carrier, contract carrier, or other person shall knowingly transport cigarettes to any person in this state that the carrier or other person reasonably believes is not an authorized recipient of tobacco products. If cigarettes are transported to a home or residence, it shall be presumed that the common carrier, contract carrier, or other person knew that the person to whom the cigarettes were delivered was not an authorized recipient of tobacco products. An authorized recipient of tobacco products is: 1) a licensed cigarette wholesaler; 2) a licensed distributor of tobacco products; 3) an export warehouse proprietor; 4) an operator of a customs bonded warehouse; 5) an officer, employee, or agent of the state or federal government acting in the person&apos;s official capacity; 6) a department, agency, instrumentality, or political subdivision of this state or the federal government; and 7) a person having a consent for consumer shipment issued by the state Tax Commissioner. No person engaged in the business of selling cigarettes who ships or causes to be shipped cigarettes to any person in this state in any container or wrapping other than the original container or wrapping of the cigarettes shall fail to plainly and visibly mark the exterior of the container or wrapping in which the cigarettes are shipped with the words &quot;cigarettes.&quot; Violation is subject to a fine of up $1,000 for each violation.
+OHIO REV. CODE ANN. § 2927.023 (2005).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 2927.02 (2014).</Citation>
+<Description>No manufacturer, distributor, wholesaler or retailer of tobacco products, or agent or employee thereof, shall give or otherwise distribute tobacco products or alternative nicotine products (the definition of which includes electronic cigarettes) to any person under 18.  The first violation is a fourth degree misdemeanor and subsequent violations are a third degree misdemeanor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 2927.02 (2014).</Citation>
+<Description>No manufacturer, producer, distributor, wholesaler, or retailer of cigarettes, other tobacco products, or papers used to roll cigarettes, or agent or employee thereof, shall manufacture, sell, or distribute in this state any pack or other container of cigarettes containing fewer than 20 cigarettes or any package of roll-your-own tobacco containing less than 0.6 of an ounce of tobacco.  Selling cigarettes or alternative nicotine products (the definition of which includes electronic cigarettes) in a smaller quantity than that placed in the pack or other container by the manufacturer is also unlawful.  Violation is a fourth degree misdemeanor for the first offense and third degree misdemeanor for subsequent offenses.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting sampling and minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 2927.02 (2014).</Citation>
+<Description>Sales of tobacco products and alternative nicotine products (the definition of which includes electronic cigarettes) from vending machines are prohibited unless the machine is in an office, factory, business or other place not open to the general public, or in a place where persons under 18 are not permitted.  Vending machines are also allowed in locations where they are in the immediate vicinity, plain view, and control of the owner or operator of the establishment.  In such locations, vending machines shall not be located in an unmonitored coatroom, restroom, hallway or outer waiting room, and must be inaccessible to the public when the place is closed.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 2927.02 (2002).</Citation>
+<Description>Violations are a misdemeanor of the fourth degree for the first offense and a misdemeanor of the third degree for subsequent offenses.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are likely allowed to pass stronger laws/ordinances restricting the placement of and/or required sign posting on tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 5743.61 (2010).</Citation>
+<Description>Retailers must obtain a license from the County Auditor of the county in which they wish to do business to sell cigarettes. A separate license shall be issued for each place of business specified on the required license application. Wholesalers, manufacturers and importers of cigarettes are required to obtain a license from the state Tax Commissioner. All licenses are valid for one year starting on the fourth Monday of May. 
+OHIO REV. CODE ANN. § 5743.15 (2013).
+
+Distributors of tobacco products are required to obtain a license from the Department of Taxation. Separate licenses are issued for each place of business on the required license application and are valid for one year commencing on the 1st day of February.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. §§ 5743.15 &amp; 5743.61 (2010).</Citation>
+<Description>Retail cigarette license: $125 annually for the first five places of business; 
+Wholesale cigarette license: $1,000 annually;
+Tobacco product distributor license: $1,000 annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 2505.09 (2002).</Citation>
+<Description>An appeal does not operate as a stay of execution of a judgment until a stay of execution has been obtained pursuant to the Rules of Appellate Procedure or in another applicable manner, and a supersedeas bond is executed by the appellant to the appellee, with sufficient sureties and in a sum that is not less than, if applicable, the cumulative total for all claims covered by the final order, judgment, or decree and interest involved, except that the bond shall not exceed $50 million excluding interest and costs, as directed by the court that rendered the final order, judgment, or decree that is sought to be superseded or by the court to which the appeal is taken.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. §§ 183.51 (2017) &amp; 183.52 (2007).</Citation>
+<Description>The rights to virtually all of Ohio&apos;s future Master Settlement Agreement (MSA) payments have been sold to the Buckeye Tobacco Settlement Financing Authority to receive a lump sum payment up front, see Securitization section below.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>295200000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. §§ 3701.84 &amp; 3701.841 (2008).</Citation>
+<Description>In 2007, Ohio securitized all of its future annual Master Settlement Agreement (MSA) payments, and repealed the statute requiring deposit of the payments in the Tobacco Master Settlement Agreement Fund. Many of the various trust funds created to receive portions of the MSA payment still exist, but will receive no more money from future MSA payments.
+OHIO REV. CODE ANN. §§ 183.01 to 183.35 (2017).
+
+The Tobacco Use Prevention Fund was created in the state treasury and shall consist of money liquidated from the former tobacco use prevention and control endowment fund and any gifts, grants or donations received.  Investment earnings of the fund shall be credited to the fund.  Moneys in the fund shall be used to pay outstanding expenses of the former Tobacco Use Prevention and Control Foundation (TUPCF) at the discretion of the director of the state Department of Health, and for initiatives to reduce tobacco use in Ohio pursuant to a state plan as specified.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Ohio&apos;s tobacco prevention and control program comes from the state general fund.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018-FY2019 Biennial Budget (H.B. 49) enacted 6/30/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).</Citation>
+<Description>Ohio allocated $12,500,000 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $13,540,000 was allocated. This is the first year of the FY2018-FY2019 biennium.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>12500000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 3701.84 (2008).</Citation>
+<Description>The state Department of Health may prepare a plan to reduce tobacco use by Ohioans, with emphasis on reducing the use of tobacco by youth, minority and regional populations, pregnant women, and others who may be disproportionately affected by the use of tobacco. The plan may provide for periodic surveys to measure tobacco use and behavior toward tobacco use by Ohioans.  The plan may also describe youth tobacco consumption prevention programs to be eligible for consideration for grants from the department and may set forth the criteria by which applications for grants will be considered. Programs eligible for consideration may include: youth-focused media campaigns, school and community based youth educational programs, retailer education and compliance efforts and mentoring programs designed to prevent or reduce tobacco use by students.  Pursuant to the plan, the department may carry out, or provide funding for private or public agencies to carry out, research and programs related to tobacco use prevention and cessation subject to specified conditions.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. §§ 3739.01 to 3739.18 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as otherwise permitted in section 3739.12 Ohio Revised Code, no person shall sell or offer to sell cigarettes in Ohio or sell or offer to sell cigarettes to persons located in Ohio unless all of the following requirements are met:  (A) The manufacturer of the cigarettes has the cigarettes tested in accordance with the testing method specified in section 3739.03 Ohio Revised Code or the testing method approved by the state Fire Marshal under section 3739.04 Ohio Revised Code; (B) the cigarettes meet the performance standard specified under division (B) of section 3739.03 Ohio Revised Code or the performance standard approved by the state Fire Marshal under section 3739.04 Ohio Revised Code; C) the manufacturer has marked the packaging of the cigarettes as required in section 3739.06 Ohio Revised Code; and (D) the manufacturer files a written certification with the state fire marshal as required under section 3739.07 Ohio Revised Code.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. § 3739.99 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any person other than a retail dealer who knowingly sells or offers to sell cigarettes in violation of the above standard is liable for a civil penalty not to exceed $100 for each pack of such cigarettes sold or offered for sale; provided that in no case shall the penalty against any such person or entity exceed $100,000 during any 30-day period.  A retail dealer who knowingly sells or offers to sell cigarettes in violation is subject to the same civil penalty as others above, but the penalty shall not exceed $25,000 during any 30-day period.   A manufacturer that is a corporation, partnership, sole proprietorship, limited partnership, or association who knowingly violates the certification requirements is subject to a civil penalty of at least $75,000 not to exceed $250,000 for each such violation, in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes - obtained from county</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $12,500,000 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018-FY2019 Biennial Budget (H.B. 49) enacted 6/30/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).
+
+Tobacco Taxes: Establishes a separate tax on premium cigars as defined of the lesser of 17% of the wholesale or 50 cents per cigar plus a specified annual tax adjustment factor.
+H.B. 49 (sections 5743.01 to 5743.63 amendments) enacted 6/30/17 and effective 7/1/17.
+
+Smokefree Air: Adds enclosed spaces in laboratory facilities at an accredited college or university, when used solely and exclusively for clinical research activities as specified as an exemption to the state smokefree workplace law.
+H.B. 49 (sect. 3794.03 amendments) enacted 6/30/17 and effective 9/28/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OHIO REV. CODE ANN. §§ 183.51 (2017) &amp; 183.52 (2007).</Citation>
+<Description>The sale and assignment of all of the state&apos;s future payments expected to be received under the Master Settlement Agreement to the Buckeye Tobacco Settlement Financing Authority is authorized. The authority can then issue and sell bonds and other obligations although the aggregate principal amount of these bonds can not exceed $6 billion dollars. At least 75 percent of the net proceeds of the sale of obligations by the authority shall be deposited into the school building program assistance fund.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $788,152,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Ohio</Name>
+<Abbrev>OH</Abbrev>
+<FipsCode>39</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $12,500,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $2,046,252*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $14,546,252
+
+Funding Level Recommended by CDC:                                        $132,000,000
+
+Percentage of CDC-Recommended Level:                                   11.0%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>36</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

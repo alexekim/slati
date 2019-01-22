@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:21:27">
+<tblStatesALA>
+<ID>25</ID>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<LegislatureHyperlink>#http://www.ls.state.ms.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. §§ 29-5-161 (2007), 41-114-1 (2010), 97-32-29 (2000) &amp; MS ADMIN CODE Tit. 15, Part III, Subpart 55 § 103.02 (2009).</Citation>
+<Description>Smoking is prohibited by state law in most government buildings and university/college classroom buildings as well as at public facilities where an organized athletic event for persons under 18 is taking place.  Smoking and use of tobacco products is prohibited in and on the grounds of public schools, and in and on outdoor playground areas of childcare facilities.  Smoking is allowed under state law in other public places and workplaces although businesses can set policies restricting or prohibiting smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Smoking and/or use of tobacco products is prohibited only in certain specified types of establishments, so places where smoking is prohibited are the exception.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 29-5-161 (2007).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+The law prohibiting smoking in government buildings and university/college classroom buildings shall not be interpreted or construed to permit smoking where it is otherwise restricted by other applicable laws or to prohibit any municipality or county from adopting additional ordinances with regard to smoking in public places.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 29-5-161 (2007).</Citation>
+<Description>No person shall smoke in any government building, which is defined as any building owned, rented, leased, occupied or operated by the state, including the legislative, executive and judicial branches of state government; any county, municipality or any other political subdivision of the state; any public authority, commission, agency or public benefit corporation; or any other separate corporate instrumentality or unit of state or local government.  If only part of a facility is leased by the state or locality, only the leased part of the facility will be considered to be a government building.  A government building shall not include any building owned or leased by the state institutions of higher learning or the public community and junior colleges or any space in a government building used by law enforcement officers.  The State Veterans Affairs Board may designate smoking areas in the state veterans&apos; homes operated by the board.  The person, agency or entity having jurisdiction or supervision over a government building shall not allow smoking in the building, and shall use reasonable efforts to prevent smoking in such building, including, but not limited to posting appropriate signs informing employees, invitees, guests and other persons that smoking is prohibited and securing the removal of persons who smoke in the building.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>M</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking mostly restricted</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 29-5-161 (2007).</Citation>
+<Description>No person shall use any tobacco product on any educational property. &quot;Educational property&quot; means any public school building or bus, public school campus, grounds, recreational area, athletic field, or other property owned, used or operated by any local school board, school, or directors for the administration of any public educational institution or during a school-related activity.  Any adult who violates this section shall receive a warning for a first conviction; a $75 fine for a second conviction; and a fine of up to $150 for all subsequent convictions.  It is the responsibility of all law enforcement officers and law enforcement agencies of this state to ensure that the provisions of this act are enforced.
+MISS. CODE ANN. § 97-32-29 (2000).
+
+No person shall smoke in any university or college classroom building, which is defined as any building used by the state institutions of higher learning or the public community and junior colleges exclusively for student instructional purposes, including classrooms, auditoriums, theaters, laboratories, hallways and restrooms.  Smoking policies applicable in the private offices of faculty and staff and other &quot;smoking permitted&quot; space may be determined by each academic and administrative department.  The person, agency or entity having jurisdiction or supervision over a university/classroom building shall not allow smoking in the building, and shall use reasonable efforts to prevent smoking in such building, including, but not limited to posting appropriate signs informing employees, invitees, guests and other persons that smoking is prohibited and securing the removal of persons who smoke in the building.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MS ADMIN CODE Tit. 15, Part III, Subpart 55 § 103.02</Citation>
+<Description>Smoking or the use of tobacco products in any form is prohibited within the physical confines of a child care facility, and on all outdoor playground areas.  If smoking or use of tobacco products is permitted outside the physical confines of a child care facility and away from the outdoor playground areas, it shall be limited to a designated area out of the presence of children. The designated area shall be a place where children, in the course of normal daily activities, may not observe staff and volunteers smoking or using tobacco products.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-35-1 (1964).</Citation>
+<Description>Smoking at Public Facilities during Organized Athletic Events:
+During any time that persons under 18 are engaged in an organized athletic event at a public facility, no participant in or spectator of the athletic event shall smoke in the facility, if the facility is enclosed, or within 100 feet of the facility, if the facility is not enclosed.  The person, agency or entity having jurisdiction or supervision over a public facility shall use reasonable efforts to prevent smoking at the facility, including posting appropriate signs, securing the removal of persons who smoke in violation or, if the public facility is outdoors, providing a designated area separate from the fields of activity, to which smoking shall be restricted.  Violation is subject to a warning for the first conviction, up to a $75 fine for a second conviction and up to a $150 fine for all subsequent violations.
+MISS. CODE ANN. § 41-114-1 (2010).
+
+Smoking Cigars/Pipes on Passenger Buses:
+It shall be unlawful for any person to smoke a cigar or pipe in or upon any passenger bus or coach.  Persons who continue to smoke after being asked to refrain from smoking can be ejected from public buses and charged with a misdemeanor, punishable by a fine of not more than $500, imprisonment up to 30 days, or both.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>See Government buildings and Schools sections for individual penalty/enforcement provisions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. §§ 27-70-1 to 27-70-21 (2011).</Citation>
+<Description>Tax rate per pack of 20: 68 cents
+Date last changed: May 15, 2009 -- from 18 cents to 68 cents
+Year first enacted: 1930
+MISS. CODE ANN. § 27-69-13(a) (2009).
+
+A fee of 27 cents per pack of 20 is imposed on the sale, use, consumption or distribution in this state of nonsettling-manufacturer cigarettes, which are cigarettes sold by manufacturer&apos;s that have not signed on to the state&apos;s settlement agreement with the major tobacco companies.  The fee will be increased each January 1 by the greater of three percent or the percentage increase in the most recent annual revised Consumer Price Index for all Urban Consumers, as published by the Federal Bureau of Labor Statistics of the U.S. Department of Labor.  The fee is in addition to the state tax on cigarettes, and is assessed on distributors of cigarettes.</Description>
+<NumericValue>0.68</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. §§ 27-69-75 (1987) &amp; 27-70-1 to 27-70-21 (2011).</Citation>
+<Description>All cigarette tax revenue as well revenue from the additional fee on nonsettling-manufacturer cigarettes is deposited into the state treasury to the credit of the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>128513000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 27-69-13(b) (1985).</Citation>
+<Description>All other tobacco products: 15% of the manufacturer&apos;s list price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 27-69-75 (1987).</Citation>
+<Description>All revenue from the tax on tobacco products other than cigarettes is deposited into the state treasury to the credit of the state general fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-21 (1998).</Citation>
+<Description>The Office of the Attorney General or local law enforcement agencies shall at least annually conduct random, unannounced inspections at locations where tobacco products are sold or distributed.  Persons under 18 may be enlisted by the Office of the Attorney General or local law enforcement agencies, provided that the parent or legal guardian has given prior written consent.  The Office of the Attorney General must prepare a report of the findings to the Department of Health and Department of Mental Health.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-51 (2013).</Citation>
+<Description>It is unlawful for any person or retailer to sell, barter, deliver or give tobacco products or rolling papers to any minor unless the individual under age 18 holds a retailer&apos;s permit to sell tobacco products.  Any person who violates this section is liable for a fine of $50 for the first violation, $75 for the second violation and $150 for all subsequent violations.  The person owning the applicable retailer permit shall be sent a warning letter for the first violation, and shall be required to enroll in and complete a &quot;Retailer Tobacco Education Program&quot; for the second violation.  For the third and subsequent violations within a year of the first two violations, any retailer&apos;s permit may be revoked or suspended for a period of at least one year after notice and opportunity for hearing.   It is an affirmative defense that the person selling, bartering, delivering or giving tobacco products to a minor, had requested and examined a government issued photographic identification.  The failure of a person selling tobacco to request and examine photographic identification shall form a conclusive basis for the seller&apos;s violation of this section.
+MISS. CODE ANN. § 97-32-5 (1998).
+
+No person, either directly or indirectly by agent, employee, or vending machine shall sell, offer for sale, give or furnish any alternative nicotine product, or any cartridge or component of an alternative nicotine product, to an individual under 18 years of age. Alternative nicotine product is defined as an electronic cigarette as defined or any other product that consists of or contains nicotine that can be ingested into the body by chewing, smoking, absorbing, dissolving, inhaling or by any other means that is not defined as a tobacco product under state law or a drug, device or combination product under federal law. Violation is subject to a fine of $50 for a first offense, $75 for a second offense and $100 for a third or subsequent offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-11 (1998).</Citation>
+<Description>Point of sale warning signs are required, and each seller shall place and maintain in legible condition, at each point of sale of tobacco products to consumers, a sign no smaller than 8.5  by 11 inches or 93 square inches stating: &quot;STATE LAW PROHIBITS THE SALE OF TOBACCO PRODUCTS TO PERSONS UNDER THE AGE OF 18 YEARS.  PROOF OF AGE REQUIRED.&quot; Violation is subject to a penalty of not more than $100.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-13 (1998).</Citation>
+<Description>No person under 18 shall purchase any tobacco product. High school, junior high school or elementary school students may not possess tobacco on any educational property.  
+MISS. CODE ANN. § 97-32-9 (1998).
+
+A minor who falsely states they are 18 years of age or older or presents any document that indicates they are 18 years of age or older for the purpose of purchasing or possessing any tobacco or tobacco product shall be fined from $25 to $200 or required to complete at least 30 days of community service, or both.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-51 (2013).</Citation>
+<Description>Before selling, offering for sale, giving or furnishing an alternative nicotine product, or any cartridge or component of an alternative nicotine product to an individual, a person shall verify that the individual is at least 18 years of age by for sales made through the Internet or other remote sales methods, performing an age verification through an independent, third-party age verification service that compares information available from public records to the personal information entered by the individual during the ordering process that establishes the individual is 18 years of age or older. Alternative nicotine product is defined as an electronic cigarette as defined or any other product that consists of or contains nicotine that can be ingested into the body by chewing, smoking, absorbing, dissolving, inhaling or by any other means that is not defined as a tobacco product under state law or a drug, device or combination product under federal law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-7 (1998).</Citation>
+<Description>Every person employed as a retail sales clerk by a person engaged in the business of selling tobacco products at retail shall sign an agreement with their employer, which states that they understand that state law prohibits the sale or distribution of tobacco products, including samples, to persons under the age of 18 and requires that proof of age be demanded if the purchaser appears to be under the age of 18, and such employee shall promise, &quot;as a condition of their employment, to observe this law.&quot;  Any person violating the provisions of this section shall be guilty of a misdemeanor and fined $50 to $100 upon conviction.  No retailer who instructs their employee as directed above shall be liable for any violations committed by such employees.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-2 (1998).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are specifically not allowed, see below.
+
+It is the intent of the Legislature that enforcement of this chapter be implemented in an equitable manner throughout the state. The provisions of Mississippi Code sections 97-32-5, 97-32-7, 97-32-11, 97-32-15, 97-32-17, 97-32-19 and 97-32-21 shall supersede any existing or subsequently enacted local law, ordinance or regulation which relates to the sale, promotion and distribution of tobacco and tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-5 (1998).</Citation>
+<Description>It is unlawful for any person to barter, deliver or give tobacco products to any minor.  Any person who violates this section is subject to the same penalties and affirmative defenses as selling tobacco products to a minor.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. §§ 75-23-33 &amp; 75-23-35 (2000).</Citation>
+<Description>No retailer shall distribute tobacco products, excluding cigars and pipe tobacco, other than in a sealed package provided by the manufacturer with the required health warning.  Violators will be fined $100 for the first violation and/or enrolled in a Retailer Tobacco Education Prevention Program, $200 for a second violation within a year of the first violation and $300 for all subsequent violations.  In addition, in the case of all subsequent violations within one year of two prior violations, the permit of the violator may be suspended or revoked. 
+MISS. CODE ANN. § 97-32-17 (1998).
+
+It shall be unlawful for any person to sell or distribute in this state any cigarettes the package of which does not comply with all requirements imposed by or pursuant to federal law regarding warnings and other information on packages of cigarettes manufactured, packaged or imported for sale, distribution or use in the United States, including, but not limited to, the precise warning labels specified in the Federal Cigarette Labeling and Advertising Act. Knowingly violating this provision is subject to a fine of $5,000 and/or imprisonment for not more than five years.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-2 (1998).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling and minimum sales amounts of tobacco products are specifically not allowed, see below.
+
+It is the intent of the Legislature that enforcement of this chapter be implemented in an equitable manner throughout the state. The provisions of Sections 97-32-5, 97-32-7, 97-32-11, 97-32-15, 97-32-17, 97-32-19 and 97-32-21 shall supersede any existing or subsequently enacted local law, ordinance or regulation which relates to the sale, promotion and distribution of tobacco and tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-15 (1998).</Citation>
+<Description>Vending machines are restricted to establishments where individuals under the age of 18 years are denied access or are required to be accompanied by an adult.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-15 (1998).</Citation>
+<Description>A person who violates this section shall be punished by a penalty of not more than $250.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-2 (1998).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are specifically not allowed, see below.
+
+It is the intent of the Legislature that enforcement of this chapter be implemented in an equitable manner throughout the state. The provisions of Sections 97-32-5, 97-32-7, 97-32-11, 97-32-15, 97-32-17, 97-32-19 and 97-32-21 shall supersede any existing or subsequently enacted local law, ordinance or regulation which relates to the sale, promotion and distribution of tobacco and tobacco products.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 75-23-27 (1954).</Citation>
+<Description>Every dealer (manufacturer), distributor, wholesaler and retailer must have an annual permit to engage in the sale or use of tobacco products from the chairman of the state Tax Commission. Permits must be obtained for each place of business. Permits expire on January 31st of each year. Any person who engages in any business for which a permit is required before procuring a permit, or after the permit is cancelled, shall be guilty of a misdemeanor, and punishable by a fine of $50 to $500. 
+MISS. CODE ANN. §§ 27-69-5 (1998) &amp; 27-69-7 (1985).
+
+Retailers and wholesalers must obtain a license to sell cigarettes. A separate license is required for each place of business. The state Tax Commission shall make rules and regulations respecting applications therefore or issuance thereof.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 27-69-7 (1985).</Citation>
+<Description>Wholesalers, distributors and dealers are subject to a $100 annual permit fee.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN § 97-32-5 (1998).</Citation>
+<Description>For the third and subsequent violations of the sale of tobacco products to minors&apos; law within a year of two previous violations, the retailer&apos;s permit may be revoked or suspended for a period of at least one year after notice and opportunity for a hearing.  The provisions of this law shall supersede any existing or subsequently enacted local law, ordinance or regulation that relates to the sale, promotion, and distribution of tobacco products.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 71-7-33 (1994).</Citation>
+<Description>It is unlawful for any public or private employer to require as a condition of employment that any employee or applicant for employment abstain from smoking or using tobacco products during non-work hours, provided that the individual complies with applicable laws or policies regulating smoking on the premises of the employer during working hours.</Description>
+<Year>1994</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MS RULES OF APPELLATE PROCEDURE, Rule 8(b)(2-5) (2001).</Citation>
+<Description>A supersedeas bond or equivalent security required on any money judgment entered in whole or in part on account of punitive damages shall, as to the punitive damages portion of the judgment only, be the lower of: 125 percent of the punitive damages, 10 percent of the net worth of the defendant seeking appeal as determined by applying generally accepted accounting principles to the defendant&apos;s financial status as of December 31, of the year prior to the entry of the judgment for punitive damages.  Absent unusual circumstances, the total amount of the required bond or equivalent security for any case as to punitive damages shall not exceed $100 million.  When the appellant is allowed the benefit of a reduction in bond or equivalent security the court may require submission of such reports or evidence to the court and to opposing parties as will allow them to be properly informed of the financial condition of the appellant during the period of supersedeas. If at any time after notice and hearing, the court finds that an appellant who has posted a bond or equivalent security for less than 125 percent of the full amount of the judgment has taken actions that affect the financial ability of the appellant to respond to the judgment, or has taken other actions with the intent to avoid the judgment, the court shall increase the bond or equivalent security to the full 125 percent of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Annual tobacco settlement installment payments received by Mississippi are deposited into the Tobacco Control Progam Fund and the Health Care Expendable Fund as specified. Monies in the Tobacco Control Program Fund are used for several purposes, including Mississippi&apos;s tobacco control program.    
+MISS. CODE ANN. §§ 41-113-1 to 41-113-11 &amp; 43-13-407 (2015).
+
+Note: Mississippi was one of four states that settled separately with the major tobacco companies prior to the Master Settlement Agreement in 1998.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>109700000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 43-13-407 (2015).</Citation>
+<Description>The Tobacco Control Program Fund was established in the state treasury. From the annual tobacco settlement payment each calendar year, $20 million is dedicated to the fund. The money is to be used to fund a comprehensive tobacco control program and for other specified purposes. Any investment income from monies in the Tobacco Control Program Fund will be credited to the Fund and monies left over in the Fund at the end of a fiscal year shall not lapse into the state General Fund. Any monies appropriated from the Tobacco Control Program Fund that are unexpended at the end of a fiscal year shall lapse to the Fund. 
+MISS. CODE ANN. §§ 41-113-1 to 41-113-11 (2015).
+
+The Health Care Trust Fund was established in the state treasury, and received $280 million in settlement money at the end of FY1999, and was supposed to receive all subsequent annual settlement payments. All income from the trust fund is supposed to go to the trust fund, and funds do not lapse to the general fund. Money is transferred to the Health Care Expendable Fund each fiscal year from the Health Care Trust Fund. The trust fund principal was supposed to remain forever inviolate except for specified circumstances, but the entire remaining balance was transferred to the Health Care Expendable Fund in FY2015.  Transfer of funds in the trust fund to the state Medicaid program under certain circumstances is also allowed under legislation passed in 2009.
+MISS. CODE ANN. § 43-13-405 (2013).
+
+The Health Care Expendable Fund was also established in the state treasury. All income from investment of the money in the fund shall be credited to the fund. The funds in the Health Care Expendable Fund are available for expenditure by specific appropriation each fiscal year beginning in FY2000 for health care purposes. In FY2015, the entire balance of the Health Care Trust Fund was transferred to this fund, in addition to multiple transfers over previous fiscal years. The entire settlement installment payment in calendar year 2015 and each calendar year thereafter will also be deposited in the Health Care Expendable Fund.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances related to certain specified laws concerning the sale, promotion, and distribution of tobacco are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Mississippi&apos;s tobacco control program comes from the state&apos;s annual tobacco settlement payment.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Department of Health Appropriations (H.B. 1511) enacted 4/18/17 and effective 7/1/17.</Citation>
+<Description>Mississippi appropriated $8,440,000 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $10,722,875 was appropriated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>8440000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. §§ 41-113-1 to 41-113-11 (2007).</Citation>
+<Description>The Office of Tobacco Control was created in the state Department of Health.  The office, with the advice of the Mississippi Tobacco Control Advisory Board, shall develop and implement a comprehensive tobacco control program that is consistent with the recommendations for effective program components and funding recommendations in the 1999 Best Practices for Comprehensive Tobacco Control Programs of the federal Centers for Disease Control and Prevention (CDC), as those Best Practices may be periodically amended by the CDC.  The Mississippi Tobacco Control Advisory Board was also created, and will consist of 13 members who will make recommendations about implementation of the program.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. §§ 45-12-1 to 45-12-23 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided, no cigarettes may be sold or offered for sale in Mississippi or offered for sale or sold to persons located in Mississippi unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 45-12-5 Mississippi Code, 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with section 45-12-7 Mississippi Code; and 3) the cigarettes have been marked in accordance with section 45-12-9 Mississippi Code.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 45-12-11 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent, or any other person or entity who knowingly sells or offers to sell cigarettes other than through retail sale in violation of the above standard shall be subject to a civil penalty not to exceed $100 for each pack of such cigarettes sold or offered for sale; provided that in no case shall the penalties against any such person or entity exceed $100,000 during any 30-day period.  A retail dealer who knowingly sells or offers to sell cigarettes in violation is subject to the same civil penalty as others above, but the penalty shall not exceed $25,000 during any 30-day period.   Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MISS. CODE ANN. § 97-32-51 (2013).</Citation>
+<Description>Before selling, offering for sale, giving or furnishing an alternative nicotine product, or any cartridge or component of an alternative nicotine product to an individual, a person shall verify that the individual is at least 18 years of age by examining from any individual that appears to be under 27 years of age a government-issued photographic identification that establishes the individual is at least 18.  Alternative nicotine product is defined as an electronic cigarette as defined or any other product that consists of or contains nicotine that can be ingested into the body by chewing, smoking, absorbing, dissolving, inhaling or by any other means that is not defined as a tobacco product under state law or a drug, device or combination product under federal law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $8,440,000 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Department of Health Appropriations (H.B. 1511) enacted 4/18/17 and effective 7/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $128,513,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Mississippi</Name>
+<Abbrev>MS</Abbrev>
+<FipsCode>28</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $8,440,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,866,711*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $10,306,711
+
+Funding Level Recommended by CDC:                                        $36,500,000
+
+Percentage of CDC-Recommended Level:                                   28.2%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>25</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

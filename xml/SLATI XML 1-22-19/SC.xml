@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:22:03">
+<tblStatesALA>
+<ID>41</ID>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<LegislatureHyperlink>#http://www.lpitr.state.sc.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 44-95-10 et seq. (2012).</Citation>
+<Description>Smoking is prohibited or restricted to specific designated areas in some specific public places, including: elevators, public transportation vehicles, except taxis, indoor areas of facilities providing children&apos;s services, most parts of public schools and preschools, including libraries, and most areas of almost all state and local government buildings.  Smoking is allowed completely in private workplaces, restaurants and bars.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 44-95-10 et seq. (2012).</Citation>
+<Description>Smoking is still allowed in many public places and workplaces, including alll private workplaces, restaurants and bars.  Smoking is also specifically allowed as part of a legitimate theatrical performance.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Foothills Brewing Concern v. City of Greenville (2008).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see information on court decision below confirming this.
+
+In March 2008, the South Carolina Supreme Court ruled unanimously (5-0) that existing South Carolina law does not prevent local communities from passing stronger ordinances restricting or prohibiting smoking in public places and workplaces.  This allows the city of Greenville, South Carolina&apos;s law to go back into effect and provides legal justification for other stronger local smokefree ordinances in South Carolina.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 44-95-10 et seq. (2012).</Citation>
+<Description>Smoking is prohibited in most areas of buildings leased or operated by the state or any of its political subdivisions, but is permitted in private enclosed offices and designated areas of employee break areas.  Smoking policies in the state Capitol and legislative office buildings shall be determined by the office of government having control over such buildings.  &quot;Government buildings&quot; means buildings or portions of buildings which are leased or operated under the control of the state or any of its political subdivisions, except those buildings or portions of buildings which are leased to other organizations or corporations.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 59-67-150 (1962).</Citation>
+<Description>Smoking is restricted in public schools and preschools where routine or regular kindergarten, elementary, or secondary educational classes are held, including libraries.  Private offices and teacher lounges which are not adjacent to classrooms or libraries are excluded unless the offices and lounges are included specifically in a directive by the local school board. This section does not prohibit school district boards of trustees from providing for a smokefree campus.  Smoking is also prohibited in buildings, or portions thereof, and the outside areas immediately contiguous to these buildings owned, leased, operated, or maintained by a public institution of higher learning as defined, that the governing board of the institution has designated as nonsmoking.
+S.C. CODE ANN. §§ 44-95-10 et seq. (2012).
+
+Smoking on school buses is prohibited while the bus is in operation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 44-95-10 et seq. (2012).</Citation>
+<Description>Smoking is prohibited in licensed child care facilities, and all other indoor facilities providing children&apos;s services to the extent that smoking is prohibited in the facility by federal law.  &quot;Childcare facilities&quot; means a facility which provides care, supervision, or guidance for a minor child who is not related by blood, marriage, or adoption to the owner or operator of the facility whether or not the facility is operated for profit and whether or not the facility makes a charge for services offered by it. This definition includes, but is not limited to, day nurseries, nursery schools, childcare centers, group childcare homes, and family childcare homes.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 44-95-10 et seq. (2012).</Citation>
+<Description>Smoking in health care facilities is restricted to designated employee break areas.  &quot;Health care facility&quot; means acute care hospitals, psychiatric hospitals, alcohol and substance abuse hospitals, methadone treatment facilities, tuberculosis hospitals, nursing homes, ambulatory surgical facilities, hospice facilities, radiation therapy facilities, rehabilitation facilities, residential treatment facilities for children and adolescents, habilitation centers for mentally retarded persons or persons with related conditions, and any other facility for which Certificate of Need review is required by federal law.  Nothing in this chapter prohibits or precludes a health care facility from being smokefree.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No restrictions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 44-95-10 et seq. (2012).</Citation>
+<Description>The owner, manager or agent in charge of the premises shall make reasonable efforts to prevent designated smoking areas from impinging upon designated smokefree areas by the use of existing physical barriers and ventilation systems and by conspicuously posting the appropriate signs.  A person who smokes in a smokefree area or a person in charge who fails to meet these requirements, is guilty of a misdemeanor and, upon conviction, must be fined between $10 and $25.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 12-21-620(1) &amp; 12-21-625(A) (2010).</Citation>
+<Description>Tax rate per pack of 20: 57 cents  
+Date last changed: July 1, 2010 -- from 7 cents to 57 cents  
+Year first enacted: 1923</Description>
+<NumericValue>0.57</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 12-21-625(B) (2010).</Citation>
+<Description>Revenue from 50 cents of the cigarette tax is allocated to tobacco-related cancer research, tobacco prevention/cessation programs and the South Carolina Medicaid reserve fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>159166000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 12-21-625(B) (2010).</Citation>
+<Description>Revenue from the 50 cents of the cigarette tax imposed by South Carolina Code Annotated, section 12-21-625, is allocated as follows: 1) $5 million annually to the Medical University of South Carolina Hollings Cancer Center for tobacco-related cancer research; 2) $5 million annually to the Smoking Prevention and Cessation Trust Fund, which will fund a state tobacco control program; and 3) the remaining revenue to the South Carolina Medicaid Reserve Fund.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 12-21-620(2) (1977).</Citation>
+<Description>All other tobacco products: 5% of the manufacturer&apos;s price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 16-17-501 &amp; 16-17-503 (2013).</Citation>
+<Description>The Director of the Department of Revenue shall provide for the enforcement of sections 16-17-500 and 16-17-502 South Carolina Code in a manner that reasonably may be expected to reduce the extent to which tobacco products or alternative nicotine products are sold or distributed to persons under the age of 18 and annually shall conduct random, unannounced inspections at locations where tobacco products or alternative nicotine products are sold or distributed to ensure compliance with the section. The department shall designate an enforcement officer to conduct the annual inspections.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 16-17-500 &amp; 16-17-501 (2013).</Citation>
+<Description>It shall be unlawful for any person to sell, furnish, give, distribute, purchase for or provide a tobacco product or alternative nicotine product to a minor under the age of 18 years.  &apos;Alternative nicotine product&apos; means a product, including electronic cigarettes as defined separately, that consists of or contains nicotine that can be ingested into the body by chewing, smoking, absorbing, dissolving, inhaling, or by any other means; but does not include a cigarette or other tobacco product as already defined in state law or a product that is a drug, device or combination product under federal law.  An individual who knowingly violates these provisions is guilty of a misdemeanor punishable by a fine of  $100 to $200 for a first offense, $200 to $300 for a second offense within three years of the first offense and $300 to $400 for a third or subsequent offense within three years of the first offense.  In lieu of the fine, the court may require an individual to successfully complete a Department of Alcohol and Other Drug Abuse Services approved merchant tobacco enforcement education program.  A retail establishment that distributes tobacco products or alternative nicotine products must train all retail sales employees regarding the unlawful distribution of such products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 16-17-500 &amp; 16-17-501 (2013).</Citation>
+<Description>A minor under the age of 18 years must not purchase, attempt to purchase, possess, or attempt to possess a tobacco product or alternative nicotine product, or present or offer proof of age that is false or fraudulent for the purpose of purchasing or possessing such products. A minor who knowingly violates this provision in person, by agent, or in any other way commits a non-criminal offense and is subject to a civil fine of $25. In lieu of the civil fine, the court may require a minor to successfully complete a Department of Health and Environmental Control approved smoking cessation or tobacco prevention program, or to perform not more than five hours of community service for a charitable institution. If a minor fails to pay the civil fine, successfully complete a smoking cessation or tobacco prevention program, or perform the required hours of community service as ordered by the court, the court may restrict the minor&apos;s driving privileges to driving only to and from school, work, and church, or as the court considers appropriate for a period of 90 days beginning from the date provided by the court, or delay the issuance of the minor&apos;s driver&apos;s license or permit for a period of 90 days beginning from the date the minor applies for a driver&apos;s license or permit. This section does not apply to the possession of a tobacco product by a minor working within the course and scope of their duties as an employee or participating within the course and scope of an authorized inspection or compliance check.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 16-17-500(C) &amp; 16-17-501 (2013).</Citation>
+<Description>A person engaged in the sale of alternative nicotine products made through the Internet or other remote sales methods shall perform an age verification through an independent, third-party age verification service that compares information available from public records to the personal information entered by the individual during the ordering process that establishes the individual is eighteen years of age or older. Violation is subject to the same penalties as selling or giving tobacco products to persons under age 18.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 16-17-504 (2013).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are not allowed, see below.
+
+Sections 16-17-500, 16-17-502, and 16-17-503 must be implemented in an equitable and uniform manner throughout the state and enforced to ensure the eligibility for and receipt of federal funds or grants the state receives or may receive relating to these sections. Any laws, ordinances, or rules enacted pertaining to tobacco products or alternative nicotine products may not supersede state law or regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 16-17-501 &amp; 16-17-502 (2013).</Citation>
+<Description>It is unlawful for a person to distribute a tobacco product or alternative nicotine product sample to a person under the age of 18.  A person engaged in sampling shall demand proof of age from a prospective recipient if an ordinary person would conclude on the basis of appearance that the prospective recipient may be under the age of 18.   Violation of this law is subject to a civil penalty of not more than $25 for a first offense, not more than $50 for a second offense and not less than $100 for a third or subsequent offense.  Proof that the defendant demanded, was shown, and reasonably relied upon proof of age is a defense to an action brought pursuant to this section.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 16-17-505 (1996).</Citation>
+<Description>It is unlawful to sell, hold for sale, or distribute a package of cigarettes if the package differs in any respect with the requirements of the Federal Cigarette Labeling and Advertising Act, for the placement of labels, warnings, or any other information upon a package of cigarettes.  A person who knowingly sells, holds for sale, or distributes cigarette packages in violation of this is guilty of a misdemeanor and, upon conviction, shall be imprisoned not more than three years and/or be subject to a $1,000 fine.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 16-17-504 (2013).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed, see below.
+
+Sections 16-17-500, 16-17-502, and 16-17-503 must be implemented in an equitable and uniform manner throughout the state and enforced to ensure the eligibility for and receipt of federal funds or grants the state receives or may receive relating to these sections. Any laws, ordinances, or rules enacted pertaining to tobacco products or alternative nicotine products may not supersede state law or regulation.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 16-17-500 &amp; 16-17-501 (2013).</Citation>
+<Description>It is unlawful to sell a tobacco product or alternative nicotine product as defined through a vending machine unless the vending machine is located in an establishment, which is open only to individuals who are 18 years of age or older; or where the vending machine is under continuous control by the owner or licensee of the premises, or an employee of the owner or licensee, can be operated only upon activation by the owner, licensee, or employee before each purchase, and is not accessible to the public when the establishment is closed.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 16-17-500 (2013).</Citation>
+<Description>Violation is subject to the same penalties as selling or giving tobacco products to minors.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 16-17-504 (2013).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are not allowed, see below.
+
+Sections 16-17-500, 16-17-502, and 16-17-503 must be implemented in an equitable and uniform manner throughout the state and enforced to ensure the eligibility for and receipt of federal funds or grants the state receives or may receive relating to these sections. Any laws, ordinances, or rules enacted pertaining to tobacco products or alternative nicotine products may not supersede state law or regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 12-21-660 &amp; 12-21-670 (1993).</Citation>
+<Description>Every person engaged in the business of purchasing, selling or distributing tobacco products at wholesale or through vending machines shall file with the Department of Revenue for a license to do so. When such business is conducted at two or more separate places, a separate license for each place of business shall be required. However, a person whose business is conducted through vending machines needs to obtain only one license but shall maintain an up-to-date list of the location of each vending machine operated under this license. No penalty is specified for selling tobacco products without a license.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No fee specified for licenses.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No provisions.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 41-1-85 (1991).</Citation>
+<Description>The use of tobacco products outside the workplace must not be the basis of personnel action, including, but not limited to, employment, termination, demotion, or promotion of an employee.  No specific penalties specified for violation.</Description>
+<Year>1991</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 11-47-40 (2004).</Citation>
+<Description>The appeal of a judgment awarding relief in a civil action, under any legal theory, involving a signatory of the Master Settlement Agreement, or a successor to or affiliate of a signatory to the agreement, automatically stays the execution of that judgment.  The stay is effective upon the filing of the notice of appeal and during the entire course of appellate review of the judgment.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 11-49-10 et seq. (2014) &amp; H.B. 3720, sect. 118.11 enacted 6/12/17 and effective 7/1/17.</Citation>
+<Description>The rights to almost all of South Carolina’s Master Settlement Agreement (MSA) payments have been sold as bonds through the Tobacco Settlement Revenue Management Authority to obtain a smaller lump sum payment up front. See Securitization section below for additional details. The FY2018 budget bill (H.B. 3720) does specify how any MSA funds available in FY2018 will be allocated.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>73400000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>H.B. 3720, sect. 118.11 enacted 6/12/17 and effective 7/1/17.</Citation>
+<Description>South Carolina established the Healthcare Tobacco Settlement Trust Fund in the state treasury. Earnings on this fund must be credited to the fund. The principal must remain in the fund and only the interest earnings may be appropriated and used for a variety of public health policy purposes, which can include youth smoking cessation and prevention programs coordinated by the Department of Health and Environmental Control and the Department of Alcohol and Other Drug Abuse Services. Proceeds from the MSA have been deposited in the fund in the past.
+S.C. CODE ANN. § 11-11-170 (2000).
+
+Note: For FY2018, to the extent funds are available from payments received on behalf of the state by the Tobacco Settlement Revenue Management Authority from the Tobacco Master Settlement Agreement, the State Treasurer is authorized, after transferring funds sufficient to cover the operating expenses of the Authority, to transfer the remaining funds as follows: (1) $2,028,000 to several state agencies to diligently enforce Chapter 47 of Title 11, the Tobacco Escrow Fund Act; (2) and the remaining balance shall be transferred to the Department of Health and Human Services for the state Medicaid program. The requirements of section 11-11-170 South Carolina Code are suspended for FY2018.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>All laws, ordinances or rules further restricting youth access to tobacco products may not supersede state law/regulation.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for South Carolina&apos;s tobacco control program comes from state cigarette tax revenue.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (H.B. 3720) enacted 6/12/17 and effective 7/1/17.</Citation>
+<Description>South Carolina appropriated $5,000,000 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, the same amount was appropriated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>5000000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. § 44-128-30 et seq. (2000).</Citation>
+<Description>The legislature directed the Department of Health and Environmental Control to develop and implement a youth smoking prevention plan for the purpose of preventing and reducing cigarette smoking by minors.  The youth smoking prevention plan must address prevention, cessation, and control of smoking by minors and may include but is not limited to media campaigns; school based youth programs; community based youth programs; business, community, and school partnerships; programs focusing on the enforcement and administration of state minor-related tobacco laws, including retailer education; surveillance and evaluation; chronic disease and health-related programs. To assist in carrying out the purposes of the plan, the department may award youth smoking prevention grants to local agencies, organizations, and entities based on criteria developed by the department.  The state plan further shall provide for a grant for an annual statewide school-based survey to measure cigarette use and behavior towards cigarette use by individuals in grades six through 12.  The South Carolina Youth Smoking Prevention Advisory Commission was also established to advise the department in the development, implementation, and evaluation of the state youth smoking plan.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 23-51-10 to 23-51-110 (2010).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection (O) of section 23-51-30 South Carolina Code, cigarettes may not be sold or offered for sale in South Carolina or offered for sale or sold to persons located in South Carolina unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 23-51-30 South Carolina Code; 2) a written certification has been filed by the manufacturer with the state Fire Marshal in accordance with Section 23-51-40 South Carolina Code; and 3) the cigarettes have been marked in accordance with section 23-51-50 South Carolina Code.</Description>
+<Year>2010</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 23-51-10 to 23-51-110 (2010).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of section 23-51-30 above shall be subject to a civil penalty not to exceed $100 for each pack of cigarettes sold or offered for sale.  Penalties for any person or entity shall not exceed $100,000 during a 30-day period.  A retail dealer shall be subject to the same civil penalty for violation, but penalties may not exceed $25,000 for any one person or entity during a 30-day period.  A corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification as required by section 23-51-40 above is subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>S.C. CODE ANN. §§ 16-17-500 &amp; 16-17-501 (2013).</Citation>
+<Description>It is unlawful to sell a tobacco product or an alternative nicotine product as defined to an individual who does not present upon demand proper proof of age. &quot;Proof of age&quot; is defined as a driver&apos;s license or identification card issued by this state or a United States Armed Services identification card. Failure to demand identification to verify an individual&apos;s age is not a defense to selling tobacco products or alternative nicotine products to minors. However, proof that is demanded, is shown, and reasonably is relied upon for the individual&apos;s proof of age is a defense to a violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $5,000,000 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (H.B. 3720) enacted 6/12/17 and effective 7/1/17.
+
+Use of Tobacco Settlement Dollars: Specifies how any tobacco Master Settlement Agreement dollars available in FY2018 will be allocated. Also, allows an unexpended MSA funds from FY2017 to be carried forward by state agencies and spent for the same purpose.
+H.B. 3720, sect. 117.36 &amp; 118.11 enacted 6/12/17 and effective 7/1/17.
+
+Tobacco Use/State Employee Health Plans: In FY2018, the state Budget and Control Board is authorized to impose a surcharge on enrollee rates based on tobacco use. The surcharge cannot exceed $40 per month for a subscriber or $60 per month for a subscriber and dependents.
+H.B. 3720, sect. 108.3 enacted 6/12/17 and effective 7/1/17.</Description>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Securitization</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>South Carolina created the Tobacco Settlement Revenue Management Authority.  The purpose of the authority is to receive all of the state&apos;s tobacco receipts and to issue bonds payable solely from and secured solely by the state&apos;s tobacco receipts.  The state&apos;s tobacco receipts due to the state after June 30, 2001, and the right to receive them as they are distributed from the escrow are assigned to the authority.  All bonds must be secured solely by and payable solely from the state&apos;s tobacco receipts, or the portion of the state&apos;s tobacco receipts the board determines to pledge for payment.  The authority may not issue any bond with a scheduled maturity later than 30 years after the date of issuance.
+S.C. CODE ANN. §§ 11-49-10 et seq. (2014).</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1376</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $159,166,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>South Carolina</Name>
+<Abbrev>SC</Abbrev>
+<FipsCode>45</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $5,000,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $3,383,998*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $8,383,998
+
+Funding Level Recommended by CDC:                                        $51,000,000
+
+Percentage of CDC-Recommended Level:                                   16.4%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>41</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:21:31">
+<tblStatesALA>
+<ID>27</ID>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<LegislatureHyperlink>#http://leg.state.mt.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-101 et seq. (2011).</Citation>
+<Description>Smoking is prohibited in enclosed public places, which are defined as an indoor area, room, or vehicle that the general public is allowed to enter or that serves as a place of work, including restaurants, bars and non-tribal gaming facilities.  For specific places covered, see the definition under Montana Code Annotated section 50-40-103.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-101 et seq. (2011).</Citation>
+<Description>Exceptions to the law include: 1) a private residence unless it is licensed and used as a family day-care home, group day-care home, adult foster care home or a health care facility; 2) a private motor vehicle; 3) not more than 35 percent of hotel/motel rooms rented to guests; and 4) a site that is being used in connection with the practice of cultural activities by American Indians.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further restricting smoking.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-104 &amp; 50-40-201 (2005).</Citation>
+<Description>Smoking is prohibited in enclosed public places the definition of which includes all buildings or portions of buildings occupied by state and local government.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-101 et seq. (2011).</Citation>
+<Description>Smoking is prohibited in enclosed public places, the definition of which includes all places of work.  Places of work are defined as an enclosed room where one or more people work.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-101 et seq. (2011).</Citation>
+<Description>An individual may not use a tobacco product in a public school building or on public school property.  This does not apply to the use of a tobacco product in a classroom or on other school property as part of a lecture, demonstration, or educational forum sanctioned by a school administrator or faculty member concerning the risks associated with use of a tobacco product.
+MONT. CODE ANN. § 20-1-220 (2005).
+
+Smoking is also prohibited in community college facilities and facilities of the Montana university system.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-101 et seq. (2011).</Citation>
+<Description>Smoking is prohibited in all enclosed public places, the definition of which includes child care facilities.  Home-based group day-care and family day-care homes as well as adult foster care homes are specifically included.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-101 et seq. (2011).</Citation>
+<Description>Smoking is prohibited in all enclosed public places, the definition of which includes health care facilities.  Home-based health care facilities are specifically included.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-101 et seq. (2011).</Citation>
+<Description>Smoking is prohibited in enclosed public places, the definition of which includes restaurants.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-101 et seq. (2011).</Citation>
+<Description>Smoking is prohibited in enclosed public places, the definition of which includes bars.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-40-101 et seq. (2011).</Citation>
+<Description>The proprietor or manager of an establishment containing enclosed public places shall post a sign in a conspicuous place at all public entrances to the establishment stating, in a manner that can be easily read and understood that smoking in the enclosed public place is prohibited.  The provisions of this part must be supervised and enforced by the Department of Public Health and Human Services and the department&apos;s designees, local boards of health, and the boards&apos; designees under the direction of the department.  A person who smokes in a place where smoking is prohibited is guilty of a misdemeanor and shall be subject to a fine of not less than $25 or more than $100.  A person who owns, manages, operates, or otherwise controls a public place or place of employment and who fails to comply with the above provisions is guilty of a misdemeanor after a third violation within a 3-year period and shall receive a warning for a first violation, receive a written reprimand for a second violation, be subject to a $100 fine for a third violation, a $200 fine for a fourth violation and $500 for a fifth or subsequent violation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-111 (2005).</Citation>
+<Description>Tax rate per pack of 20: $1.70
+Date last changed: January 1, 2005 -- from 70 cents to $1.70
+Year first enacted: 1947</Description>
+<NumericValue>1.7</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-119 (2011).</Citation>
+<Description>Cigarette tax revenue is dedicated to several purposes, including 44 percent to a state special revenue fund to the credit of the Health and Medicaid Initiatives Account, as well a portion going to the state general fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>76878000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-119 (2017).</Citation>
+<Description>Prior to distribution of cigarette tax revenue to other programs, a sum equal to the amount necessary to purchase cigarette tax stamps must be allocated from the revenue collected. After that allocation to purchase tax stamps, remaining cigarette tax revenue is distributed as follows: 8.3 percent or $2 million, whichever is greater, for the operation and maintenance of state veterans&apos; nursing homes; 2.6 percent to the Long-Range Building Program Account provided for in 17-7-205 Montana Code; 44 percent to the state special revenue fund to the credit of the Health and Medicaid Initiatives Account; and the remainder to the general fund. The Health and Medicaid Initiatives Account is intended to provide revenue for an increase in enrollment in the state children&apos;s health insurance program; a new need-based prescription drug program; increased Medicaid services and Medicaid provider rates; and fund new tax credits or programs to assist small businesses in providing health insurance for their employees.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-111 (2005).</Citation>
+<Description>Moist snuff: 85 cents/oz. and a proportionate rate on all fractional parts of an ounce;
+All other tobacco products: 50% of the wholesale price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-119 (2009).</Citation>
+<Description>The revenue from the taxes on tobacco products other than cigarettes is distributed as follows: 50 percent to the general fund and 50 percent to the state special revenue fund to the credit of the Health and Medicaid Initiatives Account.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 16-11-309 &amp; 16-11-310 (2016).</Citation>
+<Description>The Department of Public Health and Human Services shall conduct inspections of persons selling or distributing tobacco products, alternative nicotine products or vapor products to determine compliance with sections 16-11-301 et seq. of the Montana Code.  Inspections may be conducted directly by the department or may be provided for by contract let by the department. The Department of Public Health and Human Services shall provide documentation to the Department of Revenue regarding alleged violations of licensing, sales or distribution of tobacco products, alternative nicotine products or vapor products to persons under age 18 or minimum cigarette sales amounts provisions. An individual under 18 years of age assisting in the enforcement of this part is not liable under a civil or criminal law for possession of, or attempt to purchase, a tobacco product, alternative nicotine product or vapor product.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 16-11-305(1) &amp; 16-11-308 (2016).</Citation>
+<Description>A person may not sell or distribute a tobacco product, alternative nicotine product or vapor product to a person under 18 years of age whether over the counter, by vending machine or otherwise. The first through third offenses at any one location within a three-year period is punishable by a verbal notification of violation. The fourth offense is punishable by a written notice of violation to be sent by the Department of Public Health and Human Services to the owner of the establishment. The fifth offense is punishable by an assessment of a tobacco education fee of $500 against the owner of the establishment who may request a hearing to dispute the assessment. The employee or other person who sold the tobacco product alternative nicotine product or vapor product, the establishment manager, and the owner, if the owner is a sole proprietor or partner, shall read and review tobacco education material as specified. The sixth offense is punishable by a three-month license suspension, and the seventh and subsequent violations are punishable by a one-year license suspension. Upon the sixth and subsequent violations of this section, the Department of Revenue shall review the record of violations and if they decline to initiate suspension proceedings, the violation may not be charged against the licensee. Two years after the first violation, if a person has not received notice of any further violation, a second violation is considered a first violation. In addition, the first and subsequent violations are punishable by a tobacco education fee of $25 for the employee who sold the tobacco product,alternative nicotine product and vapor product if not the owner of the establishment.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 16-11-304 &amp; 16-11-308 (2016).</Citation>
+<Description>Retail sellers of tobacco products, alternative nicotine products or vapor products as defined shall conspicuously display at each place on the premises where these products are displayed and sold stating: &quot;MONTANA LAW PROHIBITS THE SALE OF TOBACCO PRODUCTS, ALTERNATIVE NICOTINE PRODUCTS OR VAPOR PRODUCTS TO PERSONS UNDER 18 YEARS OF AGE.&quot;  Failure to do so is punishable by a civil penalty of $100.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 45-5-637(4) (2016).</Citation>
+<Description>A person under 18 years of age who knowingly possesses or consumes a tobacco product, alternative nicotine product or vapor product commits the offense of possession or consumption of such product. Violators shall be fined $50 for the first offense, between $75 and $100 for the second offense and between $100 and $250 for subsequent offenses, or may be adjudicated on a petition alleging the person to be a youth in need of supervision under the provisions of the Montana Youth Court Act. In addition, the violator may be required to perform community service or to attend a tobacco cessation program.  
+MONT. CODE ANN. § 45-5-637(1-3) (2016).
+
+A person under 18 years of age who knowingly attempts to purchase a tobacco product, alternative nicotine product or vapor product commits the offense of attempting to purchase such product. Violation is subject to a fine of $50 and possible community service for the first offense and a fine of not more than $100 and possible community service for the second and subsequent offenses.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Prior to delivering, mailing, or shipping tobacco products into Montana to a person other than a licensed wholesaler or retailer, a person who accepts purchase orders for tobacco product sales shall file a statement with the Department of Revenue detailing specific information about themselves. By the 10th day of each calendar month, each person that has made a sale or delivered, mailed, or shipped tobacco products into this state during the previous calendar month shall file a memorandum of sale or a copy of the sales invoice with the department setting out specified information about the sale. Common carriers are also required to report certain information to the department on all shipments made in the state.
+MONT. CODE ANN. §§ 16-11-104 &amp; 16-11-128 (2005).
+
+Note: Some parts of this law may be affected by the U.S. Supreme Court decision in Rowe v. New Hampshire Motor Transport Association, decided February 20, 2008.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-311 (1993).</Citation>
+<Description>Stronger local law/ordinances further restricting youth access to tobacco products are not allowed, see below.
+
+A local government may by ordinance adopt regulations on the subjects of Montana Code 16-11-301 through 16-11-308 that are no more stringent than as outlined in those code sections.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 16-11-305(1) &amp; 16-11-308 (2016).</Citation>
+<Description>A person may not distribute a tobacco product, alternative nicotine product or vapor product as defined to a person under 18 years of age.  Violations are punishable by the same penalties for over-the-counter sales of such products to persons under 18, including the tobacco education fee assessed against the person who made the sale.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-10-306 (1999).</Citation>
+<Description>A person may not distribute a tobacco product for commercial purposes in other than a sealed package that is provided by the manufacturer and that contains the health warning required by federal law.   Single cigarettes may not be sold.  Penalties are the same as for selling or distributing tobacco products to minors.  
+MONT. CODE ANN. §§ 16-11-307(1) &amp; 16-11-308 (2001).
+
+The sale of cigarettes in a package containing fewer than 20 cigarettes or rolling tobacco in a package containing less than 0.6 ounces net weight of tobacco is prohibited.  Violations are punishable by a civil penalty of $100.  The third violation is also subject to a license suspension for 3 months; and the fourth and subsequent violations are subject to a license suspension of 1 year.  
+MONT. CODE ANN. §§ 16-11-307(2) &amp; 16-11-308 (2001).
+
+A person may not knowingly import into this state for sale or other distribution any package of cigarettes or tobacco product that violates any federal requirement for the placement of labels, warnings, or other information, including health hazards that must be on the container or individual package.  Violation is subject to a fine of up to $10,000.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-311 (1993).</Citation>
+<Description>Stronger local law/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed, see below.
+
+A local government may by ordinance adopt regulations on the subjects of Montana Code 16-11-301 through 16-11-308 that are no more stringent than as outlined in those code sections.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-306 (2016).</Citation>
+<Description>Tobacco product, alternative nicotine product and vapor product vending machines are restricted to places where alcoholic beverages are sold and consumed on the premises and where the vending machine is under the direct line-of-sight supervision of the owner or an employee of the establishment.  Vending machines may be located in a restaurant if the restaurant has a bar, the restaurant area shares seating with the bar area, and the vending machine meets the above requirements.  Tobacco products, alternative nicotine products and vapor products must be in a vending machine that contains only such products.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No specific penalty given for violating restrictions on placement of tobacco product vending machines.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-311 (1993).</Citation>
+<Description>Stronger local law/ordinances further restricting the placement of and/or required sign posting on tobacco product vending machines are not allowed, see below.
+
+A local government may by ordinance adopt regulations on the subjects of Montana Code 16-11-301 through 16-11-308 that are no more stringent than as outlined in those code sections.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 16-11-120 &amp; 16-11-122 (1997).</Citation>
+<Description>A person may not sell tobacco products, alternative nicotine products or vapor products at retail, including from vending machines without obtaining a license from the Department of Revenue. Failure to obtain a license is subject to a civil penalty of $100.  
+MONT. CODE ANN. §§ 16-11-303 &amp; 16-11-308 (2016).
+ 
+Wholesalers and retailers must obtain a license to sell tobacco products from the Department of Revenue. A person who operates 10 or more cigarette vending machines on premises or locations not his own is treated as a wholesaler. A person who operates fewer than 10 cigarette vending machines on premises or locations not his own is considered a retailer. A license is required for each place of business. Licenses must be renewed annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-122 (2016).</Citation>
+<Description>Wholesaler license: $50 annually;
+Tobacco Product Vendors License: $50 annually;
+Retail license for tobacco products, alternative nicotine products or vapor products: $5 annually.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-308 (2016).</Citation>
+<Description>Selling or distributing tobacco products, alternative nicotine products or vapor products to to persons under age 18 upon the sixth offense within three years is punishable by a three-month license suspension, and the seventh and subsequent violations within three years are punishable by a one-year license suspension.  The Department of Revenue shall review the record of violations and if they decline to initiate suspension proceedings, the violation may not be charged against the licensee.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 39-2-313 &amp; 39-2-314 (1993).</Citation>
+<Description>An employer may not refuse to employ or license and may not discriminate against an individual with respect to compensation, promotion, or the terms, conditions, or privileges of employment because the individual legally uses a lawful product off the employer’s premises during non-work hours.  This does not apply to use of a lawful product that affects in any manner an individual&apos;s ability to perform job-related employment responsibilities or the safety of other employees, or conflicts with a bona fide occupational qualification that is reasonably related to the individual&apos;s employment; an individual who, on a personal basis, has a professional service contract with an employer and the unique nature of the services provided authorizes the employer, as part of the service contract, to limit the use of certain products; or an employer that is a nonprofit organization that, as one of its primary purposes or objectives, discourages the use of one or more lawful products by the general public.  However, an employer may offer, impose, or have in effect a health, disability, or life insurance policy that makes distinctions between employees for the type or price of coverage based on the employees’ use of a product with stipulations.  The person against whom a violation is committed may file a civil action against an employer within one year of the alleged violation.  Prior to filing a civil action, an employee shall within 120 days of the alleged violation, initiate any internal grievance procedure available.  If a grievance procedure is not exhausted within 120 days, the employee may file a civil action.</Description>
+<Year>1993</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 17-6-601 to 17-6-603 (2007), 17-6-606 (2007) &amp; MT CONSTITUTION Art. XII § 4 (2000).</Citation>
+<Description>Referendum C-35 passed by voters in 2000 and Statutory Initiative 146, approved by voters in 2002, govern how annual Master Settlement Agreement payments are supposed to be allocated although the legislature can override these allocations under certain circumstances.  Thirty-two percent of the payments are dedicated to tobacco prevention and cessation programs.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>30200000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 17-6-601 to 17-6-603 (2007) &amp; MT CONSTITUTION Art. XII § 4 (2000).</Citation>
+<Description>Statutory Initiative 146, approved by voters in November 2002, re-designated how Master Settlement Agreement payments would be spent: 32 percent is deposited in a state special revenue account and may only be used to fund state tobacco control programs; 17 percent is deposited in a state special revenue fund and is used to help fund the state Children&apos;s Health Insurance Program and programs of the Montana Comprehensive Health Association; 40 percent is dedicated to the Tobacco Trust Fund per the constitutional referendum in 2000 (see below); and the remaining 11 percent is deposited in the state general fund.  These allocations will apply to MSA payments received after June 30, 2003.  The legislature retained the authority to override these allocations.
+MONT. CODE ANN. § 17-6-602 &amp; 17-6-606 (2007).
+
+Referendum C-35 was passed by the voters of Montana in November 2000 to amend Article XII of the state constitution by adding a new section Four. It directs the legislature to dedicate not less than 40 percent of settlement proceeds received on or after January 1, 2001, to a trust fund, 90 percent of the interest and income of which may be appropriated.  Ten percent of the interest and income derived from the trust fund on or after January 1, 2001, shall be deposited in the trust fund.  The principal of the trust fund and 10 percent of the interest and income deposited in the trust fund shall remain forever inviolate unless appropriated by a vote of two-thirds of the members of each house of the legislature.  Appropriations of the interest, income, or principal from the trust fund shall be used only for tobacco disease prevention programs and state programs providing benefits, services, or coverage that are related to the health care needs of the people of Montana and may not be used for other purposes.  Appropriations of the interest, income, or principal from the trust fund shall not be used to replace state or federal money used to fund tobacco disease prevention programs and state programs that existed on December 31,1999 providing benefits, services, or coverage of the health care needs of the people of Montana.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Enactment of stronger local youth access laws/ordinances concerning Montana Code sections 16-11-301 to 16-11-308 are not allowed.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Montana&apos;s tobacco control program comes from the state&apos;s annual Master Settlement Agreement payment.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018-FY2019 Biennial Budget (H.B. 2) enacted 5/9/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).</Citation>
+<Description>Montana appropriated $5,222,169 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $6,444,617 was appropriated. This is the first year of the FY2018-FY2019 biennium.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>5222169</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-65-101 to 50-65-121 (2008).</Citation>
+<Description>To help prevent cigarette-caused fires, no cigarettes shall be sold or offered for sale in Montana or offered for sale or sold to persons located in Montana unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standards specified in section 50-65-102 Montana Code; 2) a written certification has been filed by the manufacturer with the state Fire Marshal as specified in section 50-65-103 Montana Code; and the cigarettes have been marked as specified in section 50-65-104 Montana Code.  This law shall not apply if a preemptive federal reduced cigarette ignition propensity standard is adopted and becomes effective.</Description>
+<Year>2008</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. §§ 50-65-101 to 50-65-121 (2008).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity that knowingly sells or offers to sell cigarettes, other than through retail sale, in violation of the above is subject to a civil penalty not to exceed $10,000 for each sale for the first offense, and not to exceed $25,000 for each such sale for subsequent offenses.  However, the penalty shall not exceed $100,000 in any 30-day period.  A retailer that knowingly sells cigarettes in violation of the above is subject to a civil penalty not to exceed $100 the first offense and not to exceed $400 for subsequent offenses for each sale and offer for sale of less than 1,000 cigarettes; and a civil penalty not to exceed $1,000 for the first offense and not to exceed $5,000 for subsequent offenses for each sale and offer for sale of more than 1,000 cigarettes.  The penalty against any one retailer may not exceed $25,000 in a 30-day period.  Any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification is subject to a civil penalty not to exceed $75,000 for a first offense and not to exceed $250,000 for each subsequent offense in addition to any other penalty.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>MONT. CODE ANN. § 16-11-305(2) (2016).</Citation>
+<Description>If there is a reasonable doubt as to an individual&apos;s age, the seller shall require presentation of a driver&apos;s license or other generally accepted identification that includes a picture of the individual.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $5,222,169 in state funding to tobacco prevention and cessation programs in FY2018.
+FY2018-FY2019 Biennial Budget (H.B. 2) enacted 5/9/17 and effective 7/1/17 (FY2018) &amp; 7/1/18 (FY2019).
+
+Tobacco Taxes: Requires cigarette tax revenue be set aside to purchase cigarette tax stamps prior to being allocated to other programs.
+H.B. 304 enacted 3/20/17 and effective 7/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $76,878,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Montana</Name>
+<Abbrev>MT</Abbrev>
+<FipsCode>30</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $5,222,169
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,026,657*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $6,248,826
+
+Funding Level Recommended by CDC:                                        $14,600,000
+
+Percentage of CDC-Recommended Level:                                   42.8%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>27</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

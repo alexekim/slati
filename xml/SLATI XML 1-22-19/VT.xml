@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:22:14">
+<tblStatesALA>
+<ID>46</ID>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<LegislatureHyperlink>#http://www.leg.state.vt.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 28-1421 to 28-1428 &amp; 37-1741 et seq. (2016).</Citation>
+<Description>The possession of lighted tobacco products in any form and use of tobacco substitutes is prohibited in the common areas of all enclosed indoor places of public access and publicly owned buildings and offices, including restaurants and bars. See the definition of &quot;public places&quot; in title 18, section 37-1741 of the Vermont Statutes for a complete list. Smoking is also prohibited in all workplaces as defined, see Private Workplaces section below.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 28-1421 to 28-1428 &amp; 37-1741 et seq. (2016).</Citation>
+<Description>Exceptions to the law include: 1) areas not commonly open to the public of owner-operated businesses with no employees; 2) any portion of a structure that also serves as the employee&apos;s or employer&apos;s personal residence; 3) businesses that do not sell food or beverage but are established for the sole purpose of providing a setting for patrons to purchase and use tobacco substitutes and related paraphernalia; and 4) residents of the Vermont Veterans&apos; Home in areas where smoking is allowed.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 37-1746 (1993).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are specifically allowed, see below.
+
+Nothing in the above law shall be construed to supersede or in any manner affect a municipal smoking ordinance provided that the provisions of such ordinance are at least as protective of the rights of nonsmokers as the above provisions.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 28-1421 &amp; 37-1741 et seq. (2016).</Citation>
+<Description>The possession of lighted tobacco products and use of tobacco substitutes is prohibited entirely in the common areas of buildings and offices owned, leased, or rented by state, county, or municipal governments, or by agencies supported by appropriation of, or by contracts or grants from, funds derived from federal, state, county, or municipal taxes. The possession of lighted tobacco products and use of tobacco substitutes is also prohibited in designated smokefree areas of property or grounds owned or leased by the state and in any other area within 25 feet of state-owned buildings and offices, except any portion of the 25-foot zone not on state property unless the owner chooses to designate their property smokefree too.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 28-1421 (2016) &amp; 37-1743 (2009).</Citation>
+<Description>The possession of lighted tobacco products or use of tobacco substitutes is prohibited in virtually all workplaces. &quot;Workplace&quot; means an enclosed structure where employees perform services for an employer, including restaurants, bars, and other establishments in which food or drinks, or both, are served. Except for schools, workplace does not include areas commonly open to the public or any portion of a structure that also serves as the employee&apos;s or employer&apos;s personal residence. For lodging establishments used for transient traveling or public vacationing, such as resorts, hotels, and motels, workplace includes the sleeping quarters and adjoining rooms rented to guests. This does not restrict the ability of residents of the Vermont Veterans&apos; Home to possess lighted tobacco products or use tobacco substitutes in the indoor area of the facility in which smoking is permitted. Areas not commonly open to the public of owner-operated businesses with no employees are exempt. The prohibition on using tobacco substitutes in a workplace also shall not apply to a business that does not sell food or beverages but is established for the sole purpose of providing a setting for patrons to purchase and use tobacco substitutes and related paraphernalia.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 28-1421, 37-1741 &amp; 37-1742 (2016).</Citation>
+<Description>No person shall be permitted to use tobacco or tobacco substitutes as defined on public school grounds or at public school sponsored functions. Each public school board shall adopt policies prohibiting the possession and use of tobacco products by students at all times while under the supervision of school staff. Public school boards may adopt policies that include confiscation and appropriate referrals to law enforcement authorities.  
+VT STAT. ANN. tit. 16, § 1-140 (2014).
+
+To the extent not covered by the restrictions above, the possession of lighted tobacco products and use of tobacco substitutes is prohibited in the common areas of all indoor places of public access and publicly-owned buildings and offices and workplaces, which includes any enclosed location where instruction or other school-sponsored functions are occurring.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>VT Dept. of Children &amp; Families, Licensing Regs for Foster Care, sect. 403 (2005).</Citation>
+<Description>No person shall be permitted to use tobacco products or tobacco substitutes as defined on the premises, both indoor and outdoor, of any licensed child care center or afterschool program at any time. No person shall be permitted to use tobacco products or tobacco substitutes on the premises, both indoor and in any outdoor area designated for child care, of a licensed or registered family child care home while children are present and in care. If smoking occurs on the premises during other times, the family child care home shall notify prospective families prior to enrolling a child that their child will be exposed to an environment in which tobacco products or tobacco substitutes, or both, are used.
+VT STAT. ANN. tit. 33, § 3504 (2014).
+
+To the extent not covered above, the possession of lighted tobacco products and use of tobacco substitutes is prohibited in the common areas of all indoor places of public access and all publicly-owned buildings and offices and in workplaces, which includes most child care facilities.  
+VT STAT. ANN. tit. 18, §§ 28-1421, 37-1741 &amp; 37-1742 (2016).
+
+Foster parents shall ensure that children in the custody of the Department of Children and Families shall not be exposed to secondhand smoke in the foster parent’s home or vehicle.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 28-1421, 37-1741 &amp; 37-1742 (2016).</Citation>
+<Description>The possession of lighted tobacco products or use of tobacco substitutes is specifically prohibited on the grounds of any hospital or secure residential recovery facility owned or operated by the State, including all enclosed places in the hospital or facility and the surrounding outdoor property. In other facilities, the possession of lighted tobacco products and use of tobacco substitutes is prohibited in the common areas of all indoor places of public access, the definition of which includes offices/buildings of facilities that provide health care services, hospitals and the common areas of nursing homes. Use of the above products is also prohibited in all workplaces.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 28-1421, 37-1741 &amp; 37-1742 (2016).</Citation>
+<Description>The possession of lighted tobacco products and use of tobacco substitutes is prohibited in the common areas of all enclosed indoor places of public access, the definition of which includes restaurants. The possession of lighted tobacco products and use of tobacco substitutes is also prohibited in all workplaces, which specifically includes restaurants and other establishments in which food or drinks, or both, are served.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 28-1421, 37-1741 &amp; 37-1742 (2016).</Citation>
+<Description>The possession of lighted tobacco products and use of tobacco substitutes is prohibited in the common areas of all enclosed indoor places of public access, the definition of which includes bars and cabarets. The possession of lighted tobacco products and use of tobacco substitutes is also prohibited in all workplaces, which specifically includes bars and other establishments in which food or drinks, or both, are served.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Vehicles</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 23 § 1134b (2016).</Citation>
+<Description>A person shall not possess a lighted tobacco product or use tobacco substitutes in a motor vehicle that is also occupied by a child required to be properly restrained in a federally approved child passenger restraining system. Violaton is subject to a fine of not more than $100. No points on a driver&apos;s license shall be assessed for violation.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>16</SubcategoryDisplayOrder>
+<SubcategoryID>1282</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 3-124, 3-130  &amp; 3-131 (1985).</Citation>
+<Description>A proprietor, or the agent or employee of the proprietor, who observes a person violating this law, must ask that person to extinguish all lighted tobacco products.  If the person refuses, they will be asked to leave the premises.  
+VT STAT. ANN. tit. 18, § 37-1745 (1993).
+
+An employee may file a complaint with the Department of Health for an employer&apos;s failure to comply with workplace smoking restrictions.  Failure to come into compliance is subject to an administrative penalty of $100.
+VT STAT. ANN. tit. 18, § 28-1426 (2009).
+
+In addition, the Commissioner of Health, or a local board of health, may bring an action in the superior court of the county in which a violation has occurred or is occurring, to enforce the provisions of this title.  The court may grant temporary and permanent injunctive relief, and levy civil penalties of up to $10,000 for each violation.  Any person who violates a provision of this title shall be fined not more than $5,000.  Each violation shall be a separate offense and, in the case of a continuing violation, each day&apos;s continuance shall be deemed a separate violation.  When appropriate, all efforts shall be made to secure voluntary compliance.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT. STAT. ANN. tit. 32, § 7771 (2015).</Citation>
+<Description>Tax rate per pack of 20: $3.08 
+Date last changed: July 1, 2015 -- from $2.75 to $3.08
+Year first enacted: 1937</Description>
+<NumericValue>3.08</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 32 § 7823 &amp; tit. 33, §§ 1901d &amp; 1986 (2012).</Citation>
+<Description>All revenue from the cigarette tax is distributed to the State Health Care Resources Fund, which finances health care coverage for beneficiaries of the state health care assistance programs under the global commitment to health care waiver approved by the Centers for Medicare and Medicaid Services and the Catamount Health assistance program.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>73270000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT. STAT. ANN. tit. 32, §§ 7702 (2013), 7771 (2015) &amp; 7811 (2015).</Citation>
+<Description>Little Cigars (weighing under 4 1/2 lbs./thousand): $15.40 per cigar;
+Roll-Your-Own Tobacco: $3.08 per 0.0325 ounces;
+Snuff: $2.57/oz. or fractional part thereof;
+New Smokeless Tobacco: $2.57/oz. or if sold in a package weighing less than 1.2 ounces, $3.08 per package;
+Cigars with a wholesale price greater than $2.17 and less than $10.00: $2.00/cigar;
+Cigars with a wholesale price of $10.00 or more: $4.00/cigar;
+All other tobacco products: 92% of the wholesale price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 32 § 7823 (2009) &amp; tit. 33, §§ 1901d &amp; 1986 (2011).</Citation>
+<Description>All the revenue generated by taxes on other tobacco products, except little cigars and roll-your-own tobacco, shall be credited to the State Health Care Resources Fund. Revenue from taxes on little cigars and roll-your-own tobacco are distributed the same way as the cigarette tax (see above).</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Sec. 12 &amp; 13, VT ACT 58 (1997).</Citation>
+<Description>The Departments of Health and Liquor Control shall inspect for violations of chapter 40 of Title 7 of the Vermont statutes whenever either department conducts any other inspection. Violations shall be reported to the Department of Liquor Control for enforcement, and notices of violation shall be mailed to the alleged violator within 24 hours after the report.  The Department of Liquor Control shall conduct or contract for compliance checks of tobacco licensees as frequently and as comprehensively as necessary to assure consistent statewide compliance with the prohibition on sales to minors of at least 90 percent for 17-year old buyers.  An individual under the age of 18 in a compliance test shall not be in violation of Title 7, section 1005 of the Vermont Statutes.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Sec. 13, VT ACT 58 (1997).</Citation>
+<Description>It is unlawful for a person to sell or provide tobacco products, tobacco substitutes (e-cigarettes and related products) or tobacco paraphernalia as defined to a person less than 18 years of age.  Violators shall be subject to a civil penalty of not more than $100 for the first offense and not more than $500 for subsequent offenses.
+VT STAT. ANN. tit. 7, §§ 1003(a) (2012) &amp; 1007 (2013).
+
+Any violation by a tobacco licensee of the youth access law after a first sale violation or during a compliance check conducted within six months of a previous violation shall be considered a multiple violation and shall result in the minimum license suspension, in addition to other penalties.  Minimum license suspensions for multiple violations shall be assessed as follows: for a second violation, suspension for one weekday; three violations, suspension for two weekdays; four violations, suspension for three weekdays; and five violations, three weekend days, Friday through Sunday.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, § 1006 (2012).</Citation>
+<Description>A person licensed under this chapter shall post in a conspicuous place on the premises a warning sign stating that the sale of tobacco products, tobacco substitutes, and tobacco paraphernalia to minors is prohibited. The sign may include information about the health effects of tobacco and tobacco cessation services. The board, in consultation with a representative of the licensees when appropriate, is authorized to change the design of the sign as needed to maintain its effectiveness. Persons failing to post such signs shall be guilty of a misdemeanor and fined not more than $100.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, § 1003(e) (2000).</Citation>
+<Description>The sale and the purchase of bidis is prohibited.  A person who holds a tobacco license who sells bidis as prohibited by this subsection shall be fined not more than $500.  A person who purchases bidis from any source shall be fined not more than $250.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, § 1005 (2013).</Citation>
+<Description>A person under 18 years of age shall not possess, purchase or attempt to purchase tobacco products, tobacco substitutes or tobacco paraphernalia or misrepresent their age to do so. This does not apply to a person who is an employee of a holder of a tobacco license and is in possession of tobacco products, tobacco substitutes, or tobacco paraphernalia to effect a sale in the course of employment. A minor who possesses tobacco products, tobacco substitutes or tobacco paraphernalia in violation of the above is subject to having the product immediately confiscated and a civil penalty of $25. Failure to pay this penalty within 60 days will result in suspension or delay of issuance of the minor’s driver&apos;s license. A person under age 18 that misrepresents their age shall be fined not more than $50 or provide up to 10 hours of community service, or both.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, §§ 667(b) (1992) &amp; 1003(d) (2017).</Citation>
+<Description>Persons holding a tobacco license may only display or store tobacco products or tobacco substitutes (e-cigarettes and related products) behind the sales counter or in other area of the establishment that is inaccesible to the public or in a locked container. This does not apply to displays of tobacco products in stores where persons under age 18 are not permitted to enter at any time; unopened cigarette cartons and smokeless tobacco in unopened multi-pack containers of 10 or more packages as long as the removal of cartons or multi-packs from the display can be observed by a store employee; and cigars or pipe tobacco stored in a humidor as long as the removal of these products from the humidor can be observed by a store employee. A person, partnership, association or corporation, who willfully violates this requirement, is subject to a fine of $50 to $200 and/or imprisonment for one to three months.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, § 1010 (2013).</Citation>
+<Description>No person shall cause cigarettes, roll-your-own tobacco, little cigars, or snuff, ordered or purchased by mail or through a computer network, telephonic network, or other electronic network, to be shipped to anyone other than a licensed wholesale dealer or retail dealer in this state. A knowing or intentional violation of this section shall be punishable by imprisonment for not more than five years and/or a fine of not more than $5,000. In addition to or in lieu of any other civil or criminal remedy provided by law, the attorney general may impose a civil penalty in an amount not to exceed $5,000 for each shipment or transport.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, § 1002a (2002).</Citation>
+<Description>An applicant for a tobacco license that does not hold a liquor license shall be granted a tobacco license only after the applicant has met with a liquor control investigator for the purpose of being informed about the Vermont tobacco laws pertaining to the purchase, storage and sale of tobacco products.  This training must be completed at least once every three years.  The holder of the license must ensure that every employee involved in the sale of tobacco products completes a training program approved by the Department of Liquor Control before the employee begins selling or providing tobacco products, and at least once every 24 months thereafter.  A licensee may comply with this requirement by conducting its own training program on its premises using information and materials furnished by the Department of Liquor Control.  A licensee who fails to comply with the requirements of this subsection shall be subject to suspension of the tobacco license for no less than one day.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further  restricting youth access to tobacco products.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, §§ 1003(a) (2002) &amp; 1007 (1997).</Citation>
+<Description>It is unlawful for any person to furnish tobacco products to a person less than 18 years of age.  A person who furnishes tobacco products to a person less than 18 years of age shall be fined not more than $100 for a first offense and not more than $500 for subsequent offenses.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 32, §§ 7786 (1999) &amp; 7821 (1959).</Citation>
+<Description>No person holding a tobacco license shall sell cigarettes or little cigars individually or in packs that contain fewer than 20 cigarettes.  Only little cigars that weigh under 3 lbs./thousand are subject to this requirement.  A person, partnership, association or corporation, who willfully violates this requirement, is subject to a fine of $50 to $200 and/or imprisonment for one to three months.  
+VT STAT. ANN. tit. 7, §§ 667(b) (1992) &amp; 1003(f) (2012).
+
+No person shall affix a cigarette stamp to or sell or offer for sale in this state any package or container of cigarettes if the container or package does not comply with all the requirements of the federal Cigarette Labeling and Advertising Act for the placement of labels, warnings, or any other information upon a package of cigarettes that is to be sold within the United States.  Violation is a misdemeanor subject to a fine of not more than $250 and/or not to exceed 60 days imprisonment for a first offense, and a fine of $250 to $500 and/or imprisonment for not more than six months for a second and subsequent violation.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No specific provision concerning preemption in state law; local communities are allowed to pass stronger laws/ordinances further  restricting sampling or minimum sales amounts of tobacco products.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, § 1003(c) (2002).</Citation>
+<Description>All vending machines selling tobacco products are prohibited.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, §§ 667(b) (1992).</Citation>
+<Description>A person, partnership, association or corporation, who wilfully violates the above requirement, is subject to a fine of $50 to $200 and/or imprisonment for one to three months.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N/A</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Not applicable</HasLawOrRestrictionDescription>
+<Description>N/A</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Stronger local laws/ordinances further restricting tobacco product vending machines would be allowed; however, since tobacco product vending machines are completely prohibited by state law, there is no need for stronger local laws/ordinances.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, § 1002 (2013).</Citation>
+<Description>Wholesale dealers must obtain a license from the Commissioner of Taxes to sell cigarettes roll-your-own tobacco, little cigars, snuff, new smokeless tobacco, or other tobacco products in this state. A separate application and license is required for each wholesale outlet. Licenses are valid indefinitely unless suspended or revoked. Any wholesale dealer who shall sell, offer for sale or possess with intent to sell, any cigarettes, roll-your-own tobacco, little cigars, snuff, new smokeless tobacco, or other tobacco products, or any combination thereof without having first obtained a license shall be fined not more than $25 for the first offense and $25 to $200 for subsequent offenses. 
+VT STAT. ANN. tit. 32, §§ 7731 to 7736 (2013).
+
+No person shall engage in the retail sale of tobacco products, tobacco substitutes, or tobacco paraphernalia, or provide a vending machine for their sale without obtaining a license from the state Department of Liquor Control. Licenses expire on April 30th of each year. Each tobacco license shall be prominently displayed on the premises identified in the license. Selling tobacco products, tobacco substitutes or tobacco paraphernalia without obtaining a tobacco license is guilty of a misdemeanor and shall be fined not more than $200 for the first offense and not more than $500 for each subsequent offense.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT. STAT. ANN. tit. 7, § 1002 (2008) &amp; tit. 32 § 7732 (1981).</Citation>
+<Description>Retail tobacco license: $10 annually (those applying for an alcohol and tobacco license need only pay the fee for the alcohol license);
+Wholesalers and distributors: no charge.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>Sec. 13, VT ACT 58 (1997).</Citation>
+<Description>Any violation by a tobacco licensee of the youth access law after a first sale violation or during a compliance check conducted within six months of a previous violation shall be considered a multiple violation and shall result in the minimum license suspension, in addition to other penalties.  Minimum license suspensions for multiple violations shall be assessed as follows: for a second violation, suspension for one weekday; three violations, suspension for two weekdays; four violations, suspension for three weekdays; and five violations, three weekend days, Friday through Sunday.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>Note: No appeal bond is required to appeal monetary lawsuit judgments in Vermont.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, § 9502 (2000) &amp; tit. 32 § 435a (1999).</Citation>
+<Description>All monies received from the Master Settlement Agreement are deposited in the Tobacco Litigation Settlement Fund. Monies in this fund can be appropriated by the general assembly, or transferred to a Tobacco Trust Fund as specified below. A portion of the money in the Tobacco Litigation Settlement Fund is usually used to fund state tobacco prevention/cessation programs each year.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>34500000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>H.B. 542 §§ D.102 &amp; D.103 enacted 6/28/17 and effective 6/28/17 and 7/1/17.</Citation>
+<Description>A Tobacco Litigation Settlement Fund was established in the state treasury, separate from the state general fund. All monies received by the state from the Master Settlement Agreement and any interest that accrues on such monies are deposited in the fund. Appropriations from the fund can be made by the General Assembly.
+VT STAT. ANN. tit. 32, § 435a (1999). 
+
+The Tobacco Trust Fund was established in the office of the state treasurer. The trust fund shall be comprised of appropriations made by the General Assembly, transfers from the Tobacco Litigation Settlement Fund as specified and contributions from any other source. Trust fund monies cannot be spent except by appropriation of the General Assembly and such appropriation shall not exceed seven percent of the fair market value of the fund at the end of the prior fiscal year. Unless specified otherwise by the General Assembly, any unencumbered balance in the Tobacco Litigation Settlement Fund at the end of a fiscal year shall be transferred to the trust fund.
+VT STAT. ANN. tit. 18, § 9502 (2000).
+
+Note: The actual balance remaining in the Tobacco Litigation Settlement Fund at the end of FY2017 shall remain in that fund for appropriation in FY2018, and not be transferred to the Tobacco Trust Fund as specified above. Actual investment earnings from the Tobacco Trust Fund and any additional amount necessary to ensure the balance in the Tobacco Litigation Settlement Fund balance is not negative at the end of FY2018 shall also be transferred to the Tobacco Litigation Settlement Fund in FY2018.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Vermont&apos;s tobacco control program comes from annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 Annual Budget (H.B. 542) enacted 6/28/17 and effective 7/1/17.</Citation>
+<Description>Vermont appropriated $3,563,252 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018).  In FY2017, $3,373,246 was appropriated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>3563252</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 18, §§ 9503 to 9507 (2014).</Citation>
+<Description>The Vermont Tobacco Evaluation and Review Board, an independent state board, was created to work in partnership with the Department of Health in administering and coordinating the state tobacco prevention and treatment program.  By June 1, 2001, the department and the board shall jointly establish a plan for reducing adult and youth smoking rates by 50 percent in the following 10 years. By June 1st of each year, the department and the board shall jointly establish goals for reducing adult and youth smoking rates in the following two years. The program shall be comprehensive and research-based, and shall include the following components: (1) community-based programs; (2) school-based programs; (3) tobacco cessation programs; (4) counter marketing activities; (5) enforcement activities; (6) surveillance and evaluation activities; and (7) policy initiatives. The Department of Liquor Control shall administer the component of the program that relates to enforcement activities and the Department of Education shall administer school-based programs.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 20, § 2757 (2006).</Citation>
+<Description>To help prevent cigarette-caused fires, no cigarettes may be manufactured in Vermont or sold or offered for sale to any person in Vermont unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in subsection (b) of section 2757 of title 18 of the Vermont Statutes.  The manufacturer must also file a written certification with the Commissioner of Public Safety in accordance with subsection (c) of section 2757 of title 18 of the Vermont Statutes.  Cigarettes that have been certified must also follow specific marking requirements specified in subsection (d) of section 2757 of title 18 of the Vermont Statutes.  Each cigarette must be recertified every three years.</Description>
+<Year>2006</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 20, § 2757 (2006).</Citation>
+<Description>A manufacturer, wholesale dealer, unlicensed retailer, or any other person that knowingly sells cigarettes, except by licensed retail sales, in violation of the above requirements is subject to a civil penalty not to exceed $10,000 for each sale.  A manufacturer that knowingly makes a false certification is subject to a civil penalty not to exceed $10,000 for each false certification.  A licensed retail dealer that knowingly sells or offers for sale cigarettes in violation of the above is subject to a civil penalty not to exceed $500 for each sale or offer of sale of 1,000 cigarettes or fewer, or a civil penalty not to exceed $1,000 for each sale or offer of sale of more than 1,000 cigarettes.  Any other person that violates any provision of this section is subject to a civil penalty not to exceed $1,000 for each violation.  The Attorney General may file an action in superior court for a violation.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>VT STAT. ANN. tit. 7, § 1004 (2013).</Citation>
+<Description>A person shall exhibit proper proof of their age upon demand of a person licensed under this chapter, an employee of a licensee or a law enforcement officer. If the person fails to provide such proof of age, the licensee shall be entitled to refuse to sell tobacco products, tobacco substitutes or tobacco paraphernalia to the person. As used in this section, &quot;proper proof&quot; means a photographic motor vehicle operator&apos;s license, a valid passport, a United States Military identification card or a photographic non-driver motor vehicle identification card obtained from the Department of Motor Vehicles.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Appropriated $3,563,252 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 Annual Budget (H.B. 542) enacted 6/28/17 and effective 7/1/17.
+
+Use of Tobacco Settlement Dollars: Specifies that monies in the Tobacco Litigation Settlement Fund at the end of FY2017 will remain in the Fund and not be transferred to the Tobacco Trust Fund as specified under current state law. Investment earnings from the Tobacco Trust Fund and any money necessary to ensure the balance in the Settlement Fund will not be negative at the end of FY2018 will also be transferred to the Settlement Fund.
+H.B. 542 §§ D.102 &amp; D.103 enacted 6/28/17 and effective 6/28/17 and 7/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $73,270,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Vermont</Name>
+<Abbrev>VT</Abbrev>
+<FipsCode>50</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $3,563,252
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,255,554*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $4,818,806
+
+Funding Level Recommended by CDC:                                        $8,400,000
+
+Percentage of CDC-Recommended Level:                                   57.4%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>46</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>

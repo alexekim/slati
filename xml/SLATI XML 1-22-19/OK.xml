@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-01-22T09:21:54">
+<tblStatesALA>
+<ID>37</ID>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<LegislatureHyperlink>#http://www.lsb.state.ok.us/#</LegislatureHyperlink>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Overall Summary of Smoking Restrictions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 21, § 1247 &amp; tit. 63, §§ 1-1521 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in many indoor places used by or open to the public, all parts of a zoo to which the public may be admitted, whether indoors or outdoors, state government buildings and property and on public transportation. Smoking is allowed in separately enclosed and separately ventilated areas/rooms in private workplaces, restaurants and non-tribal gaming establishments. Bars are completely exempted from any restrictions unless they share airspace with a non-smoking area.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1268</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Exceptions to the Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 21, § 1247 &amp;  tit. 63, §§ 1-1521 et seq. (2015).</Citation>
+<Description>Exceptions to the law include: 1) stand alone bars/taverns and cigars bars as defined; 2) a room or rooms where licensed charitable bingo games are operated during their hours of operation; 3) up to 25 percent of hotel/motel rooms, 4) retail tobacco stores as specified; 5) workplaces where only the owner or operator of the workplace, or the immediate family of the owner or operator, performs any work in the workplace, and the workplace has only incidental public access as defined; 6) workplaces occupied by one or more smokers if the workplace has incidental public access; 7) private offices occupied by one or more smokers; 8) workplaces within private residences except licensed child care facilities; 9) medical research or treatment centers, if smoking is integral to the research or treatment; 10) outdoor seating areas of restaurants except within 15 feet of exterior doorways and air intakes; and 11) nonprofit veterans&apos; organizations except when an event is open to the public. If smoking is to be permitted in any space exempted, such smoking space must either occupy the entire enclosed indoor space or, if it shares the enclosed space with any nonsmoking areas, the smoking space shall be fully enclosed, exhausted directly to the outside with no air from the smoking space circulated to any nonsmoking area, and be under negative air pressure so that no smoke can drift or circulate into a nonsmoking area when a door to an adjacent nonsmoking area is opened. Air from a smoking room shall not be exhausted within 15 feet of any entrance, exit or air intake.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1269</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Stronger Local Laws on Smoking</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 63, § 1-1527 (2013).</Citation>
+<Description>Stronger local laws/ordinances further restricting smoking are not allowed except on property owned or operated by county or municipal governments, see below.
+
+The state legislature by adopting this act intends to preempt any other regulation promulgated to control smoking in public places and to standardize laws that governmental subdivisions may adopt to control smoking.  Cities and towns may enact and enforce laws prohibiting and penalizing conduct under provisions of this act, but the provisions of such laws shall be the same as provided in this act and the enforcement provisions under such laws shall not be more stringent than those of this act.  However, cities and towns shall be authorized to enact stronger laws restricting smoking on properties owned or operated by the respective governing bodies.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1270</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Government Buildings</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 21, § 1247 &amp;  tit. 63, §§ 1-1521 et seq. (2017).</Citation>
+<Description>The use of any tobacco product is prohibited on any and all properties owned, leased or contracted for use by agencies and instrumentalities of the state of Oklahoma, including but not limited to, all buildings, land and vehicles.
+Exec. Order 2012-1 (2012). 
+
+For buildings not covered under the executive order above, smoking is not permitted in any building and other property owned or operated by the state of Oklahoma. Veterans centers operated by the state were designated smokefree indoors as of January 1, 2015, and smoking is only allowed in designated outdoor smoking areas. All buildings and other properties, or portions thereof, owned or operated by a county or municipal government may be designated as entirely nonsmoking by the county or municipal governing body.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1271</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Private Workplaces</Subcategory>
+<HasLawOrRestriction>R</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Restriction required</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 21, § 1247 &amp;  tit. 63, §§ 1-1521 et seq. (2015).</Citation>
+<Description>Smoking is not permitted in any indoor workplace except private offices occupied by one or more smokers; workplaces that have incidental public access and in which the only employees are the owner and immediate family; or workplaces that have incidental public access and are occupied only by one or more smokers.  An employer not otherwise restricted from doing so may elect to provide smoking rooms where no work is performed except for cleaning and maintenance during the time the room is not in use for smoking, provided each smoking room is fully enclosed and exhausted directly to the outside in such a manner that no smoke can drift or circulate into a nonsmoking area.  No exhaust from a smoking room shall be located within 15 feet of any entrance, exit or air intake.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1272</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Schools</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 63, § 1-1523 &amp; tit. 21, § 1247 (2015).</Citation>
+<Description>The use of a tobacco product as defined shall be prohibited in or on an educational facility that offers an early childhood education program or in which children in grades kindergarten through 12th grade are educated. The use of a tobacco product shall also be prohibited in school vehicles, and at any school-sponsored or school-sanctioned event or activity. &quot;Educational facility&quot; shall mean any property, building, permanent structure, facility, auditorium, stadium, arena or recreational facility owned, leased or under the control of a public school district or private school located in the state, but for purposes of this act, a public school district shall not include a technology center school district. Nothing in this section shall be construed to prohibit a public school district or private school from having more restrictive policies regarding tobacco products than the above requirements.
+OKLA. STAT. ANN. tit. 70 § 1210.211 to 1210.213 (2015).
+
+Smoking is prohibited in all buildings, or portions thereof, owned by an educational facility as defined. In addition, a technology center educational facility which offers an early childhood education program or in which children in grades K-12 are educated shall prohibit use of tobacco products on the grounds of the facility by all persons including all types of employees during the hours of 7:00 a.m. to 4:00 p.m., during the school session, or when class or any program established for students is in session.  However, a technology center school district may designate smoking areas outdoors completely out of sight of children under 18 under certain conditions, and technology center school districts, colleges or unviersities can have outdoor smoking areas during certain events or activities such as athletic contests.  Nothing in this section shall be construed to prohibit educational facilities from having more restrictive policies regarding smoking and the use of other tobacco products in the buildings or on the grounds of the facility.  In addition, all campuses, buildings and grounds, or portions thereof, owned or operated by an institution within the Oklahoma State System of Higher Education may be designated as tobacco-free, including smoking or smokeless tobacco, by the institution upon adoption of a policy stating the tobacco restrictions for the institution and an intent to enforce the penalty for violations as specified in state law.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1273</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Child Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 63, §§ 1-1521 et seq. (2015).</Citation>
+<Description>No person shall smoke in a licensed child care facility or in a private residence used as a child care facility during its hours of operation. The definition of &quot;child care facility&quot; includes a foster family home. In addition to any other penalties, the Department of Human Services shall impose administrative fines of $50 for the first offense, $100 for the second offense in a one year period and $250 for a third or subsequent offense in a one year period against childcare facilities for violations.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1274</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Health Care Facilities</Subcategory>
+<HasLawOrRestriction>P</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Smoking prohibited</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 63, §§ 1-1521 et seq. (2015).</Citation>
+<Description>Smoking is prohibited in public places, the definition of which includes health facilities. &quot;Health facility&quot; is defined as an entity which provides health services, including, but not limited to, hospitals, nursing homes, long-term care facilities, kidney disease treatment centers, health maintenance organizations and ambulatory treatment centers. Smoking is allowed in medical research or treatment centers, if smoking is integral to the research or treatment.  Nursing homes may also designate smoking rooms.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1275</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Restaurants</Subcategory>
+<HasLawOrRestriction>V</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Enclosed, separately ventilated areas required, or smoking is banned entirely.</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 63 § 1-1515 (2010).</Citation>
+<Description>Smoking areas are allowed in restaurants, but are required to be enclosed and separately ventilated. Outdoor seating areas of restaurants are exempt except smoking shall not be allowed within 15 feet of any exterior public doorway or any air intake of a restaurant.
+OKLA. STAT. ANN. tit. 21, § 1247 &amp;  tit. 63, §§ 1-1521 et seq. (2015).
+
+The state Department of Health is hereby authorized to implement a rebate program for the purpose of reimbursing persons or entities that own restaurants located in Oklahoma for the costs incurred for building separately enclosed and ventilated areas in restaurants as required by law, see paragraph above.  The rebate shall be equal to 50 percent of the original expenditure, minus depreciation costs, and shall only be disbursed if the restaurant converts to a completely smokefree environment no later than January 1, 2013.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1276</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Bars</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 21, § 1247 &amp; tit. 63, §§ 1-1521 et seq. (2015).</Citation>
+<Description>Bars, taverns, and cigar bars are exempted from the prohibition on smoking in public places. If smoking is to be permitted in any space exempted, such smoking space must either occupy the entire enclosed indoor space or, if it shares the enclosed space with any nonsmoking areas, the smoking space shall be fully enclosed, exhausted directly to the outside with no air from the smoking space circulated to any nonsmoking area, and under negative air pressure so that no smoke can drift or circulate into a nonsmoking area when a door to an adjacent nonsmoking area is opened. Air from a smoking room shall not be exhausted within 15 feet of any entrance, exit, or air intake. Any employer may choose a more restrictive smoking policy, including being totally smokefree.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1277</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Other State Smoking Restrictions and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 10, § 21.1(D)(3) (2004).</Citation>
+<Description>Tobacco Products in Correctional Facilities:
+Any person, including a resident, that knowingly or willfully brings or has possession of cigarettes or tobacco products in a certified secure facility or certified juvenile detention facility is guilty of a misdemeanor and subject to imprisonment in county jail for up to a year and/or a fine not to exceed $500.
+OKLA. STAT. ANN. tit. 10, § 7302-6.11(c) (2009).
+
+Smoking Restrictions Allowed in Commercial Airports:
+Commercial airport operators may prohibit smoking in any indoor or outdoor areas open to or used by the public as long as the outdoor area is within 175 feet of an entrance to a facility.
+OKLA. STAT. ANN. tit. 21, § 1247 &amp; tit. 63, §§ 1-1521 et seq. (2015).
+
+Smoking and Custody/Visitation of Children:
+Custody of, guardianship of or any visitation with a child shall not be granted to any person if it is established that the custody, guardianship or visitation will likely expose the child to a foreseeable risk of material harm. This could apply to secondhand smoke if a person can establish that secondhand smoke can cause a foreseeable risk of material harm.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>17</SubcategoryDisplayOrder>
+<SubcategoryID>1283</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Restrictions</Category>
+<Subcategory>Penalties/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 21, § 1247 &amp;  tit. 63, §§ 1-1521 et seq. (2015).</Citation>
+<Description>The person who owns or operates a place where smoking or tobacco use is prohibited by law shall be responsible for posting a sign or decal at each entrance to the building indicating that the place is smokefree. Any person who knowingly violates this act is guilty of a misdemeanor and shall be punished by a fine of $10 to $100. The Oklahoma State Board of Health is the designated enforcement agency.</Description>
+<CategoryDisplayOrder>1</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>18</SubcategoryDisplayOrder>
+<SubcategoryID>1284</SubcategoryID>
+<CategoryID>1262</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Tax on Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. tit. 68, § 1355(11) (2005).</Citation>
+<Description>Tax rate per pack of 20: $2.03  
+Date last changed: July 1, 2017 -- from $1.03 to $2.03  
+Year first enacted: 1933
+OKLA. STAT. tit. 68, §§ 302 (2005), 302-1 (2005), 302-2 (2005), 302-4 (2005), 302-5 (2005) &amp; 302-7 (2017).
+
+State sales taxes are no longer collected on cigarettes and tobacco products pursuant to a legislative referendum passed on November 2, 2004.</Description>
+<NumericValue>2.03</NumericValue>
+<NumericValueLabel>Rate Per Pack</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1286</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. tit. 68, §§ 302 (2005), 302-1 (2005), 302-2 (2005), 302-4 (2005), 302-5 (2005) &amp; 302-7 (2017).</Citation>
+<Description>Cigarette tax revenue is distributed to a variety of programs and purposes, including a small amount to tobacco prevention and cessation programs. All revenue from the 2017 increase in the cigarette tax and a small portion of other cigarette tax revenue also goes to the state General Revenue Fund.</Description>
+<Year>2012</Year>
+<YearLabel>Revenue Year</YearLabel>
+<NumericValue>242247000</NumericValue>
+<NumericValueLabel>Revenue Collected</NumericValueLabel>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1287</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Cigarette Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. tit. 68, §§ 302 (2005), 302-1 (2005), 302-2 (2005), 302-4 (2005), 302-5 (2005) &amp; 302-7 (2017).</Citation>
+<Description>Cigarette tax revenue is distributed as follows: 
+Revenue from $1.00 of the tax enacted into law in 2017 goes to the state general fund prior to July 1, 2019 and to the State Health Care Enhancement Fund thereafter;
+Revenue from 18 cents of the tax to the Oklahoma Building Bonds of 1992 Sinking Fund and revenue from five cents of the tax to the General Revenue Fund;
+The revenue from the remaining 80 cents of the tax is distributed based on the following percentages: 1) 22.06 percent to the Health Employee and Economy Improvement Act Revolving Fund; 2) 3.09 percent to the Comprehensive Cancer Center Debt Service Revolving Fund; 3) 7.50 percent to the Trauma Care Assistance Revolving Fund; 4) 3.09 percent to the Oklahoma State University College of Osteopathic Medicine Revolving Fund; 5) 26.38 percent to the Oklahoma Health Care Authority Medicaid Program Fund; 6) 2.65 percent to the Department of Mental Health and Substance Abuse Services Revolving Fund; 7) 0.44 percent to the Belle Maxine Hilliard Breast and Cervical Cancer Treatment Revolving Fund; 8) one percent to the Teachers&apos; Retirement System Revolving Fund; 9) 2.07 percent to the Education Reform Revolving Fund; 10) 0.66 percent to the Tobacco Prevention and Cessation Revolving Fund, which in part funds the state tobacco prevention program; 11) 16.83 percent to the General Revenue Fund; and 12) 14.23 percent to municipalities and counties that levy a sales tax, in the proportions which total municipal and county sales tax revenue was apportioned by the Oklahoma Tax Commission in the preceding month.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1288</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Taxes on Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA STAT. tit. 68, §§ 402 (2017), 402-1 (2017), 402-2 (2005) &amp; 402-3 (2017).</Citation>
+<Description>Chewing tobacco, smokeless tobacco and snuff: 60% of the factory list price;
+Smoking Tobacco: 80% of the factory list price;
+Little Cigars (not weighing more than three lbs. per thousand): equal to the cigarette tax (10.15 cents/cigar or $2.03 per pack of 20);
+Cigars (weighing more than three lbs. per thousand): 10 cents to 12 cents per cigar depending on recommended retail selling price.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1289</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA STAT. tit. 68, §§ 402-1 (2017), 402-2 (2005), 402-3 (2017) &amp; 404 (2005).</Citation>
+<Description>Revenue from taxes on tobacco products other than cigarettes is distributed to the state general revenue fund and the same programs and purposes as 80 cents of the cigarette tax. See above for details.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1290</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Use of Other Tobacco Products Tax Revenue - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA STAT. tit. 68, §§ 402-1 (2017), 402-2 (2005), 402-3 (2017) &amp; 404 (2005).</Citation>
+<Description>Revenue from 50 percent of the tax on chewing tobacco, smokeless tobacco and snuff; 50 percent of the tax on smoking tobacco; and 1 to 3 cents of the tax on other cigars goes to the General Revenue Fund. The remaining revenue (50 percent of the tax on chewing tobacco, smokeless tobacco and snuff; 50 percent of the tax on smoking tobacco; and 9 cents of the tax on regular cigars) is distributed based on the same percentages specified for 80 cents of the cigarette tax. See above for details.</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1291</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Compliance/Enforcement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, § 600.11 (2014).</Citation>
+<Description>The Alcoholic Beverage Laws Enforcement (ABLE) Commission is authorized and empowered to enforce most tobacco products and vapor product youth access laws.  Persons under 18 years of age may be enlisted by the ABLE Commission, a municipality or town, or a county to assist in compliance checks and enforcement if written parental consent has been provided and the testing is conducted under the direct supervision of the ABLE Commission or another authorized law enforcement agency.  This shall not apply to the use of persons under 18 to test compliance if the test is being conducted by or on behalf of a retailer of cigarettes at any location where the retailer is authorized to sell cigarettes.  Any other use of minors to test compliance shall be unlawful and punishable by a fine of $100. The ABLE commission shall notify storeowners when one of their employees has been determined to be in violation by the ABLE commission or convicted of a violation by a municipality.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1295</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Penalties for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, §§ 600.13 (2014).</Citation>
+<Description>It is unlawful for any person to sell, give or furnish in any manner any tobacco product or vapor product, which as defined includes most electronic cigarettes, to another person who is under 18 years of age or buy such products on behalf of a person under age 18.  This does not apply to an employee under 18 handling these products as part of their employment.  Persons who violate this law shall be fined not more than $100 for the first offense; not more than $200 for the second offense within a two-year period; not more than $300 for the third offense within a two-year period and the license to sell tobacco products or sales tax permit to sell vapor products may be suspended for no more than 30 days; not more than $300 for a fourth and subsequent offense in a two-year period and the license to sell tobacco products or sales tax permit to sell vapor products may be suspended for no more than 60 days.  If the sale is made by the employee of the owner of the store, the employee shall be guilty of the violation and shall be subject to the fine.  Each violation by any employee shall be a violation against the owner for purposes of a license or permit suspension.  Proof that the defendant demanded, was shown, and reasonably relied upon proof of age, shall be a defense to any action brought pursuant to this section.  This can be proved if the individual who purchased or received the tobacco product presented a driver&apos;s license or other form of government-issued photo identification purporting to establish that the individual was 18 years of age or older and the person cited for the violation confirmed the validity of the identification by performing a transaction scan by means of a transaction scan device. This does not relieve any person cited for a violation from exercising reasonable diligence to determine whether the physical description and picture appearing on the driver&apos;s license was that of the person who presented it.  County sheriffs may enforce this law. 
+OKLA. STAT. ANN. tit. 37, § 600.3 (2014).
+
+It is unlawful to sell, give or furnish in any manner to another person who is under 18 any material or device used in the smoking, chewing, or other method of consumption of tobacco products or vapor products, including cigarette papers, pipes, holders of smoking materials of all types, and other items designed primarily for the smoking or ingestion of tobacco products or vapor products.  Violation is an administrative fine not to exceed $100 for each offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1296</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Sign Posting Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, § 600.5 (2014).</Citation>
+<Description>Every person who sells tobacco products or vapor products at retail shall post at the place of business a sign that states &quot;IT&apos;S THE LAW. WE DO NOT SELL TOBACCO PRODUCTS OR VAPOR PRODUCTS TO PERSONS UNDER 18 YEARS OF AGE.&quot;  The sign shall also provide the number for the ABLE Commission for reporting violations of youth access laws. Violators shall be fined $50 for each day such offense occurs. The notice required above shall be the only notice required to be posted or maintained in any store that sells tobacco products or vapor products at retail.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1297</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Restrictions on Sales of Bidi Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 21, § 1241 (2002).</Citation>
+<Description>Any person who shall furnish to any minor by gift, sale or otherwise any bidis shall be guilty of a misdemeanor and, upon conviction, shall be punished by a fine in the amount of not less than $25 or more than $200 and by imprisonment in the county jail for a term of not less than 10 days or more than 90 days for each offense.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1298</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Purchase/Possession of Tobacco Products by Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 21, § 1242 (2014).</Citation>
+<Description>It is unlawful for a person who is under 18 years of age to purchase, receive, or have in their possession a tobacco product or vapor product; or to present or offer to any person any purported proof of age which is false or fraudulent, for the purpose of purchasing or receiving any tobacco product or vapor product. It shall not be unlawful for an employee under 18 years of age to handle such products when required in the performance of the employee&apos;s duties.  Minors found guilty shall be fined $100 for a first offense and $200 for subsequent offenses within a one-year period. If they fail to pay within 90 days, their driver&apos;s license may be suspended, or not be issued or renewed.  
+OKLA. STAT. ANN. tit. 37, § 600.4 (2014). 
+
+Any minor in possession of tobacco products or vapor products who is asked where and from whom such products were obtained by any police officer, constable, juvenile court officer, truant officer, or teacher, and who refuses to furnish such information shall be guilty of a misdemeanor. If the minor is 16 years of age or older, they shall be sentenced to a fine of $5 or imprisonment in the county jail for up to five days. If younger than 16, they shall be certified to the juvenile court for such action that court deems proper.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1299</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Placement of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37 § 600.10A (2014).</Citation>
+<Description>It is unlawful for any person or retail store to display or offer for sale tobacco products or vapor products in any manner that allows public access to the product without assistance from the person displaying the product or an employee or the owner of the store. These provisions shall not apply to retail stores which do not admit into the store persons under 18 years of age. Violation is subject to an administrative fine of not more than $200 for each violation.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1300</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Internet Sales of Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>No person or entity engaged in the business of selling or distributing cigarettes that is not a manufacturer, wholesaler, or distributor of cigarettes or other tobacco products licensed by the Oklahoma Tax Commission shall mail, ship or otherwise deliver cigarettes to any person in this state that is not: a distributor or wholesaler of cigarettes licensed by the Oklahoma Tax Commission; an export warehouse proprietor pursuant to Chapter 52 of the Internal Revenue Code or the operator of a customs bonded warehouse pursuant to 19 U.S.C., Section 1311 or 1555; or a person who is an officer, employee or agent of the U.S. Government, this state or a department, agency, instrumentality or political subdivision of the United States or this state when the person is acting in accordance with their official duties. It shall be illegal for any common or contract carrier to knowingly transport cigarettes to any person in this state reasonably believed by the carrier to be a person other than described above. Violation is subject to a civil penalty of $2,500 for each violation or $25.00 for each pack of cigarettes shipped or transported, whichever is greater as well as other penalties including having to pay for the cost of the state&apos;s investigation and attorney fees.
+OKLA. STAT. ANN. Tit. 68, §§ 317.8 &amp; 317.9 (2014).</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>10</SubcategoryDisplayOrder>
+<SubcategoryID>1301</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Other Youth Access Laws and Provisions</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, § 600.6 (2014).</Citation>
+<Description>Each individual employed as a retail clerk shall be informed of state law regarding sales of tobacco products or vapor products to minors and shall sign a form attesting to their understanding of this law and promising as a condition of their employment to obey the law.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>12</SubcategoryDisplayOrder>
+<SubcategoryID>1302</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>State Preemption of Local Youth Access Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, § 600.10 (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting youth access to tobacco products are not allowed, see below.
+
+No agency or other political subdivision of the state, including, but not limited to, municipalities, counties or any agency thereof, may adopt any order, ordinance, rule or regulation concerning the sale, purchase, distribution, advertising, sampling, promotion, display, possession, licensing, or taxation of tobacco products or vapor products, except as provided in Section 1511 of Title 68 of the Oklahoma Statutes, Section 1-1521 et seq. of Title 63 of the Oklahoma Statutes and Section 1247 of Title 21 of the Oklahoma Statutes. Provided, however, nothing in this section shall preclude or preempt any agency or political subdivision from exercising its lawful authority to regulate zoning or land use or to enforce a fire code regulation regulating smoking or tobacco products to the extent that such regulation is substantially similar to nationally recognized standard fire codes.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>13</SubcategoryDisplayOrder>
+<SubcategoryID>1303</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Tobacco Product Samples</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, §§ 600.8 (2014).</Citation>
+<Description>It shall be unlawful for any person to distribute tobacco products, vapor products or product samples to anyone under 18, and in or on any public street, sidewalk, or park that is within 300 feet of any playground, school, or other facility when the facility is being used primarily by persons under 18.  Violators shall be fined not more than $100 for the first offense, not more than $200 for the second offense, and not more than $300 for any subsequent offense.   If they fail to pay within 90 days, their driver&apos;s license may be suspended, or not be issued or renewed.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1305</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>Minimum Tobacco Products Sales Amounts</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, § 600.9 (1997).</Citation>
+<Description>It is unlawful for any person to sell cigarettes except in the original, sealed package in which they were placed by the manufacturer.  Violators will be fined $200 for each offense.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1306</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</Category>
+<Subcategory>State Preemption of Local Samples Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37 § 600.10 (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting sampling or minimum sales amounts of tobacco products are not allowed, see below.
+
+No agency or other political subdivision of the state, including, but not limited to, municipalities, counties or any agency thereof, may adopt any order, ordinance, rule or regulation concerning the sale, purchase, distribution, advertising, sampling, promotion, display, possession, licensing, or taxation of tobacco products or vapor products, except as provided in Section 1511 of Title 68 of the Oklahoma Statutes, Section 1-1521 et seq. of Title 63 of the Oklahoma Statutes and Section 1247 of Title 21 of the Oklahoma Statutes. Provided, however, nothing in this section shall preclude or preempt any agency or political subdivision from exercising its lawful authority to regulate zoning or land use or to enforce a fire code regulation regulating smoking or tobacco products to the extent that such regulation is substantially similar to nationally recognized standard fire codes.</Description>
+<CategoryDisplayOrder>6</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1307</SubcategoryID>
+<CategoryID>1304</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Vending Machine Placement</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. tit. 37, § 600.7 (2014).</Citation>
+<Description>It shall be unlawful for any person to sell tobacco products or vapor products through a vending machine unless the vending machine is located in the following areas: areas of factories, businesses, offices or other places that are not open to the public; and places that are open to the public, but to which persons under 18 are not admitted.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1308</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Penalties for Vending Machine Violations</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No penalty specified for violation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1310</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>Sign Posting Requirements for Vending Machines</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1311</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Sales of Tobacco Products from Vending Machines</Category>
+<Subcategory>State Preemption of Local Vending Machine Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, § 600.10 (2014).</Citation>
+<Description>Stronger local laws/ordinances further restricting the placement of and/or required sign posting on tobacco product or vapor product vending machines are not allowed, see below.
+
+No agency or other political subdivision of the state, including, but not limited to, municipalities, counties or any agency thereof, may adopt any order, ordinance, rule or regulation concerning the sale, purchase, distribution, advertising, sampling, promotion, display, possession, licensing, or taxation of tobacco products or vapor products, except as provided in Section 1511 of Title 68 of the Oklahoma Statutes, Section 1-1521 et seq. of Title 63 of the Oklahoma Statutes and Section 1247 of Title 21 of the Oklahoma Statutes. Provided, however, nothing in this section shall preclude or preempt any agency or political subdivision from exercising its lawful authority to regulate zoning or land use or to enforce a fire code regulation regulating smoking or tobacco products to the extent that such regulation is substantially similar to nationally recognized standard fire codes.</Description>
+<CategoryDisplayOrder>7</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1312</SubcategoryID>
+<CategoryID>1309</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>Overall Summary of Licensing Requirements</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. tit. 68, § 304 (2003).</Citation>
+<Description>Retailers, distributors, wholesalers and manufacturers must obtain a license from the state Tax Commission to sell cigarettes.  Distributors, wholesalers and manufacturers&apos; licenses shall be valid for one year and a retailer&apos;s license is valid for three years unless suspended or revoked. A separate license is required for each place of business and must at all times be conspicuously displayed in the place of business.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1314</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Fees</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. tit. 68, § 304 (2003).</Citation>
+<Description>Retail cigarette license: $30 every three years;  
+Manufacturers, wholesalers or distributors of cigarettes: $25 annually for each place of business.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1315</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Suspension for Sales to Minors</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, § 600.3 (2004).</Citation>
+<Description>For a third violation of the law prohibiting the sale of tobacco products to minors, the license to sell tobacco products may be suspended for not more than 30 days in addition to any other penalties.  For a fourth and subsequent violations the license to sell tobacco products may be suspended for not more than 60 days in addition to any other penalties.  Failure to pay an administrative fine as a result of a violation of the sales to minors&apos; law within 90 days will also result in a license suspension.</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1316</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Smoking Protection Laws</Category>
+<Subcategory>Smoking Protection Law</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 40, §§ 500 to 503 (2013).</Citation>
+<Description>It is unlawful for an employer to discharge any individual, or otherwise disadvantage any individual, with respect to compensation, terms, conditions, or privileges of employment because the individual is a nonsmoker or smokes or uses tobacco products during non-working hours or require as a condition of employment that any employee or applicant abstain from tobacco use during non-working hours.  However, nothing in this section shall prohibit an employer from offering incentives to an employee to participate in wellness programs, including, but not limited to, smoking cessation programs, in conjunction with the employer providing the employee health insurance coverage.  This also shall not apply when the restriction on smoking relates to a bona fide occupational requirement or an applicable collective bargaining agreement which prohibits or allows off-duty use of tobacco products.  The sole remedy for any individual claiming to be aggrieved by a violation of this law shall be a civil action for damages, including all wages and benefits deprived the individual by reason of the violation.</Description>
+<Year>2013</Year>
+<YearLabel>Year Law Last Amended</YearLabel>
+<CategoryDisplayOrder>9</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1319</SubcategoryID>
+<CategoryID>1318</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Advertising &amp; Promotion</Category>
+<Subcategory>Advertising &amp; Promotion</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>10</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1321</SubcategoryID>
+<CategoryID>1320</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Product Disclosure</Category>
+<Subcategory>Product Disclosure</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>11</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1323</SubcategoryID>
+<CategoryID>1322</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Liability</Category>
+<Subcategory>Tobacco Industry Liability</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 12, § 990.4 (2009).</Citation>
+<Description>The appeal bond required in any action or litigation involving a tobacco product manufacturer that is a party to the Master Settlement Agreement (MSA) or a party to the Smokeless Tobacco MSA shall be in an amount not to exceed 100 percent of the judgment, exclusive of interest and costs, 10 percent of the net worth of the judgment debtor or $25 million, whichever is less.  However, if it is proved by a preponderance of the evidence that the appellant for whom the bond has been limited is intentionally dissipating or diverting assets outside of the ordinary course of its business for the purpose of avoiding payment of the judgment, the court shall enter such orders as are necessary to prevent dissipation or diversion, including, but not limited to, requiring that a bond be posted equal to the full amount of security required.
+OKLA. STAT. ANN. tit. 12, § 990.4(B)(5) (2009).
+
+More generally, the bond to appeal a lawsuit judgment for money shall be for the amount of the judgment, decree or order, including costs and interest on appeal, except the bond can not exceed $25 million dollars.  The bond may also be limited if it poses substantial economic harm to a defendant.  If it is proved by a preponderance of the evidence that the appellant for whom the bond has been limited is intentionally dissipating or diverting assets outside of the ordinary course of its business for the purpose of avoiding payment of the judgment, the court shall enter such orders as are necessary to prevent dissipation or diversion, including, but not limited to, requiring that a bond be posted equal to the full amount of security required.  After November 1, 2009, appeal bonds are not required for appeals of punitive damages only.</Description>
+<CategoryDisplayOrder>13</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1325</SubcategoryID>
+<CategoryID>1324</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Summary</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OK CONSTITUTION § 10-40 (2000), OKLA. STAT. ANN. tit. 62, §§ 50 (2012) &amp; 2301 to 2310 (2015).</Citation>
+<Description>Per a constitutional amendment approved in 2000, 75 percent of annual Master Settlement Agreement (MSA) payments are deposited in the Tobacco Settlement Endowment Trust Fund, and the interest has been spent mostly on tobacco prevention and cessation programs in Oklahoma.  The remaining 25 percent of the annual MSA payment is apportioned 75 percent to the Tobacco Settlement Fund and 25 percent to the Attorney General&apos;s Evidence Fund.</Description>
+<Year>2012</Year>
+<YearLabel>Year</YearLabel>
+<NumericValue>77400000</NumericValue>
+<NumericValueLabel>Amount Received</NumericValueLabel>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1327</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Use of Tobacco Settlement Dollars</Category>
+<Subcategory>Use of Tobacco Settlement Dollars - Detailed Information</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 62, § 50 (2012).</Citation>
+<Description>On November 7, 2000 the voters of Oklahoma approved State Question 692, a legislative constitutional amendment which added Section 40 to Article 10 of the state Constitution. The measure created the Tobacco Settlement Endowment Trust Fund. A percentage of the payments received by the state from tobacco companies under the Master Settlement Agreement (MSA) are to be deposited in the fund. The percentage goes from 50 percent for the fiscal year ending June 30, 2002, to 75 percent for any fiscal year ending June 30, 2007, and after. The trust fund is managed by a Board of Directors. The earnings from the trust fund may be expended by the Board of Directors for certain purposes, including tobacco prevention and cessation programs, health care, education, other children&apos;s services, programs for senior adults and capital expenditures and operating expenses incurred by the University of Oklahoma Health Sciences Center and the Oklahoma State University College of Osteopathic Medicine as specified.
+OK CONSTITUTION § 10-40 (2000) &amp; OKLA. STAT. ANN. tit. 62, §§ 2301 to 2310 (2015).
+
+The remaining 25 percent of Oklahoma&apos;s annual MSA payment is apportioned 75 percent to the Tobacco Settlement Fund and 25 percent to the Attorney General&apos;s Evidence Fund. The money in the Tobacco Settlement Fund is subject to appropriation by the legislature, the money in the Attorney General&apos;s Evidence Fund is used to cover court and enforcement costs related to the MSA.</Description>
+<CategoryDisplayOrder>14</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1328</SubcategoryID>
+<CategoryID>1326</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Preemption</Category>
+<Subcategory>Summary of all Preemptive Tobacco Control Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Prohibits local governing bodies from enacting stronger laws/ordinances concerning the smoking/use of, sale, purchase, distribution, advertising, sampling, promotion, display, possession, licensing, or taxation of tobacco products.</Description>
+<CategoryDisplayOrder>16</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1330</SubcategoryID>
+<CategoryID>1329</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Source of funding</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>State funding for Oklahoma&apos;s tobacco prevention and control program comes from the state general revenue fund, tobacco tax revenue and interest generated from the state&apos;s Tobacco Settlement Endowment Trust Fund funded by annual Master Settlement Agreement payments.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1337</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>State Funding Details</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>FY2018 General Appropriations Bill (S.B. 860) enacted 5/31/17 and effective 7/1/17 &amp; interest generated by the Tobacco Settlement Endowment Trust Fund and certified for use on tobacco control programs in FY2018.</Citation>
+<Description>Oklahoma allocated $22,900,000 for tobacco prevention and cessation programs in FY2018 (July 1, 2017 to June 30, 2018). In FY2017, $24,004,100 was allocated.</Description>
+<Year>2018</Year>
+<YearLabel>Fiscal Year</YearLabel>
+<NumericValue>22900000</NumericValue>
+<NumericValueLabel>Amount</NumericValueLabel>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>8</SubcategoryDisplayOrder>
+<SubcategoryID>1338</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Tobacco Control Program Related Laws</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 63, §§ 1-229.1 et. seq. (2001).</Citation>
+<Description>The &quot;Tobacco Use Reduction Fund&quot; was created as a revolving fund administered by the state Department of Health.  The fund is not subject to fiscal year limitations and shall consist of all monies appropriated by the legislature, any other funds that may be appropriated by the Board of Directors of the Tobacco Settlement Endowment Trust Fund and all other monies including gifts, grants and other funds that may be directed thereto.  All monies credited to the fund may be used for the state Plan for Tobacco Use Prevention and Cessation, overseen by the 20-member Tobacco Use Prevention and Cessation Advisory Committee, which is to meet at least four times a year.  On or before January 1, 2002, the committee shall review and recommend a plan that is in compliance with nationally recognized guidelines or scientific evidence of effectiveness.  Such eligible programs shall include media campaigns targeting youth, school and community based education programs, prevention and/or cessation programs for youth and adults.  Any money in the fund at the end of a fiscal year shall be retained for use in the next year.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>9</SubcategoryDisplayOrder>
+<SubcategoryID>1339</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Law Setting Fire Safety Standard for Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 74, §§ 326.1 to 326.11 (2009).</Citation>
+<Description>To help prevent cigarette-caused fires, except as provided in subsection (H) of section 326.3 Oklahoma Statutes, no cigarettes may be sold or offered for sale in Oklahoma or offered for sale or sold to persons located in Oklahoma unless: 1) the cigarettes have been tested in accordance with the test method and meet the performance standard specified in section 326.3 Oklahoma Statutes; 2) a written certification has been filed by the manufacturer with the State Fire Marshal in accordance with section 326.4 Oklahoma Statutes; and 3) the cigarettes have been marked in accordance with section 326.5 Oklahoma Statutes.</Description>
+<Year>2009</Year>
+<YearLabel>Effective Year</YearLabel>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1341</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Fire Safety Standards for Cigarettes</Category>
+<Subcategory>Penalties for Fire Safety Violations</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 74, §§ 326.1 to 326.11 (2009).</Citation>
+<Description>A manufacturer, wholesale dealer, agent or any other person or entity who knowingly sells or offers to sell cigarettes, other than through retail sale in violation of the above shall be subject to a civil penalty not to exceed $500 for each pack of cigarettes sold; provided that in no case shall the penalty against any such person or entity exceed $100,000 during a 30-day period.  Any retail dealer who knowingly sells cigarettes in violation is subject to a civil penalty not to exceed $500 for each pack of cigarettes sold or offered for sale; provided that in no case shall be the penalty be more than $25,000 in any 30-day period.  In addition, any corporation, partnership, sole proprietor, limited partnership or association engaged in the manufacture of cigarettes that knowingly makes a false certification shall be subject to a civil penalty of at least $75,000 and not to exceed $250,000 for each such false certification.</Description>
+<CategoryDisplayOrder>15</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1342</SubcategoryID>
+<CategoryID>1340</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Photo Identification Requirements to Buy Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Citation>OKLA. STAT. ANN. tit. 37, § 600.3 (2014).</Citation>
+<Description>A person engaged in the sale or distribution of tobacco products or vapor products shall demand proof of age from a prospective purchaser or recipient if an ordinary person would conclude on the basis of appearance that the prospective purchaser may be less than 18 years of age. &quot;Proof of age&quot; means a driver&apos;s license, license for identification only, or other generally accepted means of identification that describes the individual as 18 years of age or older and contains a photograph or other likeness of the individual and appears on its face to be valid. If an individual engaged in the sale or distribution of tobacco products or vapor products has demanded proof of age from a prospective purchaser or recipient who is not less than 18 years of age, the failure to subsequently require proof of age shall not constitute a violation. Penalties for violation are the same as those for selling or distributing tobacco products to minors.</Description>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>7</SubcategoryDisplayOrder>
+<SubcategoryID>1353</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>2</SubcategoryDisplayOrder>
+<SubcategoryID>1354</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Retailers of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1355</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Cigarettes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Yes</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>4</SubcategoryDisplayOrder>
+<SubcategoryID>1356</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Licensing Requirements for Tobacco Products</Category>
+<Subcategory>License Required for Wholesalers/Distributors of Other Tobacco Products</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No</Description>
+<CategoryDisplayOrder>8</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>5</SubcategoryDisplayOrder>
+<SubcategoryID>1357</SubcategoryID>
+<CategoryID>1313</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Divestment</Category>
+<Subcategory>Divestment</Subcategory>
+<HasLawOrRestriction>N</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>No law, policy or restriction</HasLawOrRestrictionDescription>
+<Description>No state law/regulation.</Description>
+<CategoryDisplayOrder>12</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1359</SubcategoryID>
+<CategoryID>1360</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Activity</Category>
+<Subcategory>Recent Legislative Activity</Subcategory>
+<Description>Tobacco Control Program Funding: Allocated $22,900,000 in state funding for tobacco prevention and cessation programs in FY2018.
+FY2018 General Appropriations Bill (S.B. 860) enacted 5/31/17 and effective 7/1/17 &amp; interest generated by the Tobacco Settlement Endowment Trust Fund and certified for use on tobacco control programs in FY2018.
+
+Smokefree Air: Amends the law that would have made veterans centers completely smokefree on January 1, 2018, and smoking will now still be allowed in designated outdoor areas.
+S.B. 730 enacted 4/25/17 and effective 11/1/17.</Description>
+<Year>2017</Year>
+<YearLabel>Year</YearLabel>
+<AssocDate>2017-12-31T00:00:00</AssocDate>
+<CategoryDisplayOrder>17</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1366</SubcategoryID>
+<CategoryID>1365</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Laws Restricting Youth Access to Tobacco Products</Category>
+<Subcategory>Minimum Sales Age for Tobacco Products</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>18</Description>
+<NumericValue>18</NumericValue>
+<NumericValueLabel>Minimum Age</NumericValueLabel>
+<CategoryDisplayOrder>5</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>1</SubcategoryDisplayOrder>
+<SubcategoryID>1369</SubcategoryID>
+<CategoryID>1294</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Taxes</Category>
+<Subcategory>Revenue Collected from Cigarette Taxes</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>Revenue collected in Fiscal Year 2012 (July 1, 2011 to June 30, 2012): $242,247,000</Description>
+<CategoryDisplayOrder>2</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>3</SubcategoryDisplayOrder>
+<SubcategoryID>1378</SubcategoryID>
+<CategoryID>1285</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+<qryXMLSLATIDetail>
+<Name>Oklahoma</Name>
+<Abbrev>OK</Abbrev>
+<FipsCode>40</FipsCode>
+<Category>Tobacco Control Program Funding</Category>
+<Subcategory>Funding for Tobacco Control Programs</Subcategory>
+<HasLawOrRestriction>Y</HasLawOrRestriction>
+<HasLawOrRestrictionDescription>Yes, has a law or restriction</HasLawOrRestrictionDescription>
+<Description>FY2018 State Funding for Tobacco Control Programs:              $22,900,000
+
+FY2018 Federal Funding for State Tobacco Control Programs: $1,283,271*
+
+FY2018 Total Funding for State Tobacco Control Programs:      $24,183,271
+
+Funding Level Recommended by CDC:                                        $42,300,000
+
+Percentage of CDC-Recommended Level:                                   57.2%
+
+*Includes regular and supplemental quitline funding from the Centers for Disease Control and Prevention and state youth access contract funding from the U.S. Food and Drug Administration.</Description>
+<CategoryDisplayOrder>3</CategoryDisplayOrder>
+<SubcategoryDisplayOrder>6</SubcategoryDisplayOrder>
+<SubcategoryID>1379</SubcategoryID>
+<CategoryID>1331</CategoryID>
+<StateID>37</StateID>
+</qryXMLSLATIDetail>
+</tblStatesALA>
+</dataroot>
