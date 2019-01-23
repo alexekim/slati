@@ -10,13 +10,6 @@
     display: none;
   }
 
-  .topSlati {
-    border: 5px solid #e3e3e3;
-    padding: 20px;
-    margin-bottom: 35px;
-    border-radius: 20px 0px 20px 0px;
-  }
-
   hr {
     display: none;
   }
@@ -64,6 +57,13 @@
     display: none;
   }
 
+
+  .topSlati {
+    border: 5px solid #e3e3e3;
+    padding: 20px;
+    margin-bottom: 35px;
+    border-radius: 20px 0px 20px 0px;
+  }
   #changeState {
     float: right;
   }
@@ -559,6 +559,22 @@
     }) //end promise
   } //end xmlSort
 
+  var fixCitations = function(){
+    var allDescriptions = document.getElementsByClassName("description");
+    for (var i = 0; i < allDescriptions.length; i++) {
+      var x = allDescriptions[i].innerHTML;
+      var array = x.split("\n");
+      for (var j = 0; j < array.length; j++) {
+        // if ( /\d{4}/.test(array[j]) || array[j].includes("§") ) {
+        if ( array[j].includes("§") ) {
+          array[j] = "<span class='citation'>" + array[j] + "</span>";
+        }
+      }
+      array = array.join("\n");
+      allDescriptions[i].innerHTML = array;
+    }
+  }
+
   var handleResolve = function(exceptions){
     console.log("promise resolved,", exceptions);
     $(".lawsRestrictingYouthAccess h2").after("<h3 class='subcategory'>" + exceptions.one.subcategory + "</h3>" + "<p class='description'>" + exceptions.one.description + "</p>" + "<p class='citation'>" + exceptions.one.citation + "</p>"); //subcategory
@@ -572,6 +588,8 @@
     $(".tobaccoControlProgramFunding h2").after("<h3 class='subcategory'>" + exceptions.three.subcategory + "</h3>"+"<p class='description'>" + exceptions.three.description + "</p>"+"<p class='citation'>" + exceptions.three.citation + "</p>"); //subcategory
     // $(".tobaccoControlProgramFunding h2").after("<p class='description'>" + exceptions.three.description + "</p>"); //description
     // $(".tobaccoControlProgramFunding h2").after("<p class='citation'>" + exceptions.three.citation + "</p>"); //citation
+
+    fixCitations();
   }
 
   var handleReject = function(err){
