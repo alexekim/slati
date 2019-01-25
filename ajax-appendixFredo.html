@@ -455,7 +455,7 @@
       // console.log("currentState: " + currentState);
       $.ajax({
         type: "GET",
-        url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
+        url: "//www.lung.org/dev/our-initiatives/tobacco/reports-resources/slati/xml/" + currentState + ".xml",
         dataType: "xml",
         success: function(xml) {
           $(xml).find('qryXMLSLATIDetail').each(function(i) {

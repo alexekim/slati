@@ -16,7 +16,7 @@
 
 
 <div id="loadSpinner">
-  <img style="margin: 0 auto; height: 50px; width: 50px;" src="http://awasudesign.vyqdy3k2nc1vkrjlhx.netdna-cdn.com/wp-content/uploads/2017/03/spinner-1.gif" />
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
   <p style="text-align: center;">
     Loading...
   </p>
@@ -37,7 +37,7 @@
       // console.log("currentState: " + currentState);
       $.ajax({
         type: "GET",
-        url: "//www.lung.org/dev/slati/xml/SLATIOverview.xml",
+        url: "//www.lung.org/dev/our-initiatives/tobacco/reports-resources/slati/xml/SLATIOverview.xml",
         dataType: "xml",
         success: function(xml) {
           $(xml).find('qryXMLSLATIOverview').each(function(i) {
