@@ -566,7 +566,7 @@
       var array = x.split("\n");
       for (var j = 0; j < array.length; j++) {
         // if ( /\d{4}/.test(array[j]) || array[j].includes("§") ) {
-        if ( array[j].includes("§") ) {
+        if ( array[j].includes("§") || array[j].includes("ILL.COMP") || array[j].includes("ILL. COMP.") || array[j].includes("IL. COMP") || array[j].includes("IL COMP") ) {
           array[j] = "<span class='citation'>" + array[j] + "</span>";
         }
       }

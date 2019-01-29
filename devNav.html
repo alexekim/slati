@@ -1,3 +1,8 @@
+<style media="screen">
+  #devNav{display: none;}
+</style>
+
+
 <div id="devNav">
 
   <button id="devNavButton" type="button" name="button">Dev Only: show/hide links</button><button onclick="$('#devNav').remove();" type="button" name="button" style="color: red; font-weight: bold;">X</button>
@@ -37,7 +42,10 @@
     if (!document.URL.includes("/dev/")) { //live page, not dev
       document.getElementById("devNav").style.display = "none";
       changeDevToLive();
+    } else{
+      document.getElementById("devNav").style.display = "block";
     }
+
   })
 
   document.getElementById("devNavButton").addEventListener("click", function() {
