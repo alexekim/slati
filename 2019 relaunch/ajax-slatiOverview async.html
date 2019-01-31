@@ -1,0 +1,68 @@
+<div id="item-913522742" class="templateComponent" style="display: inline;"></div>
+
+
+<style>
+  #content-well {
+    display: none;
+  }
+  .label{
+    font-weight:bold;
+    border-bottom: 3px solid #ed1b2d;
+  }
+  .content{
+    white-space: pre-line;
+  }
+</style>
+
+
+<div id="loadSpinner">
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
+  <p style="text-align: center;">
+    Loading...
+  </p>
+</div>
+
+
+<div id="content-well">
+<p>
+  This overview summarizes state tobacco control laws in effect in all 50 states and the District of Columbia in the different areas covered by State Legislated Actions on Tobacco Issues (SLATI).
+</p>
+</div>
+
+
+
+<script type="text/javascript">
+
+  var xmlSort = function() {
+      // console.log("currentState: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/our-initiatives/tobacco/reports-resources/slati/xml/SLATIOverview.xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIOverview').each(function(i) {
+            var Letter = $(this).find('Letter').text();
+            var IssueName = $(this).find('IssueName').text();
+            var IssueDescription = $(this).find('IssueDescription').text();
+
+            var head = "<p class='label'>"+Letter+" "+IssueName+"</p>"
+            var body = "<p class='content'>"+IssueDescription+"</p>"
+            $("#content-well").append(head+body);
+
+
+          });
+          $("#loadSpinner").hide();
+          $("#content-well").show();
+        },
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+        }
+      });
+  } //end xmlSort
+
+  $(document).ready(function() {
+    xmlSort();
+  })
+
+</script>

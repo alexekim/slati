@@ -1,0 +1,205 @@
+<style>
+  #content-well {
+    display: none;
+  }
+
+  /*.stateRow{
+    display: none;
+  }*/
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .even {
+    background: #f2f2f2;
+  }
+
+  th {
+    font-weight: bold;
+    border-bottom: 2px solid gray;
+  }
+
+  td,
+  tr,
+  th {
+    padding: 5px;
+  }
+
+  td,
+  tr,
+  th {
+    border: 1px solid gray;
+  }
+
+  tr {
+    /*background: #555559;*/
+  }
+  .th{
+    color: #3a75c4;
+  }
+  .th:hover{
+    cursor: pointer;
+  }
+</style>
+
+
+<div id="loadSpinner">
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
+  <p style="text-align: center;">
+    Loading...
+  </p>
+</div>
+
+
+<div id="content-well">
+  <table id="taxTable">
+    <thead>
+      <tr>
+        <th class="th" id="stateSort">State</th>
+        <th class="th" id="taxSort">Tax Rate</th>
+      </tr>
+    </thead>
+    <tbody id="tbody">
+      <!-- <tr class="even stateRow" id="stateRowAlabama" >
+        <td>Alabama</td>
+        <td class="tdCell" id="ALTax"></td>
+      </tr> -->
+    </tbody>
+  </table>
+</div>
+
+<script type="text/javascript">
+  var states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
+    "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA",
+    "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"];
+
+  var appendNumeric = function(storage){
+    console.warn(storage);
+    console.warn(storage.length);
+    storage = storage.sort();
+    for (var j = 0; j < storage.length; j++) {
+      if (j%2 == 0) {
+        $("#tbody").append('<tr class="stateRow" id="stateRow'+ storage[j][1] +'"><td>' + storage[j][1] + '</td><td>' + storage[j][0] +'</td></tr>');
+      } else {
+        $("#tbody").append('<tr class="even stateRow" id="stateRow'+ storage[j][1] +'"><td>' + storage[j][1] + '</td><td>' + storage[j][0] +'</td></tr>');
+      }
+    }
+    $("#loadSpinner").hide();
+    $("#content-well").show();
+  }
+
+  var xmlSortNumeric = function() {
+    $("#loadSpinner").show();
+    $("#content-well").hide();
+    $("#tbody").children().remove();
+    var storage = [];
+    $.each(states, function(key, currentState) {
+      // console.log("currentState: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+            var Name = $(this).find('Name').text();
+            // var Abbrev = $(this).find('Abbrev').text();
+            var Subcategory = $(this).find('Subcategory').text();
+            var NumericValue = $(this).find('NumericValue').text();
+            var NumericValueFixed = Number(NumericValue).toFixed(3);
+            // console.log(Name +  ": " + NumericValueFixed);
+
+            if (Subcategory == "Tax on Cigarettes") {
+              // var shortened = Name.replace(/\s+/g, '');
+              // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
+              storage.push([NumericValueFixed, Name]);
+            }
+          });
+          storage = storage.sort();
+          // console.log(storage);
+          // return storage;
+        },
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+        }
+      });
+    })
+    setTimeout(function(){
+      appendNumeric(storage);
+    }, 2000);
+    // $("#loadSpinner").hide();
+    // $("#content-well").show();
+  } //end xmlSortNumeric
+
+
+
+  var appendAlpha = function(storage){
+    console.warn(storage);
+    console.warn(storage.length);
+    storage = storage.sort();
+    for (var j = 0; j < storage.length; j++) {
+      if (j%2 == 0) {
+        $("#tbody").append('<tr class="stateRow" id="stateRow'+ storage[j][0] +'"><td>' + storage[j][0] + '</td><td>' + storage[j][1] +'</td></tr>');
+      } else {
+        $("#tbody").append('<tr class="even stateRow" id="stateRow'+ storage[j][0] +'"><td>' + storage[j][0] + '</td><td>' + storage[j][1] +'</td></tr>');
+      }
+    }
+    $("#loadSpinner").hide();
+    $("#content-well").show();
+  }
+
+  var xmlSortAlpha = function() {
+    $("#loadSpinner").show();
+    $("#content-well").hide();
+    $("#tbody").children().remove();
+    var storage = [];
+    $.each(states, function(key, currentState) {
+      // console.log("currentState: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+            var Name = $(this).find('Name').text();
+            // var Abbrev = $(this).find('Abbrev').text();
+            var Subcategory = $(this).find('Subcategory').text();
+            var NumericValue = $(this).find('NumericValue').text();
+            var NumericValueFixed = Number(NumericValue).toFixed(3);
+            // console.log(Name +  ": " + NumericValueFixed);
+
+            if (Subcategory == "Tax on Cigarettes") {
+              // var shortened = Name.replace(/\s+/g, '');
+              // document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
+              storage.push([Name, NumericValueFixed]);
+            }
+          });
+          storage = storage.sort();
+          // console.log(storage);
+          // return storage;
+        },
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+        }
+      });
+    })
+    setTimeout(function(){
+      appendAlpha(storage);
+    }, 2000);
+    // $("#loadSpinner").hide();
+    // $("#content-well").show();
+  } //end xmlSortNumeric
+
+  $(document).ready(function() {
+    xmlSortAlpha();
+  })
+
+  $("#stateSort").on("click", function(){
+    xmlSortAlpha();
+  })
+  $("#taxSort").on("click", function(){
+    xmlSortNumeric();
+  })
+</script>

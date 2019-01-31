@@ -1,0 +1,38 @@
+<p id="asdf">A portion of cigarette tax revenue as specified is dedicated to the Commonwealth Care Trust Fund to pay for the state's program to provide health insurance to all Massachusetts residents.
+MASS. GEN. LAWS ch. 64C, § 6 (2013).
+
+Twenty-five cents of the cigarette excise tax is dedicated to the Children's and Senior's Health Care Assistance Fund.
+MASS GEN. LAWS ch. 64C, § 7A (2002).
+
+Twenty-five cents of the cigarette excise tax is dedicated to the Health Protection Fund.
+MASS GEN. LAWS ch. 64C, § 7C (2002).
+
+The remainder of the revenue from the tax on cigarettes is combined with any remaining revenue from taxes on other tobacco products (see Other Tobacco Products section below) and credited 40 percent of the amount exceeding $169,800,000 to the Local Aid Fund and the remainder of the revenue to the General Fund.</p>
+
+<script type="text/javascript">
+  var allDescriptions = document.getElementsByClassName("description");
+  for (var i = 0; i < allDescriptions.length; i++) {
+    var x = allDescriptions[i].innerHTML;
+    var array = x.split("\n");
+    for (var j = 0; j < array.length; j++) {
+      // if ( /\d{4}/.test(array[j]) || array[j].includes("§") ) {
+      if ( array[j].includes("§") ) {
+        array[j] = "<span class='citation'>" + array[j] + "</span>";
+      }
+    }
+    array = array.join("\n");
+    allDescriptions[i].innerHTML = array;
+  }
+
+  var x = document.getElementById("asdf").innerHTML
+  var array = x.split("\n");
+  for (var i = 0; i < array.length; i++) {
+    // if ( /\d{4}/.test(array[i]) || array[i].includes("§") ) {
+    if ( array[i].includes("§") ) {
+      array[i] = "<span class='citation'>" + array[i] + "</span>";
+    }
+  }
+  array = array.join("\n");
+  document.getElementById("asdf").innerHTML = array;
+
+</script>

@@ -1,0 +1,625 @@
+<div id="item-913818778" class="templateComponent" style="display: inline;"></div>
+
+
+<style media="screen">
+  .description {
+    white-space: pre-line;
+  }
+
+  .info {
+    display: none;
+  }
+
+  hr {
+    display: none;
+  }
+
+  .category h3,
+  .category p {
+    /*margin-left: 20px;*/
+  }
+
+  .backToTop {
+    display: none;
+    color: #3a75c4;
+    margin-bottom: 20px;
+  }
+
+  .backToTop:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  .sectionHeaderh2 {
+    color: red !important;
+  }
+
+  .citation {
+    font-size: 14px !important;
+    font-style: italic !important;
+  }
+
+  .smokingRestrictions,
+  .tobaccoTaxes,
+  .tobaccoControlProgramFunding,
+  .lawsRestrictingYouthAccess,
+  .tobaccoProductSamples,
+  .salesOfTobaccoProductsFromVendingMachines,
+  .licensingRequirements,
+  .smokingProtectionLaws,
+  .advertisingAndPromotion,
+  .productDisclosure,
+  .divestment,
+  .liability,
+  .useOfTobaccoSettlementDollars,
+  .fireSafetyStandards,
+  .activity {
+    display: none;
+  }
+
+
+  .topSlati {
+    border: 5px solid #e3e3e3;
+    padding: 20px;
+    margin-bottom: 35px;
+    border-radius: 20px 0px 20px 0px;
+  }
+  #changeState {
+    float: right;
+  }
+
+  #viewDiff {
+    background: #3a75c4;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    font-size: 14px;
+    line-height: 40px;
+    font-weight: 700;
+    height: 40px;
+    cursor: pointer;
+    color: #fff;
+    padding: 0 20px;
+    display: inline-block;
+  }
+
+  #viewDiff:hover {
+    text-decoration: none;
+    background: #7fba00;
+  }
+
+  #toc {
+    margin: 20px 0 20px 0;
+    width: 50%;
+    padding: 10px;
+    font-family: 'Lato', sans-serif;
+  }
+
+  @media (max-width: 500px) {
+    #changeState {
+      float: none;
+      margin-top: 20px;
+    }
+  }
+</style>
+
+<div id="loadSpinner">
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner-1.gif" />
+  <p style="text-align: center;">
+    Loading...
+  </p>
+</div>
+
+
+<div class="info">
+  <div class="topSlati">
+    <h2 id="state"></h2>
+
+    <div id="changeState">
+      <a id="viewDiff" onclick="document.getElementById('location').click()">View a different state</a>
+    </div>
+
+    <select id="toc" name="">
+      <option value="#">Jump to...</option>
+      <option value="#smokingRestrictions">Smoking Restrictions</option>
+      <option value="#tobaccoTaxes">Tobacco Taxes</option>
+      <option value="#tobaccoControlProgramFunding">Tobacco Control Program Funding</option>
+      <option value="#lawsRestrictingYouthAccess">Laws Restricting Youth Access to Tobacco Products</option>
+      <option value="#tobaccoProductSamples">Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</option>
+      <option value="#salesOfTobaccoProductsFromVendingMachines">Sales of Tobacco Products from Vending Machines</option>
+      <option value="#licensingRequirements">Licensing Requirements for Tobacco Products</option>
+      <option value="#smokingProtectionLaws">Smoking Protection Laws</option>
+      <option value="#advertisingAndPromotion">Advertising &amp; Promotion</option>
+      <option value="#productDisclosure">Product Disclosure</option>
+      <option value="#divestment">Divestment</option>
+      <option value="#liability">Liability</option>
+      <option value="#useOfTobaccoSettlementDollars">Use of Tobacco Settlement Dollars</option>
+      <option value="#fireSafetyStandards">Fire Safety Standards for Cigarettes</option>
+      <option value="#activity">Activity</option>
+    </select>
+    <script type="text/javascript">
+      $("#toc").on("change", function() {
+        window.location = $(this).val();
+      })
+    </script>
+  </div>
+
+
+
+  <!-- <p>
+    <a href="#smokingRestrictions">Smoking Restrictions</a>
+    <br/>
+    <a href="#tobaccoTaxes">Tobacco Taxes</a>
+    <br/>
+    <a href="#tobaccoControlProgramFunding">Tobacco Control Program Funding</a>
+    <br/>
+    <a href="#lawsRestrictingYouthAccess">Laws Restricting Youth Access to Tobacco Products</a>
+    <br/>
+    <a href="#tobaccoProductSamples">Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</a>
+    <br/>
+    <a href="#salesOfTobaccoProductsFromVendingMachines">Sales of Tobacco Products from Vending Machines</a>
+    <br/>
+    <a href="#licensingRequirements">Licensing Requirements for Tobacco Products</a>
+    <br/>
+    <a href="#smokingProtectionLaws">Smoking Protection Laws</a>
+    <br/>
+    <a href="#advertisingAndPromotion">Advertising &amp; Promotion</a>
+    <br/>
+    <a href="#productDisclosure">Product Disclosure</a>
+    <br/>
+    <a href="#divestment">Divestment</a>
+    <br/>
+    <a href="#liability">Liability</a>
+    <br/>
+    <a href="#useOfTobaccoSettlementDollars">Use of Tobacco Settlement Dollars</a>
+    <br/>
+    <a href="#fireSafetyStandards">Fire Safety Standards for Cigarettes</a>
+    <br/>
+    <a href="#activity">Activity</a>
+    <br/>
+  </p> -->
+
+
+  <a name="smokingRestrictions"></a>
+  <div class="category smokingRestrictions">
+    <h2 class="sectionHeaderh2">Smoking Restrictions</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="tobaccoTaxes"></a>
+  <div class="category tobaccoTaxes">
+    <h2 class="sectionHeaderh2">Tobacco Taxes</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="tobaccoControlProgramFunding"></a>
+  <div class="category tobaccoControlProgramFunding">
+    <h2 class="sectionHeaderh2">Tobacco Control Program Funding</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="lawsRestrictingYouthAccess"></a>
+  <div class="category lawsRestrictingYouthAccess">
+    <h2 class="sectionHeaderh2">Laws Restricting Youth Access to Tobacco Products</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="tobaccoProductSamples"></a>
+  <div class="category tobaccoProductSamples">
+    <h2 class="sectionHeaderh2">Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="salesOfTobaccoProductsFromVendingMachines"></a>
+  <div class="category salesOfTobaccoProductsFromVendingMachines">
+    <h2 class="sectionHeaderh2">Sales of Tobacco Products from Vending Machines</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="licensingRequirements"></a>
+  <div class="category licensingRequirements">
+    <h2 class="sectionHeaderh2">Licensing Requirements for Tobacco Products</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="smokingProtectionLaws"></a>
+  <div class="category smokingProtectionLaws">
+    <h2 class="sectionHeaderh2">Smoking Protection Laws</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="advertisingAndPromotion"></a>
+  <div class="category advertisingAndPromotion">
+    <h2 class="sectionHeaderh2">Advertising &amp; Promotion</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="productDisclosure"></a>
+  <div class="category productDisclosure">
+    <h2 class="sectionHeaderh2">Product Disclosure</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="divestment"></a>
+  <div class="category divestment">
+    <h2 class="sectionHeaderh2">Divestment</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="liability"></a>
+  <div class="category liability">
+    <h2 class="sectionHeaderh2">Liability</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="useOfTobaccoSettlementDollars"></a>
+  <div class="category useOfTobaccoSettlementDollars">
+    <h2 class="sectionHeaderh2">Use of Tobacco Settlement Dollars</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="fireSafetyStandards"></a>
+  <div class="category fireSafetyStandards">
+    <h2 class="sectionHeaderh2">Fire Safety Standards for Cigarettes</h2 class="sectionHeaderh2">
+  </div>
+  </activity>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="preemption"></a>
+  <div class="category preemption">
+    <h2 class="sectionHeaderh2">Preemption</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+  <a name="activity"></a>
+  <div class="category activity">
+    <h2 class="sectionHeaderh2">Recent Legislative Activity</h2 class="sectionHeaderh2">
+  </div>
+  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+    <article class="">
+      <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
+    </article>
+  </div>
+  <hr />
+
+</div>
+
+<script type="text/javascript">
+  var exceptions = {
+    "one" : {"subcategory": "", "description": "", "citation": ""},
+    "two" : {"subcategory": "", "description": "", "citation": ""},
+    "three" : {"subcategory": "", "description": "", "citation": ""}
+  };
+  // var exception1 = "";
+  // var exception2 = "";
+  // var exception3 = "";
+
+  var xmlSort = function(){
+    exceptions = {
+      "one" : {"subcategory": "", "description": "", "citation": ""},
+      "two" : {"subcategory": "", "description": "", "citation": ""},
+      "three" : {"subcategory": "", "description": "", "citation": ""}
+    }; // clearing out any previous changes to this global object
+
+    return new Promise(function(resolve, reject){
+      var currentState = Cookies.get("state");
+      console.log("current state is: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/our-initiatives/tobacco/reports-resources/slati/xml/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          console.log(xml);
+          $("#loadSpinner").css("display", "none");
+          $(".info").css("display", "block");
+          // $("hr").css("display", "block");
+          $(".backToTop").css("display", "block");
+          $(".subcategory").remove();
+          $(".description").remove();
+          $(".citation").remove();
+          // var asdf = $(xml).find('Category');
+          // console.log(asdf);
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+            var Name = $(this).find('Name').text();
+            // if ($("#state").html() == "") {
+              $("#state").html(Name);
+            // }
+            var Abbrev = $(this).find('Abbrev').text();
+            // var FipsCode = $(this).find('FipsCode').text();
+            // var HasLawOrRestriction = $(this).find('HasLawOrRestriction').text();
+            // var HasLawOrRestrictionDescription = $(this).find('HasLawOrRestrictionDescription').text();
+            // var CategoryDisplayOrder = $(this).find('CategoryDisplayOrder').text();
+            // var SubcategoryDisplayOrder = $(this).find('SubcategoryDisplayOrder').text();
+            // var SubcategoryID = $(this).find('SubcategoryID').text();
+            // var CategoryID = $(this).find('CategoryID').text();
+            // var StateID = $(this).find('StateID').text();
+            var Category = $(this).find('Category').text();
+            var Subcategory = $(this).find('Subcategory').text();
+            var Description = $(this).find('Description').text();
+            var Citation = $(this).find('Citation').text();
+
+            switch (Category) {
+              case "Smoking Restrictions":
+                $(".smokingRestrictions").show();
+                $(".smokingRestrictions").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".smokingRestrictions").append("<p class='description'>" + Description + "</p>");
+                $(".smokingRestrictions").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Tobacco Taxes":
+                $(".tobaccoTaxes").show();
+                $(".tobaccoTaxes").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".tobaccoTaxes").append("<p class='description'>" + Description + "</p>");
+                $(".tobaccoTaxes").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Tobacco Control Program Funding":
+                if(Subcategory == "Funding for Tobacco Control Programs"){
+                  exceptions.three.subcategory = Subcategory;
+                  exceptions.three.description = Description;
+                  exceptions.three.citation = Citation;
+                  // prepend this to this category
+                } else {
+                  $(".tobaccoControlProgramFunding").show();
+                  $(".tobaccoControlProgramFunding").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                  $(".tobaccoControlProgramFunding").append("<p class='description'>" + Description + "</p>");
+                  $(".tobaccoControlProgramFunding").append("<p class='citation'>" + Citation + "</p>");
+                }
+                break;
+              case "Laws Restricting Youth Access to Tobacco Products":
+                if (Subcategory == "Minimum Sales Age for Tobacco Products") {
+                  exceptions.one.subcategory = Subcategory;
+                  exceptions.one.description = Description;
+                  exceptions.one.citation = Citation;
+                  //prepend this to top of this category
+                }
+                else if (Subcategory == "Photo Identification Requirements to Buy Tobacco Products"){
+                  exceptions.two.subcategory = Subcategory;
+                  exceptions.two.description = Description;
+                  exceptions.two.citation = Citation;
+                  //prepend this above #signPosting
+                } else if (Subcategory == "Sign Posting Requirements"){
+                  $(".lawsRestrictingYouthAccess").show();
+                  $(".lawsRestrictingYouthAccess").append("<h3 id='signPosting' class='subcategory'>" + Subcategory +"</h3>");
+                  $(".lawsRestrictingYouthAccess").append("<p class='description'>" + Description + "</p>");
+                  $(".lawsRestrictingYouthAccess").append("<p class='citation'>" + Citation + "</p>");
+                } else {
+                  $(".lawsRestrictingYouthAccess").show();
+                  $(".lawsRestrictingYouthAccess").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                  $(".lawsRestrictingYouthAccess").append("<p class='description'>" + Description + "</p>");
+                  $(".lawsRestrictingYouthAccess").append("<p class='citation'>" + Citation + "</p>");
+                }
+                break;
+              case "Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products":
+                $(".tobaccoProductSamples").show();
+                $(".tobaccoProductSamples").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".tobaccoProductSamples").append("<p class='description'>" + Description + "</p>");
+                $(".tobaccoProductSamples").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Sales of Tobacco Products from Vending Machines":
+                $(".salesOfTobaccoProductsFromVendingMachines").show();
+                $(".salesOfTobaccoProductsFromVendingMachines").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".salesOfTobaccoProductsFromVendingMachines").append("<p class='description'>" + Description + "</p>");
+                $(".salesOfTobaccoProductsFromVendingMachines").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Licensing Requirements for Tobacco Products":
+                $(".licensingRequirements").show();
+                $(".licensingRequirements").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".licensingRequirements").append("<p class='description'>" + Description + "</p>");
+                $(".licensingRequirements").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Smoking Protection Laws":
+                $(".smokingProtectionLaws").show();
+                $(".smokingProtectionLaws").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".smokingProtectionLaws").append("<p class='description'>" + Description + "</p>");
+                $(".smokingProtectionLaws").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Advertising & Promotion":
+                $(".advertisingAndPromotion").show();
+                $(".advertisingAndPromotion").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".advertisingAndPromotion").append("<p class='description'>" + Description + "</p>");
+                $(".advertisingAndPromotion").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Product Disclosure":
+                $(".productDisclosure").show();
+                $(".productDisclosure").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".productDisclosure").append("<p class='description'>" + Description + "</p>");
+                $(".productDisclosure").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Divestment":
+                $(".divestment").show();
+                $(".divestment").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".divestment").append("<p class='description'>" + Description + "</p>");
+                $(".divestment").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Liability":
+                $(".liability").show();
+                $(".liability").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".liability").append("<p class='description'>" + Description + "</p>");
+                $(".liability").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Use of Tobacco Settlement Dollars":
+                $(".useOfTobaccoSettlementDollars").show();
+                $(".useOfTobaccoSettlementDollars").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".useOfTobaccoSettlementDollars").append("<p class='description'>" + Description + "</p>");
+                $(".useOfTobaccoSettlementDollars").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Fire Safety Standards for Cigarettes":
+                $(".fireSafetyStandards").show();
+                $(".fireSafetyStandards").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".fireSafetyStandards").append("<p class='description'>" + Description + "</p>");
+                $(".fireSafetyStandards").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Preemption":
+                $(".preemption").show();
+                $(".preemption").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".preemption").append("<p class='description'>" + Description + "</p>");
+                $(".preemption").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              case "Activity":
+                $(".activity").show();
+                // $(".activity").append("<h3 class='subcategory'>" + Subcategory +"</h3>");
+                $(".activity").append("<p class='description'>" + Description + "</p>");
+                $(".activity").append("<p class='citation'>" + Citation + "</p>");
+                break;
+              default:
+                console.warn("something went wrong in the content sort. maybe no category exists");
+            }
+          });
+          var changeStateDiv = '<div id="changeState"><a id="viewDiff" onclick="document.getElementById(\'location\').click()">View a different state</a></div>';
+          $("#changeState").remove();
+          if ($("#changeState").length < 1) {
+            $("#state").append(changeStateDiv);
+          }
+          $("hr").css("display", "block");
+
+          resolve(exceptions);
+        }, //end success
+        error: function(err) {
+          console.warn("An error occurred while processing SLATI XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>");
+          reject(err);
+        }
+      });
+    }) //end promise
+  } //end xmlSort
+
+  var fixCitations = function(){
+    var allDescriptions = document.getElementsByClassName("description");
+    for (var i = 0; i < allDescriptions.length; i++) {
+      var x = allDescriptions[i].innerHTML;
+      var array = x.split("\n");
+      for (var j = 0; j < array.length; j++) {
+        // if ( /\d{4}/.test(array[j]) || array[j].includes("§") ) {
+        if ( array[j].includes("§") || array[j].includes("ILL.COMP") || array[j].includes("ILL. COMP.") || array[j].includes("IL. COMP") || array[j].includes("IL COMP") ) {
+          array[j] = "<span class='citation'>" + array[j] + "</span>";
+        }
+      }
+      array = array.join("\n");
+      allDescriptions[i].innerHTML = array;
+    }
+  }
+
+  var handleResolve = function(exceptions){
+    console.log("promise resolved,", exceptions);
+    $(".lawsRestrictingYouthAccess h2").after("<h3 class='subcategory'>" + exceptions.one.subcategory + "</h3>" + "<p class='description'>" + exceptions.one.description + "</p>" + "<p class='citation'>" + exceptions.one.citation + "</p>"); //subcategory
+    // $(".lawsRestrictingYouthAccess h2").after("<p class='description'>" + exceptions.one.description + "</p>"); //description
+    // $(".lawsRestrictingYouthAccess h2").after("<p class='citation'>" + exceptions.one.citation + "</p>"); //citation
+
+    $("#signPosting").before("<h3 class='subcategory'>" + exceptions.two.subcategory + "</h3>" + "<p class='description'>" + exceptions.two.description + "</p>" + "<p class='citation'>" + exceptions.two.citation + "</p>" );//subcategory
+    // $("#signPosting").before("<p class='description'>" + exceptions.two.description + "</p>"); //description
+    // $("#signPosting").before("<p class='citation'>" + exceptions.two.citation + "</p>"); //citation
+
+    $(".tobaccoControlProgramFunding h2").after("<h3 class='subcategory'>" + exceptions.three.subcategory + "</h3>"+"<p class='description'>" + exceptions.three.description + "</p>"+"<p class='citation'>" + exceptions.three.citation + "</p>"); //subcategory
+    // $(".tobaccoControlProgramFunding h2").after("<p class='description'>" + exceptions.three.description + "</p>"); //description
+    // $(".tobaccoControlProgramFunding h2").after("<p class='citation'>" + exceptions.three.citation + "</p>"); //citation
+
+    fixCitations();
+  }
+
+  var handleReject = function(err){
+    document.getElementById("location").click();
+    throw "promise error:", err;
+  }
+
+  var runIt = function(){
+    xmlSort()
+      .then(handleResolve)
+      .catch(handleReject)
+  }
+
+  $(document).ready(function() {
+    runIt()
+  });
+
+
+  $("[name='searchZip']").on("submit", function() {
+    $("#loadSpinner").css("display", "block");
+    $(".info").hide();
+    console.log("zip changed");
+    setTimeout(runIt, 500);
+    // $(".info").show();
+  })
+  $("#stateSelectList").on("change", function(){
+    $("#loadSpinner").css("display", "block");
+    $(".info").hide();
+    console.log(" select changed");
+    runIt()
+    // $(".info").show();
+  })
+</script>

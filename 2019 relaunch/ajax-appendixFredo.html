@@ -1,0 +1,506 @@
+<div id="item-913522742" class="templateComponent" style="display: inline;"></div>
+
+<p>Twenty-nine states and the District of Columbia have laws in effect elevating smokers to a protected class. The American Lung Association does not support these types of laws.</p>
+
+<style>
+  #content-well {
+    display: none;
+  }
+
+  /*.stateRow{
+    display: none;
+  }*/
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .even {
+    background: #f2f2f2;
+  }
+
+  th {
+    font-weight: bold;
+    border-bottom: 2px solid gray;
+  }
+
+  td,
+  tr,
+  th {
+    padding: 8px;
+    line-height: 20px;
+  }
+
+  td,
+  tr,
+  th {
+    border: 1px solid gray;
+  }
+
+  tr {
+    /*background: #555559;*/
+  }
+  .firstCol{
+    min-width: 116px;
+    max-width: 116px;
+  }
+  .description{
+    display: none;
+  }
+  .view{
+    display: table-row !important;
+  }
+  .toggle:hover{
+    cursor: pointer;
+  }
+  #smokerProtectionTable{
+    max-width: 600px;
+  }
+</style>
+
+
+<div id="loadSpinner">
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
+  <p style="text-align: center;">
+    Loading...
+  </p>
+</div>
+
+
+<div id="content-well">
+  <table id="smokerProtectionTable">
+    <thead>
+      <tr>
+        <th class="firstCol">State</th>
+        <th>Year</th>
+        <th>Citation</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- <tr class="evenn stateRow" id="stateRowAlabama">
+        <td class="firstCol">Alabama</td>
+        <td class="tdCell" id="ALyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="ALcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="ALdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowAlaska">
+        <td class="firstCol">Alaska</td>
+        <td class="tdCell" id="AKyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="AKcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="AKdescription"></td></tr>
+
+      <tr class=evenn "stateRow" id="stateRowArizona">
+        <td class="firstCol">Arizona</td>
+        <td class="tdCell" id="AZyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="AZcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="AZdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowArkansas">
+        <td class="firstCol">Arkansas</td>
+        <td class="tdCell" id="ARyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="ARcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="ARdescription"></td></tr> -->
+
+      <tr class="evenn stateRow" id="stateRowCalifornia">
+        <td class="firstCol">California</td>
+        <td class="tdCell" id="CAyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="CAcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="CAdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowColorado">
+        <td class="firstCol">Colorado</td>
+        <td class="tdCell" id="COyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="COcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="COdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowConnecticut">
+        <td class="firstCol">Connecticut</td>
+        <td class="tdCell" id="CTyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="CTcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="CTdescription"></td></tr>
+
+      <!-- <tr class="stateRow" id="stateRowDelaware">
+        <td class="firstCol">Delaware</td>
+        <td class="tdCell" id="DEyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="DEcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="DEdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowDistrictofColumbia">
+        <td class="firstCol">District of Columbia</td>
+        <td class="tdCell" id="DCyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="DCcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="DCdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowFlorida">
+        <td class="firstCol">Florida</td>
+        <td class="tdCell" id="FLyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="FLcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="FLdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowGeorgia">
+        <td class="firstCol">Georgia</td>
+        <td class="tdCell" id="GAyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="GAcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="GAdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowHawaii">
+        <td class="firstCol">Hawaii</td>
+        <td class="tdCell" id="HIyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="HIcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="HIdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowIdaho">
+        <td class="firstCol">Idaho</td>
+        <td class="tdCell" id="IDyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="IDcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="IDdescription"></td></tr> -->
+
+      <tr class="evenn stateRow" id="stateRowIllinois">
+        <td class="firstCol">Illinois</td>
+        <td class="tdCell" id="ILyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="ILcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="ILdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowIndiana">
+        <td class="firstCol">Indiana</td>
+        <td class="tdCell" id="INyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="INcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="INdescription"></td></tr>
+
+      <!-- <tr class="evenn stateRow" id="stateRowIowa">
+        <td class="firstCol">Iowa</td>
+        <td class="tdCell" id="IAyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="IAcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="IAdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowKansas">
+        <td class="firstCol">Kansas</td>
+        <td class="tdCell" id="KSyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="KScodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="KSdescription"></td></tr> -->
+
+      <tr class="evenn stateRow" id="stateRowKentucky">
+        <td class="firstCol">Kentucky</td>
+        <td class="tdCell" id="KYyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="KYcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="KYdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowLouisiana">
+        <td class="firstCol">Louisiana</td>
+        <td class="tdCell" id="LAyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="LAcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="LAdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowMaine">
+        <td class="firstCol">Maine</td>
+        <td class="tdCell" id="MEyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="MEcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="MEdescription"></td></tr>
+
+      <!-- <tr class="stateRow" id="stateRowMaryland">
+        <td class="firstCol">Maryland</td>
+        <td class="tdCell" id="MDyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="MDcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="MDdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowMassachusetts">
+        <td class="firstCol">Massachusetts</td>
+        <td class="tdCell" id="MAyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="MAcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="MAdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowMichigan">
+        <td class="firstCol">Michigan</td>
+        <td class="tdCell" id="MIyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="MIcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="MIdescription"></td></tr> -->
+
+      <tr class="evenn stateRow" id="stateRowMinnesota">
+        <td class="firstCol">Minnesota</td>
+        <td class="tdCell" id="MNyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="MNcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="MNdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowMississippi">
+        <td class="firstCol">Mississippi</td>
+        <td class="tdCell" id="MSyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="MScodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="MSdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowMissouri">
+        <td class="firstCol">Missouri</td>
+        <td class="tdCell" id="MOyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="MOcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="MOdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowMontana">
+        <td class="firstCol">Montana</td>
+        <td class="tdCell" id="MTyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="MTcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="MTdescription"></td></tr>
+
+      <!-- <tr class="evenn stateRow" id="stateRowNebraska">
+        <td class="firstCol">Nebraska</td>
+        <td class="tdCell" id="NEyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="NEcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="NEdescription"></td></tr> -->
+
+      <tr class="stateRow" id="stateRowNevada">
+        <td class="firstCol">Nevada</td>
+        <td class="tdCell" id="NVyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="NVcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="NVdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="NVstateRowNewHampshire">
+        <td class="firstCol">New Hampshire</td>
+        <td class="tdCell" id="NHyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="NHcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+
+        <tr class="description"><td></td><td></td><td id="NHdescription"></td></tr>
+
+      </tr>
+      <tr class="stateRow" id="stateRowNewJersey">
+        <td class="firstCol">New Jersey</td>
+        <td class="tdCell" id="NJyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="NJcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="NJdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowNewMexico">
+        <td class="firstCol">New Mexico</td>
+        <td class="tdCell" id="NMyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="NMcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="NMdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowNewYork">
+        <td class="firstCol">New York</td>
+        <td class="tdCell" id="NYyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="NYcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="NYdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowNorthCarolina">
+        <td class="firstCol">North Carolina</td>
+        <td class="tdCell" id="NCyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="NCcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="NCdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowNorthDakota">
+        <td class="firstCol">North Dakota</td>
+        <td class="tdCell" id="NDyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="NDcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="NDdescription"></td></tr>
+
+      <!-- <tr class="evenn stateRow" id="stateRowOhio">
+        <td class="firstCol">Ohio</td>
+        <td class="tdCell" id="OHyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="OHcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="OHdescription"></td></tr> -->
+
+      <tr class="stateRow" id="stateRowOklahoma">
+        <td class="firstCol">Oklahoma</td>
+        <td class="tdCell" id="OKyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="OKcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="OKdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowOregon">
+        <td class="firstCol">Oregon</td>
+        <td class="tdCell" id="ORyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="ORcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="ORdescription"></td></tr>
+
+      <!-- <tr class="stateRow" id="stateRowPennsylvania">
+        <td class="firstCol">Pennsylvania</td>
+        <td class="tdCell" id="PAyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="PAcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="PAdescription"></td></tr> -->
+
+      <tr class="evenn stateRow" id="stateRowRhodeIsland">
+        <td class="firstCol">Rhode Island</td>
+        <td class="tdCell" id="RIyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="RIcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="RIdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowSouthCarolina">
+        <td class="firstCol">South Carolina</td>
+        <td class="tdCell" id="SCyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="SCcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="SCdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowSouthDakota">
+        <td class="firstCol">South Dakota</td>
+        <td class="tdCell" id="SDyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="SDcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="SDdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowTennessee">
+        <td class="firstCol">Tennessee</td>
+        <td class="tdCell" id="TNyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="TNcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="TNdescription"></td></tr>
+
+      <!-- <tr class="evenn stateRow" id="stateRowTexas">
+        <td class="firstCol">Texas</td>
+        <td class="tdCell" id="TXyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="TXcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="TXdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowUtah">
+        <td class="firstCol">Utah</td>
+        <td class="tdCell" id="UTyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="UTcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="UTdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowVermont">
+        <td class="firstCol">Vermont</td>
+        <td class="tdCell" id="VTyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="VTcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="VTdescription"></td></tr> -->
+
+      <tr class="stateRow" id="stateRowVirginia">
+        <td class="firstCol">Virginia</td>
+        <td class="tdCell" id="VAyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="VAcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="VAdescription"></td></tr>
+
+      <!-- <tr class="evenn stateRow" id="stateRowWashington">
+        <td class="firstCol">Washington</td>
+        <td class="tdCell" id="WAyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="WAcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="WAdescription"></td></tr> -->
+
+      <tr class="stateRow" id="stateRowWestVirginia">
+        <td class="firstCol">West Virginia</td>
+        <td class="tdCell" id="WVyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="WVcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="WVdescription"></td></tr>
+
+      <tr class="evenn stateRow" id="stateRowWisconsin">
+        <td class="firstCol">Wisconsin</td>
+        <td class="tdCell" id="WIyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="WIcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="WIdescription"></td></tr>
+
+      <tr class="stateRow" id="stateRowWyoming">
+        <td class="firstCol">Wyoming</td>
+        <td class="tdCell" id="WYyear"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="codeCell" id="WYcodeCell" ><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+      </tr>
+      <tr class="description"><td></td><td></td><td id="WYdescription"></td></tr>
+
+
+
+    </tbody>
+  </table>
+</div>
+
+
+
+<script type="text/javascript">
+  var states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
+    "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA",
+    "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"
+  ];
+
+
+  var xmlSort = function() {
+    $.each(states, function(key, currentState) {
+      // console.log("currentState: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/our-initiatives/tobacco/reports-resources/slati/xml/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+
+            var Name = $(this).find('Name').text();
+            var Abbrev = $(this).find('Abbrev').text();
+            var Category = $(this).find('Category').text();
+            var Subcategory = $(this).find('Subcategory').text();
+            var Year = $(this).find('Year').text();
+            var Citation = $(this).find('Citation').text();
+            var Description = $(this).find('Description').text();
+
+            // var NumericValueFixed = Number(NumericValue).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            // var NumericValueFixed = Number(Year).toLocaleString();
+            if(Citation !== ""){
+              var chev = "<i class='fa fa-chevron-down' aria-hidden='true'></i>";
+            } else {
+              var chev = "";
+            }
+
+            if (Subcategory == "Smoking Protection Law") {
+              document.getElementById(Abbrev + "year").innerHTML = Year;
+              document.getElementById(Abbrev + "year").classList.add("bold");
+              document.getElementById(Abbrev + "codeCell").innerHTML = "<span class='toggle' onclick='$(this).parent().parent().next().toggleClass(\"view\");'>"+Citation+chev+"</span>";
+              // document.getElementById(Abbrev + "codeCell").innerHTML = Citation;
+              document.getElementById(Abbrev + "codeCell").classList.add("bold");
+              document.getElementById(Abbrev + "description").innerHTML = Description;
+            }
+          });
+        },
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+        }
+      });
+    })
+    $("#loadSpinner").hide();
+    $("#content-well").show();
+  } //end xmlSort
+
+  $(document).ready(function() {
+    xmlSort();
+  })
+
+  $(".description").click(function(){
+    // $(this).toggleClass("view");
+  })
+</script>

@@ -1,0 +1,286 @@
+<div id="item-913522096" class="templateComponent" style="display: inline;"></div>
+
+
+<style>
+  #content-well {
+    display: none;
+  }
+
+  /*.stateRow{
+    display: none;
+  }*/
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .even {
+    background: #f2f2f2;
+  }
+
+  th {
+    font-weight: bold;
+    border-bottom: 2px solid gray;
+  }
+
+  td,
+  tr,
+  th {
+    padding: 5px;
+  }
+
+  td,
+  tr,
+  th {
+    border: 1px solid gray;
+  }
+
+  tr {
+    /*background: #555559;*/
+  }
+
+  .th {
+    color: #3a75c4;
+  }
+
+  #stateSort:hover {
+    cursor: pointer;
+  }
+  #taxSort:hover {
+    cursor: pointer;
+  }
+</style>
+
+
+<div id="loadSpinner">
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
+  <p id="loadingMessage" style="text-align: center;">
+    Loading...
+  </p>
+</div>
+
+
+<div id="content-well">
+  <p>Current State Cigarette Tax Average: $1.78 per pack</p>
+
+  <table id="taxTable">
+    <thead>
+      <tr>
+        <th class="th" id="stateSort" style="width:300px;">State</th>
+        <th class="th" id="taxSort" style="width:100px;">Tax Rate <i class='fa fa-sort-up'></i></th>
+      </tr>
+    </thead>
+    <tbody id="tbody">
+      <!-- <tr class="even stateRow" id="stateRowAlabama" >
+        <td>Alabama</td>
+        <td class="tdCell" id="ALTax"></td>
+      </tr> -->
+    </tbody>
+  </table>
+</div>
+
+<script type="text/javascript">
+  var states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
+    "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA",
+    "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"
+  ];
+
+  var currentOrganiztion = {
+    "current": "alpha"
+  }
+
+  var storage = [];
+
+  var handleResolveNumeric = function(storage) {
+    // console.warn(storage);
+    // console.warn(storage.length);
+    if(currentOrganiztion.current == "numeric1"){
+      document.getElementById("taxSort").innerHTML = "Tax Rate <i class='fa fa-sort-down'></i>"
+      storage = storage.sort(function(a,b){return b[0]-a[0];});
+    } else if (currentOrganiztion.current == "numeric2") {
+      document.getElementById("taxSort").innerHTML = "Tax Rate <i class='fa fa-sort-up'></i>"
+
+      storage = storage.sort();
+    }
+
+    for (var j = 0; j < storage.length; j++) {
+      if (j % 2 == 0) {
+        $("#tbody").append('<tr class="stateRow" id="stateRow' + storage[j][1] + '"><td>' + storage[j][1] + '</td><td>' + storage[j][0] + '</td></tr>');
+      } else {
+        $("#tbody").append('<tr class="even stateRow" id="stateRow' + storage[j][1] + '"><td>' + storage[j][1] + '</td><td>' + storage[j][0] + '</td></tr>');
+      }
+    }
+    $("#loadSpinner").hide();
+    $("#content-well").show();
+  }
+
+  var handleReject = function(e) {
+    console.warn("error thrown:");
+    throw e;
+  }
+
+  var xmlSortNumeric = function() {
+    storage = [] //clear out current global storage variable
+    if (currentOrganiztion.current == "alpha" ) {
+      currentOrganiztion.current = "numeric1";
+    } else if(currentOrganiztion.current == "numeric2" ){
+      currentOrganiztion.current = "numeric1";
+    } else {
+      currentOrganiztion.current = "numeric2";
+    }
+    return new Promise(function(resolve, reject) {
+      $("#loadSpinner").show();
+      $("#content-well").hide();
+      $("#tbody").children().remove();
+      $.each(states, function(key, currentState) {
+        // console.log("currentState: " + currentState);
+        $.ajax({
+          type: "GET",
+          url: "//www.lung.org/our-initiatives/tobacco/reports-resources/slati/xml/" + currentState + ".xml",
+          dataType: "xml",
+          success: function(xml) {
+            $(xml).find('qryXMLSLATIDetail').each(function(i) {
+              var Name = $(this).find('Name').text();
+              // var Abbrev = $(this).find('Abbrev').text();
+              var Subcategory = $(this).find('Subcategory').text();
+              var NumericValue = $(this).find('NumericValue').text();
+              var NumericValueFixed = Number(NumericValue).toFixed(3);
+
+              if (Subcategory == "Tax on Cigarettes") {
+                // var shortened = Name.replace(/\s+/g, '');
+                storage.push([NumericValueFixed, Name]);
+              }
+            });
+            // console.log("storage length: ", storage.length);
+            // console.log(((storage.length / 51) * 100).toFixed(0) + "%");
+            document.getElementById("loadingMessage").innerHTML = "Loading: " + ((storage.length / 51) * 100).toFixed(0) + "%";
+            // console.log(storage);
+            if (storage.length == 51) {
+              // console.log(resolve);
+              resolve(storage);
+            }
+          },
+          error: function() {
+            console.warn("An error occurred while processing XML file.");
+            $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+          }
+        }); // end ajax
+      }) // end each
+      document.getElementById("loadingMessage").innerHTML = "";
+    }) // end promise function
+  } //end xmlSortNumeric
+
+
+
+  var handleResolveAlpha = function(storage) {
+    // console.warn(storage);
+    // console.warn(storage.length);
+    storage = storage.sort();
+    for (var j = 0; j < storage.length; j++) {
+      if (j % 2 == 0) {
+        $("#tbody").append('<tr class="stateRow" id="stateRow' + storage[j][0] + '"><td>' + storage[j][0] + '</td><td>' + storage[j][1] + '</td></tr>');
+      } else {
+        $("#tbody").append('<tr class="even stateRow" id="stateRow' + storage[j][0] + '"><td>' + storage[j][0] + '</td><td>' + storage[j][1] + '</td></tr>');
+      }
+    }
+    $("#loadSpinner").hide();
+    $("#content-well").show();
+  }
+
+  var xmlSortAlpha = function() {
+    storage = []; //empties previous items in global storage array
+    return new Promise(function(resolve, reject) {
+      $("#loadSpinner").show();
+      $("#content-well").hide();
+      $("#tbody").children().remove();
+      // var storage = []; GLOBAL NOW
+      currentOrganiztion.current = "alpha";
+      $.each(states, function(key, currentState) {
+        $.ajax({
+          type: "GET",
+          url: "//www.lung.org/our-initiatives/tobacco/reports-resources/slati/xml/" + currentState + ".xml",
+          dataType: "xml",
+          success: function(xml) {
+            $(xml).find('qryXMLSLATIDetail').each(function(i) {
+              var Name = $(this).find('Name').text();
+              // var Abbrev = $(this).find('Abbrev').text();
+              var Subcategory = $(this).find('Subcategory').text();
+              var NumericValue = $(this).find('NumericValue').text();
+              var NumericValueFixed = Number(NumericValue).toFixed(3);
+
+              if (Subcategory == "Tax on Cigarettes") {
+                // var shortened = Name.replace(/\s+/g, '');
+                storage.push([Name, NumericValueFixed]);
+                // console.log("storage length: ", storage.length);
+                // console.log(((storage.length / 51) * 100).toFixed(0) + "%");
+                document.getElementById("loadingMessage").innerHTML = "Loading: " + ((storage.length / 51) * 100).toFixed(0) + "%";
+                // console.log(storage);
+                if (storage.length == 51) {
+                  // console.log(resolve);
+                  resolve(storage);
+                }
+              }
+            });
+          },
+          error: function(e) {
+            console.warn("An error occurred while processing XML file.");
+            $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>");
+            reject(e)
+          }
+        }); // end ajax
+      }) // end each
+      document.getElementById("loadingMessage").innerHTML = "";
+
+
+    })
+  } //end xmlSortNumeric
+
+
+  // INTERNET EXPLORER does not accept this
+  // async function runAlpha() {
+  //   try {
+  //     var alphaAjax = await xmlSortAlpha();
+  //     handleResolveAlpha(alphaAjax);
+  //   } catch (err) {
+  //     throw err;
+  //   }
+  // }
+  //
+  // async function runNumeric() {
+  //   try {
+  //     var alphaAjax = await xmlSortNumeric();
+  //     handleResolveNumeric(alphaAjax);
+  //   } catch (err) {
+  //     throw err;
+  //   }
+  // }
+
+
+
+  $(document).ready(function() {
+    xmlSortAlpha() //old syntax
+      .then(handleResolveAlpha)
+      .catch(handleReject)
+    // runAlpha();
+  })
+
+  $("#stateSort").on("click", function() {
+    if (currentOrganiztion.current == "alpha") {
+    } else{
+      xmlSortAlpha()
+      .then(handleResolveAlpha)
+      .catch(handleReject)
+    }
+  })
+
+  $("#taxSort").on("click", function() {
+    // if (currentOrganiztion.current == "alpha") {
+      xmlSortNumeric()
+        .then(handleResolveNumeric)
+        .catch(handleReject)
+    // }
+    // else if(currentOrganiztion.current == "numeric1"){
+    //
+    // }
+  })
+</script>

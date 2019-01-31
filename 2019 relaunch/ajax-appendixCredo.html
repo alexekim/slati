@@ -1,0 +1,313 @@
+<style>
+  #content-well {
+    display: none;
+  }
+
+  /*.stateRow{
+    display: none;
+  }*/
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .even {
+    background: #f2f2f2;
+  }
+
+  th {
+    font-weight: bold;
+    border-bottom: 2px solid gray;
+  }
+
+  td,
+  tr,
+  th {
+    padding: 5px;
+  }
+
+  td,
+  tr,
+  th {
+    border: 1px solid gray;
+  }
+
+  tr {
+    /*background: #555559;*/
+  }
+</style>
+
+
+<div id="loadSpinner">
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
+  <p style="text-align: center;">
+    Loading...
+  </p>
+</div>
+
+
+<div id="content-well">
+  <table id="taxTable">
+    <thead>
+      <tr>
+        <th>State</th>
+        <th>Tax Rate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="even stateRow" id="stateRowAlabama" >
+        <td>Alabama</td>
+        <td class="tdCell" id="ALTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowAlaska"  >
+        <td>Alaska</td>
+        <td class="tdCell" id="AKTax"></td>
+      </tr>
+      <tr class=even "stateRow" id="stateRowArizona" >
+        <td>Arizona</td>
+        <td class="tdCell" id="AZTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowArkansas"  >
+        <td>Arkansas</td>
+        <td class="tdCell" id="ARTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowCalifornia" >
+        <td>California</td>
+        <td class="tdCell" id="CATax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowColorado"  >
+        <td>Colorado</td>
+        <td class="tdCell" id="COTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowConnecticut" >
+        <td>Connecticut</td>
+        <td class="tdCell" id="CTTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowDelaware"  >
+        <td>Delaware</td>
+        <td class="tdCell" id="DETax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowFlorida" >
+        <td>Florida</td>
+        <td class="tdCell" id="FLTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowGeorgia"  >
+        <td>Georgia</td>
+        <td class="tdCell" id="GATax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowHawaii" >
+        <td>Hawaii</td>
+        <td class="tdCell" id="HITax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowIdaho"  >
+        <td>Idaho</td>
+        <td class="tdCell" id="IDTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowIllinois" >
+        <td>Illinois</td>
+        <td class="tdCell" id="ILTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowIndiana"  >
+        <td>Indiana</td>
+        <td class="tdCell" id="INTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowIowa" >
+        <td>Iowa</td>
+        <td class="tdCell" id="IATax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowKansas"  >
+        <td>Kansas</td>
+        <td class="tdCell" id="KSTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowKentucky" >
+        <td>Kentucky</td>
+        <td class="tdCell" id="KYTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowLouisiana"  >
+        <td>Louisiana</td>
+        <td class="tdCell" id="LATax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowMaine" >
+        <td>Maine</td>
+        <td class="tdCell" id="METax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowMaryland"  >
+        <td>Maryland</td>
+        <td class="tdCell" id="MDTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowMassachusetts" >
+        <td>Massachusetts</td>
+        <td class="tdCell" id="MATax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowMichigan"  >
+        <td>Michigan</td>
+        <td class="tdCell" id="MITax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowMinnesota" >
+        <td>Minnesota</td>
+        <td class="tdCell" id="MNTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowMississippi"  >
+        <td>Mississippi</td>
+        <td class="tdCell" id="MSTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowMissouri" >
+        <td>Missouri</td>
+        <td class="tdCell" id="MOTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowMontana"  >
+        <td>Montana</td>
+        <td class="tdCell" id="MTTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowNebraska" >
+        <td>Nebraska</td>
+        <td class="tdCell" id="NETax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowNevada"  >
+        <td>Nevada</td>
+        <td class="tdCell" id="NVTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowNewHampshire" >
+        <td>New Hampshire</td>
+        <td class="tdCell" id="NHTax"></td>
+
+      </tr>
+      <tr class="stateRow" id="stateRowNewJersey"  >
+        <td>New Jersey</td>
+        <td class="tdCell" id="NJTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowNewMexico" >
+        <td>New Mexico</td>
+        <td class="tdCell" id="NMTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowNewYork"  >
+        <td>New York</td>
+        <td class="tdCell" id="NYTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowNorthCarolina" >
+        <td>North Carolina</td>
+        <td class="tdCell" id="NCTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowNorthDakota"  >
+        <td>North Dakota</td>
+        <td class="tdCell" id="NDTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowOhio" >
+        <td>Ohio</td>
+        <td class="tdCell" id="OHTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowOklahoma"  >
+        <td>Oklahoma</td>
+        <td class="tdCell" id="OKTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowOregon" >
+        <td>Oregon</td>
+        <td class="tdCell" id="ORTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowPennsylvania"  >
+        <td>Pennsylvania</td>
+        <td class="tdCell" id="PATax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowRhodeIsland" >
+        <td>Rhode Island</td>
+        <td class="tdCell" id="RITax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowSouthCarolina"  >
+        <td>South Carolina</td>
+        <td class="tdCell" id="SCTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowSouthDakota" >
+        <td>South Dakota</td>
+        <td class="tdCell" id="SDTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowTennessee"  >
+        <td>Tennessee</td>
+        <td class="tdCell" id="TNTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowTexas" >
+        <td>Texas</td>
+        <td class="tdCell" id="TXTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowUtah"  >
+        <td>Utah</td>
+        <td class="tdCell" id="UTTax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowVermont" >
+        <td>Vermont</td>
+        <td class="tdCell" id="VTTax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowVirginia"  >
+        <td>Virginia</td>
+        <td class="tdCell" id="VATax"></td>
+      </tr>
+      <tr class="even stateRow" id="stateRowWashington" >
+        <td>Washington</td>
+        <td class="tdCell" id="WATax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowWestVirginia"  >
+        <td>West Virginia</td>
+        <td class="tdCell" id="WVTax"></td>
+    </tr>
+      <tr class="even stateRow" id="stateRowWisconsin" >
+        <td>Wisconsin</td>
+        <td class="tdCell" id="WITax"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowWyoming"  >
+        <td>Wyoming</td>
+        <td class="tdCell" id="WYTax"></td>
+    </tr>
+      <tr class="even stateRow" id="stateRowDistrictofColumbia" >
+        <td>District of Columbia</td>
+        <td class="tdCell" id="DCTax"></td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<script type="text/javascript">
+  var states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
+    "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA",
+    "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"
+  ];
+
+
+  var xmlSort = function() {
+    $.each(states, function(key, currentState) {
+      // console.log("currentState: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/dev/slati/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+
+            var Name = $(this).find('Name').text();
+            var Abbrev = $(this).find('Abbrev').text();
+            var Subcategory = $(this).find('Subcategory').text();
+            var NumericValue = $(this).find('NumericValue').text();
+            var NumericValueFixed = Number(NumericValue).toFixed(3);
+            // console.log(Name +  ": " + NumericValueFixed);
+
+            if (Subcategory == "Tax on Cigarettes") {
+              var shortened = Name.replace(/\s+/g, '');
+              // document.getElementById("stateRow" + shortened).classList.add("bold");
+              document.getElementById(Abbrev + "Tax").innerHTML = NumericValueFixed;
+              // var template = '<tr class=' + rowType +  '><td>' + Name + '</td><td>Youth Access (fix)</td><td>' + Description + '</tr>'
+              // $("#tbody").append(template);
+            }
+          });
+        },
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+        }
+      });
+    })
+    $("#loadSpinner").hide();
+    $("#content-well").show();
+  } //end xmlSort
+
+  $(document).ready(function() {
+    xmlSort();
+  })
+</script>
