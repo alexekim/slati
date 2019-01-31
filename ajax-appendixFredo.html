@@ -1,4 +1,4 @@
-<div id="item-912259492" class="templateComponent" style="display: inline;"></div>
+<div id="item-913522742" class="templateComponent" style="display: inline;"></div>
 
 <p>Twenty-nine states and the District of Columbia have laws in effect elevating smokers to a protected class. The American Lung Association does not support these types of laws.</p>
 
@@ -455,7 +455,7 @@
       // console.log("currentState: " + currentState);
       $.ajax({
         type: "GET",
-        url: "//www.lung.org/dev/our-initiatives/tobacco/reports-resources/slati/xml/" + currentState + ".xml",
+        url: "//www.lung.org/our-initiatives/tobacco/reports-resources/slati/xml/" + currentState + ".xml",
         dataType: "xml",
         success: function(xml) {
           $(xml).find('qryXMLSLATIDetail').each(function(i) {
