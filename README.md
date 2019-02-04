@@ -1,3 +1,4 @@
+
 https://stackedit.io/app#
 https://stackedit.io/app#
 https://stackedit.io/app#
@@ -61,6 +62,7 @@ These pages use AJAX calls from XML files to load content. These XML files are p
 - within each section of the XML,
 	- `$(xml).find('qryXMLSLATIDetail').each(function(i) {}`
 		- identifies a series of data to be placed into HTML
+
 **Appendix C**
 - starts with hiding all content besides a load spinner. ajax call hides the spinner after data loads and shows the hidden content.
 - starts with only table headers. the rest is created by the ajax call
@@ -69,18 +71,54 @@ These pages use AJAX calls from XML files to load content. These XML files are p
 	- `xmlSortAlpha().then(handleResolveAlpha).catch(handleReject)`
 - SORT based.
 - Two different ajax calls, one for numeric sorting, one for alphabetic sorting
-	- first function
+	- first function `xmlSortAlpha() or xmlSortNumeric()`
 		- pushes State & Value into `var storage`
 		- returns a promise to be Resolve or Reject
-	- second function `handleResolve()`
-		- sorts using `sort()`
-		-
+	- second function `handleResolveAlpha() or handleResolveNumeric()`
+		- sorts `storage` variable using `sort()`
+		- then loops through `storage` while `.append()`puts the data into the table
 - $.each() with 51 ajax calls, looping through a premade array of state abbreviatons
 - within each section of the XML,
 	- `$(xml).find('qryXMLSLATIDetail').each(function(i) {}`
 		- identifies a series of data to be placed into HTML
+		- adds each data point to `storage`
 
+NOTE: `storage` is a global variable. each time a `sort()` is requested by the user, it is cleared out by the function first, then the process starts all over again.
 
-2) slati.lung.org
-cloudflare dns
-page rules + cname record
+**Appendix E**
+
+ - simple AJAX call. no promises, no sorting
+ - Not all states have data. the table is premade with selected states that do have data
+	 - the field "*Issue Area Where Preemption Exists*" is hard coded. this is because of complicated XML organization, or lack of it
+ - The field "*Specific Provisions Preempted*" is dynamically filled
+
+**Appendix F**
+ - simple `$.each()` loop of all `$.ajax()` for each state. If state has no data, it is skipped.
+ - No promises, no sorting
+ - Not all states have data. the table is premade with selected states that do have data
+	 - the field "*States*" is hard coded
+ - The fields  "*Year*" and "*Citation*" are dynamically filled
+ - Citation click/togggle hide/show feature is inline JavaScript
+	 - `onclick=""` event is jQuery `toggleClass()` method that gives a hide or show css class
+	 - citation detail itself is part of the XML call.
+
+# DNS/URLs
+**Cloudflare DNS changes**
+
+*PAGE RULE:*
+ 1. within lung.org dashboard, use **Page Rules**
+ 2. **Create Page Rule**
+ 3. if URL matches: **slati.lung.org**
+ 4. setting: **Forwarding URL**, status code: **302**, destination URL: **https://www.lung.org/our-initiatives/tobacco/reports-resources/slati/**
+ 5. save this page rule
+
+*DNS Record:*
+
+ 1. within lung.org dashboard, use **DNS**
+ 2. create new record
+ 3. CNAME
+ 4. name: **slati** (slati.lung.org)
+ 5. IPv4: **@** (lung.org)
+ 6. TLL: **automatic**
+ 7. **Add Record**
+This was changed from an **A-record** that went to the rackspace server's IP address
