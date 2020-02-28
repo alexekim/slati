@@ -1,0 +1,408 @@
+<div id="item-913522742" class="templateComponent" style="display: inline;"></div>
+
+
+<style>
+  #content-well {
+    display: none;
+  }
+
+  /*.stateRow{
+    display: none;
+  }*/
+
+  .conceal {
+    display: none;
+  }
+
+  .bold {
+    font-weight: bold;
+  }
+
+  .even {
+    background: #f2f2f2;
+  }
+
+  th {
+    font-weight: bold;
+    border-bottom: 2px solid gray;
+  }
+
+  td, tr, th {
+    padding: 8px;
+    border: 1px solid gray;
+    line-height: 20px;
+  }
+
+  tr {
+    /*background: #555559;*/
+  }
+
+  @media (max-width: 480px) {
+    #table {
+      font-size: 11px;
+    }
+    td,
+    tr,
+    th {
+      padding: 2px;
+    }
+  }
+</style>
+
+
+<div id="loadSpinner">
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
+  <p style="text-align: center;">
+    Loading...
+  </p>
+</div>
+
+
+<div id="content-well">
+  <p>A number of states have laws in place that prevennt local communities from passing stronger local tobacco control laws.&nbsp; The American Lung Association believes that local communities should be able to enact stronger measures than the state to protect
+    their citizens from tobacco’s toll.</p>
+  <table id="table">
+    <thead>
+      <tr>
+        <th>State</th>
+        <th>Issue Area Where Preemption Exists</th>
+        <th>Specific Provisions Preempted</th>
+      </tr>
+    </thead>
+    <tbody id="tbody">
+      <!-- <tr>
+        <td>Connecticut</td>
+        <td>Youth Access (fix)</td>
+        <td>Any stronger local laws/ordinances further restricting smoking enacted after October 1, 1993 are not allowed.</td>
+      </tr> -->
+      <!-- content dynamically load here -->
+      <!-- <tr class="evenn stateRow" id="stateRowAlabama" >
+        <td>Alabama</td>
+        <td class="tdCell" id="ALissue"></td>
+        <td class="tdCell" id="ALspecific"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowAlaska"  >
+        <td>Alaska</td>
+        <td class="tdCell" id="AKissue"></td>
+        <td class="tdCell" id="AKdata"></td>
+      </tr>
+      <tr class=evenn "stateRow" id="stateRowArizona" >
+        <td>Arizona</td>
+        <td class="tdCell" id="AZissue"></td>
+        <td class="tdCell" id="AZdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowArkansas"  >
+        <td>Arkansas</td>
+        <td class="tdCell" id="ARissue"></td>
+        <td class="tdCell" id="ARdata"></td>
+      </tr> -->
+      <tr class="evenn stateRow" id="stateRowCalifornia">
+        <td>California</td>
+        <td class="tdCell" id="CAissue">Youth Access</td>
+        <td class="tdCell" id="CAdata"></td>
+      </tr>
+      <!-- <tr class="stateRow" id="stateRowColorado"  >
+        <td>Colorado</td>
+        <td class="tdCell" id="COissue"></td>
+        <td class="tdCell" id="COdata"></td>
+      </tr> -->
+      <tr class="evenn stateRow" id="stateRowConnecticut">
+        <td>Connecticut</td>
+        <td class="tdCell" id="CTissue">Smoking Restrictions </td>
+        <td class="tdCell" id="CTdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowDelaware">
+        <td>Delaware</td>
+        <td class="tdCell" id="DEissue">Youth Access</td>
+        <td class="tdCell" id="DEdata"></td>
+      </tr>
+      <!-- <tr class="evenn stateRow" id="stateRowDistrictOfColumbia" >
+        <td>District of Columbia</td>
+        <td class="tdCell" id="DCissue"></td>
+        <td class="tdCell" id="DCdata"></td>
+      </tr> -->
+      <tr class="evenn stateRow" id="stateRowFlorida">
+        <td>Florida</td>
+        <td class="tdCell" id="FLissue">Smoking Restrictions </td>
+        <td class="tdCell" id="FLdata"></td>
+      </tr>
+      <!-- <tr class="stateRow" id="stateRowGeorgia"  >
+        <td>Georgia</td>
+        <td class="tdCell" id="GAissue"></td>
+        <td class="tdCell" id="GAdata"></td>
+      </tr>
+      <tr class="evenn stateRow" id="stateRowHawaii" >
+        <td>Hawaii</td>
+        <td class="tdCell" id="HIissue"></td>
+        <td class="tdCell" id="HIdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowIdaho"  >
+        <td>Idaho</td>
+        <td class="tdCell" id="IDissue"></td>
+        <td class="tdCell" id="IDdata"></td>
+      </tr>
+      <tr class="evenn stateRow" id="stateRowIllinois" >
+        <td>Illinois</td>
+        <td class="tdCell" id="ILissue"></td>
+        <td class="tdCell" id="ILdata"></td>
+      </tr> -->
+      <tr class="stateRow" id="stateRowIndiana">
+        <td>Indiana</td>
+        <td class="tdCell" id="INissue">Youth Access</td>
+        <td class="tdCell" id="INdata"></td>
+      </tr>
+      <tr class="evenn stateRow" id="stateRowIowa">
+        <td>Iowa</td>
+        <td class="tdCell" id="IAissue">Youth Access</td>
+        <td class="tdCell" id="IAdata"></td>
+      </tr>
+      <!-- <tr class="stateRow" id="stateRowKansas"  >
+        <td>Kansas</td>
+        <td class="tdCell" id="KSissue"></td>
+        <td class="tdCell" id="KSdata"></td>
+      </tr> -->
+      <tr class="evenn stateRow" id="stateRowKentucky">
+        <td>Kentucky</td>
+        <td class="tdCell" id="KYissue">Youth Access</td>
+        <td class="tdCell" id="KYdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowLouisiana">
+        <td>Louisiana</td>
+        <td class="tdCell" id="LAissue">Youth Access</td>
+        <td class="tdCell" id="LAdata"></td>
+      </tr>
+      <!-- <tr class="evenn stateRow" id="stateRowMaine" >
+        <td>Maine</td>
+        <td class="tdCell" id="MEissue"></td>
+        <td class="tdCell" id="MEdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowMaryland"  >
+        <td>Maryland</td>
+        <td class="tdCell" id="MDissue"></td>
+        <td class="tdCell" id="MDdata"></td>
+      </tr> -->
+      <tr class="evenn stateRow" id="stateRowMassachusetts">
+        <td>Massachusetts</td>
+        <td class="tdCell" id="MAissue">Youth Access</td>
+        <td class="tdCell" id="MAdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowMichigan">
+        <td>Michigan</td>
+        <td class="tdCell" id="MIissue">Smoking Restrictions </td>
+        <td class="tdCell" id="MIdata"></td>
+      </tr>
+      <!-- <tr class="evenn stateRow" id="stateRowMinnesota" >
+        <td>Minnesota</td>
+        <td class="tdCell" id="MNissue"></td>
+        <td class="tdCell" id="MNdata"></td>
+      </tr> -->
+      <tr class="stateRow" id="stateRowMississippi">
+        <td>Mississippi</td>
+        <td class="tdCell" id="MSissue">Youth Access</td>
+        <td class="tdCell" id="MSdata"></td>
+      </tr>
+      <tr class="evenn stateRow" id="stateRowMissouri">
+        <td>Missouri</td>
+        <td class="tdCell" id="MOissue">Youth Access</td>
+        <td class="tdCell" id="MOdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowMontana">
+        <td>Montana</td>
+        <td class="tdCell" id="MTissue">Youth Access</td>
+        <td class="tdCell" id="MTdata"></td>
+      </tr>
+      <tr class="evenn stateRow" id="stateRowNebraska">
+        <td>Nebraska</td>
+        <td class="tdCell" id="NEissue">Smoking Restrictions </td>
+        <td class="tdCell" id="NEdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowNevada">
+        <td>Nevada</td>
+        <td class="tdCell" id="NVissue">Youth Access</td>
+        <td class="tdCell" id="NVdata"></td>
+      </tr>
+      <tr class="evenn stateRow" id="stateRowNewHampshire">
+        <td>New Hampshire</td>
+        <td class="tdCell" id="NHissue">Smoking Restrictions </td>
+        <td class="tdCell" id="NHdata"></td>
+      </tr>
+      <!-- <tr class="stateRow" id="stateRowNewJersey"  >
+        <td>New Jersey</td>
+        <td class="tdCell" id="NJissue"></td>
+        <td class="tdCell" id="NJdata"></td>
+      </tr> -->
+      <tr class="evenn stateRow" id="stateRowNewMexico">
+        <td>New Mexico</td>
+        <td class="tdCell" id="NMissue">Youth Access</td>
+        <td class="tdCell" id="NMdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowNewYork">
+        <td>New York</td>
+        <td class="tdCell" id="NYissue">Youth Access</td>
+        <td class="tdCell" id="NYdata"></td>
+      </tr>
+      <tr class="evenn stateRow" id="stateRowNorthCarolina">
+        <td>North Carolina</td>
+        <td class="tdCell" id="NCissue">Smoking Restrictions; Youth Access</td>
+        <td class="tdCell" id="NCdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowNorthDakota">
+        <td>North Dakota</td>
+        <td class="tdCell" id="NDissue">Youth Access</td>
+        <td class="tdCell" id="NDdata"></td>
+      </tr>
+      <!-- <tr class="evenn stateRow" id="stateRowOhio" >
+        <td>Ohio</td>
+        <td class="tdCell" id="OHissue"></td>
+        <td class="tdCell" id="OHdata"></td>
+      </tr> -->
+      <tr class="stateRow" id="stateRowOklahoma">
+        <td>Oklahoma</td>
+        <td class="tdCell" id="OKissue">Smoking Restrictions; Youth Access</td>
+        <td class="tdCell" id="OKdata"></td>
+      </tr>
+      <tr class="evenn stateRow" id="stateRowOregon">
+        <td>Oregon</td>
+        <td class="tdCell" id="ORissue">Youth Access</td>
+        <td class="tdCell" id="ORdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowPennsylvania">
+        <td>Pennsylvania</td>
+        <td class="tdCell" id="PAissue">Smoking Restrictions; Youth Access</td>
+        <td class="tdCell" id="PAdata"></td>
+      </tr>
+      <!-- <tr class="evenn stateRow" id="stateRowRhodeIsland" >
+        <td>Rhode Island</td>
+        <td class="tdCell" id="RIissue"></td>
+        <td class="tdCell" id="RIdata"></td>
+      </tr> -->
+      <tr class="stateRow" id="stateRowSouthCarolina">
+        <td>South Carolina</td>
+        <td class="tdCell" id="SCissue">Youth Access</td>
+        <td class="tdCell" id="SCdata"></td>
+
+      </tr>
+      <tr class="evenn stateRow" id="stateRowSouthDakota">
+        <td>South Dakota</td>
+        <td class="tdCell" id="SDissue">Smoking Restrictions; Youth Access</td>
+        <td class="tdCell" id="SDdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowTennessee">
+        <td>Tennessee</td>
+        <td class="tdCell" id="TNissue">Smoking Restrictions; Youth Access</td>
+        <td class="tdCell" id="TNdata"></td>
+      </tr>
+      <!-- <tr class="evenn stateRow" id="stateRowTexas" >
+        <td>Texas</td>
+        <td class="tdCell" id="TXissue"></td>
+        <td class="tdCell" id="TXdata"></td>
+      </tr> -->
+      <tr class="stateRow" id="stateRowUtah">
+        <td>Utah</td>
+        <td class="tdCell" id="UTissue">Smoking Restrictions; Youth Access</td>
+        <td class="tdCell" id="UTdata"></td>
+      </tr>
+      <!-- <tr class="evenn stateRow" id="stateRowVermont" >
+        <td>Vermont</td>
+        <td class="tdCell" id="VTissue"></td>
+        <td class="tdCell" id="VTdata"></td>
+      </tr> -->
+      <tr class="stateRow" id="stateRowVirginia">
+        <td>Virginia</td>
+        <td class="tdCell" id="VAissue">Youth Access</td>
+        <td class="tdCell" id="VAdata"></td>
+      </tr>
+      <tr class="evenn stateRow" id="stateRowWashington">
+        <td>Washington</td>
+        <td class="tdCell" id="WAissue">Smoking Restrictions; Youth Access</td>
+        <td class="tdCell" id="WAdata"></td>
+      </tr>
+      <!-- <tr class="stateRow" id="stateRowWestVirginia"  >
+        <td>West Virginia</td>
+        <td class="tdCell" id="WVissue"></td>
+        <td class="tdCell" id="WVdata"></td>
+      </tr> -->
+      <tr class="evenn stateRow" id="stateRowWisconsin">
+        <td>Wisconsin</td>
+        <td class="tdCell" id="WIissue">Youth Access</td>
+        <td class="tdCell" id="WIdata"></td>
+      </tr>
+      <tr class="stateRow" id="stateRowWyoming">
+        <td>Wyoming</td>
+        <td class="tdCell" id="WYissue">Youth Access</td>
+        <td class="tdCell" id="WYdata"></td>
+      </tr>
+    </tbody>
+    <thead>
+      <!-- <tr>
+        <th>State</th>
+        <th>Issue Area Where Preemption Exists</th>
+        <th>Specific Provisions Preempted</th>
+      </tr> -->
+    </thead>
+
+  </table>
+</div>
+
+<script type="text/javascript">
+  var states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
+    "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA",
+    "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"
+  ];
+
+
+  var xmlSort = function() {
+    $.each(states, function(key, currentState) {
+      // console.log("currentState: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/our-initiatives/tobacco/reports-resources/slati/xml/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+            if (key % 2 == 0) {
+              var rowType = "evenn";
+            } else {
+              var rowType = "odd";
+            }
+            // var rowType="hey";
+            var Name = $(this).find('Name').text();
+            var Abbrev = $(this).find('Abbrev').text();
+            var Category = $(this).find('Category').text();
+            var Description = $(this).find('Description').text();
+            var shortened = Name.replace(/\s+/g, '');
+            var newID = "stateRow" + shortened;
+
+            // var preemptionCatExist = 0;
+
+            if (Category == "Preemption") {
+              // preemptionCatExist += 1;
+              $(newID).css("display", "table");
+              //  document.getElementById("stateRow"+shortened).classList.add("bold");
+              // document.getElementById(Abbrev+"issue").innerHTML = "youth access (fix)";
+              document.getElementById(Abbrev + "data").innerHTML = Description;
+              // var template = '<tr class=' + rowType +  '><td>' + Name + '</td><td>Youth Access (fix)</td><td>' + Description + '</tr>'
+              // $("#tbody").append(template);
+            }
+
+            // if (preemptionCatExist == 0) {
+            // document.getElementById("stateRow"+shortened).classList.add("conceal");
+            // }
+          });
+
+        },
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>");
+        }
+      });
+
+    })
+    $("#loadSpinner").hide();
+    $("#content-well").show();
+  } //end xmlSort
+
+  $(document).ready(function() {
+    xmlSort();
+  })
+</script>

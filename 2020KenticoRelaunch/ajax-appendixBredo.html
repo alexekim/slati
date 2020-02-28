@@ -1,0 +1,721 @@
+<div id="item-913523143" class="templateComponent" style="display: inline;"></div>
+
+
+<style media="screen">
+  #content-well {
+    display: none;
+  }
+
+  td,
+  tr,
+  th {
+    padding: 5px;
+  }
+
+  td,
+  tr {
+    border: 1px solid gray;
+  }
+
+  tr {
+    /*background: #555559;*/
+  }
+
+  th {
+    font-weight: bold;
+    transform: translate(49px, 89px) rotate(-54deg);
+    max-width: 30px;
+    height: 137px;
+  }
+
+  .tdCell {
+    font-weight: bold;
+  }
+
+  .even {
+    background: #e5e5e5;
+  }
+
+  .R {
+    color: navy;
+  }
+
+  .N {
+    color: red;
+  }
+
+  .P {
+    color: green;
+  }
+
+  .M {
+    color: orange;
+  }
+
+  .V {
+    color: fuchsia;
+  }
+
+  .ABLegend{
+    font-size: 14px !important;
+    line-height: 16px !important;
+    margin-bottom: 0 !important;
+  }
+
+  #table {
+    font-size: 16px;
+  }
+
+  .abbrev {
+    display: none;
+  }
+
+  @media(max-width: 1060px) {
+    th {
+      transform: translate(57px, 51px) rotate(-90deg);
+      /* transform: rotate(90deg); */
+      white-space: nowrap;
+      height: 141px;
+      border: 1px solid gray;
+    }
+    td,
+    tr,
+    th {
+      padding: 2px;
+    }
+    #table {
+      font-size: 14px;
+    }
+    .full {
+      display: none;
+    }
+    .abbrev {
+      display: block;
+    }
+  }
+</style>
+
+
+<div id="loadSpinner">
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
+  <p style="text-align: center;">
+    Loading...
+  </p>
+</div>
+
+
+<div id="content-well">
+  <p class="R ABLegend">R=Restriction required; </p>
+  <p class="N ABLegend">N=No law, policy or restriction; </p>
+  <p class="P ABLegend">P=Smoking prohibited; </p>
+  <p class="M ABLegend">M=Smoking mostly restricted; </p>
+  <p class="V ABLegend">V=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </p>
+  <table id="table">
+    <thead>
+      <tr>
+        <th>State</th>
+        <th class="dataGB">Gov't&nbsp;Buildings</th>
+        <th class="dataPW">Private&nbsp;Workplaces</th>
+        <th class="dataS">Schools</th>
+        <th class="dataCCF">Child&nbsp;Care&nbsp;Facilities</th>
+        <th class="dataHCF">Health&nbsp;Care&nbsp;Facilities</th>
+        <th class="dataR">Restaurants</th>
+        <th class="dataB">Bars</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="full">Alabama</span><span class="abbrev">AL</span></td>
+        <td class="tdCell" id="ALdataGB"></td>
+        <td class="tdCell" id="ALdataPW"></td>
+        <td class="tdCell" id="ALdataS"></td>
+        <td class="tdCell" id="ALdataCCF"></td>
+        <td class="tdCell" id="ALdataHCF"></td>
+        <td class="tdCell" id="ALdataR"></td>
+        <td class="tdCell" id="ALdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Alaska</span><span class="abbrev">AK</span></td>
+        <td class="tdCell" id="AKdataGB"></td>
+        <td class="tdCell" id="AKdataPW"></td>
+        <td class="tdCell" id="AKdataS"></td>
+        <td class="tdCell" id="AKdataCCF"></td>
+        <td class="tdCell" id="AKdataHCF">M</td>
+        <td class="tdCell" id="AKdataR"></td>
+        <td class="tdCell" id="AKdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Arizona</span><span class="abbrev">AZ</span></td>
+        <td class="tdCell" id="AZdataGB"></td>
+        <td class="tdCell" id="AZdataPW"></td>
+        <td class="tdCell" id="AZdataS"></td>
+        <td class="tdCell" id="AZdataCCF"></td>
+        <td class="tdCell" id="AZdataHCF"></td>
+        <td class="tdCell" id="AZdataR"></td>
+        <td class="tdCell" id="AZdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Arkansas</span><span class="abbrev">AR</span></td>
+        <td class="tdCell" id="ARdataGB"></td>
+        <td class="tdCell" id="ARdataPW">M</td>
+        <td class="tdCell" id="ARdataS"></td>
+        <td class="tdCell" id="ARdataCCF"></td>
+        <td class="tdCell" id="ARdataHCF"></td>
+        <td class="tdCell" id="ARdataR">M</td>
+        <td class="tdCell" id="ARdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">California</span><span class="abbrev">CA</span></td>
+        <td class="tdCell" id="CAdataGB"></td>
+        <td class="tdCell" id="CAdataPW">V</td>
+        <td class="tdCell" id="CAdataS">M</td>
+        <td class="tdCell" id="CAdataCCF"></td>
+        <td class="tdCell" id="CAdataHCF">V</td>
+        <td class="tdCell" id="CAdataR">V</td>
+        <td class="tdCell" id="CAdataB">V</td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Colorado</span><span class="abbrev">CO</span></td>
+        <td class="tdCell" id="COdataGB"></td>
+        <td class="tdCell" id="COdataPW">M</td>
+        <td class="tdCell" id="COdataS"></td>
+        <td class="tdCell" id="COdataCCF"></td>
+        <td class="tdCell" id="COdataHCF"></td>
+        <td class="tdCell" id="COdataR"></td>
+        <td class="tdCell" id="COdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Connecticut</span><span class="abbrev">CT</span></td>
+        <td class="tdCell" id="CTdataGB"></td>
+        <td class="tdCell" id="CTdataPW"></td>
+        <td class="tdCell" id="CTdataS"></td>
+        <td class="tdCell" id="CTdataCCF"></td>
+        <td class="tdCell" id="CTdataHCF"></td>
+        <td class="tdCell" id="CTdataR"></td>
+        <td class="tdCell" id="CTdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Delaware</span><span class="abbrev">DE</span></td>
+        <td class="tdCell" id="DEdataGB"></td>
+        <td class="tdCell" id="DEdataPW"></td>
+        <td class="tdCell" id="DEdataS"></td>
+        <td class="tdCell" id="DEdataCCF"></td>
+        <td class="tdCell" id="DEdataHCF"></td>
+        <td class="tdCell" id="DEdataR"></td>
+        <td class="tdCell" id="DEdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">District of Columbia</span><span class="abbrev">DC</span></td>
+        <td class="tdCell" id="DCdataGB"></td>
+        <td class="tdCell" id="DCdataPW"></td>
+        <td class="tdCell" id="DCdataS"></td>
+        <td class="tdCell" id="DCdataCCF"></td>
+        <td class="tdCell" id="DCdataHCF"></td>
+        <td class="tdCell" id="DCdataR"></td>
+        <td class="tdCell" id="DCdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Florida</span><span class="abbrev">FL</span></td>
+        <td class="tdCell" id="FLdataGB"></td>
+        <td class="tdCell" id="FLdataPW"></td>
+        <td class="tdCell" id="FLdataS"></td>
+        <td class="tdCell" id="FLdataCCF"></td>
+        <td class="tdCell" id="FLdataHCF"></td>
+        <td class="tdCell" id="FLdataR"></td>
+        <td class="tdCell" id="FLdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Georgia</span><span class="abbrev">GA</span></td>
+        <td class="tdCell" id="GAdataGB"></td>
+        <td class="tdCell" id="GAdataPW"></td>
+        <td class="tdCell" id="GAdataS"></td>
+        <td class="tdCell" id="GAdataCCF"></td>
+        <td class="tdCell" id="GAdataHCF"></td>
+        <td class="tdCell" id="GAdataR"></td>
+        <td class="tdCell" id="GAdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Hawaii</span><span class="abbrev">HI</span></td>
+        <td class="tdCell" id="HIdataGB"></td>
+        <td class="tdCell" id="HIdataPW"></td>
+        <td class="tdCell" id="HIdataS"></td>
+        <td class="tdCell" id="HIdataCCF"></td>
+        <td class="tdCell" id="HIdataHCF"></td>
+        <td class="tdCell" id="HIdataR"></td>
+        <td class="tdCell" id="HIdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Idaho</span><span class="abbrev">ID</span></td>
+        <td class="tdCell" id="IDdataGB"></td>
+        <td class="tdCell" id="IDdataPW"></td>
+        <td class="tdCell" id="IDdataS"></td>
+        <td class="tdCell" id="IDdataCCF"></td>
+        <td class="tdCell" id="IDdataHCF"></td>
+        <td class="tdCell" id="IDdataR"></td>
+        <td class="tdCell" id="IDdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Illinois</span><span class="abbrev">IL</span></td>
+        <td class="tdCell" id="ILdataGB"></td>
+        <td class="tdCell" id="ILdataPW"></td>
+        <td class="tdCell" id="ILdataS"></td>
+        <td class="tdCell" id="ILdataCCF"></td>
+        <td class="tdCell" id="ILdataHCF"></td>
+        <td class="tdCell" id="ILdataR"></td>
+        <td class="tdCell" id="ILdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Indiana</span><span class="abbrev">IN</span></td>
+        <td class="tdCell" id="INdataGB"></td>
+        <td class="tdCell" id="INdataPW"></td>
+        <td class="tdCell" id="INdataS"></td>
+        <td class="tdCell" id="INdataCCF"></td>
+        <td class="tdCell" id="INdataHCF"></td>
+        <td class="tdCell" id="INdataR">M</td>
+        <td class="tdCell" id="INdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Iowa</span><span class="abbrev">IA</span></td>
+        <td class="tdCell" id="IAdataGB"></td>
+        <td class="tdCell" id="IAdataPW"></td>
+        <td class="tdCell" id="IAdataS"></td>
+        <td class="tdCell" id="IAdataCCF"></td>
+        <td class="tdCell" id="IAdataHCF"></td>
+        <td class="tdCell" id="IAdataR"></td>
+        <td class="tdCell" id="IAdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Kansas</span><span class="abbrev">KS</span></td>
+        <td class="tdCell" id="KSdataGB"></td>
+        <td class="tdCell" id="KSdataPW"></td>
+        <td class="tdCell" id="KSdataS"></td>
+        <td class="tdCell" id="KSdataCCF"></td>
+        <td class="tdCell" id="KSdataHCF"></td>
+        <td class="tdCell" id="KSdataR"></td>
+        <td class="tdCell" id="KSdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Kentucky</span><span class="abbrev">KY</span></td>
+        <td class="tdCell" id="KYdataGB"></td>
+        <td class="tdCell" id="KYdataPW"></td>
+        <td class="tdCell" id="KYdataS"></td>
+        <td class="tdCell" id="KYdataCCF"></td>
+        <td class="tdCell" id="KYdataHCF"></td>
+        <td class="tdCell" id="KYdataR"></td>
+        <td class="tdCell" id="KYdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Louisiana</span><span class="abbrev">LA</span></td>
+        <td class="tdCell" id="LAdataGB"></td>
+        <td class="tdCell" id="LAdataPW"></td>
+        <td class="tdCell" id="LAdataS"></td>
+        <td class="tdCell" id="LAdataCCF"></td>
+        <td class="tdCell" id="LAdataHCF"></td>
+        <td class="tdCell" id="LAdataR"></td>
+        <td class="tdCell" id="LAdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Maine</span><span class="abbrev">ME</span></td>
+        <td class="tdCell" id="MEdataGB"></td>
+        <td class="tdCell" id="MEdataPW"></td>
+        <td class="tdCell" id="MEdataS"></td>
+        <td class="tdCell" id="MEdataCCF"></td>
+        <td class="tdCell" id="MEdataHCF"></td>
+        <td class="tdCell" id="MEdataR"></td>
+        <td class="tdCell" id="MEdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Maryland</span><span class="abbrev">MD</span></td>
+        <td class="tdCell" id="MDdataGB"></td>
+        <td class="tdCell" id="MDdataPW"></td>
+        <td class="tdCell" id="MDdataS"></td>
+        <td class="tdCell" id="MDdataCCF"></td>
+        <td class="tdCell" id="MDdataHCF"></td>
+        <td class="tdCell" id="MDdataR"></td>
+        <td class="tdCell" id="MDdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Massachusetts</span><span class="abbrev">MA</span></td>
+        <td class="tdCell" id="MAdataGB"></td>
+        <td class="tdCell" id="MAdataPW"></td>
+        <td class="tdCell" id="MAdataS"></td>
+        <td class="tdCell" id="MAdataCCF"></td>
+        <td class="tdCell" id="MAdataHCF"></td>
+        <td class="tdCell" id="MAdataR"></td>
+        <td class="tdCell" id="MAdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Michigan</span><span class="abbrev">MI</span></td>
+        <td class="tdCell" id="MIdataGB"></td>
+        <td class="tdCell" id="MIdataPW"></td>
+        <td class="tdCell" id="MIdataS"></td>
+        <td class="tdCell" id="MIdataCCF"></td>
+        <td class="tdCell" id="MIdataHCF"></td>
+        <td class="tdCell" id="MIdataR"></td>
+        <td class="tdCell" id="MIdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Minnesota</span><span class="abbrev">MN</span></td>
+        <td class="tdCell" id="MNdataGB">M</td>
+        <td class="tdCell" id="MNdataPW">M</td>
+        <td class="tdCell" id="MNdataS"></td>
+        <td class="tdCell" id="MNdataCCF"></td>
+        <td class="tdCell" id="MNdataHCF"></td>
+        <td class="tdCell" id="MNdataR"></td>
+        <td class="tdCell" id="MNdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Mississippi</span><span class="abbrev">MS</span></td>
+        <td class="tdCell" id="MSdataGB">M</td>
+        <td class="tdCell" id="MSdataPW"></td>
+        <td class="tdCell" id="MSdataS">M</td>
+        <td class="tdCell" id="MSdataCCF"></td>
+        <td class="tdCell" id="MSdataHCF"></td>
+        <td class="tdCell" id="MSdataR"></td>
+        <td class="tdCell" id="MSdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Missouri</span><span class="abbrev">MO</span></td>
+        <td class="tdCell" id="MOdataGB"></td>
+        <td class="tdCell" id="MOdataPW"></td>
+        <td class="tdCell" id="MOdataS">M</td>
+        <td class="tdCell" id="MOdataCCF"></td>
+        <td class="tdCell" id="MOdataHCF"></td>
+        <td class="tdCell" id="MOdataR"></td>
+        <td class="tdCell" id="MOdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Montana</span><span class="abbrev">MT</span></td>
+        <td class="tdCell" id="MTdataGB"></td>
+        <td class="tdCell" id="MTdataPW"></td>
+        <td class="tdCell" id="MTdataS"></td>
+        <td class="tdCell" id="MTdataCCF"></td>
+        <td class="tdCell" id="MTdataHCF"></td>
+        <td class="tdCell" id="MTdataR"></td>
+        <td class="tdCell" id="MTdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Nebraska</span><span class="abbrev">NE</span></td>
+        <td class="tdCell" id="NEdataGB"></td>
+        <td class="tdCell" id="NEdataPW"></td>
+        <td class="tdCell" id="NEdataS"></td>
+        <td class="tdCell" id="NEdataCCF"></td>
+        <td class="tdCell" id="NEdataHCF"></td>
+        <td class="tdCell" id="NEdataR"></td>
+        <td class="tdCell" id="NEdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Nevada</span><span class="abbrev">NV</span></td>
+        <td class="tdCell" id="NVdataGB"></td>
+        <td class="tdCell" id="NVdataPW"></td>
+        <td class="tdCell" id="NVdataS"></td>
+        <td class="tdCell" id="NVdataCCF"></td>
+        <td class="tdCell" id="NVdataHCF"></td>
+        <td class="tdCell" id="NVdataR">M</td>
+        <td class="tdCell" id="NVdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">New Hampshire</span><span class="abbrev">NH</span></td>
+        <td class="tdCell" id="NHdataGB"></td>
+        <td class="tdCell" id="NHdataPW"></td>
+        <td class="tdCell" id="NHdataS">M</td>
+        <td class="tdCell" id="NHdataCCF"></td>
+        <td class="tdCell" id="NHdataHCF"></td>
+        <td class="tdCell" id="NHdataR"></td>
+        <td class="tdCell" id="NHdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">New Jersey</span><span class="abbrev">NJ</span></td>
+        <td class="tdCell" id="NJdataGB"></td>
+        <td class="tdCell" id="NJdataPW"></td>
+        <td class="tdCell" id="NJdataS"></td>
+        <td class="tdCell" id="NJdataCCF"></td>
+        <td class="tdCell" id="NJdataHCF"></td>
+        <td class="tdCell" id="NJdataR"></td>
+        <td class="tdCell" id="NJdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">New Mexico</span><span class="abbrev">NM</span></td>
+        <td class="tdCell" id="NMdataGB"></td>
+        <td class="tdCell" id="NMdataPW">M</td>
+        <td class="tdCell" id="NMdataS"></td>
+        <td class="tdCell" id="NMdataCCF"></td>
+        <td class="tdCell" id="NMdataHCF"></td>
+        <td class="tdCell" id="NMdataR"></td>
+        <td class="tdCell" id="NMdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">New York</span><span class="abbrev"></span></td>
+        <td class="tdCell" id="NYdataGB"></td>
+        <td class="tdCell" id="NYdataPW"></td>
+        <td class="tdCell" id="NYdataS"></td>
+        <td class="tdCell" id="NYdataCCF"></td>
+        <td class="tdCell" id="NYdataHCF"></td>
+        <td class="tdCell" id="NYdataR"></td>
+        <td class="tdCell" id="NYdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">North Carolina</span><span class="abbrev">NC</span></td>
+        <td class="tdCell" id="NCdataGB"></td>
+        <td class="tdCell" id="NCdataPW"></td>
+        <td class="tdCell" id="NCdataS">M</td>
+        <td class="tdCell" id="NCdataCCF">M</td>
+        <td class="tdCell" id="NCdataHCF"></td>
+        <td class="tdCell" id="NCdataR"></td>
+        <td class="tdCell" id="NCdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">North Dakota</span><span class="abbrev">ND</span></td>
+        <td class="tdCell" id="NDdataGB"></td>
+        <td class="tdCell" id="NDdataPW"></td>
+        <td class="tdCell" id="NDdataS"></td>
+        <td class="tdCell" id="NDdataCCF"></td>
+        <td class="tdCell" id="NDdataHCF"></td>
+        <td class="tdCell" id="NDdataR"></td>
+        <td class="tdCell" id="NDdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Ohio</span><span class="abbrev">OH</span></td>
+        <td class="tdCell" id="OHdataGB"></td>
+        <td class="tdCell" id="OHdataPW"></td>
+        <td class="tdCell" id="OHdataS"></td>
+        <td class="tdCell" id="OHdataCCF"></td>
+        <td class="tdCell" id="OHdataHCF"></td>
+        <td class="tdCell" id="OHdataR"></td>
+        <td class="tdCell" id="OHdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Oklahoma</span><span class="abbrev">OK</span></td>
+        <td class="tdCell" id="OKdataGB"></td>
+        <td class="tdCell" id="OKdataPW"></td>
+        <td class="tdCell" id="OKdataS"></td>
+        <td class="tdCell" id="OKdataCCF"></td>
+        <td class="tdCell" id="OKdataHCF"></td>
+        <td class="tdCell" id="OKdataR">V</td>
+        <td class="tdCell" id="OKdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Oregon</span><span class="abbrev">OR</span></td>
+        <td class="tdCell" id="ORdataGB"></td>
+        <td class="tdCell" id="ORdataPW"></td>
+        <td class="tdCell" id="ORdataS"></td>
+        <td class="tdCell" id="ORdataCCF"></td>
+        <td class="tdCell" id="ORdataHCF"></td>
+        <td class="tdCell" id="ORdataR"></td>
+        <td class="tdCell" id="ORdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Pennsylvania</span><span class="abbrev">PA</span></td>
+        <td class="tdCell" id="PAdataGB"></td>
+        <td class="tdCell" id="PAdataPW"></td>
+        <td class="tdCell" id="PAdataS"></td>
+        <td class="tdCell" id="PAdataCCF"></td>
+        <td class="tdCell" id="PAdataHCF"></td>
+        <td class="tdCell" id="PAdataR">V</td>
+        <td class="tdCell" id="PAdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Rhode Island</span><span class="abbrev">RI</span></td>
+        <td class="tdCell" id="RIdataGB"></td>
+        <td class="tdCell" id="RIdataPW"></td>
+        <td class="tdCell" id="RIdataS"></td>
+        <td class="tdCell" id="RIdataCCF"></td>
+        <td class="tdCell" id="RIdataHCF"></td>
+        <td class="tdCell" id="RIdataR"></td>
+        <td class="tdCell" id="RIdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">South Carolina</span><span class="abbrev">SC</span></td>
+        <td class="tdCell" id="SCdataGB"></td>
+        <td class="tdCell" id="SCdataPW"></td>
+        <td class="tdCell" id="SCdataS"></td>
+        <td class="tdCell" id="SCdataCCF"></td>
+        <td class="tdCell" id="SCdataHCF"></td>
+        <td class="tdCell" id="SCdataR"></td>
+        <td class="tdCell" id="SCdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">South Dakota</span><span class="abbrev">SD</span></td>
+        <td class="tdCell" id="SDdataGB"></td>
+        <td class="tdCell" id="SDdataPW"></td>
+        <td class="tdCell" id="SDdataS"></td>
+        <td class="tdCell" id="SDdataCCF"></td>
+        <td class="tdCell" id="SDdataHCF"></td>
+        <td class="tdCell" id="SDdataR"></td>
+        <td class="tdCell" id="SDdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Tennessee</span><span class="abbrev">TN</span></td>
+        <td class="tdCell" id="TNdataGB"></td>
+        <td class="tdCell" id="TNdataPW">M</td>
+        <td class="tdCell" id="TNdataS"></td>
+        <td class="tdCell" id="TNdataCCF"></td>
+        <td class="tdCell" id="TNdataHCF"></td>
+        <td class="tdCell" id="TNdataR">M</td>
+        <td class="tdCell" id="TNdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Texas</span><span class="abbrev">TX</span></td>
+        <td class="tdCell" id="TXdataGB"></td>
+        <td class="tdCell" id="TXdataPW"></td>
+        <td class="tdCell" id="TXdataS"></td>
+        <td class="tdCell" id="TXdataCCF"></td>
+        <td class="tdCell" id="TXdataHCF"></td>
+        <td class="tdCell" id="TXdataR"></td>
+        <td class="tdCell" id="TXdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Utah</span><span class="abbrev">UT</span></td>
+        <td class="tdCell" id="UTdataGB"></td>
+        <td class="tdCell" id="UTdataPW"></td>
+        <td class="tdCell" id="UTdataS"></td>
+        <td class="tdCell" id="UTdataCCF"></td>
+        <td class="tdCell" id="UTdataHCF"></td>
+        <td class="tdCell" id="UTdataR"></td>
+        <td class="tdCell" id="UTdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Vermont</span><span class="abbrev">VT</span></td>
+        <td class="tdCell" id="VTdataGB"></td>
+        <td class="tdCell" id="VTdataPW"></td>
+        <td class="tdCell" id="VTdataS"></td>
+        <td class="tdCell" id="VTdataCCF"></td>
+        <td class="tdCell" id="VTdataHCF"></td>
+        <td class="tdCell" id="VTdataR"></td>
+        <td class="tdCell" id="VTdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Virginia</span><span class="abbrev">VA</span></td>
+        <td class="tdCell" id="VAdataGB"></td>
+        <td class="tdCell" id="VAdataPW"></td>
+        <td class="tdCell" id="VAdataS">M</td>
+        <td class="tdCell" id="VAdataCCF">M</td>
+        <td class="tdCell" id="VAdataHCF"></td>
+        <td class="tdCell" id="VAdataR"></td>
+        <td class="tdCell" id="VAdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Washington</span><span class="abbrev">WA</span></td>
+        <td class="tdCell" id="WAdataGB"></td>
+        <td class="tdCell" id="WAdataPW"></td>
+        <td class="tdCell" id="WAdataS"></td>
+        <td class="tdCell" id="WAdataCCF"></td>
+        <td class="tdCell" id="WAdataHCF"></td>
+        <td class="tdCell" id="WAdataR"></td>
+        <td class="tdCell" id="WAdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">West Virginia</span><span class="abbrev">WV</span></td>
+        <td class="tdCell" id="WVdataGB"></td>
+        <td class="tdCell" id="WVdataPW"></td>
+        <td class="tdCell" id="WVdataS">M</td>
+        <td class="tdCell" id="WVdataCCF"></td>
+        <td class="tdCell" id="WVdataHCF"></td>
+        <td class="tdCell" id="WVdataR"></td>
+        <td class="tdCell" id="WVdataB"></td>
+      </tr>
+      <tr>
+        <td><span class="full">Wisconsin</span><span class="abbrev">WI</span></td>
+        <td class="tdCell" id="WIdataGB"></td>
+        <td class="tdCell" id="WIdataPW"></td>
+        <td class="tdCell" id="WIdataS"></td>
+        <td class="tdCell" id="WIdataCCF"></td>
+        <td class="tdCell" id="WIdataHCF"></td>
+        <td class="tdCell" id="WIdataR"></td>
+        <td class="tdCell" id="WIdataB"></td>
+      </tr>
+      <tr class="even">
+        <td><span class="full">Wyoming</span><span class="abbrev">WY</span></td>
+        <td class="tdCell" id="WYdataGB"></td>
+        <td class="tdCell" id="WYdataPW"></td>
+        <td class="tdCell" id="WYdataS"></td>
+        <td class="tdCell" id="WYdataCCF"></td>
+        <td class="tdCell" id="WYdataHCF"></td>
+        <td class="tdCell" id="WYdataR"></td>
+        <td class="tdCell" id="WYdataB"></td>
+      </tr>
+    </tbody>
+    <!-- <thead>
+      <tr>
+        <th>State</th>
+        <th class="dataGB">Government<br>Buildings</th>
+        <th class="dataPW">Private<br>Workplaces</th>
+        <th class="dataS">Schools</th>
+        <th class="dataCCF">Child<br>Care<br>Facilities</th>
+        <th class="dataHCF">Health<br>Care<br>Facilities</th>
+        <th class="dataR">Restaurants</th>
+        <th class="dataB">Bars</th>
+      </tr>
+    </thead> -->
+  </table>
+  <p class="R ABLegend">R=Restriction required; </p>
+  <p class="N ABLegend">N=No law, policy or restriction; </p>
+  <p class="P ABLegend">P=Smoking prohibited; </p>
+  <p class="M ABLegend">M=Smoking mostly restricted; </p>
+  <p class="V ABLegend">V=Enclosed, separately ventilated areas required, or smoking is banned entirely.; </p>
+</div>
+
+<script type="text/javascript">
+  var states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME",
+    "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA",
+    "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC"
+  ];
+
+
+  var xmlSort = function() {
+    $.each(states, function(key, currentState) {
+      console.log("currentState: " + currentState);
+      $.ajax({
+        type: "GET",
+        url: "//www.lung.org/our-initiatives/tobacco/reports-resources/slati/xml/" + currentState + ".xml",
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('qryXMLSLATIDetail').each(function(i) {
+            var HasLawOrRestriction = $(this).find('HasLawOrRestriction').text();
+            var HasLawOrRestrictionDescription = $(this).find('HasLawOrRestrictionDescription').text();
+            var Category = $(this).find('Category').text();
+            var Subcategory = $(this).find('Subcategory').text();
+
+            if (Category == "Smoking Restrictions") {
+              switch (Subcategory) {
+                case "Government Buildings":
+                  document.getElementById(currentState + "dataGB").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
+                  break;
+                case "Private Workplaces":
+                  document.getElementById(currentState + "dataPW").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
+                  break;
+                case "Schools":
+                  document.getElementById(currentState + "dataS").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
+                  break;
+                case "Child Care Facilities":
+                  document.getElementById(currentState + "dataCCF").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
+                  break;
+                case "Health Care Facilities":
+                  document.getElementById(currentState + "dataHCF").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
+                  break;
+                case "Restaurants":
+                  document.getElementById(currentState + "dataR").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
+                  break;
+                case "Bars":
+                  document.getElementById(currentState + "dataB").innerHTML = '<span class="' + HasLawOrRestriction + '">' + HasLawOrRestriction + '</span>';
+                  break;
+                default:
+                  //something
+              }
+            }
+          });
+          $("#loadSpinner").hide();
+          $("#content-well").show();
+        },
+        error: function() {
+          console.warn("An error occurred while processing XML file.");
+          $("#loadSpinner").html("<p style='color: red;'>Error loading. Please refresh the page.</p>")
+        }
+      }); // end $.ajax
+    }) //end $.each
+  } //end xmlSort
+
+  $(document).ready(function() {
+    xmlSort();
+  })
+</script>
