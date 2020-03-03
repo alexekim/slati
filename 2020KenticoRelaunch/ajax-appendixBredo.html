@@ -20,9 +20,13 @@
 
   th {
     font-weight: bold;
-    transform: translate(49px, 89px) rotate(-54deg);
+    transform: translate(-14px, 38px) rotate(-54deg);
     max-width: 30px;
     height: 137px;
+  }
+
+  .thCell {
+    text-align: center !important;
   }
 
   .tdCell {
@@ -69,7 +73,7 @@
 
   @media(max-width: 1060px) {
     th {
-      transform: translate(57px, 51px) rotate(-90deg);
+      transform: translate(-22px, 30px) rotate(-90deg);
       /* transform: rotate(90deg); */
       white-space: nowrap;
       height: 141px;
@@ -90,6 +94,11 @@
       display: block;
     }
   }
+
+  @media(max-width: 500px) {
+    th {
+      transform: translate(-2px, 45px) rotate(-90deg);
+    }
 </style>
 
 
@@ -110,14 +119,14 @@
   <table id="table">
     <thead>
       <tr>
-        <th>State</th>
-        <th class="dataGB">Gov't&nbsp;Buildings</th>
-        <th class="dataPW">Private&nbsp;Workplaces</th>
-        <th class="dataS">Schools</th>
-        <th class="dataCCF">Child&nbsp;Care&nbsp;Facilities</th>
-        <th class="dataHCF">Health&nbsp;Care&nbsp;Facilities</th>
-        <th class="dataR">Restaurants</th>
-        <th class="dataB">Bars</th>
+        <th class="thCell">State</th>
+        <th class="thCell dataGB">Gov't&nbsp;Buildings</th>
+        <th class="thCell dataPW">Private&nbsp;Workplaces</th>
+        <th class="thCell dataS">Schools</th>
+        <th class="thCell dataCCF">Child&nbsp;Care&nbsp;Facilities</th>
+        <th class="thCell dataHCF">Health&nbsp;Care&nbsp;Facilities</th>
+        <th class="thCell dataR">Restaurants</th>
+        <th class="thCell dataB">Bars</th>
       </tr>
     </thead>
     <tbody>

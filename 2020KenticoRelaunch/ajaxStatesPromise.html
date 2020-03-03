@@ -28,7 +28,7 @@
   }
 
   .sectionHeaderh2 {
-    color: red !important;
+    /* color: red !important; */
   }
 
   .citation {
@@ -65,28 +65,6 @@
     float: right;
   }
 
-  #viewDiff {
-    background: #3a75c4;
-    border-radius: 25px;
-    -webkit-border-radius: 25px;
-    -moz-border-radius: 25px;
-    -ms-border-radius: 25px;
-    -o-border-radius: 25px;
-    font-size: 14px;
-    line-height: 40px;
-    font-weight: 700;
-    height: 40px;
-    cursor: pointer;
-    color: #fff;
-    padding: 0 20px;
-    display: inline-block;
-  }
-
-  #viewDiff:hover {
-    text-decoration: none;
-    background: #7fba00;
-  }
-
   #toc {
     margin: 20px 0 20px 0;
     width: 50%;
@@ -115,8 +93,13 @@
     <h2 id="state"></h2>
 
     <div id="changeState">
-      <a id="viewDiff" onclick="document.getElementsByClassName('header-info-location js-location-modal')[0].click()">View a different state</a>
+      <a id="viewDiff" class="btn">View a different state</a>
     </div>
+    <script type="text/javascript">
+      $("#viewDiff").on("click", function(){
+        document.getElementsByClassName('header-info-location js-location-modal')[0].click();
+      });
+    </script>
 
     <select id="toc" name="">
       <option value="#">Jump to...</option>
@@ -183,121 +166,121 @@
   <div class="category smokingRestrictions">
     <h2 class="sectionHeaderh2">Smoking Restrictions</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="tobaccoTaxes"></a>
   <div class="category tobaccoTaxes">
     <h2 class="sectionHeaderh2">Tobacco Taxes</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="tobaccoControlProgramFunding"></a>
   <div class="category tobaccoControlProgramFunding">
     <h2 class="sectionHeaderh2">Tobacco Control Program Funding</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="lawsRestrictingYouthAccess"></a>
   <div class="category lawsRestrictingYouthAccess">
     <h2 class="sectionHeaderh2">Laws Restricting Youth Access to Tobacco Products</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="tobaccoProductSamples"></a>
   <div class="category tobaccoProductSamples">
     <h2 class="sectionHeaderh2">Tobacco Product Samples/Minimum Sales Amounts for Tobacco Products</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="salesOfTobaccoProductsFromVendingMachines"></a>
   <div class="category salesOfTobaccoProductsFromVendingMachines">
     <h2 class="sectionHeaderh2">Sales of Tobacco Products from Vending Machines</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="licensingRequirements"></a>
   <div class="category licensingRequirements">
     <h2 class="sectionHeaderh2">Licensing Requirements for Tobacco Products</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="smokingProtectionLaws"></a>
   <div class="category smokingProtectionLaws">
     <h2 class="sectionHeaderh2">Smoking Protection Laws</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="advertisingAndPromotion"></a>
   <div class="category advertisingAndPromotion">
     <h2 class="sectionHeaderh2">Advertising &amp; Promotion</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="productDisclosure"></a>
   <div class="category productDisclosure">
     <h2 class="sectionHeaderh2">Product Disclosure</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="divestment"></a>
   <div class="category divestment">
     <h2 class="sectionHeaderh2">Divestment</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="liability"></a>
@@ -315,11 +298,11 @@
   <div class="category useOfTobaccoSettlementDollars">
     <h2 class="sectionHeaderh2">Use of Tobacco Settlement Dollars</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="fireSafetyStandards"></a>
@@ -327,33 +310,33 @@
     <h2 class="sectionHeaderh2">Fire Safety Standards for Cigarettes</h2 class="sectionHeaderh2">
   </div>
   <!-- </activity> -->
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="preemption"></a>
   <div class="category preemption">
     <h2 class="sectionHeaderh2">Preemption</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
   <a name="activity"></a>
   <div class="category activity">
     <h2 class="sectionHeaderh2">Recent Legislative Activity</h2 class="sectionHeaderh2">
   </div>
-  <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
+  <!-- <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
     </article>
-  </div>
+  </div> -->
   <hr />
 
 </div>
@@ -560,7 +543,7 @@
                 console.warn("something went wrong in the content sort. maybe no category exists");
             }
           });
-          var changeStateDiv = '<div id="changeState"><a id="viewDiff" onclick="document.getElementsByClassName(\"header-info-location js-location-modal\")[0].click()">View a different state</a></div>';
+          var changeStateDiv = '<div id="changeState"><a id="viewDiff" class="btn" onclick="document.getElementsByClassName(\'header-info-location js-location-modal\')[0].click()">View a different state</a></div>';
           $("#changeState").remove();
           if ($("#changeState").length < 1) {
             $("#state").append(changeStateDiv);
@@ -623,22 +606,13 @@
   }
 
   $(document).ready(function() {
-    runIt()
+    runIt();
+    $(".update-location").on("click", function(){
+      $("#loadSpinner").css("display", "block");
+      $(".info").hide();
+      console.log("zip changed");
+      setTimeout(runIt, 1000);
+    })
   });
 
-
-  $("[name='searchZip']").on("submit", function() {
-    $("#loadSpinner").css("display", "block");
-    $(".info").hide();
-    console.log("zip changed");
-    setTimeout(runIt, 500);
-    // $(".info").show();
-  })
-  $("#stateSelectList").on("change", function(){
-    $("#loadSpinner").css("display", "block");
-    $(".info").hide();
-    console.log(" select changed");
-    runIt()
-    // $(".info").show();
-  })
 </script>
