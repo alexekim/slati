@@ -103,7 +103,7 @@
 </style>
 
 <div id="loadSpinner">
-  <img style="margin: 0 auto; height: 50px; width: 50px;" src="/images/spinner-1.gif" />
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="/getmedia/68cdad06-3207-488d-a06c-6180ee7ec539/spinner.gif" />
   <p style="text-align: center;">
     Loading...
   </p>
@@ -326,7 +326,7 @@
   <div class="category fireSafetyStandards">
     <h2 class="sectionHeaderh2">Fire Safety Standards for Cigarettes</h2 class="sectionHeaderh2">
   </div>
-  </activity>
+  <!-- </activity> -->
   <div class="backToTop" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);" onclick="var pos = $(window).scrollTop(); $('html, body').animate({ scrollTop: pos - pos}, 200);">
     <article class="">
       <i class="fa fa-arrow-circle-up" aria-hidden="true"></i> Back to Top
@@ -390,8 +390,14 @@
           }
         }
       }
-      var url = "https://ala-web-dev-cms-app.azurewebsites.net/ALA/media/Website/Policy%20and%20Advocacy/" + currentState + ".xml";
 
+      if (!currentState) {
+        console.warn("no state assigned. assigning DC");
+        var currentState = "DC";
+      }
+
+      var url = "~/Content/xml/slati/" + currentState + ".xml";
+      // var url = "/getmedia/31aa66df-be0d-42a1-9d4c-a8ab88221708/AZ.xml"
 
       console.log("current state is: " + currentState);
       $.ajax({

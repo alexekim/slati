@@ -16,7 +16,7 @@
 
 
 <div id="loadSpinner">
-  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="/getmedia/68cdad06-3207-488d-a06c-6180ee7ec539/spinner.gif" />
   <p style="text-align: center;">
     Loading...
   </p>
@@ -37,7 +37,7 @@
       // console.log("currentState: " + currentState);
       $.ajax({
         type: "GET",
-        url: "//www.lung.org/our-initiatives/tobacco/reports-resources/slati/xml/SLATIOverview.xml",
+        url: "~/Content/xml/slati/SLATIOverview.xml",
         dataType: "xml",
         success: function(xml) {
           $(xml).find('qryXMLSLATIOverview').each(function(i) {

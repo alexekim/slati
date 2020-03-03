@@ -47,7 +47,7 @@
 
 
 <div id="loadSpinner">
-  <img style="margin: 0 auto; height: 50px; width: 50px;" src="https://www.lung.org/images/spinner.gif" />
+  <img style="margin: 0 auto; height: 50px; width: 50px;" src="/getmedia/68cdad06-3207-488d-a06c-6180ee7ec539/spinner.gif" />
   <p id="loadSpinnerMessage" style="text-align: center;">
     Loading...
   </p>
@@ -65,7 +65,7 @@
     <tbody id="tbody">
       <!-- <tr class="even stateRow" id="stateRowAlabama" >
         <td>Alabama</td>
-        <td class="tdCell" id="ALRevenue"><img style="margin: 0 auto; height: 10px; width: 10px;" src="https://www.lung.org/images/spinner.gif" /></td>
+        <td class="tdCell" id="ALRevenue"><img style="margin: 0 auto; height: 10px; width: 10px;" src="/getmedia/68cdad06-3207-488d-a06c-6180ee7ec539/spinner.gif" /></td>
       </tr> -->
     </tbody>
   </table>
@@ -129,7 +129,7 @@
       $.each(states, function(key, currentState) {
         $.ajax({
           type: "GET",
-          url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
+          url: "~/Content/xml/slati/" + currentState + ".xml",
           dataType: "xml",
           success: function(xml) {
             $("#loadSpinnerMessage").html("Sorting data...");
@@ -174,7 +174,7 @@
       $.each(states, function(key, currentState) {
         $.ajax({
           type: "GET",
-          url: "//www.lung.org/dev/slati/xml/" + currentState + ".xml",
+          url: "~/Content/xml/slati/" + currentState + ".xml",
           dataType: "xml",
           success: function(xml) {
             $("#loadSpinnerMessage").html("Sorting data...");
